@@ -19,8 +19,9 @@
     "meta_description": "Soy Alejandro Rosales, un inversor novato que está trazando el camino para alejarse del ajetreo diario y alcanzar una jubilación digna. Mi objetivo es no solo forjar mi propio camino hacia la libertad financiera, sino también brindarte apoyo para que tú también puedas alcanzar este mismo objetivo. ¡Acompáñame en esta emocionante travesía hacia el éxito financiero!"
   },
   "author": {
-    "name": "Alejandro Rosales, Inversor novato",
-    "avatar": "/profile.png",
+    "name": "Alejandro Rosales",
+    "avatar": "/autor.jpeg",
+    "principal": "/profile.png",
     "bio": "Soy Alejandro Rosales, un inversor novato que está trazando el camino para alejarse del ajetreo diario y alcanzar una jubilación digna. Mi objetivo es no solo forjar mi propio camino hacia la libertad financiera, sino también brindarte apoyo para que tú también puedas alcanzar este mismo objetivo. ¡Acompáñame en esta emocionante travesía hacia el éxito financiero!"
   }
 }
