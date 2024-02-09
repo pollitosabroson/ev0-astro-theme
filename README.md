@@ -71,7 +71,7 @@ To configure your blog, edit the `src/config/config.json` file. This file contai
 {
   "site": {
     "title": "EV0 Astro Theme",
-    "base_url": "https://ev0.gndx.io",
+    "base_url": "https://alejandrorosales.me",
     "base_path": "/",
     "favicon": "/favicon.png",
     "logo": "https://s3.amazonaws.com/gndx.dev/ev0-astro-logo.png",
@@ -83,7 +83,7 @@ To configure your blog, edit the `src/config/config.json` file. This file contai
     "youtube": true
   },
   "metadata": {
-    "meta_author": "Oscar Barajas @gndx",
+    "meta_author": "Alejandro Rosales",
     "meta_description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
   },
   "author": {
