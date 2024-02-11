@@ -19,3 +19,5 @@ Entonces, ¿por qué deberíamos tener un fondo de emergencia si cada vez ganamo
 Por eso, siempre debemos tener un fondo de emergencia. Muchos sugieren tener entre 3 a 6 meses de gastos básicos ahorrados, separados de nuestra cuenta corriente en una cuenta especial para emergencias. Además, si es posible, conviene tener este fondo en una cuenta remunerada que genere intereses por tener el dinero guardado, de modo que podamos decir que ahora el dinero trabaja para nosotros y no al revés.
 
 Si deseas obtener más información sobre este tema, te invito a ver el video adjunto donde profundizo más sobre el fondo de emergencia.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_xbugAGXxmM?si=HKmLgsPedbZX9ws0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
