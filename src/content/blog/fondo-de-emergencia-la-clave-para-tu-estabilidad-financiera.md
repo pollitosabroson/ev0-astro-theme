@@ -20,4 +20,6 @@ Por eso, siempre debemos tener un fondo de emergencia. Muchos sugieren tener ent
 
 Si deseas obtener más información sobre este tema, te invito a ver el video adjunto donde profundizo más sobre el fondo de emergencia.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_xbugAGXxmM?si=HKmLgsPedbZX9ws0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="iframe-container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_xbugAGXxmM?si=HKmLgsPedbZX9ws0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
+</div>
