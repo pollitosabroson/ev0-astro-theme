@@ -3,7 +3,7 @@ title: "Fondo de emergencia la clave para tu estabilidad financiera"
 description: "Descubre la importancia del fondo de emergencia y cómo puede proteger tu estabilidad financiera en este breve articulo"
 pubDate: "2024-02-09T23:22:13.908Z"
 heroImage: "/blogs/2.png"
-categories: ["Blog personal"]
+categories: ["Blog Inversiones"]
 tags: ["Inversiones", "Ahorro de emergencia", "BlogPersonal"]
 author: ["Alejandro Rosales"]
 ---
