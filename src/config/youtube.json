@@ -1,5 +1,30 @@
 [
   {
+    "title": "¡Inversiones en la era de la inteligencia artificial! Descubre mi estrategia de éxito en MyInvestor",
+    "description": "Después de un febrero intenso, marcado por su día adicional debido al año bisiesto, cerramos el mes con una racha alcista en el ...",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "h__Kht7F-CQ",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/h__Kht7F-CQ/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/h__Kht7F-CQ/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/h__Kht7F-CQ/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2024-03-02T21:32:36Z"
+  },
+  {
     "title": "¿Qué Tipo de Inversor Eres?: Encuentra tu Estrategia Ideal",
     "description": "Descubre tu estilo de inversión y alcanza el éxito financiero! En este video, desmitificamos los tipos de inversores y te ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,22 +32,22 @@
     "videoId": "NYcug9_WstU",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/NYcug9_WstU/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/NYcug9_WstU/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/NYcug9_WstU/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/NYcug9_WstU/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/NYcug9_WstU/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/NYcug9_WstU/hqdefault.jpg",
         "width": 480,
         "height": 360
       }
     },
-    "publishedAt": "2024-02-24T18:35:45Z"
+    "publishedAt": "2024-02-25T08:00:10Z"
   },
   {
     "title": "Presupuesto: El secreto para llegar a fin de mes",
@@ -98,30 +123,5 @@
       }
     },
     "publishedAt": "2024-02-05T07:30:08Z"
-  },
-  {
-    "title": "La estafa de los fondos de pensiones en España",
-    "description": "En este video voy a contar la estafa que encontré en los fondos de pensiones de las personas en España, el cual con lleva a que ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "jho83caftvE",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/jho83caftvE/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/jho83caftvE/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/jho83caftvE/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2024-01-29T07:30:10Z"
   }
 ]
