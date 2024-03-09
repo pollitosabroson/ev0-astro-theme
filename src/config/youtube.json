@@ -1,5 +1,30 @@
 [
   {
+    "title": "Cómo Elegir el Mejor Broker para tu Estilo de Inversión 💰📊",
+    "description": "Bienvenido, emprendedor financiero! En este vídeo te guiaré en el fascinante mundo de las inversiones, empezando por la ...",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "OCVe8BX0oJI",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/OCVe8BX0oJI/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/OCVe8BX0oJI/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/OCVe8BX0oJI/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2024-03-09T13:04:49Z"
+  },
+  {
     "title": "¡Inversiones en la era de la inteligencia artificial! Descubre mi estrategia de éxito en MyInvestor",
     "description": "Después de un febrero intenso, marcado por su día adicional debido al año bisiesto, cerramos el mes con una racha alcista en el ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,22 +32,22 @@
     "videoId": "h__Kht7F-CQ",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/h__Kht7F-CQ/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/h__Kht7F-CQ/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/h__Kht7F-CQ/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/h__Kht7F-CQ/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/h__Kht7F-CQ/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/h__Kht7F-CQ/hqdefault.jpg",
         "width": 480,
         "height": 360
       }
     },
-    "publishedAt": "2024-03-02T21:32:36Z"
+    "publishedAt": "2024-03-03T08:00:09Z"
   },
   {
     "title": "¿Qué Tipo de Inversor Eres?: Encuentra tu Estrategia Ideal",
@@ -98,30 +123,5 @@
       }
     },
     "publishedAt": "2024-02-11T07:30:07Z"
-  },
-  {
-    "title": "Cómo Invierto: Estrategias con MyInvestor, Fondos Indexados y Plan de Jubilación Revelados",
-    "description": "Hola a todos! ¿Quieres ver cómo invierto mis finanzas? En este video, te mostraré con total transparencia mi cartera de ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "9HaPpLi_6tw",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/9HaPpLi_6tw/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/9HaPpLi_6tw/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/9HaPpLi_6tw/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2024-02-05T07:30:08Z"
   }
 ]
