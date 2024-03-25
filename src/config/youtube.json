@@ -1,5 +1,30 @@
 [
   {
+    "title": "Qué hacer cuando te despiden?",
+    "description": "Descripción del video para YouTube: ¡Despedido! ¿Oportunidad o pesadilla? ¿Te han echado del trabajo? No te preocupes, ¡no ...",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "YKR_5fPL-v0",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/YKR_5fPL-v0/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/YKR_5fPL-v0/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/YKR_5fPL-v0/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2024-03-25T10:28:26Z"
+  },
+  {
     "title": "📉 Errores Comunes al Invertir: Evita Perder Dinero y 💼 Gana Estabilidad Financiera",
     "description": "Descubre los errores más frecuentes al comenzar a invertir y cómo evitarlos para asegurar un futuro financiero sólido. Desde la ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,22 +32,22 @@
     "videoId": "_OMFjqFQh2A",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/_OMFjqFQh2A/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/_OMFjqFQh2A/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/_OMFjqFQh2A/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/_OMFjqFQh2A/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/_OMFjqFQh2A/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/_OMFjqFQh2A/hqdefault.jpg",
         "width": 480,
         "height": 360
       }
     },
-    "publishedAt": "2024-03-17T14:28:00Z"
+    "publishedAt": "2024-03-17T19:30:07Z"
   },
   {
     "title": "Cómo Elegir el Mejor Broker para tu Estilo de Inversión 💰📊",
@@ -98,30 +123,5 @@
       }
     },
     "publishedAt": "2024-02-25T08:00:10Z"
-  },
-  {
-    "title": "Presupuesto: El secreto para llegar a fin de mes",
-    "description": "Descubre el secreto para alcanzar tus metas financieras cada mes. En este vídeo, aprenderás cómo crear y mantener un ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "CgJeVy_ySZQ",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/CgJeVy_ySZQ/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/CgJeVy_ySZQ/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/CgJeVy_ySZQ/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2024-02-18T07:30:09Z"
   }
 ]
