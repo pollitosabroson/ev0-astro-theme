@@ -1,5 +1,30 @@
 [
   {
+    "title": "¿Qué es la IF(Independencia Financiera) y por qué nunca la lograrás? 😱💰",
+    "description": "Descubre el secreto de la Independencia Financiera (IF) y por qué puede parecer inalcanzable para muchos. En este vídeo ...",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "QCEyk6rO8V0",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/QCEyk6rO8V0/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/QCEyk6rO8V0/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/QCEyk6rO8V0/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2024-04-23T16:34:39Z"
+  },
+  {
     "title": "Finanzas Personales No Son Para I*****s Y Perezosos",
     "description": "Estás harto de los consejos aburridos sobre ahorro que te dicen que te conviertas en un ermitaño? ¡Es hora de cambiar esa ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,22 +32,22 @@
     "videoId": "5cfs5rz-Kro",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/5cfs5rz-Kro/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/5cfs5rz-Kro/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/5cfs5rz-Kro/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/5cfs5rz-Kro/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/5cfs5rz-Kro/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/5cfs5rz-Kro/hqdefault.jpg",
         "width": 480,
         "height": 360
       }
     },
-    "publishedAt": "2024-04-15T19:24:30Z"
+    "publishedAt": "2024-04-16T18:30:07Z"
   },
   {
     "title": "Mis estrategias de inversión en MyInvestor en el primer trimestre: ¿Locura o éxito?",
@@ -73,55 +98,5 @@
       }
     },
     "publishedAt": "2024-03-25T19:30:06Z"
-  },
-  {
-    "title": "📉 Errores Comunes al Invertir: Evita Perder Dinero y 💼 Gana Estabilidad Financiera",
-    "description": "Descubre los errores más frecuentes al comenzar a invertir y cómo evitarlos para asegurar un futuro financiero sólido. Desde la ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "_OMFjqFQh2A",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/_OMFjqFQh2A/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/_OMFjqFQh2A/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/_OMFjqFQh2A/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2024-03-17T19:30:07Z"
-  },
-  {
-    "title": "Cómo Elegir el Mejor Broker para tu Estilo de Inversión 💰📊",
-    "description": "Bienvenido, emprendedor financiero! En este vídeo te guiaré en el fascinante mundo de las inversiones, empezando por la ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "OCVe8BX0oJI",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/OCVe8BX0oJI/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/OCVe8BX0oJI/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/OCVe8BX0oJI/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2024-03-10T08:00:07Z"
   }
 ]
