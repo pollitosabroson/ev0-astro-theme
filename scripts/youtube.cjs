@@ -13,6 +13,8 @@ const params = {
   order: 'date',
   part: 'snippet',
   maxResults: 5,
+  type: 'video', // Agregar el tipo de resultado como video
+  videoDuration: 'medium', // Duración del video: short, medium, long
 };
 
 const outputPath = path.join(__dirname, '..', 'src', 'config', 'youtube.json');
@@ -23,7 +25,7 @@ youtube.search.list(params, (err, res) => {
     return;
   }
 
-  const videos = res.data.items;
+  const videos = res.data.items.filter((item) => item.id.kind === 'youtube#video');
 
   const videoData = videos.map((video) => ({
     title: video.snippet.title,
