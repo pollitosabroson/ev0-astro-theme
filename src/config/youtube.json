@@ -1,5 +1,30 @@
 [
   {
+    "title": "Mi Nudismo Financiero de Abril: Revelando Mis Inversiones en @MyInvestorEspana #myinvestor",
+    "description": "Descubre mi balance financiero del mes de abril! En este video, comparto en detalle mis inversiones en la plataforma de ...",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "pdhzDAHW9_0",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/pdhzDAHW9_0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/pdhzDAHW9_0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/pdhzDAHW9_0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2024-05-07T18:30:06Z"
+  },
+  {
     "title": "Invertir en fondos indexados: ¿el camino a la riqueza o una falsa promesa?",
     "description": "Invertir en fondos indexados: La verdad que nadie te cuenta! En este video corto destapamos la realidad sobre los fondos ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,22 +32,22 @@
     "videoId": "UbRlK39RLLE",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/UbRlK39RLLE/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/UbRlK39RLLE/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/UbRlK39RLLE/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/UbRlK39RLLE/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/UbRlK39RLLE/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/UbRlK39RLLE/hqdefault.jpg",
         "width": 480,
         "height": 360
       }
     },
-    "publishedAt": "2024-04-30T14:31:57Z"
+    "publishedAt": "2024-04-30T18:30:07Z"
   },
   {
     "title": "¿Qué es la IF(Independencia Financiera) y por qué nunca la lograrás? 😱💰",
@@ -98,30 +123,5 @@
       }
     },
     "publishedAt": "2024-04-08T18:30:07Z"
-  },
-  {
-    "title": "Qué hacer cuando te despiden?",
-    "description": "Descripción del video para YouTube: ¡Despedido! ¿Oportunidad o pesadilla? ¿Te han echado del trabajo? No te preocupes, ¡no ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "YKR_5fPL-v0",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/YKR_5fPL-v0/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/YKR_5fPL-v0/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/YKR_5fPL-v0/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2024-03-25T19:30:06Z"
   }
 ]
