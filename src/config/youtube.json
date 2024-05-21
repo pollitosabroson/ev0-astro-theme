@@ -1,5 +1,30 @@
 [
   {
+    "title": "Descifrando el laberinto HIPOTECARIO: Guía completa para alcanzar la vivienda propia 🏠",
+    "description": "Sueñas con tener tu propia casa y dejar de pagar alquiler para finalmente construir tu patrimonio? En este video, Alejandro ...",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "O7LmT_p0uGE",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/O7LmT_p0uGE/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/O7LmT_p0uGE/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/O7LmT_p0uGE/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2024-05-20T17:10:49Z"
+  },
+  {
     "title": "Ahorrar vs Préstamos: ¿Cuál es la mejor opción para ti? | Finanzas Personales",
     "description": "Te encuentras en la disyuntiva de si pagar con tus ahorros o con un préstamo? En este video, Alejandro Rosales, experto en ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,22 +32,22 @@
     "videoId": "lNj-DRb_ORQ",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/lNj-DRb_ORQ/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/lNj-DRb_ORQ/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/lNj-DRb_ORQ/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/lNj-DRb_ORQ/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/lNj-DRb_ORQ/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/lNj-DRb_ORQ/hqdefault.jpg",
         "width": 480,
         "height": 360
       }
     },
-    "publishedAt": "2024-05-14T11:43:50Z"
+    "publishedAt": "2024-05-14T18:30:06Z"
   },
   {
     "title": "Mi Nudismo Financiero de Abril: Revelando Mis Inversiones en @MyInvestorEspana #myinvestor",
@@ -98,30 +123,5 @@
       }
     },
     "publishedAt": "2024-04-23T18:30:06Z"
-  },
-  {
-    "title": "Finanzas Personales No Son Para I*****s Y Perezosos",
-    "description": "Estás harto de los consejos aburridos sobre ahorro que te dicen que te conviertas en un ermitaño? ¡Es hora de cambiar esa ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "5cfs5rz-Kro",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/5cfs5rz-Kro/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/5cfs5rz-Kro/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/5cfs5rz-Kro/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2024-04-16T18:30:07Z"
   }
 ]
