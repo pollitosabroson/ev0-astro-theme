@@ -26,3 +26,7 @@ Esto también me ha llevado a tener disciplina y a pensar en el ejemplo que le d
 Otra cosa a tener en cuenta es que fallar en tus metas es normal. No te preocupes. El problema no es solo fallar y rendirse, sino analizar por qué fallaste y volver a intentarlo. Suena complejo, pero es así de simple: no vuelvas a fallar y plantea por qué fallaste para tomar las riendas y seguir adelante.
 
 Por último, debes plantearte metas realistas. Por ejemplo, mucha gente dice: "Quiero ser millonario y voy a comprar la lotería para lograrlo", pero ni siquiera compran la lotería. Eso es absurdo. O dicen: "Quiero ser una influencia y el próximo influencer de moda", pero no están haciendo nada para lograrlo. Claro, entonces, ¿cómo quieres cumplir esa meta si ni siquiera estás trabajando en ella? Además, influyen factores que no dependen de ti, como la dicción y el hablar en público, cosas que puedes aprender viendo tutoriales en YouTube. Entonces, ¿realmente te interesa esa meta o solo es un pretexto para sentirte parte de algo de moda?
+
+<div class="iframe-container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0PJ4GyWQI1c?si=5-brL_kLUFcDBHAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
+</div>
