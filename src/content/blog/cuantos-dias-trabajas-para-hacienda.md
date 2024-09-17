@@ -33,5 +33,5 @@ La bajada del IRPF ha adelantado el Día de Liberación Fiscal, pero aún estamo
 Reducir cotizaciones y mejorar la transparencia fiscal podría aliviar esta carga y mejorar nuestra economía. ¿Qué opinas? ¿Cómo te afecta esta carga fiscal? Déjame tus comentarios.
 
 <div class="iframe-container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/CgJeVy_ySZQ?si=m-oFb4neePl68fZe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/E9NJGQNXVx4?si=BEr3vFnGEgpouXPW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
 </div>
