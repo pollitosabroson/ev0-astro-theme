@@ -1,5 +1,30 @@
 [
   {
+    "title": "💬 Resultados de Mis Inversiones en Octubre 💬",
+    "description": "Octubre fue un mes de altibajos en mis INVERSIONES, con resultados que no te puedes perder. ¿Qué pasó con la renta fija?",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "1DFmcjG2BqU",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/1DFmcjG2BqU/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/1DFmcjG2BqU/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/1DFmcjG2BqU/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2024-11-05T12:35:07Z"
+  },
+  {
     "title": "¿CÓMO CALCULAR TU PENSIÓN IDEAL? 💰📊 La GUÍA DEFINITIVA 📘 para una jubilación TRANQUILA 🛌  #finanzas",
     "description": "Te preocupa tu futuro económico? ¡Descubre cómo asegurar tu jubilación! En este video, te enseñaré a calcular cuánto dinero ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,22 +32,22 @@
     "videoId": "9N53uheGjWs",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/9N53uheGjWs/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/9N53uheGjWs/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/9N53uheGjWs/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/9N53uheGjWs/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/9N53uheGjWs/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/9N53uheGjWs/hqdefault.jpg",
         "width": 480,
         "height": 360
       }
     },
-    "publishedAt": "2024-10-29T12:46:17Z"
+    "publishedAt": "2024-10-29T19:30:06Z"
   },
   {
     "title": "¿SP 500 es una APUESTA SEGURA 💸 o un RIESGO INNECESARIO ⚠️?",
@@ -148,30 +173,5 @@
       }
     },
     "publishedAt": "2024-09-24T18:30:28Z"
-  },
-  {
-    "title": "F.I.R.E.: La Estrategia para Retirarte Temprano y Vivir Libremente 💰. #fire #retiro #jubilación",
-    "description": "Quieres RETIRARTE TEMPRANO y alcanzar la LIBERTAD FINANCIERA con FIRE? En este video te explico paso a paso ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "5NCFVff8RHw",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/5NCFVff8RHw/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/5NCFVff8RHw/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/5NCFVff8RHw/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2024-09-17T18:30:06Z"
   }
 ]
