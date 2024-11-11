@@ -1,5 +1,30 @@
 [
   {
+    "title": "💸 EFECTO DIDEROT: ¡Cuidado con esta TRAMPA que VACÍA tu BOLSILLO! 🤑",
+    "description": "EFECTO DIDEROT: ¡Cuidado con esta TRAMPA que VACÍA tu BOLSILLO! En este video, exploro el Efecto Diderot y cómo ...",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "AtMrZwMB4EI",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/AtMrZwMB4EI/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/AtMrZwMB4EI/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/AtMrZwMB4EI/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2024-11-11T22:04:50Z"
+  },
+  {
     "title": "💬 Resultados de Mis Inversiones en Octubre 💬",
     "description": "Octubre fue un mes de altibajos en mis INVERSIONES, con resultados que no te puedes perder. ¿Qué pasó con la renta fija?",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,22 +32,22 @@
     "videoId": "1DFmcjG2BqU",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/1DFmcjG2BqU/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/1DFmcjG2BqU/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/1DFmcjG2BqU/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/1DFmcjG2BqU/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/1DFmcjG2BqU/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/1DFmcjG2BqU/hqdefault.jpg",
         "width": 480,
         "height": 360
       }
     },
-    "publishedAt": "2024-11-05T12:35:07Z"
+    "publishedAt": "2024-11-05T19:30:06Z"
   },
   {
     "title": "¿CÓMO CALCULAR TU PENSIÓN IDEAL? 💰📊 La GUÍA DEFINITIVA 📘 para una jubilación TRANQUILA 🛌  #finanzas",
@@ -148,30 +173,5 @@
       }
     },
     "publishedAt": "2024-10-01T18:30:23Z"
-  },
-  {
-    "title": "Los trucos FINANZAS FAMILIARES: Cómo manejar tu dinero de manera efectiva 💸 #ahorro #finanzas",
-    "description": "Finanzas Familiares: CÓMO MANEJAR TU DINERO de manera EFECTIVA Si alguna vez te has sentido abrumado por los ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "q1jDATs0wpM",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/q1jDATs0wpM/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/q1jDATs0wpM/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/q1jDATs0wpM/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2024-09-24T18:30:28Z"
   }
 ]
