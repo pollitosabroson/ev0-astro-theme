@@ -1,5 +1,30 @@
 [
   {
+    "title": "🎯 BLACK FRIDAY: Cómo EVITAR las TRAMPAS que VACÍAN tu bolsillo 💸 #blackfriday",
+    "description": "BLACK FRIDAY está aquí, y con él, las tácticas que vacían tu bolsillo . Descubre cómo proteger tu dinero y evitar las trampas ...",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "YEB8yBvJbNE",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/YEB8yBvJbNE/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/YEB8yBvJbNE/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/YEB8yBvJbNE/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2024-11-26T10:43:21Z"
+  },
+  {
     "title": "LOTERÍA y HERENCIAS: Por qué el 70% PIERDE TODO 💰 #herencia #loteria",
     "description": "Descubre el SECRETO del dinero inesperado que está cambiando vidas. En este video, te revelo la estrategia probada que el ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,22 +32,22 @@
     "videoId": "NSN6CKJR9eE",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/NSN6CKJR9eE/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/NSN6CKJR9eE/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/NSN6CKJR9eE/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/NSN6CKJR9eE/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/NSN6CKJR9eE/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/NSN6CKJR9eE/hqdefault.jpg",
         "width": 480,
         "height": 360
       }
     },
-    "publishedAt": "2024-11-19T05:55:52Z"
+    "publishedAt": "2024-11-19T19:30:06Z"
   },
   {
     "title": "💸 EFECTO DIDEROT: ¡Cuidado con esta TRAMPA que VACÍA tu BOLSILLO! 🤑",
@@ -148,30 +173,5 @@
       }
     },
     "publishedAt": "2024-10-15T18:30:05Z"
-  },
-  {
-    "title": "💼 INVERTIR en FONDOS INDEXADOS: mi experiencia real en 9 MESES 📊 #finanzas #inversiones #myinvestor",
-    "description": "Invertir en Fondos Indexados ha sido una estrategia clave para crecer mis ahorros y asegurar mi futuro. En este video, te ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "ls8ZDR_PSV4",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/ls8ZDR_PSV4/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/ls8ZDR_PSV4/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/ls8ZDR_PSV4/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2024-10-08T19:25:01Z"
   }
 ]
