@@ -2,7 +2,7 @@
 title: "Cómo Jubilarse a los 40: Estrategias Reales para Lograrlo | FIRE y Libertad Financiera"
 description: "¿Te gustaría jubilarte a los 40 y vivir la vida que realmente deseas? En este video te mostramos cómo hacerlo con estrategias reales basadas en el método FIRE (Financial Independence, Retire Early). Aprende a invertir inteligentemente, crear múltiples fuentes de ingresos y reducir tus gastos para alcanzar la independencia financiera antes de lo que imaginas. ¡No te pierdas estos consejos clave para alcanzar tus sueños de retiro temprano!"
 pubDate: "2025-03-28T23:32:15.337Z"
-heroImage: "/blogs/40-retirement.png"
+heroImage: "/blogs/40-retirement.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
 tags: ["Finanzas Personales", "Independencia Financiera", "FIRE", "Ahorro", "Inversiones", "Retiro Temprano"]
 author: "Alejandro Rosales"

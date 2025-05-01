@@ -2,7 +2,7 @@
 title: "Que es la IF(Independencia Financiera) y porque tu nunca la vas a lograr!"
 description: "En este post te voy a contar qué es la IF realmente, por qué la mayoría nunca la alcanzará y qué puedes hacer para acercarte a ella. ¡No te voy a vender humo! Te voy a dar la verdad cruda y sin rodeos."
 pubDate: "2024-04-23T08:35:19.085Z"
-heroImage: "/blogs/if.png"
+heroImage: "/blogs/if.webp"
 categories: ["Blog Inversiones", "Finanzas personales", "Inversiones", "Gestión del dinero", "Libertad financiera"]
 tags: ["IndependenciaFinanciera", "IF", "EducaciónFinanciera", "Inversiones", "Ahorro", "Constancia", "MetasFinancieras", "GestiónDelDinero", "IngresosPasivos", "DisciplinaFinanciera"]
 author: ["Alejandro Rosales"]

@@ -2,7 +2,7 @@
 title: "La Regla del 4%: ¿Realmente Puedes Vivir de Tus Inversiones Para Siempre?"
 description: "¿Podrás vivir tranquilo cuando te jubiles? Descubre cómo funciona la famosa regla del 4%, los errores más comunes que debes evitar y cómo aplicarla de forma inteligente para lograr tu libertad financiera. ¡No cometas los errores que arruinan la jubilación de miles!"
 pubDate: "2025-04-28T21:37:13.282Z"
-heroImage: "/blogs/regla4.png"
+heroImage: "/blogs/regla4.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
 tags: ["finanzas personales", "planificacion financiera", "regla del 4", "independencia financiera", "retiro", "jubilacion"]
 author: ["Alejandro Rosales"]

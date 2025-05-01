@@ -2,7 +2,7 @@
 title: "Mis Inversiones de Octubre: ¿Qué Ocurrió y Cómo Impacta en mi Plan Financiero?"
 description: "¡Bienvenidos! Hoy vamos a analizar juntos mis inversiones de octubre y el rendimiento alcanzado en los últimos 10 meses. Este ha sido un mes lleno de altibajos, y quiero compartir contigo los aprendizajes y los resultados de cada decisión. Si estás pensando en mejorar tus inversiones o simplemente te interesa cómo ha evolucionado mi portafolio, este es el lugar perfecto para conocer todos los detalles."
 pubDate: "2024-11-05T13:16:57.319Z"
-heroImage: "/blogs/october.png"
+heroImage: "/blogs/october.webp"
 categories: ["Blog Inversiones"]
 tags: ["actualización financiera", "independencia financiera", "inversión en S&P 500", "cuenta MyInvestor", "renta fija", "estrategia de inversión", "crecimiento de inversiones"]
 author: ["Alejandro Rosales"]

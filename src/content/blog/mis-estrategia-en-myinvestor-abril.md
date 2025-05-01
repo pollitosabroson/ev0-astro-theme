@@ -2,7 +2,7 @@
 title: "Nudismo financiero de Abril"
 description: "Ahora que termina el primer cuarto del año toca actualizar mis inversiones del año"
 pubDate: "2024-05-10T10:30:00.001Z"
-heroImage: "/blogs/inversiones-marzo.png"
+heroImage: "/blogs/inversiones-marzo.webp"
 categories: ["Blog Inversiones"]
 tags: ["inversión a largo plazo", "dividendos", "trading", "test de perfil de inversor", "estrategias de inversión", "análisis de mercado", "comunidad de inversores"]
 author: ["Alejandro Rosales"]

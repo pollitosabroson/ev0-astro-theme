@@ -2,7 +2,7 @@
 title: "¿Cuántos días al año trabajas para hacienda?"
 description: "Descubre cuántos días al año trabajas solo para pagar impuestos en España con Alejandro Rosales. Aprende sobre la distribución de impuestos, diferencias regionales y el impacto de las reformas fiscales"
 pubDate: "2024-06-05T04:39:36.968Z"
-heroImage: "/blogs/fiscal.png"
+heroImage: "/blogs/fiscal.webp"
 categories: ["finanzas personales", "Blog Inversiones"]
 tags: ["finanzas personales", "salud financiera", "ahorro", "presupuesto", "control de gastos"]
 author: ["Alejandro Rosales"]

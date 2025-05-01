@@ -2,7 +2,7 @@
 title: "Cómo Elegir el Mejor Broker para tu Estilo de Inversión"
 description: "Cuando se trata de invertir, las dudas pueden abrumarnos, ¡pero no te preocupes! Estoy aquí para ayudarte a aclarar el panorama. La elección del broker es como elegir al capitán de tu equipo financiero, porque, ¿sabías que no solo confiamos nuestro dinero en ellos, sino también nuestras futuras ganancias y sueños?"
 pubDate: "2024-03-09T12:01:00.416Z"
-heroImage: "/blogs/que-broker-elegir.png"
+heroImage: "/blogs/que-broker-elegir.webp"
 categories: ["Blog Inversiones", "Estrategias de inversión", "Brokers"]
 tags: ["Inversiones", "Brokers", "Estrategia de inversión", "Tipos de inversores", "Finanzas personales"]
 author: ["Alejandro Rosales"]

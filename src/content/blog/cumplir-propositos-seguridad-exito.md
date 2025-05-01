@@ -2,7 +2,7 @@
 title: "Los 3 Secretos para Cumplir tus Propósitos en 2025 (Y Que Nadie Te Dice)"
 description: "¿Te cuesta cumplir tus propósitos de Año Nuevo? Aprende 3 estrategias efectivas para establecer metas claras, rodearte de personas que te motiven y convertir tus sueños en pequeños hábitos diarios. Empieza 2025 con el pie derecho y logra todo lo que te propongas con estos consejos prácticos."
 pubDate: "2025-01-06T22:43:36.160Z"
-heroImage: "/blogs/metas-2025.png"
+heroImage: "/blogs/metas-2025.webp"
 categories: ["finanzas personales", "Blog Inversiones", "desarrollo personal", "cumplir metas"]
 tags: ["propósitos de Año Nuevo", "cumplir metas", "desarrollo personal", "hábitos diarios", "mejorar tu vida"]
 author: ["Alejandro Rosales"]

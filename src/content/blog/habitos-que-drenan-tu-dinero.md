@@ -2,7 +2,7 @@
 title: "Los 10 hábitos que están drenando tu dinero y cómo solucionarlos"
 description: "Descubre los 10 hábitos silenciosos que están drenando tu dinero y aprende cómo evitarlos con soluciones prácticas. ¡No dejes que tu dinero desaparezca sin explicación!"
 pubDate: "2025-01-21T13:19:56.120Z"
-heroImage: "/blogs/habitos.png"
+heroImage: "/blogs/habitos.webp"
 categories: ["finanzas personales", "gestión financiera"]
 tags: ["hábitos financieros", "ahorro inteligente", "control de gastos", "planificación financiera", "soluciones prácticas"]
 author: ["Alejandro Rosales"]

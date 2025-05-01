@@ -2,7 +2,7 @@
 title: "Febrero y Yo: ¡Mostrando mis inversiones Inversiones!"
 description: "Después de un mes tan largo llamado Febrero (Solo porque era año bisiesto y tenía un día de más), terminando el mes siguiendo mi plan de invertir sin importar cómo está el mercado. Y más porque en este mes, el mercado lleva una racha alcista sin importar lo que esté pasando. Además, NVIDIA dijo: ¡Aviéntame el mercado a la espalda, que mi informe de resultados va a ser que paremos las malas noticias de la FED! ¡Bienvenida burbuja de la inteligencia artificial!"
 pubDate: "2024-03-03T21:12:57.071Z"
-heroImage: "/blogs/Mis.png"
+heroImage: "/blogs/Mis.webp"
 categories: ["Blog Inversiones"]
 tags: ["Inversiones", "MyInvertos", "Febrero"]
 author: ["Alejandro Rosales"]

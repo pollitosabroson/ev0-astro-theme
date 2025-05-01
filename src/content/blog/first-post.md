@@ -2,7 +2,7 @@
 title: "Empezando de nuevo: Documentando mi camino otra vez"
 description: "Descubre mi emocionante regreso al mundo de los blogs mientras documento mi viaje hacia el crecimiento personal y profesional"
 pubDate: "2024-02-09T11:30:02.621Z"
-heroImage: "/blogs/1.png"
+heroImage: "/blogs/1.webp"
 categories: ["Blog Inversiones"]
 tags: ["Inversiones", "Emprendimiento", "BlogPersonal", "NuevosComienzos", "Experiencias", "Aprendizaje"]
 author: ["Alejandro Rosales"]

@@ -2,7 +2,7 @@
 title: "Mis Inversiones de marzo: ¿Locura temporal o nueva realidad?"
 description: "Los mercados bursátiles han experimentado un crecimiento inusual en los últimos tres meses, con un rendimiento anual en solo un trimestre. ¿Es esta una nueva realidad o una locura temporal?"
 pubDate: "2024-04-07T14:53:20.023Z"
-heroImage: "/blogs/inversiones-marzo.png"
+heroImage: "/blogs/inversiones-marzo.webp"
 categories: ["Blog Inversiones"]
 tags: ["inversión a largo plazo", "dividendos", "trading", "test de perfil de inversor", "estrategias de inversión", "análisis de mercado", "comunidad de inversores"]
 author: ["Alejandro Rosales"]

@@ -2,7 +2,7 @@
 title: "Cómo los Nuevos Impuestos en 2025 Están Vaciendo Tu Bolsillo (Y Cómo Prepararte)"
 description: "Descubre cómo los nuevos impuestos de 2025 afectarán tu día a día: comida más cara, subidas de electricidad y el golpe a los beneficios fiscales. Aprende cómo proteger tus finanzas ante estos cambios que ya están aquí."
 pubDate: "2025-01-12T23:07:44.849Z"
-heroImage: "/blogs/impuestos-2025.png"
+heroImage: "/blogs/impuestos-2025.webp"
 categories: ["economía personal", "impuestos en 2025", "impacto fiscal"]
 tags: ["economía personal", "nuevos impuestos", "gestión de gastos", "ahorro inteligente", "impuestos 2025", "presupuesto familiar", "impacto económico", "IVA alimentos", "subida de impuestos", "deducciones fiscales"]
 author: ["Alejandro Rosales"]

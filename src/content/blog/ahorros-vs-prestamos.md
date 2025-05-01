@@ -2,7 +2,7 @@
 title: "Ahorrar vs Préstamos: ¿Cuál es la mejor opción para ti?"
 description: "¿Te preguntas si pagar con ahorros o con un préstamo? Descubre la mejor opción para ti según tu situación actual y personalidad. ¡No te pierdas este video!"
 pubDate: "2024-05-14T11:49:44.616Z"
-heroImage: "/blogs/ahorro_prestamo.png"
+heroImage: "/blogs/ahorro_prestamo.webp"
 categories: ["Blog Inversiones"]
 tags: ["Finanzas Personales", "Ahorros", "Préstamos", "Dinero", "Inversión", "Personalidad Financiera", "Bienestar Financiero", "Alejandro Rosales", "Consejos Financieros", "Educación Financiera", "Mentalidad Millonaria", "Libertad Financiera"]
 author: ["Alejandro Rosales"]
