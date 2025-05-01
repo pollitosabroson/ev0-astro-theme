@@ -2,7 +2,7 @@
 title: "El S&P 500: Tu Guía Completa para Invertir a Largo Plazo"
 description: "¿Alguna vez te has preguntado qué es el S&P 500 y por qué todo el mundo habla de él? Este índice bursátil es como un termómetro de la salud económica de las 500 empresas más grandes de Estados Unidos. Pero, ¿qué significa esto para ti como inversor? En este artículo, desentrañaremos los misterios del S&P 500 y te explicaremos por qué podría ser una parte clave de tu cartera de inversión."
 pubDate: "2024-10-22T10:29:15.984Z"
-heroImage: "/blogs/sp500.png"
+heroImage: "/blogs/sp500.webp"
 categories: ["finanzas personales", "Blog Inversiones"]
 tags: [S&P 500", "índice bursátil", "inversión a largo plazo", "mercado de valores", "Estados Unidos"]
 author: ["Alejandro Rosales"]

@@ -2,7 +2,7 @@
 title: "¿Por qué tu dinero pierde valor cada día y cómo los ETF pueden salvarte?"
 description: "Cada día tu dinero vale menos y lo peor es que ni te das cuenta. Descubre por qué los ETF pueden ser la clave para proteger tu patrimonio y hacerlo crecer sin complicaciones."
 pubDate: "2025-02-24T23:21:03.892Z"
-heroImage: "/blogs/ETF.png"
+heroImage: "/blogs/ETF.webp"
 categories: ["Inversiones", "Finanzas Personales"]
 tags: ["ETF", "inversiones inteligentes", "ahorro", "protección financiera", "crecimiento del dinero"]
 author: ["Alejandro Rosales"]

@@ -2,7 +2,7 @@
 title: "Invertir vs. Apostar: La Diferencia que Puede Transformar tu Futuro Financiero"
 description: "Descubre la verdadera diferencia entre invertir y apostar, y cómo tomar decisiones inteligentes puede transformar tu futuro financiero. Aprende a gestionar riesgos, diversificar y construir un patrimonio sólido mientras evitas caer en el azar. ¡Conviértete en dueño de tu destino financiero hoy mismo!"
 pubDate: "2024-12-10T11:37:55.870Z"
-heroImage: "/blogs/invertir-apuestas.png"
+heroImage: "/blogs/invertir-apuestas.webp"
 categories: ["Finanzas Personales", "Inversiones", "Nudismo Financiero", "Ahorro e Inversión", "Educación Financiera"]
 tags: ["Inversiones", "Ahorro de emergencia", "Estrategias financieras"]
 author: ["Alejandro Rosales"]

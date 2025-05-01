@@ -2,7 +2,7 @@
 title: "¡Rompe el ciclo! Aprende a ahorrar sin esfuerzo y haz que tu dinero trabaje para ti"
 description: "¿Cansado de vivir al límite y no tener dinero ahorrado? Aquí te explicamos 5 métodos fáciles y efectivos para ahorrar sin sacrificar tu bienestar. ¡Haz que tu dinero trabaje para ti hoy mismo!"
 pubDate: "2025-03-18T14:24:53.547Z"
-heroImage: "/blogs/saving.png"
+heroImage: "/blogs/saving.webp"
 categories: ["finanzas personales", "Blog Inversiones"]
 tags: ["finanzas personales", "salud financiera", "ahorro", "presupuesto", "control de gastos"]
 author: ["Alejandro Rosales"]

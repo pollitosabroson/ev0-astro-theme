@@ -2,7 +2,7 @@
 title: "Los errores más comunes al iniciar en inversiones"
 description: "Todos empezamos con la euforia de decir: ¡Me voy a hacer millonario, tengo que empezar a invertir! Después pasamos por el trago amargo de decir: ¡Soy un IDIOTA! Hubiera empezado a invertir cuando tenía 20 años, ahora tendría dinero y más seguridad."
 pubDate: "2024-03-17T10:29:12.343Z"
-heroImage: "/blogs/errores-invirtiendo.png"
+heroImage: "/blogs/errores-invirtiendo.webp"
 categories: ["Blog Inversiones", "Inversiones", "Educación Financiera", "Consejos de Inversión", "Psicología Financiera"]
 tags:  ["Inversión", "Influencers", "Errores Financieros", "Libertad Financiera", "Decisiones Financieras"]
 author: ["Alejandro Rosales"]

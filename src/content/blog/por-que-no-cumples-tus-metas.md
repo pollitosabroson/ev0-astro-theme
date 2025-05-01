@@ -4,7 +4,7 @@ description: "¿Por qué no cumples tus metas? ¡Descubre la cruda verdad y conv
 
 ¿Te frustras una y otra vez porque no logras alcanzar tus objetivos? Tranquilo, no estás solo. En este post, te traemos la cruda verdad sobre el porqué algunos sí alcanzan sus metas y otros no, y te compartimos consejos prácticos para que tú también puedas convertirte en un campeón de la superación personal."
 pubDate: "2024-05-28T20:30:53.698Z"
-heroImage: "/blogs/metas.png"
+heroImage: "/blogs/metas.webp"
 categories: ["Blog Inversiones", "Finanzas personales", "Despidos"]
 tags: ["Despidos", "Finiquito", "Negociación", "Derechos del trabajador", "Emprendimiento", "Ahorro", "Motivos de despido", "Tipos de despido", "Indemnización", "Reacción ante un despido", "Cómo afrontar un despido", "Oportunidades después de un despido"]
 author: ["Alejandro Rosales"]

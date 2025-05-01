@@ -2,7 +2,7 @@
 title: "Invertir en fondos indexados: ¿el camino a la riqueza o una falsa promesa?"
 description: "Últimamente, todo el mundo habla de la magia de invertir en fondos indexados. Te dicen que solo tienes que poner tu dinero y sentarte a esperar, ¡y te convertirás en millonario! Pero, ¿es realmente tan sencillo? ¿Ahorrando 50€ al mes te vas a convertir en el próximo Jeff Bezos o Elon Musk?"
 pubDate: "2024-04-30T20:48:15.577Z"
-heroImage: "/blogs/fondos.png"
+heroImage: "/blogs/fondos.webp"
 categories: ["Blog Inversiones"]
 tags: ["Inversiones", "MyInvertos", "Febrero"]
 author: ["Alejandro Rosales"]

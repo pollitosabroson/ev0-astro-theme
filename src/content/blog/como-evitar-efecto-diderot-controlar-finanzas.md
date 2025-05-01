@@ -2,7 +2,7 @@
 title: "Cómo Evitar la Trampa del Efecto Diderot y Controlar tus Finanzas Personales"
 description: "Descubre el Efecto Diderot: la trampa psicológica que nos hace gastar más de lo planeado sin darnos cuenta. Aprende cómo afecta a tus decisiones financieras y encuentra estrategias prácticas para liberarte del impulso de compra desmedido. Una guía esencial para vivir de manera más consciente y controlar tus finanzas."
 pubDate: "2024-11-11T22:28:48.386Z"
-heroImage: "/blogs/diderot.png"
+heroImage: "/blogs/diderot.webp"
 categories: ["Blog Inversiones"]
 tags: ["Finanzas Personales", "Educación Financiera", "Psicología del Consumo", "Hábitos de Consumo", "Ahorro e Inversión", "Minimalismo y Finanzas", "Consumo Consciente", "Control de Gastos", "Desarrollo Personal", "Trampas Psicológicas en el Consumo", "Efecto Diderot", "Consejos Financieros", "Alejandro Rosales"]
 author: ["Alejandro Rosales"]

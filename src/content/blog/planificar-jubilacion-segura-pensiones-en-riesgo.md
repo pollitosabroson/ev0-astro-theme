@@ -2,7 +2,7 @@
 title: "Cómo Planificar tu Jubilación en Tiempos de Incertidumbre: Métodos Prácticos para Asegurar tu Futuro"
 description: "La situación actual de los sistemas de pensiones es preocupante. Con economías frágiles y sistemas públicos colapsando, es probable que nuestra generación deba enfrentar la jubilación con pocos o nulos ingresos del gobierno. ¿Estás listo para tomar el control de tu futuro financiero y asegurar una jubilación digna? Aquí te comparto tres estrategias probadas para planificar y construir un fondo que garantice tu bienestar en el retiro."
 pubDate: "2024-10-29T15:57:51.308Z"
-heroImage: "/blogs/retirement.png"
+heroImage: "/blogs/retirement.webp"
 categories: ["Finanzas Personales", "Consejos para Jubilación", "Planificación Financiera"]
 tags: ["Ahorro para Jubilación", "Cómo Calcular Pensión", "Seguridad Financiera", "Inversión a Largo Plazo", "Libertad Financiera", "Consejos de Jubilación", "Errores en Pensiones", "Estrategias de Ahorro"]
 author: ["Alejandro Rosales"]
