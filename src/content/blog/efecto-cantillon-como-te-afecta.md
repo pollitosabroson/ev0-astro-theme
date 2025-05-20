@@ -116,7 +116,11 @@ En el video completo te muestro:
 ✅ Qué estrategias estoy aplicando yo para protegerme
 
 👉 **Hacé clic acá para ver el video completo** y empezá a recuperar el control de tus finanzas:  
-🔗 [Ver el video completo →](#)
+🔗 [Ver el video completo →](https://www.youtube.com/watch?v=8V-dQuJRN0I)
+
+<div class="iframe-container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/8V-dQuJRN0I?si=zwfRsMugtUOLeN1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
+</div>
 
 ---
 
