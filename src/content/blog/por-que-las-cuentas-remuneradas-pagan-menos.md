@@ -131,3 +131,6 @@ Se trata de qué haces con ese dinero.**
 > Si te gustó este contenido, compártelo con alguien que necesita despertar financieramente.  
 > Suscríbete para recibir más contenido claro, directo y útil sobre dinero, ahorro e inversión.
 
+<div class="iframe-container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dwGMzlTY4Fs?si=6bIvP47B0OFnkvWe" title="Cuentas remuneradas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
+</div>
