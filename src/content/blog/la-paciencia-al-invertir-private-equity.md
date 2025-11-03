@@ -122,6 +122,9 @@ pero **el dinero inteligente perdura**.
 
 Si querés entender más a fondo cómo funciona el Private Equity y ver ejemplos reales,  
 👉 **mira el video completo en mi canal de YouTube** donde explico cada parte en detalle.
+<div class="iframe-container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lAj25EHzKtA?si=6D84aBM6L8RJCW1h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
+</div>
 
 Y si este artículo te ayudó:  
 ✅ Dale **like**  
@@ -130,4 +133,3 @@ Y si este artículo te ayudó:
 📤 Y **compartilo** con alguien que necesite aprender a invertir con paciencia.
 
 ---
-
