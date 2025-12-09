@@ -1,5 +1,30 @@
 [
   {
+    "title": "📊TU CARTERA de INVERSIÓN EXPLICADA SIN COMPLICACIONES | Entiende TODO desde CERO #alejandrorosales",
+    "description": "La mayoría escucha palabras como “cartera”, “activos” o “diversificación” y piensa que invertir es demasiado complicado.",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "pRk0BBHkMaY",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/pRk0BBHkMaY/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/pRk0BBHkMaY/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/pRk0BBHkMaY/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2025-12-09T11:24:23Z"
+  },
+  {
     "title": "🎄 DICIEMBRE: El MES que ARRUINA tus FINANZAS 😱 | Evita la Cuesta de Enero YA #dinero #finanzas",
     "description": "Diciembre es un mes hermoso… pero también uno de los más peligrosos para tu dinero. Entre emociones, regalos, presión ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,22 +32,22 @@
     "videoId": "-PGYX4Zt04c",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/-PGYX4Zt04c/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/-PGYX4Zt04c/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/-PGYX4Zt04c/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/-PGYX4Zt04c/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/-PGYX4Zt04c/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/-PGYX4Zt04c/hqdefault.jpg",
         "width": 480,
         "height": 360
       }
     },
-    "publishedAt": "2025-12-02T00:06:19Z"
+    "publishedAt": "2025-12-02T19:30:06Z"
   },
   {
     "title": "🌎 MSCI WORLD: Lo QUE NADIE TE EXPLICA sobre ESTE ÍNDICE GLOBAL 😳📈 #msciworld #finanzas",
@@ -223,30 +248,5 @@
       }
     },
     "publishedAt": "2024-10-29T19:30:06Z"
-  },
-  {
-    "title": "💰 ¿Cómo Empezar a Invertir Mis Primeros $1,000? 📈 #inversiones",
-    "description": "Cómo Empezar a Invertir Mis Primeros $1000 o €1000? En este video, te REVELARÉ estrategias clave para invertir tus ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "lIpdthTbC3Y",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/lIpdthTbC3Y/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/lIpdthTbC3Y/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/lIpdthTbC3Y/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2024-10-15T18:30:05Z"
   }
 ]
