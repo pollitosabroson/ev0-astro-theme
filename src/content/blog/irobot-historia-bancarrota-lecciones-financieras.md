@@ -135,3 +135,24 @@ Seguimos en el próximo post.
 <div class="iframe-container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/QxvfzyJ7pzA?si=cT-IyAALTBnGfKmJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "De ROBOTS de GUERRA a la BANCARROTA | El colapso de iRobot",
+  "description": "Análisis del ascenso y caída de iRobot (Roomba). Lecciones sobre inversión, diversificación y por qué ninguna empresa es invencible.",
+  "thumbnailUrl": [
+    "https://img.youtube.com/vi/QxvfzyJ7pzA/maxresdefault.jpg"
+   ],
+  "uploadDate": "2026-01-06",
+  "duration": "PT15M4S",
+  "contentUrl": "https://www.youtube.com/watch?v=QxvfzyJ7pzA",
+  "embedUrl": "https://www.youtube.com/embed/QxvfzyJ7pzA",
+  "interactionStatistic": {
+    "@type": "InteractionCounter",
+    "interactionType": { "@type": "WatchAction" },
+    "userInteractionCount": 1
+  }
+}
+</script>
