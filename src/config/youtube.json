@@ -1,5 +1,30 @@
 [
   {
+    "title": "El DÍA que el MERCADO entra en PÁNICO (y tu FONDO lo PAGA) #fondosindexados #inversiones",
+    "description": "Cuando todo va bien, nadie se hace esta pregunta. Pero cuando el mercado entra en pánico y miles de personas intentan sacar ...",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "db6d3GeFV34",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/db6d3GeFV34/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/db6d3GeFV34/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/db6d3GeFV34/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2026-01-12T22:51:31Z"
+  },
+  {
     "title": "De ROBOTS de GUERRA a la BANCARROTA | El colapso de iRobot #roomba",
     "description": "Durante años, iRobot fue sinónimo de innovación, liderazgo y tecnología avanzada. Creó la Roomba, dominó su mercado y ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,22 +32,22 @@
     "videoId": "QxvfzyJ7pzA",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/QxvfzyJ7pzA/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/QxvfzyJ7pzA/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/QxvfzyJ7pzA/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/QxvfzyJ7pzA/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/QxvfzyJ7pzA/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/QxvfzyJ7pzA/hqdefault.jpg",
         "width": 480,
         "height": 360
       }
     },
-    "publishedAt": "2026-01-04T21:08:40Z"
+    "publishedAt": "2026-01-06T19:30:06Z"
   },
   {
     "title": "2026 NO empieza de CERO | Entiende el CONTEXTO REAL #invertir #2026",
@@ -223,30 +248,5 @@
       }
     },
     "publishedAt": "2025-11-04T19:30:06Z"
-  },
-  {
-    "title": "💸 CÓMO SALIR DE DEUDAS en 2025: La Estrategia que los Bancos NO QUIEREN que sepas 🚫 #deudas #dinero",
-    "description": "Te sientes atrapado por tus deudas? No estás solo. En este video aprenderás paso a paso cómo liberarte de ellas más rápido de ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "nI1oa0m5U6Y",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/nI1oa0m5U6Y/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/nI1oa0m5U6Y/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/nI1oa0m5U6Y/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2025-10-07T18:30:06Z"
   }
 ]
