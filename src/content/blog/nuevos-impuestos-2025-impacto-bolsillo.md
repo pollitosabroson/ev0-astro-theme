@@ -6,6 +6,11 @@ heroImage: "/blogs/impuestos-2025.webp"
 categories: ["economía personal", "impuestos en 2025", "impacto fiscal"]
 tags: ["economía personal", "nuevos impuestos", "gestión de gastos", "ahorro inteligente", "impuestos 2025", "presupuesto familiar", "impacto económico", "IVA alimentos", "subida de impuestos", "deducciones fiscales"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/luKC7E4J_JY"
+  thumbnailUrl: "https://i.ytimg.com/vi/luKC7E4J_JY/maxresdefault.jpg"
+  duration: "PT10M4S"
+  uploadDate: "2025-01-14T19:30:06Z"
 ---
 ¡Comenzamos el 2025 con toda la energía! Todos tenemos nuestras metas y propósitos bien claros, pero hay algo que muy pocos están dispuestos a admitir. Y no, no es que te hayas excedido en los gastos de las fiestas, sino que, entre deudas, inflación y los nuevos impuestos, ya sientes que el dinero no alcanza. No importa si vives solo o en pareja: esta es una realidad que muchos prefieren ignorar... ¡pero no hoy!
 

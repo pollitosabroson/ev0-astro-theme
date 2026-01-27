@@ -6,6 +6,11 @@ heroImage: "/blogs/invertir-hoy.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
 tags: ["inversión", "educación financiera", "interés compuesto", "libertad financiera", "ahorro inteligente"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/TkJ9mTPJex4"
+  thumbnailUrl: "https://i.ytimg.com/vi/TkJ9mTPJex4/maxresdefault.jpg"
+  duration: "PT16M35S"
+  uploadDate: "2025-07-22T18:30:06Z"
 ---
 ## ¿Por qué debes empezar a invertir HOY?
 

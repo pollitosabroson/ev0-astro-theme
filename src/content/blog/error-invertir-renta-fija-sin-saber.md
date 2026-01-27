@@ -6,6 +6,11 @@ heroImage: "/blogs/renta-fija-errores.webp"
 categories: ["finanzas personales", "Blog Inversiones"]
 tags: ["renta fija", "bonos", "riesgo financiero", "educación financiera", "fondos de inversión", "ETFs", "banca tradicional", "errores de inversión"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/UYXOpLhq730"
+  thumbnailUrl: "https://i.ytimg.com/vi/UYXOpLhq730/maxresdefault.jpg"
+  duration: "PT16M33S"
+  uploadDate: "2025-06-10T18:30:27Z"
 ---
 # ¿Estás invirtiendo sin saberlo? El error silencioso que cometen millones
 

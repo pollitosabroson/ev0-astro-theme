@@ -6,6 +6,11 @@ heroImage: "/blogs/primeros-100-mil.webp"
 categories: ["finanzas personales", "crecimiento financiero", "educación financiera"]
 tags: ["ahorro", "disciplina financiera", "interés compuesto", "tasa de ahorro", "libertad financiera", "primeros 100 mil"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/cndpifWLqSs"
+  thumbnailUrl: "https://i.ytimg.com/vi/cndpifWLqSs/maxresdefault.jpg"
+  duration: "PT18M22S"
+  uploadDate: "2025-10-21T18:30:06Z"
 ---
 # El primer gran salto: cómo alcanzar tus primeros 100 mil y cambiar tu mentalidad financiera
 

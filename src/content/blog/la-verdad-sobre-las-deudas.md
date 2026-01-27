@@ -6,6 +6,11 @@ heroImage: "/blogs/deudas.webp"
 categories: ["Finanzas personales", "Educación financiera"]
 tags: ["deuda", "finanzas personales", "créditos", "dinero", "educación financiera"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/BBQs21_7s4c"
+  thumbnailUrl: "https://i.ytimg.com/vi/BBQs21_7s4c/maxresdefault.jpg"
+  duration: "PT14M"
+  uploadDate: "2025-03-11T19:30:06Z"
 ---
 # ¿La deuda es realmente mala? La verdad que nadie te dice
 

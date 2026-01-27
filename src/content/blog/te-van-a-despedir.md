@@ -6,6 +6,11 @@ heroImage: "/blogs/despido.webp"
 categories: ["Blog Inversiones", "Finanzas personales", "Despidos"]
 tags: ["Despidos", "Finiquito", "Negociación", "Derechos del trabajador", "Emprendimiento", "Ahorro", "Motivos de despido", "Tipos de despido", "Indemnización", "Reacción ante un despido", "Cómo afrontar un despido", "Oportunidades después de un despido"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/YKR_5fPL-v0"
+  thumbnailUrl: "https://i.ytimg.com/vi/YKR_5fPL-v0/maxresdefault.jpg"
+  duration: "PT12M48S"
+  uploadDate: "2024-03-25T19:30:06Z"
 ---
 Hagas lo que hagas, no importa en qué sector estés trabajando, vas a pasar sí o sí por un despido. Puede ser que tengas problemas con tu jefe, que la empresa se esté quedando sin dinero o que simplemente estés haciendo todo lo posible para que te despidan.
 

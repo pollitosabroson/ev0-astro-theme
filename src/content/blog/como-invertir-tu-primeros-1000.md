@@ -6,6 +6,11 @@ heroImage: "/blogs/1k.webp"
 categories: ["Inversiones para Principiantes", "Consejos Financieros", "Blog Inversiones"] 
 tags: ["Inversiones Iniciales", "Cómo Invertir", "Primeros Pasos Financieros", "Invertir con Poco Dinero", "Libertad Financiera", "Inversión Inteligente", "Maximizar Ganancias", "Principiantes en Inversiones", "Invertir 1000 Euros", "Consejos para Invertir"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/lIpdthTbC3Y"
+  thumbnailUrl: "https://i.ytimg.com/vi/lIpdthTbC3Y/maxresdefault.jpg"
+  duration: "PT21M4S"
+  uploadDate: "2024-10-15T18:30:05Z"
 ---
 
 Ey! Hoy te traigo una guía rápida sobre cómo invertir tus primeros 1,000 euros o dólares de manera inteligente. ¿Listo para descubrir las mejores opciones? ¡Vamos a ello!

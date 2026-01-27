@@ -6,6 +6,11 @@ heroImage: "/blogs/pignoracion-inversiones.webp"
 categories: ["finanzas personales", "Blog Inversiones"]
 tags: ["pignoración", "fondos de inversión", "estrategias fiscales", "libertad financiera", "educación financiera"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/lE5xm1Fac64"
+  thumbnailUrl: "https://i.ytimg.com/vi/lE5xm1Fac64/maxresdefault.jpg"
+  duration: "PT11M20S"
+  uploadDate: "2025-06-03T18:30:06Z"
 ---
 ## ¿Cómo vivir de tus inversiones sin vender y sin pagar impuestos?
 

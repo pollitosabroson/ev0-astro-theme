@@ -6,6 +6,11 @@ heroImage: "/blogs/irobot-bancarrota.webp"
 categories: ["empresas", "inversiones", "educación financiera"]
 tags: ["irobot", "roomba", "bancarrota", "acciones", "riesgo financiero"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/QxvfzyJ7pzA"
+  thumbnailUrl: "https://i.ytimg.com/vi/QxvfzyJ7pzA/maxresdefault.jpg"
+  duration: "PT15M4S"
+  uploadDate: "2026-01-06T19:30:06Z"
 ---
 
 ## Cuando lo que parece seguro deja de serlo

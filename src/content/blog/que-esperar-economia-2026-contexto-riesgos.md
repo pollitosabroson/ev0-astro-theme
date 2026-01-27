@@ -6,6 +6,11 @@ heroImage: "/blogs/economia-2026.webp"
 categories: ["economía", "mercados financieros", "educación financiera"]
 tags: ["economía 2026", "bolsa", "inflación", "inteligencia artificial", "contexto económico"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/XWBQ5IKR5UA"
+  thumbnailUrl: "https://i.ytimg.com/vi/XWBQ5IKR5UA/maxresdefault.jpg"
+  duration: "PT9M34S"
+  uploadDate: "2025-12-31T14:00:06Z"
 ---
 
 ## Por qué 2026 no se entiende sin mirar atrás

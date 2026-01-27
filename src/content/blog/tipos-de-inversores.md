@@ -6,6 +6,11 @@ heroImage: "/blogs/tipo-de-inversor-cover.webp"
 categories: ["Blog Inversiones"]
 tags: ["inversión a largo plazo", "dividendos", "trading", "test de perfil de inversor", "estrategias de inversión", "análisis de mercado", "comunidad de inversores"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/NYcug9_WstU"
+  thumbnailUrl: "https://i.ytimg.com/vi/NYcug9_WstU/maxresdefault.jpg"
+  duration: "PT14M52S"
+  uploadDate: "2024-02-25T08:00:10Z"
 ---
 ¿Eres un inversor paciente que busca construir riqueza a largo plazo? ¿Te atraen los ingresos pasivos y la seguridad de los dividendos? ¿O te apasiona la adrenalina del trading y la búsqueda de ganancias a corto plazo?
 

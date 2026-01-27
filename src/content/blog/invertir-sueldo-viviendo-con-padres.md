@@ -6,6 +6,11 @@ heroImage: "/blogs/sueldo-casa-padres.webp"
 categories: ["Finanzas Personales", "Inversiones"]
 tags: ["inversiones", "ahorro", "finanzas personales", "educación financiera", "gestión del dinero"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/tM99Dc0PYI8"
+  thumbnailUrl: "https://i.ytimg.com/vi/tM99Dc0PYI8/maxresdefault.jpg"
+  duration: "PT11M23S"
+  uploadDate: "2025-02-04T19:30:06Z"
 ---
 
 # Cómo invertir tu sueldo mientras vives con tus padres y asegurar tu futuro financiero

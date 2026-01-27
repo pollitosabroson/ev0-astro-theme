@@ -6,6 +6,11 @@ heroImage: "/blogs/expense.webp"
 categories: ["finanzas personales", "gestión del dinero"]
 tags: ["finanzas personales", "control de gastos", "ahorro", "salud financiera", "gastos hormiga"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/Atm60O9Dc2A"
+  thumbnailUrl: "https://i.ytimg.com/vi/Atm60O9Dc2A/maxresdefault.jpg"
+  duration: "PT13M35S"
+  uploadDate: "2025-03-04T19:30:06Z"
 ---
 # 💸 ¿Por qué tu dinero desaparece sin darte cuenta? Descubre la verdad
 

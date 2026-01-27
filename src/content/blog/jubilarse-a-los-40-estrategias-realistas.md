@@ -6,6 +6,11 @@ heroImage: "/blogs/40-retirement.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
 tags: ["Finanzas Personales", "Independencia Financiera", "FIRE", "Ahorro", "Inversiones", "Retiro Temprano"]
 author: "Alejandro Rosales"
+video:
+  embedUrl: "https://www.youtube.com/embed/AbCVvaP127c"
+  thumbnailUrl: "https://i.ytimg.com/vi/AbCVvaP127c/maxresdefault.jpg"
+  duration: "PT12M51S"
+  uploadDate: "2025-04-01T18:30:06Z"
 ---
 
 # ¿Es posible jubilarse a los 40 años? Descubre cómo hacerlo

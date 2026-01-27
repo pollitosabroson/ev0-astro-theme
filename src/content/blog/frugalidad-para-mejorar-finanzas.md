@@ -6,6 +6,11 @@ heroImage: "/blogs/frugal.webp"
 categories: ["Finanzas Personales", "Inversiones", "Nudismo Financiero", "Ahorro e Inversión", "Educación Financiera"]
 tags: ["Frugalidad", "Finanzas personales", "Ahorro inteligente", "Control del dinero", "Estrategias financieras", "Optimización de recursos", "Libertad financiera", "Tomar decisiones conscientes"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/whuHmfucpk0"
+  thumbnailUrl: "https://i.ytimg.com/vi/whuHmfucpk0/maxresdefault.jpg"
+  duration: "PT14M10S"
+  uploadDate: "2024-12-17T19:30:06Z"
 ---
 ## ¿Te has preguntado por qué algunas personas logran ahorrar más, vivir mejor y disfrutar más de la vida… incluso ganando menos dinero que tú?
 

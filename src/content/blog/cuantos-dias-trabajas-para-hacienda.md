@@ -6,6 +6,11 @@ heroImage: "/blogs/fiscal.webp"
 categories: ["finanzas personales", "Blog Inversiones"]
 tags: ["finanzas personales", "salud financiera", "ahorro", "presupuesto", "control de gastos"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/E9NJGQNXVx4"
+  thumbnailUrl: "https://i.ytimg.com/vi/E9NJGQNXVx4/maxresdefault.jpg"
+  duration: "PT12M14S"
+  uploadDate: "2024-07-02T12:00:06Z"
 ---
 Hoy vamos a descubrir cuántos días al año trabajan los españoles solo para pagar impuestos. ¿Listo para conocer la verdad? Vamos a profundizar en los datos.
 

@@ -6,6 +6,11 @@ heroImage: "/blogs/tarjeta-viajes.webp"
 categories: ["Finanzas Personales", "Viajes"]
 tags: ["tarjetas de crédito", "neobancos", "comisiones internacionales", "viajes inteligentes"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/m6zo_XzReII"
+  thumbnailUrl: "https://i.ytimg.com/vi/m6zo_XzReII/maxresdefault.jpg"
+  duration: "PT18M43S"
+  uploadDate: "2025-09-09T18:30:06Z"
 ---
 
 ## Planea tus vacaciones, pero no olvides tu dinero

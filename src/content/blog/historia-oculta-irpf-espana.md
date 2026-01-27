@@ -6,6 +6,11 @@ heroImage: "/blogs/irpf.webp"
 categories: ["finanzas personales", "Blog Inversiones"]
 tags: ["declaración de la renta", "IRPF", "historia de los impuestos", "impuestos en España", "finanzas personales", "educación financiera", "ahorro"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/6SO9-QHnvyY"
+  thumbnailUrl: "https://i.ytimg.com/vi/6SO9-QHnvyY/maxresdefault.jpg"
+  duration: "PT12M8S"
+  uploadDate: "2025-04-15T18:30:06Z"
 ---
 # La historia oculta del IRPF que nadie te cuenta (y cómo afecta tu bolsillo sin que lo sepas)
 

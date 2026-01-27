@@ -6,6 +6,11 @@ heroImage: "/blogs/remuneradas.webp"
 categories: ["finanzas personales", "educación financiera", "estrategia de ahorro"]
 tags: ["cuentas remuneradas", "intereses bancarios", "bce", "estrategias de ahorro", "educación financiera", "banca", "tipos de interés", "inflación"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/dwGMzlTY4Fs"
+  thumbnailUrl: "https://i.ytimg.com/vi/dwGMzlTY4Fs/maxresdefault.jpg"
+  duration: "PT16M18S"
+  uploadDate: "2025-07-08T18:30:06Z"
 ---
 
 ## ¿Te has dado cuenta de que cada vez que abres una cuenta remunerada… te pagan menos?

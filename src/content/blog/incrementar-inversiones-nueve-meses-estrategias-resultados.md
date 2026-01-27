@@ -6,6 +6,11 @@ heroImage: "/blogs/invest-sep.webp"
 categories: ["Finanzas Personales", "Inversiones", "Nudismo Financiero", "Ahorro e Inversión", "Educación Financiera"]
 tags: ["nudismo financiero", "inversiones inteligentes", "estrategias financieras", "rentabilidad", "diversificación", "metas financieras", "fondos de inversión", "gestión de patrimonio", "inflación", "finanzas 2023"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/ls8ZDR_PSV4"
+  thumbnailUrl: "https://i.ytimg.com/vi/ls8ZDR_PSV4/maxresdefault.jpg"
+  duration: "PT15M7S"
+  uploadDate: "2024-10-08T19:25:01Z"
 ---
 **¡Bienvenidos al último trimestre del año!** Después de 9 meses de invertir, estoy aquí para compartir mi progreso y los retos que he enfrentado. Estos tres trimestres no han sido fáciles, pero el esfuerzo ha valido la pena. Mi enfoque ha sido claro: invertir para protegerme de la inflación y asegurar un futuro financiero sólido. ¿Te gustaría saber exactamente cómo y cuánto he invertido? ¡Sigue leyendo!
 

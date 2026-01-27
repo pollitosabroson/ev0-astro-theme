@@ -6,6 +6,11 @@ heroImage: "/blogs/crisis-vivienda-espana.webp"
 categories: ["finanzas personales", "Blog Inversiones", "economia española", "mercado inmobiliario"]
 tags: ["crisis vivienda", "construccion españa", "precio vivienda", "escasez mano de obra", "hipoteca", "salarios construccion", "inversion inmobiliaria", "alejandrorosales"] 
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/KM5szKu1VnA"
+  thumbnailUrl: "https://i.ytimg.com/vi/KM5szKu1VnA/maxresdefault.jpg"
+  duration: "PT16M49S"
+  uploadDate: "2025-09-30T18:30:06Z"
 ---
 
 📢 **Seamos honestos...** Hoy en día estamos viviendo una crisis brutal, una de esas que no solo se siente en los números, sino en la vida de millones de personas. Comprar una casa en España se ha convertido en un reto casi imposible, y esto afecta de lleno a mi generación, a la que viene detrás, y ni hablar de los más jóvenes… ellos están, literalmente, **jodidos**.

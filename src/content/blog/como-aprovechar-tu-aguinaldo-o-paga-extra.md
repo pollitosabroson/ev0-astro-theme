@@ -6,6 +6,11 @@ heroImage: "/blogs/aguinaldo-inteligente.webp"
 categories: ["Finanzas Personales", "Educación Financiera", "Ahorro", "Gestión del Dinero"]
 tags: ["aguinaldo", "paga extra", "dinero extra", "ahorro", "deudas", "fondo de emergencia", "educación financiera", "Black Friday", "gastos inteligentes"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/b3k_qyJR6hU"
+  thumbnailUrl: "https://i.ytimg.com/vi/b3k_qyJR6hU/maxresdefault.jpg"
+  duration: "PT22M56S"
+  uploadDate: "2025-11-18T19:30:06Z"
 ---
 
 # Cómo aprovechar tu aguinaldo o paga extra sin caer en compras impulsivas

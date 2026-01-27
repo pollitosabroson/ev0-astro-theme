@@ -6,6 +6,11 @@ heroImage: "/blogs/cuenta-inversion-hijo.webp"
 categories: ["finanzas familiares", "educación financiera", "padres e hijos", "inversiones a largo plazo"]
 tags: ["cuenta junior", "educación financiera infantil", "inversión para hijos", "futuro financiero", "cuentas para menores"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/bTZufqL-Tzs"
+  thumbnailUrl: "https://i.ytimg.com/vi/bTZufqL-Tzs/maxresdefault.jpg"
+  duration: "PT14M46S"
+  uploadDate: "2025-07-15T18:30:06Z"
 ---
 ¿Recuerdas ese momento en el que te enteraste que ibas a ser padre o madre?
 

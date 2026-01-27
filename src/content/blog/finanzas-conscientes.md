@@ -6,6 +6,11 @@ heroImage: "/blogs/finanzas-conscientes.webp"
 categories: ["finanzas personales", "desarrollo personal", "bienestar financiero"]
 tags: ["finanzas conscientes", "educación financiera", "bienestar emocional", "dinero con propósito", "interés compuesto", "finanzas personales"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/Jw7iqPEBgV4"
+  thumbnailUrl: "https://i.ytimg.com/vi/Jw7iqPEBgV4/maxresdefault.jpg"
+  duration: "PT15M25S"
+  uploadDate: "2025-09-02T18:30:06Z"
 ---
 
 

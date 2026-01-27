@@ -6,6 +6,11 @@ heroImage: "/blogs/julio.webp"
 categories: ["Blog Inversiones"]
 tags: ["inversión a largo plazo", "dividendos", "trading", "test de perfil de inversor", "estrategias de inversión", "análisis de mercado", "comunidad de inversores", "My Investor"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/bZgfXUbotAQ"
+  thumbnailUrl: "https://i.ytimg.com/vi/bZgfXUbotAQ/maxresdefault.jpg"
+  duration: "PT15M52S"
+  uploadDate: "2024-06-04T18:30:07Z"
 ---
 Ahora que termina el quinto mes de esta aventura de inversiones, vamos con una tendencia que creo que es bajista. Creo que es momento de poner a prueba mi mente para ver qué tanta resistencia tengo en mi psicología de inversor. Aunque aún estoy en positivo en todas mis inversiones, veo que cada mes valen menos, pero lo interesante es que no baja todo de golpe.
 

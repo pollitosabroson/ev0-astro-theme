@@ -6,6 +6,11 @@ heroImage: "/blogs/presupuesto-funcional.webp"
 categories: ["finanzas personales", "Blog Inversiones"]
 tags: ["presupuesto", "ahorro inteligente", "educación financiera", "control de gastos", "libertad financiera", "planificación mensual"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/KLvJpFWd9MM"
+  thumbnailUrl: "https://i.ytimg.com/vi/KLvJpFWd9MM/maxresdefault.jpg"
+  duration: "PT15M18S"
+  uploadDate: "2025-06-17T18:30:06Z"
 ---
 
 ¿Sientes que tu dinero desaparece mes tras mes y no entiendes por qué?

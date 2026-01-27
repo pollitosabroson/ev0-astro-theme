@@ -6,6 +6,11 @@ heroImage: "/blogs/october.webp"
 categories: ["Blog Inversiones"]
 tags: ["actualización financiera", "independencia financiera", "inversión en S&P 500", "cuenta MyInvestor", "renta fija", "estrategia de inversión", "crecimiento de inversiones"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/1DFmcjG2BqU"
+  thumbnailUrl: "https://i.ytimg.com/vi/1DFmcjG2BqU/maxresdefault.jpg"
+  duration: "PT12M27S"
+  uploadDate: "2024-11-05T19:30:06Z"
 ---
 ¡Bienvenidos! Hoy vamos a analizar juntos mis inversiones de octubre y el rendimiento alcanzado en los últimos 10 meses. Este ha sido un mes lleno de altibajos, y quiero compartir contigo los aprendizajes y los resultados de cada decisión. Si estás pensando en mejorar tus inversiones o simplemente te interesa cómo ha evolucionado mi portafolio, este es el lugar perfecto para conocer todos los detalles.
 

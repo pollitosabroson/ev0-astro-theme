@@ -6,6 +6,11 @@ heroImage: "/blogs/efecto-cantillon.webp"
 categories: ["finanzas personales", "educación económica"]
 tags: ["efecto cantillon", "inflación", "poder adquisitivo", "bancos centrales", "educación financiera", "inversión"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/8V-dQuJRN0I"
+  thumbnailUrl: "https://i.ytimg.com/vi/8V-dQuJRN0I/maxresdefault.jpg"
+  duration: "PT15M57S"
+  uploadDate: "2025-05-20T18:30:06Z"
 ---
 
 ## 💥 ¿Por qué sube todo menos tu salario?

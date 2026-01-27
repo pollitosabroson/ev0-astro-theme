@@ -6,6 +6,11 @@ heroImage: "/blogs/private-equity-paciencia.webp"
 categories: ["inversiones", "Private Equity", "educación financiera", "finanzas personales"]
 tags: ["private equity", "capital privado", "inversión a largo plazo", "libertad financiera", "fondos de inversión", "paciencia financiera", "inversores institucionales", "educación financiera"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/lAj25EHzKtA"
+  thumbnailUrl: "https://i.ytimg.com/vi/lAj25EHzKtA/maxresdefault.jpg"
+  duration: "PT19M2S"
+  uploadDate: "2025-11-04T19:30:06Z"
 ---
 ## La paciencia que pocos tienen al invertir
 

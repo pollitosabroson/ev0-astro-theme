@@ -6,6 +6,11 @@ heroImage: "/blogs/3.webp"
 categories: ["finanzas personales", "Blog Inversiones"]
 tags: ["finanzas personales", "salud financiera", "ahorro", "presupuesto", "control de gastos"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/CgJeVy_ySZQ"
+  thumbnailUrl: "https://i.ytimg.com/vi/CgJeVy_ySZQ/maxresdefault.jpg"
+  duration: "PT15M"
+  uploadDate: "2024-02-18T07:30:09Z"
 ---
 
 Al igual que muchos, mi vida ha estado llena de cambios. Desde dejar el pañal hasta mudarme a otro país, he vivido experiencias que me han marcado. Uno de los cambios más grandes fue mudarme de México a España. Al principio, todo era nuevo y emocionante. Ganaba más dinero que nunca, pero algo no cuadraba. A pesar de mis ingresos, no lograba llegar a fin de mes.

@@ -6,6 +6,11 @@ heroImage: "/blogs/deuda-buena-vs-deuda-mala.webp"
 categories: ["Finanzas personales", "Inversiones", "Educación financiera"]
 tags: ["deuda buena", "deuda mala", "finanzas personales", "control de gastos", "inversión inteligente", "libertad financiera"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/0IaMuzdYipc"
+  thumbnailUrl: "https://i.ytimg.com/vi/0IaMuzdYipc/maxresdefault.jpg"
+  duration: "PT11M59S"
+  uploadDate: "2025-03-25T19:30:06Z"
 ---
 # 📢 Deuda buena vs. deuda mala: La diferencia que puede cambiar tu vida financiera  
 

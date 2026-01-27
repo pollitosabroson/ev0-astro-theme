@@ -6,6 +6,11 @@ heroImage: "/blogs/fuckyoumoney.webp"
 categories: ["finanzas personales", "libertad financiera"]
 tags: ["fuck you money", "libertad financiera", "ahorro inteligente", "inversión consciente", "mentalidad de abundancia"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/W_K1NIa5IpY"
+  thumbnailUrl: "https://i.ytimg.com/vi/W_K1NIa5IpY/maxresdefault.jpg"
+  duration: "PT19M48S"
+  uploadDate: "2025-07-01T18:30:06Z"
 ---
 ## 🚫 ¿Alguna vez has soñado con mandar todo al mierda y no depender de nadie?
 

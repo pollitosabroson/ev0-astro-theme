@@ -6,6 +6,11 @@ heroImage: "/blogs/habitos.webp"
 categories: ["finanzas personales", "gestión financiera"]
 tags: ["hábitos financieros", "ahorro inteligente", "control de gastos", "planificación financiera", "soluciones prácticas"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/F2vOno5KBX4"
+  thumbnailUrl: "https://i.ytimg.com/vi/F2vOno5KBX4/maxresdefault.jpg"
+  duration: "PT12M32S"
+  uploadDate: "2025-01-21T19:30:06Z"
 ---
 ¿Por qué parece que tu dinero desaparece sin darte cuenta? Es como si lo ganaras un día y al siguiente ya no estuviera. Hoy te voy a revelar los 10 hábitos silenciosos que están drenando tus finanzas, y no solo eso: también te daré soluciones prácticas para que tomes el control de tu dinero sin sacrificar lo que amas. Si estás listo para cambiar tu relación con el dinero, quédate hasta el final. ¡Esto puede transformar tus finanzas para siempre!
 

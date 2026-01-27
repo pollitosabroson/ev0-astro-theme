@@ -6,6 +6,11 @@ heroImage: "/blogs/salir-de-deudas.webp"
 categories: ["finanzas personales", "educación financiera", "libertad financiera", "estrategias de pago"]
 tags: ["deudas", "método avalancha", "método bola de nieve", "educación financiera", "pagos mínimos", "presupuesto inteligente"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/nI1oa0m5U6Y"
+  thumbnailUrl: "https://i.ytimg.com/vi/nI1oa0m5U6Y/maxresdefault.jpg"
+  duration: "PT20M5S"
+  uploadDate: "2025-10-07T18:30:06Z"
 ---
 # Cómo salir de deudas rápido: Métodos Avalancha y Bola de Nieve explicados
 

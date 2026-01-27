@@ -6,6 +6,11 @@ heroImage: "/blogs/ahorro_prestamo.webp"
 categories: ["Blog Inversiones"]
 tags: ["Finanzas Personales", "Ahorros", "Préstamos", "Dinero", "Inversión", "Personalidad Financiera", "Bienestar Financiero", "Alejandro Rosales", "Consejos Financieros", "Educación Financiera", "Mentalidad Millonaria", "Libertad Financiera"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/lNj-DRb_ORQ"
+  thumbnailUrl: "https://i.ytimg.com/vi/lNj-DRb_ORQ/maxresdefault.jpg"
+  duration: "PT11M10S"
+  uploadDate: "2024-05-14T18:30:06Z"
 ---
 
 ¿Te encuentras en la disyuntiva de si pagar con tus ahorros o con un préstamo? Esta decisión puede ser compleja y depende de diversos factores, como tu situación financiera actual, tu personalidad y tus objetivos a largo plazo. En este blog post, te ayudaré a tomar la mejor decisión para tu caso particular.

@@ -6,6 +6,11 @@ heroImage: "/blogs/diderot.webp"
 categories: ["Blog Inversiones"]
 tags: ["Finanzas Personales", "Educación Financiera", "Psicología del Consumo", "Hábitos de Consumo", "Ahorro e Inversión", "Minimalismo y Finanzas", "Consumo Consciente", "Control de Gastos", "Desarrollo Personal", "Trampas Psicológicas en el Consumo", "Efecto Diderot", "Consejos Financieros", "Alejandro Rosales"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/AtMrZwMB4EI"
+  thumbnailUrl: "https://i.ytimg.com/vi/AtMrZwMB4EI/maxresdefault.jpg"
+  duration: "PT14M3S"
+  uploadDate: "2024-11-12T19:30:06Z"
 ---
 ¿Alguna vez compraste algo que creías que te traería satisfacción, pero al final te dejó con ganas de más? Esto tiene nombre y es más común de lo que imaginas: se llama Efecto Diderot. Hoy vamos a descubrir cómo esta trampa mental lleva a millones a gastar más sin siquiera notarlo. Y sí, es muy probable que tú también hayas caído en ella…
 

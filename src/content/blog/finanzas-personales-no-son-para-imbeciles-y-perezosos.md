@@ -6,6 +6,11 @@ heroImage: "/blogs/Finanzas-Personales.webp"
 categories: ["Blog Inversiones", "Finanzas personales" ,"Administración del dinero" ,"Desarrollo personal y profesional"]
 tags: ["Finanzas personales", "Ahorro", "Inversiones", "Gestión del dinero", "Desarrollo personal", "Crecimiento profesional", "Presupuesto", "Educación financiera", "Gasto hormiga", "Consejos financieros"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/5cfs5rz-Kro"
+  thumbnailUrl: "https://i.ytimg.com/vi/5cfs5rz-Kro/maxresdefault.jpg"
+  duration: "PT15M49S"
+  uploadDate: "2024-04-16T18:30:07Z"
 ---
 ¿Cansado de que te digan que te conviertas en un ermitaño para ahorrar dinero?
 

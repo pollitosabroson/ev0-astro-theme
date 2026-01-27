@@ -6,6 +6,11 @@ heroImage: "/blogs/depositos-plazo-fijo.webp"
 categories: ["inversiones", "finanzas personales", "ahorro", "seguridad financiera", "productos bancarios", "depósitos"]
 tags: ["depósitos a plazo fijo", "inversión segura", "TAE", "TIN", "finanzas personales", "ahorro inteligente", "estrategias de inversión"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/7tIyXGn8V1o"
+  thumbnailUrl: "https://i.ytimg.com/vi/7tIyXGn8V1o/maxresdefault.jpg"
+  duration: "PT17M59S"
+  uploadDate: "2025-09-16T18:30:06Z"
 ---
 # Depósitos a Plazo Fijo: La Puerta de Entrada Segura al Mundo de las Inversiones
 

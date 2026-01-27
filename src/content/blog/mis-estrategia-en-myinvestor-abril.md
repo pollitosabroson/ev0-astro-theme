@@ -6,6 +6,11 @@ heroImage: "/blogs/inversiones-marzo.webp"
 categories: ["Blog Inversiones"]
 tags: ["inversión a largo plazo", "dividendos", "trading", "test de perfil de inversor", "estrategias de inversión", "análisis de mercado", "comunidad de inversores"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/pdhzDAHW9_0"
+  thumbnailUrl: "https://i.ytimg.com/vi/pdhzDAHW9_0/maxresdefault.jpg"
+  duration: "PT14M26S"
+  uploadDate: "2024-05-07T18:30:06Z"
 ---
 
 Ahora que termina el primer cuarto del año toca actualizar mis inversiones del año

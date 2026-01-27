@@ -6,6 +6,11 @@ heroImage: "/blogs/inversiones-marzo.webp"
 categories: ["Blog Inversiones"]
 tags: ["inversión a largo plazo", "dividendos", "trading", "test de perfil de inversor", "estrategias de inversión", "análisis de mercado", "comunidad de inversores"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/znVIIVfYoh0"
+  thumbnailUrl: "https://i.ytimg.com/vi/znVIIVfYoh0/maxresdefault.jpg"
+  duration: "PT13M48S"
+  uploadDate: "2024-04-08T18:30:07Z"
 ---
 Los mercados bursátiles han experimentado un crecimiento inusual en los últimos tres meses, con un rendimiento anual en solo un trimestre. ¿Es esta una nueva realidad o una locura temporal?
 

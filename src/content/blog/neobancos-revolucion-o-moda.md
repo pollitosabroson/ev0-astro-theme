@@ -6,6 +6,11 @@ heroImage: "/blogs/neobancos.webp"
 categories: ["Finanzas Personales", "Banca Digital"]
 tags: ["neobancos", "banca digital", "finanzas", "apps financieras", "dinero sin comisiones"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/VcB-fL3rHrk"
+  thumbnailUrl: "https://i.ytimg.com/vi/VcB-fL3rHrk/maxresdefault.jpg"
+  duration: "PT11M1S"
+  uploadDate: "2025-02-18T19:30:06Z"
 ---
 Los bancos tradicionales llevan décadas ganando dinero a costa de tu desorganización financiera. Comisiones ocultas, trámites interminables, apps obsoletas… y al final del mes, no tienes ni idea de a dónde se fue tu dinero. ¿Te suena familiar?  
 

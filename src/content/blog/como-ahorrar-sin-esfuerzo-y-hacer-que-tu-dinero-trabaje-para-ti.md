@@ -6,6 +6,11 @@ heroImage: "/blogs/saving.webp"
 categories: ["finanzas personales", "Blog Inversiones"]
 tags: ["finanzas personales", "salud financiera", "ahorro", "presupuesto", "control de gastos"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/45AKSD3GkuU"
+  thumbnailUrl: "https://i.ytimg.com/vi/45AKSD3GkuU/maxresdefault.jpg"
+  duration: "PT13M39S"
+  uploadDate: "2025-03-18T19:30:06Z"
 ---
 📢 **Seamos honestos...** Cada vez que alguien menciona la palabra *ahorro*, sientes una mezcla de culpa, estrés y ganas de cambiar de tema. ¿Cierto?
 

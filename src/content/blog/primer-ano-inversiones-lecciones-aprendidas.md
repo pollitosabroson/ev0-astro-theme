@@ -6,6 +6,11 @@ heroImage: "/blogs/1-ano.webp"
 categories: ["finanzas personales", "inversiones para principiantes"]
 tags: ["primeros pasos en inversión", "S&P 500", "libertad financiera", "cómo empezar a invertir", "fondos de pensiones"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/rYkYZmUv5lU"
+  thumbnailUrl: "https://i.ytimg.com/vi/rYkYZmUv5lU/maxresdefault.jpg"
+  duration: "PT17M57S"
+  uploadDate: "2025-01-28T19:30:06Z"
 ---
 
 

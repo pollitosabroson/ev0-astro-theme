@@ -6,6 +6,11 @@ heroImage: "/blogs/invertir-apuestas.webp"
 categories: ["Finanzas Personales", "Inversiones", "Nudismo Financiero", "Ahorro e Inversión", "Educación Financiera"]
 tags: ["Inversiones", "Ahorro de emergencia", "Estrategias financieras"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/vAjeTO9J5To"
+  thumbnailUrl: "https://i.ytimg.com/vi/vAjeTO9J5To/maxresdefault.jpg"
+  duration: "PT16M6S"
+  uploadDate: "2024-12-10T19:30:06Z"
 ---
 # ¿Te has preguntado alguna vez si invertir es lo mismo que apostar?
 

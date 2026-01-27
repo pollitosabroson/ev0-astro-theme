@@ -33,6 +33,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "youtube": "node scripts/youtube.cjs",
+    "add-video-seo": "node scripts/add-video-seo.cjs",
     "newpost": "astro-md-generator",
     "format": "prettier -w .",
     "lint:eslint": "eslint . --ext .js,.ts,.astro"

@@ -6,6 +6,11 @@ heroImage: "/blogs/metas-2025.webp"
 categories: ["finanzas personales", "Blog Inversiones", "desarrollo personal", "cumplir metas"]
 tags: ["propósitos de Año Nuevo", "cumplir metas", "desarrollo personal", "hábitos diarios", "mejorar tu vida"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/kHCW8r9ANDk"
+  thumbnailUrl: "https://i.ytimg.com/vi/kHCW8r9ANDk/maxresdefault.jpg"
+  duration: "PT12M42S"
+  uploadDate: "2025-01-07T19:30:06Z"
 ---
 ¿Por Qué No Cumples Tus Propósitos de Año Nuevo?
 Año tras año te planteas metas ambiciosas. Pero, seamos honestos, ¿cuántas veces las cumples realmente? La mayoría abandona antes de terminar el primer mes.

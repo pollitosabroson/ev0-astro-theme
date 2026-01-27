@@ -6,6 +6,11 @@ heroImage: "/blogs/regla4.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
 tags: ["finanzas personales", "planificacion financiera", "regla del 4", "independencia financiera", "retiro", "jubilacion"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/gv-uyQYiJWw"
+  thumbnailUrl: "https://i.ytimg.com/vi/gv-uyQYiJWw/maxresdefault.jpg"
+  duration: "PT14M40S"
+  uploadDate: "2025-04-29T18:30:06Z"
 ---
 # 💸 La Regla del 4%: ¿Puedes Realmente Vivir de Tus Inversiones y Retirarte Tranquilo?
 

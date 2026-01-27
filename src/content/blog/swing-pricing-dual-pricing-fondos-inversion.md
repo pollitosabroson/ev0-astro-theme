@@ -6,6 +6,11 @@ heroImage: "/blogs/swing-pricing-dual-pricing.webp"
 categories: ["fondos de inversión", "finanzas personales", "inversión pasiva", "educación financiera"]
 tags: ["swing pricing", "dual pricing", "fondos indexados", "dilución", "liquidez", "inversión a largo plazo"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/db6d3GeFV34"
+  thumbnailUrl: "https://i.ytimg.com/vi/db6d3GeFV34/maxresdefault.jpg"
+  duration: "PT20M56S"
+  uploadDate: "2026-01-13T19:30:06Z"
 ---
 
 - El **swing pricing** y el **dual pricing** existen para evitar que los costes de entrar o salir de un fondo los paguen los inversores que no se mueven.

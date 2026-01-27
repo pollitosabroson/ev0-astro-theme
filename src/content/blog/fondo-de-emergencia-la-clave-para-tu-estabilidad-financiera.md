@@ -6,6 +6,11 @@ heroImage: "/blogs/2.webp"
 categories: ["Blog Inversiones"]
 tags: ["Inversiones", "Ahorro de emergencia", "BlogPersonal"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/_xbugAGXxmM"
+  thumbnailUrl: "https://i.ytimg.com/vi/_xbugAGXxmM/maxresdefault.jpg"
+  duration: "PT13M54S"
+  uploadDate: "2024-02-11T07:30:07Z"
 ---
 
 Hoy, después de mucho pensar sobre por dónde empezar a escribir en este blog, voy a abordar un tema que considero bastante desconocido entre la gente: qué es y por qué debería tener un fondo de emergencia.

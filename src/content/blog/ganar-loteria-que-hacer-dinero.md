@@ -6,6 +6,11 @@ heroImage: "/blogs/lottery.webp"
 categories: ["Blog Inversiones"]
 tags: ["Ganar la lotería", "Libertad financiera", "Errores financieros", "Cómo invertir dinero", "Educación financiera", "Ahorro inteligente", "Gestión del dinero", "Inversiones inteligentes", "Planificación financiera", "BlogPersonal"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/NSN6CKJR9eE"
+  thumbnailUrl: "https://i.ytimg.com/vi/NSN6CKJR9eE/maxresdefault.jpg"
+  duration: "PT12M59S"
+  uploadDate: "2024-11-19T19:30:06Z"
 ---
 ¿Qué harías si un día revisas tu boleto y… ¡boom! te has ganado la lotería?
 Ese sueño que muchos hemos tenido: dejar el trabajo, viajar por el mundo, o comprarte todo lo que siempre has deseado. Pero, ¿sabías que el 70% de los ganadores de lotería pierden todo en menos de 5 años? 

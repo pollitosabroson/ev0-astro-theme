@@ -6,6 +6,11 @@ heroImage: "/blogs/finanzas-familia.webp"
 categories: ["Finanzas Personales"]
 tags: ["finanzas familiares", "ahorro para el futuro", "presupuesto familiar", "educación financiera", "cómo ahorrar dinero", "inversiones familiares", "gestión del dinero", "finanzas personales", "objetivos financieros", "ahorro para hijos", "manejo del dinero", "fondo de emergencia", "planificación financiera", "aprender a invertir", "dinero en familia", "educar a los niños sobre finanzas", "invertir para el futuro", "estrategias de ahorro", "reducir gastos", "herramientas financieras", "podcast finanzas", "curso finanzas", "finanzas para principiantes", "Alejandro Rosales finanzas", "video de finanzas familiares"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/q1jDATs0wpM"
+  thumbnailUrl: "https://i.ytimg.com/vi/q1jDATs0wpM/maxresdefault.jpg"
+  duration: "PT14M59S"
+  uploadDate: "2024-09-24T18:30:28Z"
 ---
 Hola, hoy vamos a sumergirnos juntos en un tema esencial para toda familia: cómo manejar las finanzas familiares de manera efectiva. Todos hemos estado ahí, sintiéndonos abrumados por los gastos y sin saber cómo empezar a ahorrar para el futuro. Pero no te preocupes, porque hoy te voy a mostrar los pasos clave para lograrlo, ¡y tengo un video de YouTube donde explico todo en detalle! 🎥👇
 

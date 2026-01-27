@@ -6,6 +6,11 @@ heroImage: "/blogs/hipotecas-desde-cero.webp"
 categories: ["hipotecas", "vivienda", "finanzas personales", "educación financiera"]
 tags: ["hipoteca fija", "hipoteca variable", "hipoteca mixta", "amortización", "comprar casa"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/pmKBDX2c-LU"
+  thumbnailUrl: "https://i.ytimg.com/vi/pmKBDX2c-LU/maxresdefault.jpg"
+  duration: "PT20M8S"
+  uploadDate: "2025-12-16T19:30:06Z"
 ---
 
 Comprar una casa es, para muchas personas, el gran objetivo. El plan. Ese momento en el que piensas: *“cuando lo consiga, ya estaré tranquilo”*.

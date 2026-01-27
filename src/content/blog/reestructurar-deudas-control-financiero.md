@@ -6,6 +6,11 @@ heroImage: "/blogs/reestructurar-deudas.webp"
 categories: ["finanzas personales", "educación financiera", "estrategias de deuda", "libertad financiera"]
 tags: ["reestructuración de deuda", "consolidación", "transferencia de saldo", "negociación con acreedores", "debt stacking", "disciplina financiera"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/6FvwHXC5eRc"
+  thumbnailUrl: "https://i.ytimg.com/vi/6FvwHXC5eRc/maxresdefault.jpg"
+  duration: "PT17M5S"
+  uploadDate: "2025-10-14T23:30:06Z"
 ---
 # Reestructura tus deudas y recupera el control financiero
 

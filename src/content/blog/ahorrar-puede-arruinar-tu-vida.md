@@ -6,6 +6,11 @@ heroImage: "/blogs/ahorro-problems.webp"
 categories: ["finanzas personales", "psicología del dinero"]
 tags: ["ahorro excesivo", "salud financiera", "educación financiera", "ansiedad financiera", "mentalidad de escasez", "trampa del ahorro"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/7QvJJRxJT0c"
+  thumbnailUrl: "https://i.ytimg.com/vi/7QvJJRxJT0c/maxresdefault.jpg"
+  duration: "PT14M2S"
+  uploadDate: "2025-05-13T18:30:06Z"
 ---
 
 ## ¿Y si te dijera que ahorrar dinero puede arruinarte la vida?

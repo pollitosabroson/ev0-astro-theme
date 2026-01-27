@@ -6,6 +6,11 @@ heroImage: "/blogs/credit-card.webp"
 categories: ["finanzas personales", "educacion financiera", "Alejandro Rosales"] 
 tags: ["tarjeta de credito", "deuda", "educacion financiera", "finanzas personales", "pago minimo", "historial crediticio", "bancos", "alejandrorosales"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/_QuLOgNU08o"
+  thumbnailUrl: "https://i.ytimg.com/vi/_QuLOgNU08o/maxresdefault.jpg"
+  duration: "PT17M29S"
+  uploadDate: "2025-09-23T18:30:06Z"
 ---
 ## 
 

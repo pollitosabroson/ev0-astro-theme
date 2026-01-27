@@ -6,6 +6,11 @@ heroImage: "/blogs/inversor-mediocre.webp"
 categories: ["finanzas personales", "inversión pasiva", "educación financiera"]
 tags: ["inversión indexada", "fondos indexados", "S&P 500", "MSCI World", "gestión activa", "comisiones", "psicología del inversor"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/ssvvhhpjGk0"
+  thumbnailUrl: "https://i.ytimg.com/vi/ssvvhhpjGk0/maxresdefault.jpg"
+  duration: "PT16M55S"
+  uploadDate: "2026-01-20T19:30:06Z"
 ---
 
 - La inversión indexada y de bajo coste supera a la gestión activa en más del 85% de los casos a largo plazo.

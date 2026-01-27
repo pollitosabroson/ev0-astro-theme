@@ -6,6 +6,11 @@ heroImage: "/blogs/noviembre-2024.webp"
 categories: ["Finanzas Personales", "Inversiones", "Nudismo Financiero", "Ahorro e Inversión", "Educación Financiera"]
 tags: ["Inversiones", "Ahorro de emergencia", "Estrategias financieras"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/dmBTUcQ8XgI"
+  thumbnailUrl: "https://i.ytimg.com/vi/dmBTUcQ8XgI/maxresdefault.jpg"
+  duration: "PT17M8S"
+  uploadDate: "2024-12-03T19:30:06Z"
 ---
 Este mes ha sido un carrusel de emociones: las cuentas remuneradas están rindiendo menos, pero el mercado ha dado sorpresas interesantes, como un Bull Run inesperado.
 

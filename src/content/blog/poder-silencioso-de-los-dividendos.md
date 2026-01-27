@@ -6,6 +6,11 @@ heroImage: "/blogs/poder-silencioso-de-los-dividendos.webp"
 categories: ["inversiones", "educación financiera", "mercado bursátil"]
 tags: ["dividendos", "inversión a largo plazo", "ingresos pasivos", "acciones", "rentabilidad", "educación financiera"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/p7rsa8omugQ"
+  thumbnailUrl: "https://i.ytimg.com/vi/p7rsa8omugQ/maxresdefault.jpg"
+  duration: "PT18M42S"
+  uploadDate: "2025-10-28T05:00:06Z"
 ---
 # El poder silencioso de los dividendos: cómo ganar dinero mientras duermes
 

@@ -6,6 +6,11 @@ heroImage: "/blogs/sp500-explicado.webp"
 categories: ["Inversiones", "Educación Financiera", "Mercados Globales"]
 tags: ["S&P 500", "fondos indexados", "ETFs", "inversión pasiva", "mercado estadounidense", "finanzas personales", "aprende a invertir"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/-YJhD11gn5s"
+  thumbnailUrl: "https://i.ytimg.com/vi/-YJhD11gn5s/maxresdefault.jpg"
+  duration: "PT19M27S"
+  uploadDate: "2025-11-11T19:30:06Z"
 ---
 
 ## S&P 500: el índice que todos nombran pero pocos entienden

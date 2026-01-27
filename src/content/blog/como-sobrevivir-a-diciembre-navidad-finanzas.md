@@ -6,6 +6,11 @@ heroImage: "/blogs/navidad-finanzas-guia.webp"
 categories: ["Finanzas Personales", "Educación Financiera", "Presupuestos"]
 tags: ["Cuesta de Enero", "Navidad", "Aguinaldo", "Presupuesto", "Gasto Consciente"]
 author: "Alejandro Rosales"
+video:
+  embedUrl: "https://www.youtube.com/embed/-PGYX4Zt04c"
+  thumbnailUrl: "https://i.ytimg.com/vi/-PGYX4Zt04c/maxresdefault.jpg"
+  duration: "PT18M4S"
+  uploadDate: "2025-12-02T19:30:06Z"
 ---
 # Cómo sobrevivir a diciembre sin arruinar enero: guía práctica para una Navidad financiera inteligente
 

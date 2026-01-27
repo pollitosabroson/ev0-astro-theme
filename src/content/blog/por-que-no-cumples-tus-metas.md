@@ -8,6 +8,11 @@ heroImage: "/blogs/metas.webp"
 categories: ["Blog Inversiones", "Finanzas personales", "Despidos"]
 tags: ["Despidos", "Finiquito", "Negociación", "Derechos del trabajador", "Emprendimiento", "Ahorro", "Motivos de despido", "Tipos de despido", "Indemnización", "Reacción ante un despido", "Cómo afrontar un despido", "Oportunidades después de un despido"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/0PJ4GyWQI1c"
+  thumbnailUrl: "https://i.ytimg.com/vi/0PJ4GyWQI1c/maxresdefault.jpg"
+  duration: "PT16M14S"
+  uploadDate: "2024-05-28T18:30:06Z"
 ---
 Alguna vez te has preguntado por qué no puedes terminar tus metas y por qué alguien que crees que es un inútil si puede y tu no, vaya esto simple y sencillo que realmente él sí está luchando por esas metas y tú no, si quieres saber más información y quieres entender el porqué el sí está logrando sus metas
 

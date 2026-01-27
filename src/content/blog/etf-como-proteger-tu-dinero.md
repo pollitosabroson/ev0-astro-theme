@@ -6,6 +6,11 @@ heroImage: "/blogs/ETF.webp"
 categories: ["Inversiones", "Finanzas Personales"]
 tags: ["ETF", "inversiones inteligentes", "ahorro", "protección financiera", "crecimiento del dinero"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/Gl-1QFoedtw"
+  thumbnailUrl: "https://i.ytimg.com/vi/Gl-1QFoedtw/maxresdefault.jpg"
+  duration: "PT17M2S"
+  uploadDate: "2025-02-25T19:30:22Z"
 ---
 
 # ¿Por qué tu dinero pierde valor cada día y cómo los ETF pueden salvarte?  

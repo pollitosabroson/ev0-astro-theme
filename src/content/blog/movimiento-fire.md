@@ -6,6 +6,11 @@ heroImage: "/blogs/movimiento-fire.webp"
 categories: ["FIRE", "retiro temprano", "independencia financiera", "ahorro", "jubilación", "estrategias financieras", "finanzas personales", "libertad financiera", "plan financiero", "estilo de vida", "jubilación anticipada", "ahorro inteligente", "vida plena", "planificación financiera"]
 tags: ["finanzas personales", "salud financiera", "estrategias de ahorro", "ingresos recurrentes", "fire"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/5NCFVff8RHw"
+  thumbnailUrl: "https://i.ytimg.com/vi/5NCFVff8RHw/maxresdefault.jpg"
+  duration: "PT13M51S"
+  uploadDate: "2024-09-17T18:30:06Z"
 ---
 
 ¿Cansado de la rutina del trabajo de 9 a 5? ¿Sueñas con una vida diferente, más libre y con menos estrés? El movimiento F.I.R.E. podría ser la clave para alcanzar la vida que deseas. 🌟

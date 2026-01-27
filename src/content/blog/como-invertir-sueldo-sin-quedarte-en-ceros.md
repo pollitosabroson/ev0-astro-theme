@@ -6,6 +6,11 @@ heroImage: "/blogs/invertir-without-parents.webp"
 categories: ["finanzas personales", "inversión"]
 tags: ["finanzas personales", "ahorro", "inversión inteligente", "gestión financiera", "dinero"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/NQ4xqyXpH9o"
+  thumbnailUrl: "https://i.ytimg.com/vi/NQ4xqyXpH9o/maxresdefault.jpg"
+  duration: "PT13M30S"
+  uploadDate: "2025-02-11T19:30:06Z"
 ---
 # Cómo Invertir tu Sueldo Sin Quedarte en Ceros al Final del Mes
 

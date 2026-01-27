@@ -6,6 +6,11 @@ heroImage: "/blogs/hipotecas.webp"
 categories: ["Hipotecas"]
 tags: ["Hipoteca", "Vivienda", "Propiedad", "Finanzas", "Inversión", "Ahorro", "Comprar casa", "Tramites hipotecarios", "Tasacion vivienda", "Oferta vinculante", "Firma hipoteca", "Impuestos vivienda", "Consejos hipoteca", "Asesoría financiera", "Planificación financiera", "España hipoteca", "Madrid hipoteca", "Barcelona hipoteca", "Valencia hipoteca", "Sevilla hipoteca", "Alejandro Rosales", "Viviendapropria", "Micasapropia", "Sueñocasa", "Independencia generacional", "Futuro financiero"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/O7LmT_p0uGE"
+  thumbnailUrl: "https://i.ytimg.com/vi/O7LmT_p0uGE/maxresdefault.jpg"
+  duration: "PT19M7S"
+  uploadDate: "2024-05-21T18:30:07Z"
 ---
 
 

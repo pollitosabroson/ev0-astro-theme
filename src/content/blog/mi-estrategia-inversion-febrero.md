@@ -6,6 +6,11 @@ heroImage: "/blogs/Mis.webp"
 categories: ["Blog Inversiones"]
 tags: ["Inversiones", "MyInvertos", "Febrero"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/h__Kht7F-CQ"
+  thumbnailUrl: "https://i.ytimg.com/vi/h__Kht7F-CQ/maxresdefault.jpg"
+  duration: "PT11M17S"
+  uploadDate: "2024-03-03T08:00:09Z"
 ---
 Después de un mes tan largo llamado Febrero (Solo porque era año bisiesto y tenía un día de más), terminando el mes siguiendo mi plan de invertir sin importar cómo está el mercado. Y más porque en este mes, el mercado lleva una racha alcista sin importar lo que esté pasando. Además, NVIDIA dijo: ¡Aviéntame el mercado a la espalda, que mi informe de resultados va a ser que paremos las malas noticias de la FED! ¡Bienvenida burbuja de la inteligencia artificial!
 

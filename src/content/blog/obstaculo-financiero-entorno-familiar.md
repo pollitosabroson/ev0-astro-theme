@@ -6,6 +6,11 @@ heroImage: "/blogs/entorno-financiero.webp"
 categories: ["Finanzas Personales", "Psicología del Dinero"]
 tags: ["entorno familiar", "educación financiera", "creencias limitantes", "libertad financiera", "relaciones personales", "hábitos financieros", "miedo al dinero"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/vgxRJCxa8hg"
+  thumbnailUrl: "https://i.ytimg.com/vi/vgxRJCxa8hg/maxresdefault.jpg"
+  duration: "PT11M43S"
+  uploadDate: "2025-05-06T18:30:06Z"
 ---
 ¿Alguna vez has sentido que, no importa cuánto te esfuerces, tu vida simplemente… no avanza?
 

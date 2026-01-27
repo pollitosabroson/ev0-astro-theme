@@ -6,6 +6,11 @@ heroImage: "/blogs/bnpl.webp"
 categories: ["Finanzas personales", "Métodos de pago alternativos", "Consejos financieros", "Educación financiera", "Deuda y crédito"]
 tags: ["Compra ahora paga después", "BNPL", "Financiamiento sin intereses", "Cómo funciona BNPL", "Riesgos del BNPL", "Alternativas al BNPL", "Finanzas personales", "Deudas y compras impulsivas", "Klarna", "Afterpay", "Affirm", "Pay Pal", "Beneficios y riesgos del BNPL"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/qy4vX2Fh_uo"
+  thumbnailUrl: "https://i.ytimg.com/vi/qy4vX2Fh_uo/maxresdefault.jpg"
+  duration: "PT14M50S"
+  uploadDate: "2024-10-01T18:30:23Z"
 ---
 ¿Te has encontrado alguna vez frente a esa compra que deseas hacer ahora mismo, pero no tienes el dinero disponible? ¡No te preocupes! Con el sistema "**Compra Ahora, Paga Después" (BNPL, por sus siglas en inglés)**, puedes adquirir lo que necesitas de inmediato y pagarlo más adelante en cómodas cuotas. Este método está revolucionando la forma en la que compramos, pero... ¿es realmente una buena opción? Sigue leyendo y te explico todo lo que necesitas saber para evitar caer en trampas financieras. Y al final del artículo, ¡te invito a ver un video que profundiza aún más en este tema!
 

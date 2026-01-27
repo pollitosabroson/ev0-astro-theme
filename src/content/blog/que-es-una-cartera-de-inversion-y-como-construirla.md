@@ -6,6 +6,11 @@ heroImage: "/blogs/cartera-inversion.webp"
 categories: ["Finanzas Personales", "Inversiones", "Educación Financiera"]
 tags: ["cartera de inversión", "diversificación", "asset allocation", "fondos indexados", "renta fija", "renta variable", "principiantes"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/pRk0BBHkMaY"
+  thumbnailUrl: "https://i.ytimg.com/vi/pRk0BBHkMaY/maxresdefault.jpg"
+  duration: "PT22M37S"
+  uploadDate: "2025-12-09T19:30:06Z"
 ---
 # Qué es una Cartera de Inversión y Cómo Construirla Desde Cero
 

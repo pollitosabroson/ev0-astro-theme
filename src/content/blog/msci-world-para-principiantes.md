@@ -6,6 +6,11 @@ heroImage: "/blogs/msci-world-guia-principiantes.webp"
 categories: ["Inversiones", "Índices Bursátiles", "Educación Financiera"]
 tags: ["MSCI World", "Inversión global", "Fondos indexados", "ETFs", "Mercados desarrollados"]
 author: "Alejandro Rosales"
+video:
+  embedUrl: "https://www.youtube.com/embed/z-kbiTfZqOo"
+  thumbnailUrl: "https://i.ytimg.com/vi/z-kbiTfZqOo/maxresdefault.jpg"
+  duration: "PT20M56S"
+  uploadDate: "2025-11-25T19:30:06Z"
 ---
 
 # MSCI World para principiantes: el índice clave de los países desarrollados

@@ -6,6 +6,11 @@ heroImage: "/blogs/if.webp"
 categories: ["Blog Inversiones", "Finanzas personales", "Inversiones", "Gestión del dinero", "Libertad financiera"]
 tags: ["IndependenciaFinanciera", "IF", "EducaciónFinanciera", "Inversiones", "Ahorro", "Constancia", "MetasFinancieras", "GestiónDelDinero", "IngresosPasivos", "DisciplinaFinanciera"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/QCEyk6rO8V0"
+  thumbnailUrl: "https://i.ytimg.com/vi/QCEyk6rO8V0/maxresdefault.jpg"
+  duration: "PT14M33S"
+  uploadDate: "2024-04-23T18:30:06Z"
 ---
 Pero que mierdas es la IF, facil en el titulo lo dice es la independencia financiera y trabajar por placer y no por dinero, que no es lo mis mismo que trabajar por por dinero y complar placer en forma de cosas bien innecesarias que nunca vas a usar.
 

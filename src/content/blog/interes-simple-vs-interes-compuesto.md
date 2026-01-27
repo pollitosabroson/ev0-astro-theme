@@ -6,6 +6,11 @@ heroImage: "/blogs/simplevscompuesto.webp"
 categories: ["finanzas personales", "inversiones", "educación financiera"]
 tags: ["interés compuesto", "finanzas personales", "inversiones", "crecimiento financiero", "educación financiera", "dinero trabajando para ti"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/G3yIr7tPelA"
+  thumbnailUrl: "https://i.ytimg.com/vi/G3yIr7tPelA/maxresdefault.jpg"
+  duration: "PT17M35S"
+  uploadDate: "2025-04-08T18:30:06Z"
 ---
 
 ### ¿Te Sientes Estancado en Tu Ahorro? ¡Descubre el Secreto para Romper el Ciclo!

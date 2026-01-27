@@ -6,6 +6,11 @@ heroImage: "/blogs/lonchafinismo.webp"
 categories: ["finanzas personales", "mentalidad financiera"]
 tags: ["lonchafinismo", "frugalidad extrema", "salud financiera", "ahorro inteligente", "educación financiera"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/gk8qPkI8R90"
+  thumbnailUrl: "https://i.ytimg.com/vi/gk8qPkI8R90/maxresdefault.jpg"
+  duration: "PT14M19S"
+  uploadDate: "2025-06-24T18:30:06Z"
 ---
 ## ¿Cuánto estás dispuesto a sacrificar por ahorrar?
 

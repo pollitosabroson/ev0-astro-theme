@@ -6,6 +6,11 @@ heroImage: "/blogs/plusvalia-muerto.webp"
 categories: ["finanzas personales", "Blog Inversiones"]
 tags: ["herencia", "fondos de inversión", "planificación financiera", "educación financiera", "plusvalía del muerto"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/okICDO7uAB0"
+  thumbnailUrl: "https://i.ytimg.com/vi/okICDO7uAB0/maxresdefault.jpg"
+  duration: "PT13M44S"
+  uploadDate: "2025-05-27T18:30:06Z"
 ---
 
 ## ¿Alguna vez te has preguntado qué pasaría si mueres siendo… el más rico del cementerio?

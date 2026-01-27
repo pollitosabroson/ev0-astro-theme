@@ -6,6 +6,11 @@ heroImage: "/blogs/blackfriday-2024.webp"
 categories: ["Finanzas personales", "Consejos de consumo"]  
 tags: ["Black Friday", "Ahorro inteligente", "Trampas financieras", "Phishing", "Consumo responsable", "Ciberseguridad", "Control de gastos"]  
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/YEB8yBvJbNE"
+  thumbnailUrl: "https://i.ytimg.com/vi/YEB8yBvJbNE/maxresdefault.jpg"
+  duration: "PT14M18S"
+  uploadDate: "2024-11-26T19:30:06Z"
 ---
 Atención! Estamos en plena temporada de Black Friday, y tú eres el blanco perfecto de las estrategias más agresivas del capitalismo. ¿Quieres proteger tu dinero y evitar ser víctima de descuentos falsos y estafas? Quédate, porque aquí no solo te revelaré las trampas que usan para vaciarte los bolsillos, sino también cómo salir ileso y tomar el control de tus compras.
 

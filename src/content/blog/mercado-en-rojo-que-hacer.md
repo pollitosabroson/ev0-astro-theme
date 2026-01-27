@@ -6,6 +6,11 @@ heroImage: "/blogs/bajas-2025.webp"
 categories: ["Finanzas Personales", "Inversiones Inteligentes"]
 tags: ["mercado bajista", "psicologia financiera", "inversiones", "educacion financiera", "volatilidad", "estrategia financiera"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/MlAwgTRkR1U"
+  thumbnailUrl: "https://i.ytimg.com/vi/MlAwgTRkR1U/maxresdefault.jpg"
+  duration: "PT13M37S"
+  uploadDate: "2025-04-22T18:30:06Z"
 ---
 # 🧠 ¿El mercado está en rojo? La mayoría se asusta... Los inversores inteligentes hacen esto.
 
