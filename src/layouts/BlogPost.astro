@@ -4,17 +4,30 @@ import type { CollectionEntry } from "astro:content";
 import FormattedDate from "@components/FormattedDate.astro";
 import CalendarIcon from "@icons/CalendarIcon.astro";
 import CategoryIcon from "@icons/CategoryIcon.astro";
+import VideoSEO from "@components/VideoSEO.astro";
 import { Image } from "astro:assets";
 import config from "@config/config.json";
 import { slugify } from "@utils/slug";
 
 type Props = CollectionEntry<"blog">["data"];
 
-const { title, description, pubDate, heroImage, categories, tags } =
+const { title, description, pubDate, heroImage, categories, tags, video } =
   Astro.props;
 ---
 
 <Base meta_title={title} description={description} image={heroImage} blogpost>
+  <!-- Inyectar VideoSEO si hay datos de video (retrocompatible) -->
+  {video && (
+    <VideoSEO
+      title={title}
+      description={description}
+      embedUrl={video.embedUrl}
+      thumbnailUrl={video.thumbnailUrl}
+      duration={video.duration}
+      uploadDate={video.uploadDate}
+      chapters={video.chapters}
+    />
+  )}
   <article>
     <div class="rounded-lg block overflow-hidden mb-8">
       {

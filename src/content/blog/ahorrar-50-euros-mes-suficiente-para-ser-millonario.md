@@ -6,6 +6,24 @@ heroImage: "/blogs/fondos.webp"
 categories: ["Blog Inversiones"]
 tags: ["Inversiones", "MyInvertos", "Febrero"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/UbRlK39RLLE"
+  thumbnailUrl: "https://i.ytimg.com/vi/UbRlK39RLLE/maxresdefault.jpg"
+  duration: "PT15M42S"
+  uploadDate: "2024-04-30T20:48:15Z"
+  chapters:
+    - name: "Introducción: ¿50€ al mes te harán millonario?"
+      startOffset: 0
+      endOffset: 90
+    - name: "La realidad de los fondos indexados"
+      startOffset: 90
+      endOffset: 300
+    - name: "¿Vale la pena seguir leyendo?"
+      startOffset: 300
+      endOffset: 540
+    - name: "Cuánto dinero necesitas invertir"
+      startOffset: 540
+      endOffset: 942
 ---
 Últimamente, todo el mundo habla de la magia de invertir en fondos indexados. Te dicen que solo tienes que poner tu dinero y sentarte a esperar, ¡y te convertirás en millonario! Pero, ¿es realmente tan sencillo? ¿Ahorrando 50€ al mes te vas a convertir en el próximo Jeff Bezos o Elon Musk?
 

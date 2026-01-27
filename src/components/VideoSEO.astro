@@ -1,0 +1,72 @@
+---
+/**
+ * VideoSEO Component
+ * Genera el marcado de datos estructurados (Schema.org VideoObject) para mejorar
+ * la indexación en Google y buscadores de IA (Perplexity/Gemini)
+ * Permite mostrar "Key Moments" y miniaturas en resultados de búsqueda
+ */
+
+export interface VideoChapter {
+  name: string;
+  startOffset: number;
+  endOffset: number;
+}
+
+export interface Props {
+  title: string;
+  description: string;
+  embedUrl: string;
+  thumbnailUrl?: string;
+  duration?: string; // Formato ISO 8601 (ej: PT12M30S)
+  uploadDate?: string; // Formato ISO 8601 (ej: 2025-02-03T15:08:20Z)
+  chapters?: VideoChapter[];
+}
+
+const {
+  title,
+  description,
+  embedUrl,
+  thumbnailUrl,
+  duration,
+  uploadDate,
+  chapters = [],
+} = Astro.props;
+
+// Construir el objeto VideoObject según Schema.org
+const videoObject: Record<string, any> = {
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  name: title,
+  description: description,
+  embedUrl: embedUrl,
+};
+
+// Agregar campos opcionales solo si están presentes
+if (thumbnailUrl) {
+  videoObject.thumbnailUrl = [thumbnailUrl];
+}
+
+if (uploadDate) {
+  videoObject.uploadDate = uploadDate;
+}
+
+if (duration) {
+  videoObject.duration = duration;
+}
+
+// Agregar Key Moments (hasPart) si hay capítulos
+if (chapters && chapters.length > 0) {
+  videoObject.hasPart = chapters.map((chapter) => ({
+    "@type": "Clip",
+    name: chapter.name,
+    startOffset: chapter.startOffset,
+    endOffset: chapter.endOffset,
+    url: `${embedUrl}?t=${chapter.startOffset}`,
+  }));
+}
+
+const jsonLd = JSON.stringify(videoObject, null, 2);
+---
+
+<!-- Schema.org VideoObject JSON-LD -->
+<script type="application/ld+json" set:html={jsonLd} />
