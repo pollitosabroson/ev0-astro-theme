@@ -9,7 +9,7 @@ const blog = defineCollection({
     heroImage: z.string().optional(),
     categories: z.array(z.string()).default(['others']),
     tags: z.array(z.string()).default(['others']),
-    authors: z.array(z.string()).default(['gndx']),
+    authors: z.array(z.string()).default(['Alejandro Rosales']),
     // Campos opcionales para Video SEO (Schema.org VideoObject)
     video: z.object({
       embedUrl: z.string(), // URL del video embebido (ej: https://www.youtube.com/embed/ID)
