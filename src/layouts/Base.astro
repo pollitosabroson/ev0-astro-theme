@@ -56,10 +56,10 @@ const ogImage = createOgImage({
     />
     <link
       rel="canonical"
-      href={`${config.site.base_url}/${Astro.url.pathname.replace("/", "")}`}
+      href={`${config.site.base_url}${Astro.url.pathname}`}
       item-prop="url"
     />
-    {noindex && <meta name="robots" content="noindex,nofollow" />}
+    {noindex && <meta name="robots" content="noindex,follow" />}
     <meta
       name="description"
       content={description ? description : config.metadata.meta_description}
@@ -79,7 +79,7 @@ const ogImage = createOgImage({
     <meta property="og:type" content="website" />
     <meta
       property="og:url"
-      content={`${config.site.base_url}/${Astro.url.pathname.replace("/", "")}`}
+      content={`${config.site.base_url}${Astro.url.pathname}`}
     />
 
     <!-- twitter-title -->

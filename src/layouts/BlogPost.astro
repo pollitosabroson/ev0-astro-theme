@@ -40,7 +40,8 @@ const { title, description, pubDate, heroImage, categories, tags, video } =
               width={960}
               height={480}
               decoding="async"
-              loading="lazy"
+              loading="eager"
+              fetchpriority="high"
             />
           </figure>
         )
@@ -72,7 +73,7 @@ const { title, description, pubDate, heroImage, categories, tags, video } =
           {
             categories?.slice(0, 1).map((category) => (
               <a
-                href={`/categories/${slugify(category)}`}
+                href={`/categories/${slugify(category)}/`}
                 class="mr-2 hover:text-primary font-medium capitalize"
               >
                 {category}
@@ -89,7 +90,7 @@ const { title, description, pubDate, heroImage, categories, tags, video } =
       {
         tags?.map((tag) => (
           <a
-            href={`/tags/${slugify(tag)}`}
+            href={`/tags/${slugify(tag)}/`}
             class="capitalize inline-block bg-zinc-200 rounded-full px-3 py-1 text-sm font-semibold text-zinc-700 mr-2 mb-2 dark:bg-zinc-900 dark:text-zinc-400"
           >
             #{tag}

@@ -11,6 +11,7 @@ import { manifest } from './src/utils/manifest';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://alejandrorosales.me/',
+  trailingSlash: 'always',
   image: {
     remotePatterns: [{ protocol: 'https' }],
   },
@@ -31,7 +32,9 @@ export default defineConfig({
       drafts: true,
     }),
     compressor({ gzip: true, brotli: true }),
-    sitemap(),
+    sitemap({
+      filter: (page) => !page.includes('/tags/'),
+    }),
     tailwind(),
     robotsTxt(),
   ],
