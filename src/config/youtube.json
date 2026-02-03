@@ -1,5 +1,30 @@
 [
   {
+    "title": "¿Por qué estás invirtiendo mal? Las trampas que te hacen perder dinero #inversiones #dinero",
+    "description": "El oro en máximos históricos, el S&P 500 en una montaña rusa y titulares que te empujan a hacer algo constantemente.",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "yw3fmLiE53o",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/yw3fmLiE53o/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/yw3fmLiE53o/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/yw3fmLiE53o/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2026-01-31T12:56:22Z"
+  },
+  {
     "title": "La Estrategia &quot;Mediocre&quot; que bate al 90% de los Expertos #inversiones  #dinero",
     "description": "Mucha gente cree que para ganar dinero invirtiendo hay que ser brillante, rápido y tomar riesgos constantes. La realidad es justo ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,22 +32,22 @@
     "videoId": "ssvvhhpjGk0",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/ssvvhhpjGk0/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/ssvvhhpjGk0/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/ssvvhhpjGk0/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/ssvvhhpjGk0/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/ssvvhhpjGk0/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/ssvvhhpjGk0/hqdefault.jpg",
         "width": 480,
         "height": 360
       }
     },
-    "publishedAt": "2026-01-20T13:38:09Z"
+    "publishedAt": "2026-01-20T19:30:06Z"
   },
   {
     "title": "El DÍA que el MERCADO entra en PÁNICO (y tu FONDO lo PAGA) #fondosindexados #inversiones",
@@ -223,30 +248,5 @@
       }
     },
     "publishedAt": "2025-11-18T19:30:06Z"
-  },
-  {
-    "title": "S&amp;P 500: Lo que NADIE te explicó sobre invertir en este índice 📈 #sp500 #inversiones #invertir",
-    "description": "El S&P 500 no es solo un índice: es el reflejo del poder económico de las empresas que dominan el mundo. En este video ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "-YJhD11gn5s",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/-YJhD11gn5s/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/-YJhD11gn5s/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/-YJhD11gn5s/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2025-11-11T19:30:06Z"
   }
 ]
