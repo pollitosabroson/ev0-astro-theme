@@ -7,6 +7,11 @@ heroImage: "/blogs/ahorrar-te-hace-mas-pobre.webp"
 categories: ["finanzas personales", "educación financiera", "inversión"]
 tags: ["ahorro", "inflación", "poder adquisitivo", "inversión", "oro", "bienes raíces", "política monetaria"]
 author: ["Alejandro Rosales"]
+video:
+  embedUrl: "https://www.youtube.com/embed/8cwWV8V2aBI"
+  thumbnailUrl: "https://i.ytimg.com/vi/8cwWV8V2aBI/maxresdefault.jpg"
+  duration: "PT15M42S"
+  uploadDate: "2026-02-10T19:30:06Z"
 ---
 
 - El ahorro tradicional pierde valor cada año por culpa de la inflación y la expansión monetaria.
