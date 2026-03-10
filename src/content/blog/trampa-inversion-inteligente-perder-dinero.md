@@ -6,28 +6,10 @@ heroImage: "/blogs/trampa-inversion-inteligente.webp"
 categories: ["finanzas personales", "educación financiera", "inversión"]
 tags: ["inversión", "errores financieros", "fondos de inversión", "comisiones", "inflación", "psicología del inversor", "S&P 500"]
 author: ["Alejandro Rosales"]
-# video:
-# embedUrl:
-# thumbnailUrl:
-# duration:
-# uploadDate:
-# chapters:
-# - name:
-# startOffset:
-# endOffset:
-# - name:
-# startOffset:
-# endOffset:
-# - name:
-# startOffset:
-# endOffset:
-# - name:
-# startOffset:
-# endOffset:
 video:
   embedUrl: "https://www.youtube.com/embed/yw3fmLiE53o"
   thumbnailUrl: "https://i.ytimg.com/vi/yw3fmLiE53o/maxresdefault.jpg"
-  duration: "undefined"
+  duration: "PT14M16S"
   uploadDate: "2026-01-31T12:51:58Z"
 ---
 
