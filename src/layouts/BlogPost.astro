@@ -5,6 +5,7 @@ import FormattedDate from "@components/FormattedDate.astro";
 import CalendarIcon from "@icons/CalendarIcon.astro";
 import CategoryIcon from "@icons/CategoryIcon.astro";
 import VideoSEO from "@components/VideoSEO.astro";
+import BlogPostJsonLd from "@components/BlogPostJsonLd.astro";
 import { Image } from "astro:assets";
 import config from "@config/config.json";
 import { slugify } from "@utils/slug";
@@ -28,6 +29,9 @@ const { title, description, pubDate, heroImage, categories, tags, video } =
       chapters={video.chapters}
     />
   )}
+  
+  <!-- JSON-LD específico para el blog post -->
+  <BlogPostJsonLd post={Astro.props} />
   <article>
     <div class="rounded-lg block overflow-hidden mb-8">
       {

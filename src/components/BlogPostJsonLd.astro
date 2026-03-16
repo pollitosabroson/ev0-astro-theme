@@ -1,0 +1,219 @@
+---
+import config from "@config/config.json";
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  post: CollectionEntry<"blog">["data"];
+  url?: string;
+}
+
+const { post, url } = Astro.props;
+const { title, description, pubDate, heroImage, categories, tags, video, author } = post;
+
+const baseUrl = config.site?.base_url || 'https://alejandrorosales.me';
+const authorName = config.author?.name || 'Alejandro Rosales';
+const postUrl = url || `${baseUrl}${Astro.url.pathname}`;
+
+// Generar keywords from categories and tags
+const keywords = [...(categories || []), ...(tags || [])].join(', ');
+
+// Calcular tiempo de lectura estimado (aproximadamente 200 palabras por minuto)
+const estimatedReadingTime = description ? Math.max(1, Math.ceil(description.length / 1000)) : 3;
+
+const blogPostJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": `${postUrl}#blogpost`,
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": postUrl
+  },
+  "headline": title,
+  "description": description,
+  "image": heroImage ? `${baseUrl}${heroImage}` : `${baseUrl}/blog-placeholder.jpg`,
+  "author": {
+    "@type": "Person",
+    "@id": `${baseUrl}/#person`,
+    "name": authorName,
+    "url": baseUrl,
+    "image": `${baseUrl}${config.author?.avatar || '/autor.jpeg'}`,
+    "jobTitle": ["Inversor", "Divulgador Financiero", "Ingeniero de Software"],
+    "knowsAbout": [
+      "ETF",
+      "Inversión",
+      "Interés Compuesto", 
+      "Finanzas Personales",
+      "Educación Financiera",
+      "Planificación de Jubilación",
+      "Fondos de Inversión"
+    ],
+    "sameAs": [
+      "https://youtube.com/@alejandrorosales"
+    ]
+  },
+  "publisher": {
+    "@type": ["Organization", "EducationalOrganization"],
+    "@id": `${baseUrl}/#organization`,
+    "name": "Alejandro Rosales - Educación Financiera",
+    "description": "Organización dedicada a la educación financiera y democratización de las inversiones",
+    "url": baseUrl,
+    "logo": {
+      "@type": "ImageObject",
+      "url": `${baseUrl}${config.site?.logoLight || '/logoLight.png'}`,
+      "width": 200,
+      "height": 60
+    },
+    "founder": {
+      "@id": `${baseUrl}/#person`
+    },
+    "knowsAbout": [
+      "Finanzas Personales",
+      "Inversiones",
+      "ETFs",
+      "Fondos de Inversión", 
+      "Educación Financiera",
+      "Planificación de Jubilación"
+    ]
+  },
+  "datePublished": pubDate,
+  "dateModified": pubDate,
+  "url": postUrl,
+  "keywords": keywords,
+  "articleSection": categories?.join(', ') || 'Finanzas Personales',
+  "articleBody": description,
+  "wordCount": description?.length || 500,
+  "timeRequired": `PT${estimatedReadingTime}M`,
+  "inLanguage": "es-ES",
+  "isPartOf": {
+    "@type": "Blog",
+    "@id": `${baseUrl}/blog/#blog`,
+    "name": "Blog de Finanzas e Inversiones - Alejandro Rosales",
+    "description": "Blog especializado en finanzas personales, inversiones y educación financiera",
+    "url": `${baseUrl}/blog`
+  },
+  "about": categories?.map(category => ({
+    "@type": "Thing",
+    "name": category,
+    "sameAs": category.toLowerCase().includes('etf') ? 
+      "https://en.wikipedia.org/wiki/Exchange-traded_fund" :
+      category.toLowerCase().includes('inversión') ?
+      "https://es.wikipedia.org/wiki/Inversión" :
+      undefined
+  })).filter(item => item.sameAs) || [
+    {
+      "@type": "Thing",
+      "name": "Finanzas Personales",
+      "sameAs": "https://es.wikipedia.org/wiki/Finanzas_personales"
+    }
+  ],
+  "teaches": tags?.filter(tag => 
+    tag.toLowerCase().includes('educación') ||
+    tag.toLowerCase().includes('inversión') ||
+    tag.toLowerCase().includes('finanzas')
+  ).map(tag => ({
+    "@type": "Thing",
+    "name": tag
+  })) || [],
+  "audience": {
+    "@type": "Audience",
+    "audienceType": [
+      "Principiantes en Inversión",
+      "Personas interesadas en Finanzas Personales",
+      "Hispanohablantes",
+      "Adultos jóvenes y profesionales"
+    ],
+    "geographicArea": {
+      "@type": "Country",
+      "name": "España"
+    }
+  },
+  "citation": video?.embedUrl ? [
+    {
+      "@type": "VideoObject",
+      "@id": video.embedUrl,
+      "name": title,
+      "description": description,
+      "thumbnailUrl": video.thumbnailUrl,
+      "embedUrl": video.embedUrl,
+      "uploadDate": video.uploadDate || pubDate,
+      "duration": video.duration || "PT15M",
+      "publisher": {
+        "@id": `${baseUrl}/#organization`
+      },
+      "author": {
+        "@id": `${baseUrl}/#person`
+      }
+    }
+  ] : undefined,
+  "potentialAction": [
+    {
+      "@type": "ReadAction",
+      "target": postUrl
+    },
+    {
+      "@type": "ShareAction",
+      "target": postUrl
+    },
+    {
+      "@type": "CommentAction",
+      "target": postUrl
+    }
+  ],
+  "interactionStatistic": {
+    "@type": "InteractionCounter",
+    "interactionType": "https://schema.org/ReadAction",
+    "userInteractionCount": 0
+  }
+};
+
+// Si hay video, agregar información adicional
+if (video?.embedUrl) {
+  blogPostJsonLd.video = {
+    "@type": "VideoObject",
+    "name": title,
+    "description": description,
+    "thumbnailUrl": video.thumbnailUrl,
+    "embedUrl": video.embedUrl,
+    "uploadDate": video.uploadDate || pubDate,
+    "duration": video.duration || "PT15M",
+    "publisher": {
+      "@id": `${baseUrl}/#organization`
+    }
+  };
+}
+
+// Limpiar propiedades undefined
+Object.keys(blogPostJsonLd).forEach(key => {
+  if (blogPostJsonLd[key] === undefined) {
+    delete blogPostJsonLd[key];
+  }
+});
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(blogPostJsonLd, null, 2)} />
+
+<!-- También incluir breadcrumbs para el post -->
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Inicio",
+      "item": baseUrl
+    },
+    {
+      "@type": "ListItem", 
+      "position": 2,
+      "name": "Blog",
+      "item": `${baseUrl}/blog`
+    },
+    {
+      "@type": "ListItem",
+      "position": 3, 
+      "name": title,
+      "item": postUrl
+    }
+  ]
+}, null, 2)} />
