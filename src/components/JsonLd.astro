@@ -1,0 +1,163 @@
+---
+import fs from 'fs';
+import path from 'path';
+
+interface Props {
+  type?: 'person' | 'website' | 'organization' | 'blog' | 'combined';
+}
+
+const { type = 'combined' } = Astro.props;
+
+// Intentar leer el JSON-LD generado
+let jsonLdData = null;
+
+try {
+  // En desarrollo, usar archivos estáticos si existen
+  const isDev = import.meta.env.DEV;
+  
+  if (isDev) {
+    // En desarrollo, generar JSON-LD básico
+    const baseUrl = 'https://alejandrorosales.me';
+    
+    switch (type) {
+      case 'person':
+        jsonLdData = {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "@id": `${baseUrl}/#person`,
+          "name": "Alejandro Rosales",
+          "jobTitle": ["Inversor", "Divulgador Financiero", "Ingeniero de Software"],
+          "description": "Inversor y divulgador financiero especializado en educación financiera e inversiones",
+          "url": baseUrl,
+          "image": `${baseUrl}/autor.jpeg`,
+          "sameAs": [
+            "https://youtube.com/@alejandrorosales"
+          ],
+          "knowsAbout": [
+            "ETF",
+            "Inversión", 
+            "Interés Compuesto",
+            "Finanzas Personales",
+            "Educación Financiera",
+            "Planificación de Jubilación",
+            "Fondos de Inversión"
+          ],
+          "hasSkill": [
+            "Análisis Financiero",
+            "Planificación Financiera", 
+            "Educación Financiera",
+            "Gestión de Inversiones",
+            "Divulgación Financiera"
+          ]
+        };
+        break;
+      
+      case 'website':
+        jsonLdData = {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "@id": `${baseUrl}/#website`,
+          "name": "Alejandro Rosales, Inversor y Divulgador Financiero",
+          "description": "Blog de finanzas personales e inversiones",
+          "url": baseUrl,
+          "inLanguage": "es-ES",
+          "about": [
+            "Finanzas Personales",
+            "Inversiones",
+            "Educación Financiera", 
+            "ETFs",
+            "Fondos de Inversión"
+          ]
+        };
+        break;
+      
+      case 'organization':
+        jsonLdData = {
+          "@context": "https://schema.org",
+          "@type": ["Organization", "EducationalOrganization"],
+          "@id": `${baseUrl}/#organization`,
+          "name": "Alejandro Rosales - Educación Financiera",
+          "description": "Organización dedicada a la educación financiera y democratización de las inversiones",
+          "url": baseUrl,
+          "founder": {
+            "@id": `${baseUrl}/#person`
+          }
+        };
+        break;
+        
+      case 'blog':
+        jsonLdData = {
+          "@context": "https://schema.org",
+          "@type": "Blog",
+          "@id": `${baseUrl}/blog/#blog`,
+          "name": "Blog de Finanzas e Inversiones - Alejandro Rosales",
+          "description": "Blog especializado en finanzas personales, inversiones y educación financiera",
+          "url": `${baseUrl}/blog`,
+          "inLanguage": "es-ES",
+          "author": {
+            "@id": `${baseUrl}/#person`
+          }
+        };
+        break;
+        
+      default:
+        // JSON-LD combinado básico
+        jsonLdData = {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": `${baseUrl}/#person`,
+              "name": "Alejandro Rosales",
+              "jobTitle": ["Inversor", "Divulgador Financiero"],
+              "knowsAbout": ["ETF", "Inversión", "Interés Compuesto", "Finanzas Personales"]
+            },
+            {
+              "@type": "WebSite", 
+              "@id": `${baseUrl}/#website`,
+              "name": "Alejandro Rosales - Blog de Finanzas",
+              "url": baseUrl,
+              "about": ["Finanzas Personales", "Inversiones", "ETFs"]
+            }
+          ]
+        };
+    }
+  } else {
+    // En producción, intentar leer el archivo generado
+    try {
+      const publicPath = path.join(process.cwd(), 'dist');
+      let filePath;
+      
+      switch (type) {
+        case 'person':
+          filePath = path.join(publicPath, 'person.jsonld');
+          break;
+        case 'website':
+          filePath = path.join(publicPath, 'website.jsonld');
+          break;
+        case 'organization':
+          filePath = path.join(publicPath, 'organization.jsonld');
+          break;
+        case 'blog':
+          filePath = path.join(publicPath, 'blog.jsonld');
+          break;
+        default:
+          filePath = path.join(publicPath, 'structured-data.json');
+      }
+      
+      if (fs.existsSync(filePath)) {
+        const fileContent = fs.readFileSync(filePath, 'utf-8');
+        jsonLdData = JSON.parse(fileContent);
+      }
+    } catch (error) {
+      console.warn('No se pudo cargar JSON-LD generado, usando fallback');
+    }
+  }
+} catch (error) {
+  console.warn('Error cargando JSON-LD:', error);
+}
+---
+
+{jsonLdData && (
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLdData)} />
+)}
