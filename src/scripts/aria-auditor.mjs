@@ -1,7 +1,5 @@
 import fs from 'fs';
 import path from 'path';
-import { glob } from 'glob';
-import { JSDOM } from 'jsdom';
 
 export default function ariaAuditor() {
   return {
@@ -9,6 +7,10 @@ export default function ariaAuditor() {
     hooks: {
       'astro:build:done': async ({ dir }) => {
         try {
+          // Dynamic imports to avoid ESM/CommonJS conflicts during config evaluation
+          const { glob } = await import('glob');
+          const { JSDOM } = await import('jsdom');
+          
           console.log('♿ Auditando y mejorando accesibilidad ARIA...');
           
           // Buscar todos los archivos HTML generados
