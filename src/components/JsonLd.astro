@@ -101,7 +101,93 @@ try {
         break;
         
       default:
-        // JSON-LD combinado básico
+        // JSON-LD combinado básico con Blog como tipo principal
+        jsonLdData = {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": `${baseUrl}/#person`,
+              "name": "Alejandro Rosales",
+              "jobTitle": ["Inversor", "Divulgador Financiero", "Ingeniero de Software"],
+              "description": "Inversor y divulgador financiero especializado en educación financiera e inversiones",
+              "url": baseUrl,
+              "image": `${baseUrl}/autor.jpeg`,
+              "sameAs": [
+                "https://youtube.com/@alejandrorosales"
+              ],
+              "knowsAbout": [
+                "ETF",
+                "Inversión", 
+                "Interés Compuesto",
+                "Finanzas Personales",
+                "Educación Financiera",
+                "Planificación de Jubilación",
+                "Fondos de Inversión"
+              ],
+              "teaches": [
+                "Finanzas Personales",
+                "Inversión en ETFs",
+                "Planificación de Jubilación",
+                "Gestión de Deudas",
+                "Construcción de Carteras de Inversión"
+              ]
+            },
+            {
+              "@type": "WebSite", 
+              "@id": `${baseUrl}/#website`,
+              "name": "Alejandro Rosales, Inversor y Divulgador Financiero",
+              "description": "Blog de finanzas personales, inversiones y educación financiera",
+              "url": baseUrl,
+              "inLanguage": "es-ES",
+              "author": {
+                "@id": `${baseUrl}/#person`
+              },
+              "publisher": {
+                "@id": `${baseUrl}/#person`
+              }
+            },
+            {
+              "@type": "Blog",
+              "@id": `${baseUrl}/#blog`,
+              "name": "Blog de Finanzas e Inversiones - Alejandro Rosales",
+              "description": "Blog especializado en finanzas personales, inversiones, ETFs y educación financiera para alcanzar la libertad financiera",
+              "url": baseUrl,
+              "inLanguage": "es-ES",
+              "author": {
+                "@id": `${baseUrl}/#person`
+              },
+              "publisher": {
+                "@id": `${baseUrl}/#person`
+              },
+              "about": [
+                "Finanzas Personales",
+                "Inversiones",
+                "ETFs",
+                "Fondos de Inversión",
+                "Educación Financiera",
+                "Libertad Financiera",
+                "Planificación de Jubilación"
+              ]
+            }
+          ]
+        };
+    }
+  } else {
+    // En producción, intentar leer el archivo generado desde la raíz de dist
+    try {
+      const publicPath = path.join(process.cwd(), 'dist');
+      let filePath;
+      
+      // Intentar cargar el archivo structured-data.json generado
+      filePath = path.join(publicPath, 'structured-data.json');
+      
+      if (fs.existsSync(filePath)) {
+        const fileContent = fs.readFileSync(filePath, 'utf-8');
+        jsonLdData = JSON.parse(fileContent);
+      } else {
+        // Fallback: generar JSON-LD básico si no existe el archivo
+        const baseUrl = 'https://alejandrorosales.me';
         jsonLdData = {
           "@context": "https://schema.org",
           "@graph": [
@@ -110,47 +196,22 @@ try {
               "@id": `${baseUrl}/#person`,
               "name": "Alejandro Rosales",
               "jobTitle": ["Inversor", "Divulgador Financiero"],
-              "knowsAbout": ["ETF", "Inversión", "Interés Compuesto", "Finanzas Personales"]
+              "url": baseUrl
             },
             {
-              "@type": "WebSite", 
-              "@id": `${baseUrl}/#website`,
-              "name": "Alejandro Rosales - Blog de Finanzas",
+              "@type": "Blog",
+              "@id": `${baseUrl}/#blog`,
+              "name": "Blog de Finanzas e Inversiones - Alejandro Rosales",
               "url": baseUrl,
-              "about": ["Finanzas Personales", "Inversiones", "ETFs"]
+              "author": {
+                "@id": `${baseUrl}/#person`
+              }
             }
           ]
         };
-    }
-  } else {
-    // En producción, intentar leer el archivo generado
-    try {
-      const publicPath = path.join(process.cwd(), 'dist');
-      let filePath;
-      
-      switch (type) {
-        case 'person':
-          filePath = path.join(publicPath, 'person.jsonld');
-          break;
-        case 'website':
-          filePath = path.join(publicPath, 'website.jsonld');
-          break;
-        case 'organization':
-          filePath = path.join(publicPath, 'organization.jsonld');
-          break;
-        case 'blog':
-          filePath = path.join(publicPath, 'blog.jsonld');
-          break;
-        default:
-          filePath = path.join(publicPath, 'structured-data.json');
-      }
-      
-      if (fs.existsSync(filePath)) {
-        const fileContent = fs.readFileSync(filePath, 'utf-8');
-        jsonLdData = JSON.parse(fileContent);
       }
     } catch (error) {
-      console.warn('No se pudo cargar JSON-LD generado, usando fallback');
+      console.warn('No se pudo cargar JSON-LD generado, usando fallback:', error);
     }
   }
 } catch (error) {

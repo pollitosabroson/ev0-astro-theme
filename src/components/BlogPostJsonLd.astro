@@ -5,9 +5,10 @@ import type { CollectionEntry } from "astro:content";
 interface Props {
   post: CollectionEntry<"blog">["data"];
   url?: string;
+  content?: string;
 }
 
-const { post, url } = Astro.props;
+const { post, url, content } = Astro.props;
 const { title, description, pubDate, heroImage, categories, tags, video, author } = post;
 
 const baseUrl = config.site?.base_url || 'https://alejandrorosales.me';
@@ -17,8 +18,23 @@ const postUrl = url || `${baseUrl}${Astro.url.pathname}`;
 // Generar keywords from categories and tags
 const keywords = [...(categories || []), ...(tags || [])].join(', ');
 
+// Función para contar palabras reales del contenido
+function countWords(text: string | undefined): number {
+  if (!text) return 0;
+  // Remover HTML tags, espacios múltiples y contar palabras
+  const cleanText = text
+    .replace(/<[^>]*>/g, '') // Remover HTML
+    .replace(/\s+/g, ' ')    // Normalizar espacios
+    .trim();
+  const words = cleanText.split(/\s+/).filter(word => word.length > 0);
+  return words.length;
+}
+
+// Contar palabras reales del contenido
+const actualWordCount = content ? countWords(content) : (description ? countWords(description) : 500);
+
 // Calcular tiempo de lectura estimado (aproximadamente 200 palabras por minuto)
-const estimatedReadingTime = description ? Math.max(1, Math.ceil(description.length / 1000)) : 3;
+const estimatedReadingTime = Math.max(1, Math.ceil(actualWordCount / 200));
 
 const blogPostJsonLd = {
   "@context": "https://schema.org",
@@ -81,7 +97,7 @@ const blogPostJsonLd = {
   "keywords": keywords,
   "articleSection": categories?.join(', ') || 'Finanzas Personales',
   "articleBody": description,
-  "wordCount": description?.length || 500,
+  "wordCount": actualWordCount,
   "timeRequired": `PT${estimatedReadingTime}M`,
   "inLanguage": "es-ES",
   "isPartOf": {

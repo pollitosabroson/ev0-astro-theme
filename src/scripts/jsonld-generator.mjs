@@ -120,6 +120,7 @@ export default function jsonLdGenerator() {
           
           // Generar archivo combinado para insertar en HTML
           const combinedJsonLd = {
+            "@context": "https://schema.org",
             "@graph": [personJsonLd, websiteJsonLd, organizationJsonLd, blogJsonLd]
           };
           
@@ -153,7 +154,6 @@ function generatePersonJsonLd(config, topics, skills, posts) {
     Math.ceil((new Date() - new Date(oldestPost.pubDate)) / (1000 * 60 * 60 * 24 * 365)) : 2;
   
   return {
-    "@context": "https://schema.org",
     "@type": "Person",
     "@id": `${baseUrl}/#person`,
     "name": authorName,
@@ -234,11 +234,41 @@ function generatePersonJsonLd(config, topics, skills, posts) {
     },
     "knowsLanguage": [
       {
-        "@type": "Language", 
+        "@type": "Language",
         "name": "Español",
         "alternateName": "es"
       }
-    ]
+    ],
+    "teaches": [
+      "Finanzas Personales",
+      "Inversión en ETFs",
+      "Planificación de Jubilación",
+      "Gestión de Deudas",
+      "Construcción de Carteras de Inversión",
+      "Estrategias de Ahorro",
+      "Inversión Pasiva",
+      "Análisis de Fondos de Inversión",
+      "Presupuestos Personales",
+      "Independencia Financiera"
+    ],
+    "subjectOf": [
+      {
+        "@type": "WebSite",
+        "name": "Blog de Finanzas e Inversiones",
+        "url": baseUrl,
+        "description": "Blog educativo sobre finanzas personales e inversiones"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "Canal de YouTube de Alejandro Rosales",
+        "url": "https://youtube.com/@alejandrorosales",
+        "description": "Contenido educativo en video sobre finanzas e inversiones"
+      }
+    ],
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": `${baseUrl}/about`
+    }
   };
 }
 
@@ -246,7 +276,6 @@ function generateWebsiteJsonLd(config, posts) {
   const baseUrl = config.site?.base_url || 'https://alejandrorosales.me';
   
   return {
-    "@context": "https://schema.org",
     "@type": "WebSite",
     "@id": `${baseUrl}/#website`,
     "name": config.site?.title || "Alejandro Rosales, Inversor y Divulgador Financiero",
@@ -306,7 +335,6 @@ function generateOrganizationJsonLd(config) {
   const baseUrl = config.site?.base_url || 'https://alejandrorosales.me';
   
   return {
-    "@context": "https://schema.org",
     "@type": ["Organization", "EducationalOrganization"],
     "@id": `${baseUrl}/#organization`,
     "name": "Alejandro Rosales - Educación Financiera",
@@ -350,12 +378,11 @@ function generateBlogJsonLd(config, posts) {
   const baseUrl = config.site?.base_url || 'https://alejandrorosales.me';
   
   return {
-    "@context": "https://schema.org",
     "@type": "Blog",
-    "@id": `${baseUrl}/blog/#blog`,
+    "@id": `${baseUrl}/#blog`,
     "name": "Blog de Finanzas e Inversiones - Alejandro Rosales",
     "description": "Blog especializado en finanzas personales, inversiones y educación financiera",
-    "url": `${baseUrl}/blog`,
+    "url": baseUrl,
     "inLanguage": "es-ES",
     "author": {
       "@id": `${baseUrl}/#person`
@@ -391,7 +418,7 @@ function generateBlogJsonLd(config, posts) {
       "articleSection": post.categories,
       "keywords": post.tags,
       "isPartOf": {
-        "@id": `${baseUrl}/blog/#blog`
+        "@id": `${baseUrl}/#blog`
       }
     })),
     "audience": {
