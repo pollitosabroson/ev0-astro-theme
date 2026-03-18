@@ -2,11 +2,11 @@ import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import tailwind from '@astrojs/tailwind';
 import compressor from "astro-compressor";
-import sitemap from '@astrojs/sitemap';
 import robotsTxt from 'astro-robots-txt';
 import { VitePWA } from 'vite-plugin-pwa';
 import llmsGenerator from './src/scripts/llms-generator.mjs';
 import jsonLdGenerator from './src/scripts/jsonld-generator.mjs';
+import sitemapGenerator from './src/scripts/sitemap-generator.mjs';
 import ariaAuditor from './src/scripts/aria-auditor.mjs';
 import ssrValidator from './src/scripts/ssr-validator.mjs';
 
@@ -36,9 +36,6 @@ export default defineConfig({
       drafts: true,
     }),
     compressor({ gzip: true, brotli: true }),
-    sitemap({
-      filter: (page) => !page.includes('/tags/'),
-    }),
     tailwind(),
     robotsTxt({
       policy: [
@@ -98,11 +95,12 @@ export default defineConfig({
           disallow: '/',
         },
       ],
-      sitemap: true,
+      sitemap: ['https://alejandrorosales.me/sitemap.xml'],
       host: 'alejandrorosales.me',
     }),
     llmsGenerator(),
     jsonLdGenerator(),
+    sitemapGenerator(),
     ariaAuditor(),
     ssrValidator(),
   ],

@@ -10,9 +10,11 @@ import { Image } from "astro:assets";
 import config from "@config/config.json";
 import { slugify } from "@utils/slug";
 
-type Props = CollectionEntry<"blog">["data"];
+type Props = CollectionEntry<"blog">["data"] & {
+  content?: string;
+};
 
-const { title, description, pubDate, heroImage, categories, tags, video } =
+const { title, description, pubDate, heroImage, categories, tags, video, content } =
   Astro.props;
 ---
 
@@ -31,7 +33,7 @@ const { title, description, pubDate, heroImage, categories, tags, video } =
   )}
   
   <!-- JSON-LD específico para el blog post -->
-  <BlogPostJsonLd post={Astro.props} />
+  <BlogPostJsonLd post={Astro.props} content={content} />
   <article>
     <div class="rounded-lg block overflow-hidden mb-8">
       {

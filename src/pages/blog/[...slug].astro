@@ -15,8 +15,9 @@ type Props = CollectionEntry<"blog">;
 
 const post = Astro.props;
 const { Content } = await post.render();
+const { body } = post;
 ---
 
-<BlogPost {...post.data}>
+<BlogPost {...post.data} content={body}>
   <Content components={{ pre: Code }} />
 </BlogPost>
