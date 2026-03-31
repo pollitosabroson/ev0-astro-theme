@@ -42,7 +42,7 @@ video:
 
 Marzo de 2026 ha sido un golpe de realidad.
 
-El :contentReference[oaicite:0]{index=0} ha entrado oficialmente en corrección tras caer más de un 10%, mientras que el :contentReference[oaicite:1]{index=1} acumula un retroceso cercano al 6% en lo que va de trimestre.
+El **Nasdaq 100** ha entrado oficialmente en corrección tras caer más de un 10%, mientras que el **S&P 500** acumula un retroceso cercano al 6% en lo que va de trimestre.
 
 Pero aquí va la verdad que pocos te dicen:  
 esto **no es una señal de colapso**, es una limpieza del sistema.
@@ -63,9 +63,7 @@ Traducción simple: todo se vuelve más caro → las empresas ganan menos → la
 
 **2. Incertidumbre política y fiscal**
 
-La nueva normativa fiscal como la  
-:contentReference[oaicite:2]{index=2}  
-ha generado dudas en los inversores.
+La nueva normativa fiscal ha generado dudas en los inversores.
 
 El mercado no odia las malas noticias.  
 **Odia la incertidumbre.**
@@ -149,8 +147,7 @@ Legal. Inteligente. Infrautilizado.
 
 ### 2. Las nuevas "Trump Accounts"
 
-El 4 de julio de 2026 nacen las  
-:contentReference[oaicite:3]{index=3}
+El 4 de julio de 2026 nacen las **Trump Accounts**:
 
 - $1,000 iniciales por niño  
 - Inversión obligatoria en el S&P 500  
@@ -170,9 +167,7 @@ El dinero serio está en infraestructura.
 
 ### 1. Energía para IA
 
-Empresas como  
-:contentReference[oaicite:4]{index=4}  
-están en el centro del juego.
+Empresas del sector energético están en el centro del juego.
 
 Sin energía → no hay IA.
 
@@ -180,8 +175,7 @@ Sin energía → no hay IA.
 
 ### 2. Infraestructura tecnológica
 
-Ejemplo claro:  
-:contentReference[oaicite:5]{index=5}
+Empresas de infraestructura tecnológica lideran este segmento:
 
 - Refrigeración de centros de datos  
 - Soporte crítico para chips avanzados  

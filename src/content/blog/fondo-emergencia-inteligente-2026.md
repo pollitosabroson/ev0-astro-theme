@@ -142,10 +142,6 @@ Es el **presupuesto de supervivencia de tu vida**.
 
 # La arquitectura del fondo de emergencia en 4 niveles
 
-
-::contentReference[oaicite:0]{index=0}
-
-
 Uno de los mayores errores financieros es guardar todo el fondo en una sola cuenta bancaria.
 
 La estrategia moderna consiste en **dividirlo por niveles de liquidez**.

@@ -120,10 +120,6 @@ Desde el punto de vista del consumidor:
 
 ## La ilusión de la conveniencia
 
-
-::contentReference[oaicite:0]{index=0}
-
-
 El problema no es la tecnología.
 
 Es la estructura psicológica del gasto recurrente.
@@ -190,10 +186,6 @@ Los precios ya han subido.
 ---
 
 ## Evidencia histórica reciente
-
-
-::contentReference[oaicite:1]{index=1}
-
 
 Entre 2020 y 2025 observamos:
 

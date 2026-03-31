@@ -22,6 +22,10 @@ const blog = defineCollection({
         endOffset: z.number(), // Fin en segundos
       })).optional(), // Key Moments del video
     }).optional(),
+    faqs: z.array(z.object({
+      question: z.string(),
+      answer: z.string(),
+    })).optional(),
   }),
 });
 

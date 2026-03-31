@@ -90,7 +90,7 @@ function generateLlmsContent(config, posts) {
 - **Autor**: ${config.author?.name || 'Alejandro Rosales'}
 - **Especialidad**: Inversor y Divulgador Financiero
 - **Experiencia**: Más de 2 años documentando el camino hacia la libertad financiera
-- **Canal YouTube**: https://youtube.com/@alejandrorosales
+- **Canal YouTube**: https://www.youtube.com/@Alejandro-Rosales
 - **Idioma**: Español
 - **Audiencia**: Comunidad hispanohablante interesada en democratizar las inversiones
 
@@ -126,7 +126,7 @@ ${config.site?.description || 'Liderar una comunidad dedicada a democratizar las
 
 ## Artículos Recientes (${posts.length} artículos)
 
-${posts.slice(0, 20).map(post => `### ${post.title}
+${posts.map(post => `### ${post.title}
 - **URL**: /blog/${post.slug}
 - **Fecha**: ${new Date(post.pubDate).toLocaleDateString('es-ES')}
 - **Categorías**: ${post.categories.join(', ') || 'General'}
@@ -202,7 +202,7 @@ function generateLlmsFullContent(config, posts) {
 **Sitio Web**: ${config.site?.base_url || 'https://alejandrorosales.me'}
 **Especialidad**: Inversor y Divulgador Financiero
 **Experiencia**: Más de 2 años documentando el camino hacia la libertad financiera
-**Canal YouTube**: https://youtube.com/@alejandrorosales
+**Canal YouTube**: https://www.youtube.com/@Alejandro-Rosales
 **Profesión**: Ingeniero de Software e Inversor
 
 ## FILOSOFÍA Y ENFOQUE

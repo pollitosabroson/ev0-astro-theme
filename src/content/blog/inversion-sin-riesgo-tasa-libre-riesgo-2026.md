@@ -135,10 +135,6 @@ Eso es perder dinero “de forma segura”.
 
 # ¿Qué ha cambiado en 2025–2026?
 
-
-::contentReference[oaicite:0]{index=0}
-
-
 Durante años vivimos con:
 
 - Tipos cercanos a 0%
@@ -212,10 +208,6 @@ Necesitamos una estructura en capas.
 ---
 
 ## 1️⃣ La “panza de la curva”
-
-
-::contentReference[oaicite:1]{index=1}
-
 
 El tramo entre 3 y 7 años ofrece:
 
