@@ -6,6 +6,8 @@ import CalendarIcon from "@icons/CalendarIcon.astro";
 import CategoryIcon from "@icons/CategoryIcon.astro";
 import VideoSEO from "@components/VideoSEO.astro";
 import BlogPostJsonLd from "@components/BlogPostJsonLd.astro";
+import FAQSchema from "@components/FAQSchema.astro";
+import DisclaimerFinanciero from "@components/DisclaimerFinanciero.astro";
 import { Image } from "astro:assets";
 import config from "@config/config.json";
 import { slugify } from "@utils/slug";
@@ -14,8 +16,19 @@ type Props = CollectionEntry<"blog">["data"] & {
   content?: string;
 };
 
-const { title, description, pubDate, heroImage, categories, tags, video, content } =
+const { title, description, pubDate, heroImage, categories, tags, video, content, faqs } =
   Astro.props;
+
+const FINANCIAL_CATEGORIES = [
+  "inversión", "inversiones", "finanzas personales", "educación financiera",
+  "libertad financiera", "blog inversiones", "fire", "hipotecas",
+  "banca digital", "psicología del dinero", "finanzas familiares",
+  "economía personal", "private equity", "mercados globales",
+];
+
+const showDisclaimer = categories?.some((cat) =>
+  FINANCIAL_CATEGORIES.includes(cat.toLowerCase())
+);
 ---
 
 <Base meta_title={title} description={description} image={heroImage} blogpost>
@@ -34,6 +47,7 @@ const { title, description, pubDate, heroImage, categories, tags, video, content
   
   <!-- JSON-LD específico para el blog post -->
   <BlogPostJsonLd post={Astro.props} content={content} />
+  {faqs && faqs.length > 0 && <FAQSchema faqs={faqs} />}
   <article>
     <div class="rounded-lg block overflow-hidden mb-8">
       {
@@ -92,6 +106,7 @@ const { title, description, pubDate, heroImage, categories, tags, video, content
     <div class="prose prose-green prose-md md:prose-lg min-w-full">
       <slot />
     </div>
+    {showDisclaimer && <DisclaimerFinanciero />}
     <div class="mt-8">
       {
         tags?.map((tag) => (

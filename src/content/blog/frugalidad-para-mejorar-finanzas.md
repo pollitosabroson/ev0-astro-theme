@@ -4,7 +4,7 @@ description: "¿Alguna vez te has preguntado por qué algunas personas parecen t
 pubDate: "2024-12-16T15:03:40.372Z"
 heroImage: "/blogs/frugal.webp"
 categories: ["Finanzas Personales", "Inversiones", "Nudismo Financiero", "Ahorro e Inversión", "Educación Financiera"]
-tags: ["Frugalidad", "Finanzas personales", "Ahorro inteligente", "Control del dinero", "Estrategias financieras", "Optimización de recursos", "Libertad financiera", "Tomar decisiones conscientes"]
+tags: ["Frugalidad", "Finanzas personales", "Ahorro Inteligente", "Control del dinero", "Estrategias Financieras", "Optimización de recursos", "Libertad financiera", "Tomar decisiones conscientes"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/whuHmfucpk0"

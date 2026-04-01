@@ -3,7 +3,7 @@ title: "¿El mercado se desploma? La clave para no perder dinero cuando todo se 
 description: "¿Te asustan las caídas del mercado? Descubre la estrategia que los inversores inteligentes aplican en plena crisis y cómo puedes proteger tu dinero cuando todos entran en pánico. ¡No cometas el error que la mayoría repite en cada bajada!"
 pubDate: "2025-04-22T18:11:41.806Z"
 heroImage: "/blogs/bajas-2025.webp"
-categories: ["Finanzas Personales", "Inversiones Inteligentes"]
+categories: ["Finanzas Personales", "Inversión Inteligente"]
 tags: ["mercado bajista", "psicologia financiera", "inversiones", "educacion financiera", "volatilidad", "estrategia financiera"]
 author: ["Alejandro Rosales"]
 video:
@@ -45,7 +45,7 @@ Pero en menos de un mes, la tendencia cambió... y desde entonces las gráficas 
 
 Todos menos **un índice**.
 
-Más adelante te contaré cuál es, porque entenderlo es la clave para saber si deberías asustarte... o preparar tu cartera.
+Más adelante te contaré cuál es, porque entenderlo es la clave para saber si deberías asustarte... o preparar tu [cartera](/blog/que-es-una-cartera-de-inversion-y-como-construirla/).
 
 ---
 

@@ -3,7 +3,7 @@ title: "El primer gran salto: cómo alcanzar tus primeros 100 mil y cambiar tu m
 description: "Llegar a tus primeros 100 mil no es solo una meta económica: es una transformación mental. Descubre las fases reales del crecimiento financiero, los errores que frenan tu avance y cómo dominar la disciplina que te lleva a la libertad. 💸"
 pubDate: "2025-10-21T20:30:00.000Z"
 heroImage: "/blogs/primeros-100-mil.webp"
-categories: ["finanzas personales", "crecimiento financiero", "educación financiera"]
+categories: ["Finanzas Personales", "crecimiento financiero", "Educación Financiera"]
 tags: ["ahorro", "disciplina financiera", "interés compuesto", "tasa de ahorro", "libertad financiera", "primeros 100 mil"]
 author: ["Alejandro Rosales"]
 video:
@@ -44,7 +44,7 @@ Con el tiempo, llegas al **Punto de Inflexión** —la **Fase II**—, cuando tu
 Aquí el dinero comienza a producir su propio ingreso y sientes, por primera vez, que el sistema funciona.
 
 Finalmente, alcanzas la **Fase III: Crecimiento Exponencial**.  
-Tu esfuerzo deja de ser el motor principal; el **interés compuesto** toma el control.  
+Tu esfuerzo deja de ser el motor principal; el **[interés compuesto](/blog/interes-simple-vs-interes-compuesto/)** toma el control.  
 Tu dinero trabaja más que tú, y cada día la curva se acelera.
 
 Estas tres fases son el mapa real del crecimiento financiero.  
@@ -117,7 +117,7 @@ Y aquí hay una verdad que casi nadie dice:
 pagar una deuda con 25% de interés equivale a **ganar un 25% de rentabilidad garantizada**.  
 No existe inversión en el mercado que te ofrezca algo así sin riesgo.  
 
-Por eso, **el primer paso para construir riqueza es eliminar la deuda cara**.  
+Por eso, **el primer paso para construir riqueza es eliminar la [deuda cara](/blog/como-salir-de-deudas-avalancha-bola-de-nieve/)**.  
 Solo entonces tu dinero puede empezar a trabajar de verdad.
 
 ---

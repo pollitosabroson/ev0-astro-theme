@@ -4,7 +4,7 @@ description: "¿De verdad sabes en qué estás invirtiendo cuando alguien te dic
 pubDate: "2025-11-11T20:30:00.000Z"
 heroImage: "/blogs/sp500-explicado.webp"
 categories: ["Inversiones", "Educación Financiera", "Mercados Globales"]
-tags: ["S&P 500", "fondos indexados", "ETFs", "inversión pasiva", "mercado estadounidense", "finanzas personales", "aprende a invertir"]
+tags: ["S&P 500", "Fondos Indexados", "ETFs", "Inversión Pasiva", "mercado estadounidense", "finanzas personales", "aprende a invertir"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/-YJhD11gn5s"
@@ -121,8 +121,8 @@ Aunque se hable de “invertir en el S&P 500”, en realidad **no puedes comprar
 Es solo una medida.  
 Lo que sí puedes comprar son los **fondos que lo replican**, como:  
 
-- **Fondos indexados** (para aportaciones automáticas a largo plazo)  
-- **ETFs** como el SPY o el VOO, que se negocian como acciones  
+- **[Fondos indexados](/blog/triunfo-inversor-mediocre-inversion-indexada/)** (para aportaciones automáticas a largo plazo)  
+- **[ETFs](/blog/etf-como-proteger-tu-dinero/)** como el SPY o el VOO, que se negocian como acciones  
 
 Ambas opciones te permiten **replicar el comportamiento del índice**, con diferentes niveles de flexibilidad y liquidez.  
 

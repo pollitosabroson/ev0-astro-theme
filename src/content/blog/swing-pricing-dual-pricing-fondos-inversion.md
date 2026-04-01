@@ -3,8 +3,8 @@ title: "Swing Pricing y Dual Pricing: el coste oculto de invertir en fondos"
 description: "Descubre qué pasa con tu dinero cuando muchos inversores entran o salen de un fondo y cómo el swing pricing y el dual pricing afectan tu rentabilidad."
 pubDate: "2026-01-13T20:30:47.668Z"
 heroImage: "/blogs/swing-pricing-dual-pricing.webp"
-categories: ["fondos de inversión", "finanzas personales", "inversión pasiva", "educación financiera"]
-tags: ["swing pricing", "dual pricing", "fondos indexados", "dilución", "liquidez", "inversión a largo plazo"]
+categories: ["Fondos de Inversión", "Finanzas Personales", "Inversión Pasiva", "Educación Financiera"]
+tags: ["swing pricing", "dual pricing", "Fondos Indexados", "dilución", "liquidez", "inversión a largo plazo"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/db6d3GeFV34"

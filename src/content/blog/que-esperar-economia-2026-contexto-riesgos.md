@@ -3,7 +3,7 @@ title: "Qué Podemos Esperar de la Economía en 2026: Contexto, Riesgos y Oportu
 description: "El 2026 no empieza desde cero. Para entender qué puede pasar en la economía y los mercados, primero hay que comprender lo que ocurrió en 2025. En este análisis explico el contexto, las señales clave y qué deberías observar sin caer en el miedo."
 pubDate: "2025-12-31T15:00:05.195Z"
 heroImage: "/blogs/economia-2026.webp"
-categories: ["economía", "mercados financieros", "educación financiera"]
+categories: ["economía", "mercados financieros", "Educación Financiera"]
 tags: ["economía 2026", "bolsa", "inflación", "inteligencia artificial", "contexto económico"]
 author: ["Alejandro Rosales"]
 video:
@@ -71,7 +71,7 @@ La consecuencia menos comentada es clara: más automatización, más eficiencia�
 
 ### Inflación, vivienda y poder adquisitivo
 
-No espero una inflación descontrolada, pero sí suficiente para que el día a día siga siendo más caro. El dinero rinde menos y la vivienda, siendo realistas, no va a volverse más accesible en el corto plazo.
+No espero una [inflación](/blog/efecto-cantillon-como-te-afecta/) descontrolada, pero sí suficiente para que el día a día siga siendo más caro. El dinero rinde menos y la vivienda, siendo realistas, no va a volverse más accesible en el corto plazo.
 
 ### Criptomonedas: fase de transición
 
@@ -79,7 +79,7 @@ En cripto, después de caer desde zonas cercanas a los 110.000 hasta alrededor d
 
 ### Un año de transición, no de explosión
 
-En 2026 también empieza a calentarse el escenario previo al Mundial de 2026 en Estados Unidos, Canadá y México. Eso implica gasto, inversión y movimiento de capital, algo que suele terminar reflejándose en los mercados, especialmente en el S&P 500.
+En 2026 también empieza a calentarse el escenario previo al Mundial de 2026 en Estados Unidos, Canadá y México. Eso implica gasto, inversión y movimiento de capital, algo que suele terminar reflejándose en los mercados, especialmente en el [S&P 500](/blog/que-es-el-sp500-y-como-funciona/).
 
 No espero un año espectacular, pero sí un **año de transición**, donde se preparan los movimientos importantes del futuro.
 

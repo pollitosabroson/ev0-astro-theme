@@ -5,7 +5,7 @@ slug: por-que-nadie-te-enseno-a-invertir-2026
 pubDate: 2026-03-23
 heroImage: "/blogs/educacion-financiera.webp"
 categories: ["Finanzas Personales", "Educación Financiera", "Inversión"]
-tags: ["educación financiera", "invertir desde cero", "interés compuesto", "finanzas 2026", "libertad financiera"]
+tags: ["Educación Financiera", "invertir desde cero", "interés compuesto", "finanzas 2026", "libertad financiera"]
 author: "Alejandro Rosales"
 video:
   embedUrl: "https://www.youtube.com/embed/ARB94nQ1Yp0"
@@ -47,7 +47,7 @@ Sabes trabajar. Sabes estudiar. Sabes esforzarte.
 
 Pero no sabes cómo hacer que el dinero trabaje para ti.
 
-Te enseñaron fórmulas, fechas y teorías… pero nadie —absolutamente nadie— te explicó qué es el interés compuesto, cómo funciona la bolsa o cómo evitar que la deuda te destruya lentamente.
+Te enseñaron fórmulas, fechas y teorías… pero nadie —absolutamente nadie— te explicó qué es el [interés compuesto](/blog/interes-simple-vs-interes-compuesto/), cómo funciona la bolsa o cómo evitar que la deuda te destruya lentamente.
 
 Y aquí viene la verdad incómoda:
 
@@ -238,7 +238,7 @@ Aquí tienes lo que realmente funciona:
 
 ### 1. Aprende lo básico (pero de verdad)
 - Interés compuesto  
-- Inflación  
+- [Inflación](/blog/efecto-cantillon-como-te-afecta/)  
 - Riesgo vs rentabilidad  
 
 ### 2. Evita el ruido

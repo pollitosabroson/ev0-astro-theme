@@ -4,7 +4,7 @@ description: "Aprende a construir un fondo de emergencia eficiente en 2026 usand
 slug: fondo-emergencia-inteligente-2026
 pubDate: "2026-03-07T10:30:00.000Z"
 heroImage: "/blogs/fondo-emergencia-2026.webp"
-categories: ["finanzas personales", "ahorro", "planificación financiera"]
+categories: ["Finanzas Personales", "ahorro", "planificación financiera"]
 tags: ["fondo de emergencia", "ahorro inteligente", "gestión del riesgo", "inflación", "finanzas personales", "IA financiera", "plan financiero"]
 author: ["Alejandro Rosales"]
 video:
@@ -64,7 +64,7 @@ Y con razón.
 En el mundo de 2026:
 
 - Los mercados laborales cambian rápido  
-- La inflación sigue afectando el poder adquisitivo  
+- La [inflación](/blog/por-que-ahorrar-dinero-te-hace-mas-pobre/) sigue afectando el poder adquisitivo  
 - La economía es cada vez más volátil  
 
 El viejo consejo de **“guardar dinero bajo el colchón”** ya no funciona.
@@ -142,10 +142,6 @@ Es el **presupuesto de supervivencia de tu vida**.
 
 # La arquitectura del fondo de emergencia en 4 niveles
 
-
-::contentReference[oaicite:0]{index=0}
-
-
 Uno de los mayores errores financieros es guardar todo el fondo en una sola cuenta bancaria.
 
 La estrategia moderna consiste en **dividirlo por niveles de liquidez**.
@@ -194,7 +190,7 @@ Si tu fondo supera los 4 o 6 meses de gastos, puedes optimizarlo.
 
 Opciones comunes:
 
-- fondos monetarios  
+- [fondos monetarios](/blog/inversion-sin-riesgo-tasa-libre-riesgo-2026/)  
 - bonos del tesoro a corto plazo  
 - ETFs de liquidez
 

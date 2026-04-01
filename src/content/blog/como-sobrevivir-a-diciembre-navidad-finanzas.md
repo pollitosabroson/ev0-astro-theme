@@ -83,7 +83,7 @@ Es una consecuencia del desorden financiero de diciembre.
 
 ## Diagnóstico Financiero Preliminar: Evalúa tus recursos extraordinarios
 
-Antes de hablar de presupuestos, tienes que entender qué vas a hacer con tu ingreso extra. El aguinaldo o paga extra NO es un premio navideño.  
+Antes de hablar de presupuestos, tienes que entender qué vas a hacer con tu ingreso extra. El [aguinaldo](/blog/como-aprovechar-tu-aguinaldo-o-paga-extra/) o paga extra NO es un premio navideño.  
 Es una **herramienta**.
 
 Aquí entra la **regla 20/40/40**:

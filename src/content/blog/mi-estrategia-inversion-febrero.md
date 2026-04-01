@@ -4,7 +4,7 @@ description: "Después de un mes tan largo llamado Febrero (Solo porque era año
 pubDate: "2024-03-03T21:12:57.071Z"
 heroImage: "/blogs/Mis.webp"
 categories: ["Blog Inversiones"]
-tags: ["Inversiones", "MyInvertos", "Febrero"]
+tags: ["Inversiones", "MyInvestor", "Febrero"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/h__Kht7F-CQ"

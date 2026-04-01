@@ -21,7 +21,7 @@ Este método asume que al jubilarte, tus gastos serán aproximadamente un 80% de
 Imagina contar con veinte años de sueldo al momento de retirarte. Este método, recomendado por algunos expertos, exige disciplina para ahorrar alrededor del 20% de tus ingresos anuales. Aunque ambicioso, te proporciona un respaldo sólido para evitar depender de pensiones públicas.
 
 ## La Regla del 4% y el Poder de la Inversión
-¿Por qué dejar tu dinero “dormido” en el banco? Invertir es la clave para potenciar tus ahorros. La regla del 4% consiste en mantener una tasa de retiro sostenible de tus inversiones, permitiéndote generar ingresos sin agotar tu fondo. Un portafolio bien invertido en índices confiables, como el S&P 500, puede darte un rendimiento anual atractivo y asegurar tu poder adquisitivo a largo plazo.
+¿Por qué dejar tu dinero “dormido” en el banco? Invertir es la clave para potenciar tus ahorros. La [regla del 4%](/blog/regla-del-4-por-ciento-jubilacion/) consiste en mantener una tasa de retiro sostenible de tus inversiones, permitiéndote generar ingresos sin agotar tu fondo. Un portafolio bien invertido en índices confiables, como el [S&P 500](/blog/que-es-el-sp500-y-como-funciona/), puede darte un rendimiento anual atractivo y asegurar tu poder adquisitivo a largo plazo.
 
 Con el panorama financiero actual, depender de otros para el retiro no es opción. ¡Es momento de actuar! Asegura una jubilación cómoda aplicando estas estrategias y toma control sobre tu bienestar. Empieza ahora: tus acciones hoy definirán tu tranquilidad mañana.
 

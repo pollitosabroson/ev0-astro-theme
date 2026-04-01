@@ -4,7 +4,7 @@ description: "Ahorrar dinero ya no es seguro: la inflación y la expansión mone
 slug: por-que-ahorrar-dinero-te-hace-mas-pobre
 pubDate: "2026-02-10T20:30:00.000Z"
 heroImage: "/blogs/ahorrar-te-hace-mas-pobre.webp"
-categories: ["finanzas personales", "educación financiera", "inversión"]
+categories: ["Finanzas Personales", "Educación Financiera", "inversión"]
 tags: ["ahorro", "inflación", "poder adquisitivo", "inversión", "oro", "bienes raíces", "política monetaria"]
 author: ["Alejandro Rosales"]
 video:
@@ -129,7 +129,7 @@ Guardar moneda fiduciaria es aceptar que otros decidan su valor por ti.
 
 ## ¿Por qué el exceso de liquidez es un lastre financiero?
 
-Un fondo de emergencia es necesario (3–6 meses).  
+Un [fondo de emergencia](/blog/fondo-emergencia-inteligente-2026/) es necesario (3–6 meses).  
 Todo lo que supere eso es capital improductivo.
 
 Desde 1990, los mercados han ofrecido retornos superiores al 10 % anual como compensación por asumir riesgo e iliquidez. El ahorrador renuncia a eso por miedo.

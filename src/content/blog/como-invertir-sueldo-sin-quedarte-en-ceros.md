@@ -3,8 +3,8 @@ title: "Cómo Invertir tu Sueldo Sin Quedarte en Ceros al Final del Mes"
 description: "Si crees que no puedes invertir porque apenas te alcanza para vivir, estás cometiendo un error costoso. Descubre la estrategia que te permitirá ahorrar e invertir sin sacrificar tu calidad de vida."
 pubDate: "2025-02-10T16:52:57.417Z"
 heroImage: "/blogs/invertir-without-parents.webp"
-categories: ["finanzas personales", "inversión"]
-tags: ["finanzas personales", "ahorro", "inversión inteligente", "gestión financiera", "dinero"]
+categories: ["Finanzas Personales", "inversión"]
+tags: ["finanzas personales", "ahorro", "Inversión Inteligente", "gestión financiera", "dinero"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/NQ4xqyXpH9o"
@@ -52,7 +52,7 @@ Si ganas 1.765 € al mes, aquí tienes una distribución efectiva:
 ¿Qué hacemos con esos 500 € para inversión y ahorro?
 
 📌 250 € para inversión.
-📌 250 € para fondo de emergencia.
+📌 250 € para [fondo de emergencia](/blog/fondo-emergencia-inteligente-2026/).
 
 En tres años habrás acumulado:
 

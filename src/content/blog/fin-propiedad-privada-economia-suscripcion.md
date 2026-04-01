@@ -3,7 +3,7 @@ title: "¿El fin de la propiedad privada? La economía de suscripción y tu libe
 description: "¿Realmente nos dirigimos hacia un mundo donde no tendrás nada? Analizamos la servitización, el efecto Cantillon, las suscripciones y cómo proteger tu patrimonio hacia 2040."
 pubDate: "2026-02-22T11:30:00.000Z"
 heroImage: "/blogs/fin-propiedad-privada.webp"
-categories: ["finanzas personales", "inversión", "economía"]
+categories: ["Finanzas Personales", "inversión", "economía"]
 tags: ["propiedad privada", "suscripciones", "servitización", "efecto Cantillon", "CBDC", "inflación", "libertad financiera", "megatendencias"]
 author: ["Alejandro Rosales"]
 video:
@@ -120,10 +120,6 @@ Desde el punto de vista del consumidor:
 
 ## La ilusión de la conveniencia
 
-
-::contentReference[oaicite:0]{index=0}
-
-
 El problema no es la tecnología.
 
 Es la estructura psicológica del gasto recurrente.
@@ -172,7 +168,7 @@ Simplemente cambian de dueño.
 
 Todo inversor debería entender este principio económico.
 
-El **Efecto Cantillon** describe cómo el dinero nuevo entra en la economía.
+El **[Efecto Cantillon](/blog/efecto-cantillon-como-te-afecta/)** describe cómo el dinero nuevo entra en la economía.
 
 No llega a todos al mismo tiempo.
 
@@ -190,10 +186,6 @@ Los precios ya han subido.
 ---
 
 ## Evidencia histórica reciente
-
-
-::contentReference[oaicite:1]{index=1}
-
 
 Entre 2020 y 2025 observamos:
 

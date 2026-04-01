@@ -3,7 +3,7 @@ title: "Los 10 hábitos que están drenando tu dinero y cómo solucionarlos"
 description: "Descubre los 10 hábitos silenciosos que están drenando tu dinero y aprende cómo evitarlos con soluciones prácticas. ¡No dejes que tu dinero desaparezca sin explicación!"
 pubDate: "2025-01-21T13:19:56.120Z"
 heroImage: "/blogs/habitos.webp"
-categories: ["finanzas personales", "gestión financiera"]
+categories: ["Finanzas Personales", "gestión financiera"]
 tags: ["hábitos financieros", "ahorro inteligente", "control de gastos", "planificación financiera", "soluciones prácticas"]
 author: ["Alejandro Rosales"]
 video:
@@ -18,7 +18,7 @@ video:
 
 Después de un día agotador, pedir comida parece la solución perfecta. Pero esa "excepción" puede convertirse en un hábito costoso. ¿Sabías que podrías ahorrar hasta un 30% mensual cocinando en casa?
 
-Solución: Dedica un día a preparar comidas para la semana. Aún puedes disfrutar de salidas, pero establece un presupuesto mensual. ¡Tu cuenta bancaria te lo agradecerá!
+Solución: Dedica un día a preparar comidas para la semana. Aún puedes disfrutar de salidas, pero establece un [presupuesto](/blog/como-hacer-un-presupuesto-que-funciona/) mensual. ¡Tu cuenta bancaria te lo agradecerá!
 
 2. Comprar por temporada
 
@@ -26,7 +26,7 @@ Renovar tu guardarropa en plena temporada alta es una trampa común. Las tiendas
 
 Solución: Compra ropa de invierno al final del invierno y de verano al final del verano. ¡Podrías ahorrar hasta un 50%!
 
-3. Suscripciones olvidadas
+3. [Suscripciones](/blog/fin-propiedad-privada-economia-suscripcion/) olvidadas
 
 Netflix, Spotify, Amazon Prime... La suma de estas pequeñas suscripciones puede sorprenderte.
 

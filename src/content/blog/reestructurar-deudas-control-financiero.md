@@ -3,7 +3,7 @@ title: "Reestructura tus deudas y recupera el control financiero"
 description: "¿Sientes que tus deudas nunca terminan? Descubre cómo reestructurar, consolidar y negociar tus deudas para pagar menos intereses y recuperar el control de tu dinero. Aprende las estrategias más efectivas para dejar de sobrevivir y empezar a construir tu libertad financiera."
 pubDate: "2025-10-14T20:30:00.000Z"
 heroImage: "/blogs/reestructurar-deudas.webp"
-categories: ["finanzas personales", "educación financiera", "estrategias de deuda", "libertad financiera"]
+categories: ["Finanzas Personales", "Educación Financiera", "estrategias de deuda", "Libertad Financiera"]
 tags: ["reestructuración de deuda", "consolidación", "transferencia de saldo", "negociación con acreedores", "debt stacking", "disciplina financiera"]
 author: ["Alejandro Rosales"]
 video:

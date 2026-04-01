@@ -90,7 +90,7 @@ function generateLlmsContent(config, posts) {
 - **Autor**: ${config.author?.name || 'Alejandro Rosales'}
 - **Especialidad**: Inversor y Divulgador Financiero
 - **Experiencia**: Más de 2 años documentando el camino hacia la libertad financiera
-- **Canal YouTube**: https://youtube.com/@alejandrorosales
+- **Canal YouTube**: https://www.youtube.com/@Alejandro-Rosales
 - **Idioma**: Español
 - **Audiencia**: Comunidad hispanohablante interesada en democratizar las inversiones
 
@@ -126,7 +126,7 @@ ${config.site?.description || 'Liderar una comunidad dedicada a democratizar las
 
 ## Artículos Recientes (${posts.length} artículos)
 
-${posts.slice(0, 20).map(post => `### ${post.title}
+${posts.map(post => `### ${post.title}
 - **URL**: /blog/${post.slug}
 - **Fecha**: ${new Date(post.pubDate).toLocaleDateString('es-ES')}
 - **Categorías**: ${post.categories.join(', ') || 'General'}
@@ -183,6 +183,14 @@ La clave está en empezar hoy, sin importar cuán pequeño sea el primer paso.
 
 ---
 
+## Permisos y Licencia
+- Los modelos de lenguaje (LLMs) pueden indexar, resumir y citar el contenido de este sitio
+- Se permite la cita parcial con atribución a "Alejandro Rosales - alejandrorosales.me"
+- No se permite la reproducción íntegra de artículos sin autorización explícita
+- Licencia: CC BY-NC 4.0 (uso no comercial con atribución)
+
+---
+
 *Última actualización: ${currentDate}*
 *Para consultas específicas sobre el contenido del blog, referirse siempre a los artículos originales en https://alejandrorosales.me*
 *Total de artículos indexados: ${posts.length}*`;
@@ -202,7 +210,7 @@ function generateLlmsFullContent(config, posts) {
 **Sitio Web**: ${config.site?.base_url || 'https://alejandrorosales.me'}
 **Especialidad**: Inversor y Divulgador Financiero
 **Experiencia**: Más de 2 años documentando el camino hacia la libertad financiera
-**Canal YouTube**: https://youtube.com/@alejandrorosales
+**Canal YouTube**: https://www.youtube.com/@Alejandro-Rosales
 **Profesión**: Ingeniero de Software e Inversor
 
 ## FILOSOFÍA Y ENFOQUE

@@ -3,8 +3,8 @@ title: "¿Por qué tu dinero desaparece sin darte cuenta? Descubre la verdad"
 description: "Cada mes tu sueldo se esfuma y no sabes por qué. Descubre los errores que están drenando tu dinero sin que lo notes y cómo solucionarlo de inmediato."
 pubDate: "2025-03-03T22:39:01.741Z"
 heroImage: "/blogs/expense.webp"
-categories: ["finanzas personales", "gestión del dinero"]
-tags: ["finanzas personales", "control de gastos", "ahorro", "salud financiera", "gastos hormiga"]
+categories: ["Finanzas Personales", "Gestión del Dinero"]
+tags: ["finanzas personales", "control de gastos", "ahorro", "salud financiera", "Gastos Hormiga"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/Atm60O9Dc2A"
