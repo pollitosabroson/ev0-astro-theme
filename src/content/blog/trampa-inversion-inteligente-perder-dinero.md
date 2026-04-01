@@ -3,8 +3,8 @@ title: "La trampa de la inversión inteligente que te hace perder dinero"
 description: "Descubre por qué las comisiones, el ego y la psicología hacen que la mayoría invierta mal y pierda dinero incluso cuando cree estar haciéndolo bien."
 pubDate: "2026-02-03T20:30:49.344Z"
 heroImage: "/blogs/trampa-inversion-inteligente.webp"
-categories: ["finanzas personales", "educación financiera", "inversión"]
-tags: ["inversión", "errores financieros", "fondos de inversión", "comisiones", "inflación", "psicología del inversor", "S&P 500"]
+categories: ["Finanzas Personales", "Educación Financiera", "inversión"]
+tags: ["inversión", "errores financieros", "Fondos de Inversión", "comisiones", "inflación", "psicología del inversor", "S&P 500"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/yw3fmLiE53o"
@@ -19,8 +19,8 @@ video:
 
 ## ¿Por qué creemos que estamos invirtiendo bien cuando en realidad estamos perdiendo?
 
-El oro marca máximos históricos, el **S&P 500** parece una montaña rusa y tú sigues esperando “el momento adecuado”.  
-Mientras tanto, hay dos cosas que no se detienen nunca: **la inflación** y los intereses que tu banco cobra por tu dinero mal invertido.
+El oro marca máximos históricos, el **[S&P 500](/blog/que-es-el-sp500-y-como-funciona/)** parece una montaña rusa y tú sigues esperando “el momento adecuado”.  
+Mientras tanto, hay dos cosas que no se detienen nunca: **la [inflación](/blog/por-que-ahorrar-dinero-te-hace-mas-pobre/)** y los intereses que tu banco cobra por tu dinero mal invertido.
 
 Cada titular explosivo —aranceles, caídas del mercado, efectos políticos— despierta la misma urgencia: hacer algo. Comprar lo que sube, vender lo que cae, buscar el próximo pelotazo. Pero esa urgencia no juega a tu favor. Es exactamente lo que permite que otros ganen dinero con tus errores.
 

@@ -3,8 +3,8 @@ title: "Ahorrar puede arruinar tu vida: la trampa que nadie te advierte"
 description: "¿Y si te dijera que ahorrar en exceso puede destruir tu salud mental y tu vida? Descubre cómo el 'buen hábito' de ahorrar se convierte en una cárcel invisible y lo que puedes hacer para liberarte sin poner en riesgo tu futuro. Este post va a cambiar tu forma de ver el dinero para siempre."
 pubDate: "2025-05-12T13:40:38.591Z"
 heroImage: "/blogs/ahorro-problems.webp"
-categories: ["finanzas personales", "psicología del dinero"]
-tags: ["ahorro excesivo", "salud financiera", "educación financiera", "ansiedad financiera", "mentalidad de escasez", "trampa del ahorro"]
+categories: ["Finanzas Personales", "psicología del dinero"]
+tags: ["ahorro excesivo", "salud financiera", "Educación Financiera", "ansiedad financiera", "mentalidad de escasez", "trampa del ahorro"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/7QvJJRxJT0c"
@@ -55,7 +55,7 @@ Porque cada gasto les genera **culpa**.
 Porque sienten que si se relajan… lo van a perder todo.
 
 Eso **no es responsabilidad**.  
-Eso es **ansiedad disfrazada de orden**.
+Eso es **[ansiedad](/blog/lonchafinismo-peligros-del-ahorro-extremo/) disfrazada de orden**.
 
 Ahorrar por miedo no te da paz.  
 Te roba el presente. Te encierra en un futuro que quizá nunca llegue.
@@ -89,7 +89,7 @@ Se paga en **salud, relaciones y calidad de vida**.
 - Padres que se sienten culpables por comprarle un regalo a sus hijos.  
 - Personas que duermen mal por no saber si gastaron “de más”.
 
-Eso no es libertad financiera.  
+Eso no es [libertad financiera](/blog/fuck-you-money-libertad-financiera-real/).  
 Eso es **esclavitud emocional**.
 
 ---

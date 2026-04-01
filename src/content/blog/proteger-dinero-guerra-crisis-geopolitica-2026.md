@@ -3,7 +3,7 @@ title: "Cómo proteger tu dinero en una guerra o crisis global"
 description: "Descubre cómo proteger tu patrimonio ante guerras, corralitos bancarios o crisis geopolíticas. Estrategias reales de resiliencia financiera en 2026."
 pubDate: "2026-03-13T08:00:00.000Z"
 heroImage: "/blogs/proteger-dinero-guerra-2026.webp"
-categories: ["finanzas personales", "gestión del riesgo", "economía global"]
+categories: ["Finanzas Personales", "gestión del riesgo", "economía global"]
 tags: ["crisis financiera", "corralito bancario", "protección del patrimonio", "bitcoin", "oro", "stablecoins", "geopolítica"]
 author: ["Alejandro Rosales"]
 video:
@@ -101,7 +101,7 @@ Para hacerlo, gastan mucho más de lo que recaudan.
 
 La solución habitual es que los bancos centrales **impriman dinero a gran escala**.
 
-Esto genera liquidez para el Estado, pero también provoca **inflación**, que actúa como un impuesto invisible sobre tus ahorros.
+Esto genera liquidez para el Estado, pero también provoca **[inflación](/blog/por-que-ahorrar-dinero-te-hace-mas-pobre/)**, que actúa como un impuesto invisible sobre tus ahorros.
 
 ---
 

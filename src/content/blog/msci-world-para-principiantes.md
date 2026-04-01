@@ -4,7 +4,7 @@ description: "Descubre qué es el MSCI World, cómo funciona, qué países inclu
 pubDate: "2025-11-25T20:30:36.968Z"
 heroImage: "/blogs/msci-world-guia-principiantes.webp"
 categories: ["Inversiones", "Índices Bursátiles", "Educación Financiera"]
-tags: ["MSCI World", "Inversión global", "Fondos indexados", "ETFs", "Mercados desarrollados"]
+tags: ["MSCI World", "Inversión global", "Fondos Indexados", "ETFs", "Mercados desarrollados"]
 author: "Alejandro Rosales"
 video:
   embedUrl: "https://www.youtube.com/embed/z-kbiTfZqOo"
@@ -17,7 +17,7 @@ video:
 
 ## 🎬 INTRO — “Qué es realmente el MSCI World y por qué deberías conocerlo”
 
-Imagínate que estás empezando en el mundo de las inversiones y, de repente, todo el mundo menciona un índice que suena por todos lados. No es el S&P 500… pero casi. Hoy vamos a hablar del segundo índice más usado del planeta y uno de los primeros que cualquier persona ve cuando empieza a invertir: **el MSCI World**.
+Imagínate que estás empezando en el mundo de las inversiones y, de repente, todo el mundo menciona un índice que suena por todos lados. No es el [S&P 500](/blog/que-es-el-sp500-y-como-funciona/)… pero casi. Hoy vamos a hablar del segundo índice más usado del planeta y uno de los primeros que cualquier persona ve cuando empieza a invertir: **el MSCI World**.
 
 Pero… ¿qué es exactamente?  
 ¿Para qué sirve?  
@@ -153,7 +153,7 @@ Algo que pocos principiantes saben:
 
 Solo puedes acceder a través de:
 
-### ✔️ ETFs  
+### ✔️ [ETFs](/blog/etf-como-proteger-tu-dinero/)  
 Cotizan en bolsa, se compran como acciones.
 
 ### ✔️ Fondos Indexados  

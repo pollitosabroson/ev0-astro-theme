@@ -3,7 +3,7 @@ title: "Depósitos a Plazo Fijo: La Puerta de Entrada Segura al Mundo de las Inv
 description: "¿Quieres invertir sin complicaciones ni riesgos excesivos? Descubre qué son los depósitos a plazo fijo, cómo funcionan, sus ventajas, riesgos y si realmente son una opción inteligente para empezar a invertir."
 pubDate: "2025-09-16T20:30:09.495Z"
 heroImage: "/blogs/depositos-plazo-fijo.webp"
-categories: ["inversiones", "finanzas personales", "ahorro", "seguridad financiera", "productos bancarios", "depósitos"]
+categories: ["Inversiones", "Finanzas Personales", "ahorro", "seguridad financiera", "productos bancarios", "depósitos"]
 tags: ["depósitos a plazo fijo", "inversión segura", "TAE", "TIN", "finanzas personales", "ahorro inteligente", "estrategias de inversión"]
 author: ["Alejandro Rosales"]
 video:
@@ -99,9 +99,9 @@ Por eso, conviene comparar entre distintas entidades antes de decidir.
 
 ## Comparación con otras alternativas conservadoras
 
-- **Cuentas remuneradas**: más liquidez, pero menor rentabilidad salvo promociones iniciales.  
+- **[Cuentas remuneradas](/blog/fondo-emergencia-inteligente-2026/)**: más liquidez, pero menor rentabilidad salvo promociones iniciales.  
 - **Letras del Tesoro**: muy seguras, pero pueden tener comisiones de intermediación si se compran vía banco.  
-- **Fondos monetarios**: menor rentabilidad, pero con ventajas fiscales en España (los traspasos no tributan hasta el reembolso).  
+- **[Fondos monetarios](/blog/inversion-sin-riesgo-tasa-libre-riesgo-2026/)**: menor rentabilidad, pero con ventajas fiscales en España (los traspasos no tributan hasta el reembolso).  
 
 ---
 

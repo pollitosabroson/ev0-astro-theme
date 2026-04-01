@@ -3,7 +3,7 @@ title: "¡Rompe el ciclo! Aprende a ahorrar sin esfuerzo y haz que tu dinero tra
 description: "¿Cansado de vivir al límite y no tener dinero ahorrado? Aquí te explicamos 5 métodos fáciles y efectivos para ahorrar sin sacrificar tu bienestar. ¡Haz que tu dinero trabaje para ti hoy mismo!"
 pubDate: "2025-03-18T14:24:53.547Z"
 heroImage: "/blogs/saving.webp"
-categories: ["finanzas personales", "Blog Inversiones"]
+categories: ["Finanzas Personales", "Blog Inversiones"]
 tags: ["finanzas personales", "salud financiera", "ahorro", "presupuesto", "control de gastos"]
 author: ["Alejandro Rosales"]
 video:
@@ -98,7 +98,7 @@ Y aquí es donde empieza el cambio. Porque antes de hablar de métodos, necesita
 
 🔥 **La regla 50/30/20: el método más fácil para empezar a ahorrar**
 
-Si nunca has ahorrado en serio, **la regla 50/30/20** puede cambiar tu vida.
+Si nunca has ahorrado en serio, **la [regla 50/30/20](/blog/como-hacer-un-presupuesto-que-funciona/)** puede cambiar tu vida.
 
 🎯 **¿Cómo funciona?**
 Es simple: divide tus ingresos en tres partes.

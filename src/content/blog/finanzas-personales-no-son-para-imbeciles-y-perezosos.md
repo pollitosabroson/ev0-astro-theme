@@ -4,7 +4,7 @@ description: "Si ya lo sé, otro que viene a decirte que te vuelvas un ermitaño
 pubDate: "2024-04-15T14:53:20.023Z"
 heroImage: "/blogs/Finanzas-Personales.webp"
 categories: ["Blog Inversiones", "Finanzas personales" ,"Administración del dinero" ,"Desarrollo personal y profesional"]
-tags: ["Finanzas personales", "Ahorro", "Inversiones", "Gestión del dinero", "Desarrollo personal", "Crecimiento profesional", "Presupuesto", "Educación financiera", "Gasto hormiga", "Consejos financieros"]
+tags: ["Finanzas personales", "Ahorro", "Inversiones", "Gestión del dinero", "Desarrollo personal", "Crecimiento profesional", "Presupuesto", "Educación Financiera", "Gastos Hormiga", "Consejos financieros"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/5cfs5rz-Kro"

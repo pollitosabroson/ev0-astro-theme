@@ -3,8 +3,8 @@ title: "El peligro de romantizar el ahorro extremo: ¿realmente vale la pena?"
 description: "¿Vale la pena vivir como monje para ahorrar 3€? Descubre qué hay detrás del lonchafinismo, por qué se ha vuelto viral y cómo puede arruinar tu salud financiera si no lo gestionas con equilibrio. Este blog no es lo que esperas, pero sí lo que necesitas leer."
 pubDate: "2025-06-24T20:30:17.598Z"
 heroImage: "/blogs/lonchafinismo.webp"
-categories: ["finanzas personales", "mentalidad financiera"]
-tags: ["lonchafinismo", "frugalidad extrema", "salud financiera", "ahorro inteligente", "educación financiera"]
+categories: ["Finanzas Personales", "mentalidad financiera"]
+tags: ["lonchafinismo", "frugalidad extrema", "salud financiera", "ahorro inteligente", "Educación Financiera"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/gk8qPkI8R90"
@@ -39,7 +39,7 @@ Gente que tiene ingresos estables, pero decide vivir como si cada euro fuera el 
 - Se duchan con agua fría para “ahorrar en la resistencia”.  
 - Cancelan planes sociales por no gastar en transporte o café.
 
-No estamos hablando de frugalidad inteligente, sino de una versión degenerada del ahorro.  
+No estamos hablando de [frugalidad](/blog/frugalidad-para-mejorar-finanzas/) inteligente, sino de una versión degenerada del ahorro.  
 Una que no construye libertad financiera… sino una cárcel mental.
 
 Porque ahorrar está bien.  
@@ -68,7 +68,7 @@ Ahí es donde nace el lonchafinismo.
 No.  
 Aunque puede parecerse, **el fondo es distinto**.
 
-- El FIRE (Financial Independence, Retire Early) busca libertad real.  
+- El [FIRE](/blog/movimiento-fire/) (Financial Independence, Retire Early) busca libertad real.  
 - El minimalismo busca paz mental.  
 - La frugalidad es elección.
 

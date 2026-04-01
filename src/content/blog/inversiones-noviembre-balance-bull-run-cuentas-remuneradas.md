@@ -4,7 +4,7 @@ description: "¡Un mes más y cerramos el año! Estamos en diciembre, al borde d
 pubDate: "2024-12-04T06:19:59.712Z"
 heroImage: "/blogs/noviembre-2024.webp"
 categories: ["Finanzas Personales", "Inversiones", "Nudismo Financiero", "Ahorro e Inversión", "Educación Financiera"]
-tags: ["Inversiones", "Ahorro de emergencia", "Estrategias financieras"]
+tags: ["Inversiones", "Ahorro de emergencia", "Estrategias Financieras"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/dmBTUcQ8XgI"

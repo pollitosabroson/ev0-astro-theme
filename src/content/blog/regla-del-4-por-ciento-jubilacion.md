@@ -93,7 +93,7 @@ Spoiler: **Sí, pero con matices.**
 2. **Multiplica por 25.**  
    Si necesitas 20.000€/año, tu meta de ahorro será 500.000€.
 
-3. **Construye una cartera diversificada.**  
+3. **Construye una [cartera diversificada](/blog/que-es-una-cartera-de-inversion-y-como-construirla/).**  
    Combina acciones para crecer y bonos para proteger.
 
 4. **Realiza retiros mensuales, no anuales.**  
@@ -108,7 +108,7 @@ Spoiler: **Sí, pero con matices.**
 
 Existen alternativas que complementan o sustituyen esta regla:
 
-- **Ingresos por dividendos y rentas pasivas.**
+- **Ingresos por [dividendos](/blog/poder-silencioso-de-los-dividendos/) y rentas pasivas.**
 - **Rentas vitalicias o hipotecas inversas.**
 - **Préstamos con activos como garantía.**
 

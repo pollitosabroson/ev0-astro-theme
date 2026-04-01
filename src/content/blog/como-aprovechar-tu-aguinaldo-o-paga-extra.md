@@ -4,7 +4,7 @@ description: "¿Recibiste tu aguinaldo o paga extra y no sabes qué hacer con é
 pubDate: "2025-11-18T20:20:57.336Z"
 heroImage: "/blogs/aguinaldo-inteligente.webp"
 categories: ["Finanzas Personales", "Educación Financiera", "Ahorro", "Gestión del Dinero"]
-tags: ["aguinaldo", "paga extra", "dinero extra", "ahorro", "deudas", "fondo de emergencia", "educación financiera", "Black Friday", "gastos inteligentes"]
+tags: ["aguinaldo", "paga extra", "dinero extra", "ahorro", "deudas", "fondo de emergencia", "Educación Financiera", "Black Friday", "gastos inteligentes"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/b3k_qyJR6hU"
@@ -119,7 +119,7 @@ Esta fase responde a una sola pregunta:
 
 **¿Qué pasa si mañana tienes un imprevisto?**
 
-Si no tienes un fondo de emergencia, la respuesta suele ser: **te endeudas**.
+Si no tienes un [fondo de emergencia](/blog/fondo-emergencia-inteligente-2026/), la respuesta suele ser: **te endeudas**.
 
 Por eso esta fase es vital.
 
@@ -157,7 +157,7 @@ No existe inversión segura con ese retorno.
 
 ### ¿Cómo hacerlo?
 
-Método **Avalancha**:
+Método **[Avalancha](/blog/como-salir-de-deudas-avalancha-bola-de-nieve/)**:
 
 1. Ordena tus deudas del interés más alto al más bajo.  
 2. Enfoca tu ingreso extra en la deuda más cara.  
@@ -186,7 +186,7 @@ Conservadores:
 
 Moderados/Agresivos:
 - acciones  
-- fondos indexados  
+- [fondos indexados](/blog/triunfo-inversor-mediocre-inversion-indexada/)  
 - renta variable global  
 - ETFs que replican índices (como el S&P 500)  
 - CEDEARS en LATAM  

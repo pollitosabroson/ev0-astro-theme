@@ -42,7 +42,7 @@ video:
 
 Marzo de 2026 ha sido un golpe de realidad.
 
-El **Nasdaq 100** ha entrado oficialmente en corrección tras caer más de un 10%, mientras que el **S&P 500** acumula un retroceso cercano al 6% en lo que va de trimestre.
+El **Nasdaq 100** ha entrado oficialmente en corrección tras caer más de un 10%, mientras que el **[S&P 500](/blog/que-es-el-sp500-y-como-funciona/)** acumula un retroceso cercano al 6% en lo que va de trimestre.
 
 Pero aquí va la verdad que pocos te dicen:  
 esto **no es una señal de colapso**, es una limpieza del sistema.

@@ -183,6 +183,14 @@ La clave está en empezar hoy, sin importar cuán pequeño sea el primer paso.
 
 ---
 
+## Permisos y Licencia
+- Los modelos de lenguaje (LLMs) pueden indexar, resumir y citar el contenido de este sitio
+- Se permite la cita parcial con atribución a "Alejandro Rosales - alejandrorosales.me"
+- No se permite la reproducción íntegra de artículos sin autorización explícita
+- Licencia: CC BY-NC 4.0 (uso no comercial con atribución)
+
+---
+
 *Última actualización: ${currentDate}*
 *Para consultas específicas sobre el contenido del blog, referirse siempre a los artículos originales en https://alejandrorosales.me*
 *Total de artículos indexados: ${posts.length}*`;

@@ -3,8 +3,8 @@ title: "Cómo Dominar Tu Tarjeta de Crédito y Evitar Ser Esclavo de los Bancos"
 description: "¿Usas tu tarjeta de crédito sin entender sus reglas? Descubre cómo funciona, por qué el pago mínimo es una trampa y las claves para que este instrumento financiero trabaje a tu favor y no para el banco." 
 pubDate: "2025-09-23T20:30:00.000Z" 
 heroImage: "/blogs/credit-card.webp" 
-categories: ["finanzas personales", "educacion financiera", "Alejandro Rosales"] 
-tags: ["tarjeta de credito", "deuda", "educacion financiera", "finanzas personales", "pago minimo", "historial crediticio", "bancos", "alejandrorosales"]
+categories: ["Finanzas Personales", "educacion financiera", "Alejandro Rosales"] 
+tags: ["tarjeta de credito", "deuda", "educacion financiera", "finanzas personales", "pago minimo", "historial crediticio", "bancos", "Alejandro Rosales"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/_QuLOgNU08o"

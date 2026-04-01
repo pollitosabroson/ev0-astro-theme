@@ -3,8 +3,8 @@ title: "¿Por qué tu dinero desaparece cada mes? La verdad que nadie te contó 
 description: "¿Ganas bien pero nunca sabes a dónde se va tu dinero? Descubre cómo hacer un presupuesto que funcione en la vida real (aunque odies los números) y empieza a tomar el control de tus finanzas desde hoy."
 pubDate: "2025-06-16T07:00:12.918Z"
 heroImage: "/blogs/presupuesto-funcional.webp"
-categories: ["finanzas personales", "Blog Inversiones"]
-tags: ["presupuesto", "ahorro inteligente", "educación financiera", "control de gastos", "libertad financiera", "planificación mensual"]
+categories: ["Finanzas Personales", "Blog Inversiones"]
+tags: ["presupuesto", "ahorro inteligente", "Educación Financiera", "control de gastos", "libertad financiera", "planificación mensual"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/KLvJpFWd9MM"
@@ -39,7 +39,7 @@ Te muestra lo que puedes hacer con lo que ya tienes… y cómo usarlo a tu favor
 
 **¿Por qué necesitas uno hoy?**
 
-✅ Te ayuda a salir de deudas  
+✅ Te ayuda a [salir de deudas](/blog/como-salir-de-deudas-avalancha-bola-de-nieve/)  
 ✅ Reduce el estrés financiero  
 ✅ Te permite ahorrar sin sacrificios extremos  
 ✅ Protege tu paz mental cada fin de mes  
@@ -83,7 +83,7 @@ Porque no puedes mejorar lo que no mides.
 Presupuestar sin metas es como correr sin rumbo.
 
 📍 ¿Qué quieres lograr con tu dinero?
-Un viaje, una casa, tu fondo de emergencia, salir del modo “sobrevivir”.
+Un viaje, una casa, tu [fondo de emergencia](/blog/fondo-emergencia-inteligente-2026/), salir del modo “sobrevivir”.
 
 Y grábate esto:
 
@@ -130,7 +130,7 @@ Imbatible para los que gastan impulsivamente.
 
 Aquí te dejo tres ajustes poderosos que transforman tu presupuesto:
 
-### 🚨 Elimina los “gastos hormiga”
+### 🚨 Elimina los “[gastos hormiga](/blog/por-que-tu-dinero-desaparece/)”
 Deliverys, cafés, apps que ni usas…  
 No parecen gran cosa hasta que sumas €300 al mes sin darte cuenta.
 

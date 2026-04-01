@@ -3,8 +3,8 @@ title: "El poder silencioso de los dividendos: cómo ganar dinero mientras duerm
 description: "Los dividendos no son 'dinero gratis', son el motor invisible que permite que tu dinero trabaje por ti. Descubre cómo funcionan, cuándo se pagan y cómo convertirlos en una estrategia real de ingresos pasivos sostenibles."
 pubDate: "2025-10-28T20:30:43.815Z"
 heroImage: "/blogs/poder-silencioso-de-los-dividendos.webp"
-categories: ["inversiones", "educación financiera", "mercado bursátil"]
-tags: ["dividendos", "inversión a largo plazo", "ingresos pasivos", "acciones", "rentabilidad", "educación financiera"]
+categories: ["inversiones", "Educación Financiera", "mercado bursátil"]
+tags: ["dividendos", "inversión a largo plazo", "ingresos pasivos", "acciones", "rentabilidad", "Educación Financiera"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/p7rsa8omugQ"
@@ -137,7 +137,7 @@ También incluyen **los dividendos recibidos**.
 Esa combinación se llama **Retorno Total (Total Return)**.
 
 Y aquí está el dato clave:  
-Históricamente, los dividendos han representado **alrededor del 25 %** del rendimiento total del mercado global (MSCI World), con **menor volatilidad** que los precios.
+Históricamente, los dividendos han representado **alrededor del 25 %** del rendimiento total del mercado global ([MSCI World](/blog/msci-world-para-principiantes/)), con **menor volatilidad** que los precios.
 
 Por eso, en entornos de inflación o incertidumbre, las **acciones que pagan dividendos estables** suelen superar al promedio del mercado.  
 Funcionan como un **ancla de estabilidad** para el inversor a largo plazo.
@@ -147,7 +147,7 @@ Funcionan como un **ancla de estabilidad** para el inversor a largo plazo.
 ## El poder del interés compuesto y la reinversión
 
 Albert Einstein lo llamó “la octava maravilla del mundo”:  
-el **interés compuesto**.
+el **[interés compuesto](/blog/interes-simple-vs-interes-compuesto/)**.
 
 Cuando reinviertes tus dividendos en nuevas acciones, se produce un efecto exponencial:  
 esas nuevas acciones generan más dividendos, que vuelves a reinvertir, y así sucesivamente.

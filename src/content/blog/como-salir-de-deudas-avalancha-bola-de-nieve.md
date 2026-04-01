@@ -3,8 +3,8 @@ title: "Cómo salir de deudas rápido: Métodos Avalancha y Bola de Nieve explic
 description: "¿Sabías que pagar solo el mínimo de tus deudas puede mantenerte atrapado durante años? Descubre cómo identificar tus deudas, por qué los pagos mínimos son una trampa y cuáles son los métodos más efectivos para liberarte: Avalancha o Bola de Nieve."
 pubDate: "2025-10-07T20:30:55.069Z"
 heroImage: "/blogs/salir-de-deudas.webp"
-categories: ["finanzas personales", "educación financiera", "libertad financiera", "estrategias de pago"]
-tags: ["deudas", "método avalancha", "método bola de nieve", "educación financiera", "pagos mínimos", "presupuesto inteligente"]
+categories: ["Finanzas Personales", "Educación Financiera", "Libertad Financiera", "Estrategias de pago"]
+tags: ["deudas", "método avalancha", "método bola de nieve", "Educación Financiera", "pagos mínimos", "presupuesto inteligente"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/nI1oa0m5U6Y"
@@ -16,7 +16,7 @@ video:
 
 ¿Sabías que hay una trampa silenciosa que atrapa a millones de personas todos los días? Esa trampa se llama **deuda**. Y lo más peligroso es que no necesitas buscarla: ella viene a ti. Una tarjeta de crédito aquí, un préstamo rápido allá, y sin darte cuenta estás cargando con una mochila que cada mes se hace más pesada.
 
-Seguramente has escuchado hablar de “deuda buena” y “deuda mala”. Pero seamos sinceros: cuando una deuda empieza a quitarte el sueño y a consumir tu tranquilidad, ya no es ni buena ni mala. Es una cadena que te mantiene atado.  
+Seguramente has escuchado hablar de “[deuda buena](/blog/deuda-buena-vs-deuda-mala/)” y “deuda mala”. Pero seamos sinceros: cuando una deuda empieza a quitarte el sueño y a consumir tu tranquilidad, ya no es ni buena ni mala. Es una cadena que te mantiene atado.  
 
 La buena noticia: así como entraste, también puedes salir. No en veinte años pagando mínimos, sino con un plan estratégico que te libere más rápido de lo que imaginas.  
 
@@ -62,7 +62,7 @@ Además, existe el **interés residual**: aunque creas que liquidaste, puede que
 
 ## 3. Presupuesto inteligente: libera capital
 
-Un buen presupuesto no es un castigo, es tu **plan de batalla**.  
+Un buen [presupuesto](/blog/como-hacer-un-presupuesto-que-funciona/) no es un castigo, es tu **plan de batalla**.  
 
 La clave está en identificar y recortar los **gastos hormiga**: cafés, suscripciones olvidadas, comidas rápidas… Cada euro que liberas debe ir directo a atacar el capital de tu deuda más cara.  
 

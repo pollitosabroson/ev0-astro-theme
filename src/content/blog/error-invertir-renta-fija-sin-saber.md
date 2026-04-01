@@ -3,8 +3,8 @@ title: "El error silencioso que cometen millones al invertir en renta fija sin s
 description: "Millones de personas invierten en productos financieros sin entenderlos, especialmente en renta fija. Descubre en este post cómo evitar caer en la trampa bancaria más común y protege tu dinero como un inversor informado."
 pubDate: "2025-06-10T20:30:25.679Z"
 heroImage: "/blogs/renta-fija-errores.webp"
-categories: ["finanzas personales", "Blog Inversiones"]
-tags: ["renta fija", "bonos", "riesgo financiero", "educación financiera", "fondos de inversión", "ETFs", "banca tradicional", "errores de inversión"]
+categories: ["Finanzas Personales", "Blog Inversiones"]
+tags: ["renta fija", "bonos", "riesgo financiero", "Educación Financiera", "Fondos de Inversión", "ETFs", "banca tradicional", "errores de inversión"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/UYXOpLhq730"

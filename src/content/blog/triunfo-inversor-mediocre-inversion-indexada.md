@@ -3,8 +3,8 @@ title: "El triunfo del inversor mediocre: por qué no ser brillante te hace gana
 description: "Descubre por qué la inversión mediocre, basada en índices y bajo coste, supera a la mayoría de inversores activos y profesionales a largo plazo."
 pubDate: "2026-01-20T20:30:09.415Z"
 heroImage: "/blogs/inversor-mediocre.webp"
-categories: ["finanzas personales", "inversión pasiva", "educación financiera"]
-tags: ["inversión indexada", "fondos indexados", "S&P 500", "MSCI World", "gestión activa", "comisiones", "psicología del inversor"]
+categories: ["Finanzas Personales", "Inversión Pasiva", "Educación Financiera"]
+tags: ["inversión indexada", "Fondos Indexados", "S&P 500", "MSCI World", "gestión activa", "comisiones", "psicología del inversor"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/ssvvhhpjGk0"
@@ -45,7 +45,7 @@ El problema aparece **después**, cuando entran en juego:
 
 La gestión activa necesita una infraestructura enorme: analistas, oficinas, tecnología y operaciones constantes. Todo eso se paga… con tu rentabilidad.
 
-La inversión indexada, en cambio, replica índices como el **MSCI World** o el **S&P 500** con costes mínimos, normalmente alrededor del 0,10%.
+La inversión indexada, en cambio, replica índices como el **[MSCI World](/blog/msci-world-para-principiantes/)** o el **[S&P 500](/blog/que-es-el-sp500-y-como-funciona/)** con costes mínimos, normalmente alrededor del 0,10%.
 
 No es que el inversor mediocre sea más rápido.  
 Es que **corre sin mochila**.

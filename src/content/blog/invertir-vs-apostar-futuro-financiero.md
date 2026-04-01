@@ -4,7 +4,7 @@ description: "Descubre la verdadera diferencia entre invertir y apostar, y cómo
 pubDate: "2024-12-10T11:37:55.870Z"
 heroImage: "/blogs/invertir-apuestas.webp"
 categories: ["Finanzas Personales", "Inversiones", "Nudismo Financiero", "Ahorro e Inversión", "Educación Financiera"]
-tags: ["Inversiones", "Ahorro de emergencia", "Estrategias financieras"]
+tags: ["Inversiones", "Ahorro de emergencia", "Estrategias Financieras"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/vAjeTO9J5To"

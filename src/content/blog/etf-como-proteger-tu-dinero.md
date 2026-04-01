@@ -4,7 +4,7 @@ description: "Cada día tu dinero vale menos y lo peor es que ni te das cuenta. 
 pubDate: "2025-02-24T23:21:03.892Z"
 heroImage: "/blogs/ETF.webp"
 categories: ["Inversiones", "Finanzas Personales"]
-tags: ["ETF", "inversiones inteligentes", "ahorro", "protección financiera", "crecimiento del dinero"]
+tags: ["ETF", "Inversión Inteligente", "ahorro", "protección financiera", "crecimiento del dinero"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/Gl-1QFoedtw"
@@ -18,7 +18,7 @@ video:
 ## 💸 Lo que nadie te dice sobre el dinero  
 Cada día, tu dinero vale menos. Lo que hoy compras con 100 euros, en unos años costará 120, 150... y lo peor es que un billete de 100 seguirá valiendo exactamente lo mismo.  
 
-Esto es la inflación, y si no haces algo al respecto, estarás perdiendo poder adquisitivo sin siquiera darte cuenta.   
+Esto es la [inflación](/blog/por-que-ahorrar-dinero-te-hace-mas-pobre/), y si no haces algo al respecto, estarás perdiendo poder adquisitivo sin siquiera darte cuenta.   
 
 Pero aquí no venimos a hablar de problemas, sino de soluciones.  
 
@@ -42,7 +42,7 @@ Un **ETF (Exchange Traded Fund)** es un fondo que agrupa muchas inversiones en u
 2. **Diversificación instantánea**: No apuestas todo a una sola acción, sino a un conjunto de ellas.  
 3. **Mayor seguridad**: Al tener múltiples activos, si uno baja, otros pueden compensarlo.  
 4. **Flexibilidad total**: Puedes comprarlos y venderlos en cualquier momento.  
-5. **Resultados probados**: Si hubieras invertido en un ETF del S&P 500 hace 20 años, hoy habrías multiplicado tu dinero por 7.  
+5. **Resultados probados**: Si hubieras invertido en un ETF del [S&P 500](/blog/que-es-el-sp500-y-como-funciona/) hace 20 años, hoy habrías multiplicado tu dinero por 7.  
 
 ## ⏳ Breve historia de los ETF: ¿cómo surgieron?  
 Los ETF no siempre existieron. De hecho, su historia está llena de hitos clave que los han convertido en una de las opciones de inversión más populares del mundo:  

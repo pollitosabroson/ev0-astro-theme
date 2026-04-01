@@ -78,7 +78,7 @@ Sí, puedes jubilarte antes… pero necesitas hacer algo más que simplemente es
 Aquí hay tres estrategias que pueden acercarte a tu retiro anticipado:
 
 1️⃣ **Ahorro e inversión inteligente**  
-No basta con ahorrar, hay que hacer que el dinero trabaje para ti. Inversiones como fondos indexados, dividendos o bienes raíces pueden generar ingresos pasivos que te ayuden a cubrir tus gastos sin depender de la pensión pública.
+No basta con ahorrar, hay que hacer que el dinero trabaje para ti. Inversiones como [fondos indexados](/blog/triunfo-inversor-mediocre-inversion-indexada/), dividendos o bienes raíces pueden generar ingresos pasivos que te ayuden a cubrir tus gastos sin depender de la pensión pública.
 
 2️⃣ **Múltiples fuentes de ingresos**  
 Depender de un solo sueldo es arriesgado. El objetivo es diversificar, ya sea con un negocio propio, ingresos online, consultorías o cualquier actividad que te permita generar dinero sin atarte a un empleo tradicional.
@@ -90,7 +90,7 @@ Jubilarte antes no significa solo ganar más, sino gastar menos en lo innecesari
 
 ## ¿Cómo alcanzar la libertad financiera?
 
-El concepto de jubilarse antes de los 40 no es nuevo. En realidad, es un movimiento conocido como FIRE (Financial Independence, Retire Early). Esta filosofía ha ganado popularidad en los últimos años, y su objetivo es claro: alcanzar la independencia financiera lo antes posible para poder disfrutar de la vida sin depender de un empleo convencional.
+El concepto de jubilarse antes de los 40 no es nuevo. En realidad, es un [movimiento FIRE](/blog/movimiento-fire/) (Financial Independence, Retire Early). Esta filosofía ha ganado popularidad en los últimos años, y su objetivo es claro: alcanzar la independencia financiera lo antes posible para poder disfrutar de la vida sin depender de un empleo convencional.
 
 Si quieres conocer todos los detalles sobre cómo funciona FIRE y cómo puedes empezar a implementarlo en tu vida, te invito a que veas mi video completo donde te explico la modalidad FIRE de forma más profunda. Haz clic en el siguiente enlace para ver el video completo: [Ver video sobre FIRE](https://www.youtube.com/ejemplo-video)
 

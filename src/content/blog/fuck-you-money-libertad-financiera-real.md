@@ -3,7 +3,7 @@ title: "¿Qué es el Fuck You Money y por qué podría cambiar tu vida para siem
 description: "Descubre qué es el Fuck You Money, cómo puedes alcanzarlo aunque no seas millonario, y por qué se ha convertido en la verdadera meta de quienes buscan libertad financiera"
 pubDate: "2025-07-01T20:30:27.406Z"
 heroImage: "/blogs/fuckyoumoney.webp"
-categories: ["finanzas personales", "libertad financiera"]
+categories: ["Finanzas Personales", "Libertad Financiera"]
 tags: ["fuck you money", "libertad financiera", "ahorro inteligente", "inversión consciente", "mentalidad de abundancia"]
 author: ["Alejandro Rosales"]
 video:
@@ -79,12 +79,12 @@ Vivir por debajo de tus posibilidades es revolucionario.
 
 ### 2. Inversión inteligente
 
-Haz que tu dinero trabaje para ti. Desde fondos indexados hasta renta fija, hay opciones para todos los perfiles.  
+Haz que tu dinero trabaje para ti. Desde [fondos indexados](/blog/triunfo-inversor-mediocre-inversion-indexada/) hasta renta fija, hay opciones para todos los perfiles.  
 Investiga, aprende, asesórate.
 
 ### 3. Elimina tus deudas
 
-Cada euro que pagas en intereses es un ladrón de tu libertad.  
+Cada euro que pagas en [intereses](/blog/interes-simple-vs-interes-compuesto/) es un ladrón de tu libertad.  
 Prioriza quitarte de encima esas cadenas financieras.
 
 👉 ¿Mi consejo? Empieza hoy. Con lo que tengas. Con lo que puedas.

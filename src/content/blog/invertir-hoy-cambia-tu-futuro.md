@@ -4,7 +4,7 @@ description: "¿Por qué empezar a invertir hoy y no mañana? Descubre cómo el 
 pubDate: "2025-07-22T20:30:00.000Z"
 heroImage: "/blogs/invertir-hoy.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
-tags: ["inversión", "educación financiera", "interés compuesto", "libertad financiera", "ahorro inteligente"]
+tags: ["inversión", "Educación Financiera", "interés compuesto", "libertad financiera", "ahorro inteligente"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/TkJ9mTPJex4"
@@ -32,7 +32,7 @@ La mayoría postergamos con excusas: “cuando tenga más dinero”, “cuando s
 
 **Invertir no requiere ser millonario. Requiere disciplina y constancia.**
 
-El interés compuesto necesita tiempo para funcionar. Mientras más tardes, menos ventaja tendrás. Y eso no se nota en semanas, se nota en décadas. 
+El [interés compuesto](/blog/interes-simple-vs-interes-compuesto/) necesita tiempo para funcionar. Mientras más tardes, menos ventaja tendrás. Y eso no se nota en semanas, se nota en décadas. 
 
 ---
 
@@ -63,7 +63,7 @@ Ese cambio de mentalidad me hizo ver que **nunca es tarde… pero cuanto antes, 
 3. **No diversificar.** Nunca pongas todos los huevos en una sola canasta.
 4. **Invertir guiado por emociones.** El miedo y la euforia son malos consejeros.
 5. **Ignorar comisiones e impuestos.** Drenan tus ganancias sin que lo notes.
-6. **No tener fondo de emergencia.** Es tu escudo ante lo inesperado.
+6. **No tener [fondo de emergencia](/blog/fondo-emergencia-inteligente-2026/).** Es tu escudo ante lo inesperado.
 7. **Invertir en lo que no entiendes.** La ignorancia es carísima.
 
 ---

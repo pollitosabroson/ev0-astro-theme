@@ -3,7 +3,7 @@ title: "¿Existe la inversión sin riesgo en 2026?"
 description: "Descubre qué es la Tasa Libre de Riesgo, cómo funciona el CAPM y por qué la seguridad absoluta no existe. Aprende a proteger tu patrimonio en 2026."
 pubDate: "2026-02-28T12:00:00.000Z"
 heroImage: "/blogs/inversion-sin-riesgo-2026.webp"
-categories: ["finanzas personales", "inversión", "educación financiera"]
+categories: ["Finanzas Personales", "inversión", "Educación Financiera"]
 tags: ["tasa libre de riesgo", "CAPM", "inflación", "bonos del tesoro", "CNMV", "gestión del riesgo"]
 author: ["Alejandro Rosales"]
 video:
@@ -201,7 +201,7 @@ Para un perfil conservador, Asia hoy es más diversificación que refugio puro.
 
 # ¿Cómo diseñar una cartera defensiva en 2026?
 
-La clásica cartera 60/40 (60% acciones / 40% bonos) ya no es suficiente.
+La clásica [cartera](/blog/que-es-una-cartera-de-inversion-y-como-construirla/) 60/40 (60% acciones / 40% bonos) ya no es suficiente.
 
 Necesitamos una estructura en capas.
 

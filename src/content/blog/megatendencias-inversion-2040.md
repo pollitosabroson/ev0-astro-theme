@@ -4,7 +4,7 @@ description: "Las megatendencias están redefiniendo la economía global. Descub
 slug: megatendencias-inversion-2040
 pubDate: "2026-02-14T18:00:00.000Z"
 heroImage: "/blogs/megatendencias-2040.webp"
-categories: ["inversión", "educación financiera", "economía global"]
+categories: ["inversión", "Educación Financiera", "economía global"]
 tags: ["megatendencias", "inversión a largo plazo", "inteligencia artificial", "inflación", "demografía", "tokenización", "activos reales"]
 author: ["Alejandro Rosales"]
 video:
@@ -236,13 +236,13 @@ Proyección estimada:
 
 ---
 
-## ¿Por qué el modelo 60/40 pierde eficacia?
+## ¿Por qué el [modelo 60/40](/blog/que-es-una-cartera-de-inversion-y-como-construirla/) pierde eficacia?
 
 El entorno macroeconómico ha cambiado.
 
 Entramos en una era de:
 
-- Inflación más volátil  
+- [Inflación](/blog/efecto-cantillon-como-te-afecta/) más volátil  
 - Tipos reales positivos  
 - Déficits fiscales estructurales  
 

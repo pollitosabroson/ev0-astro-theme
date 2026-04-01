@@ -4,7 +4,7 @@ description: "¿Todavía no entiendes qué es una cartera de inversión? Tranqui
 pubDate: "2025-12-09T20:30:19.486Z"
 heroImage: "/blogs/cartera-inversion.webp"
 categories: ["Finanzas Personales", "Inversiones", "Educación Financiera"]
-tags: ["cartera de inversión", "diversificación", "asset allocation", "fondos indexados", "renta fija", "renta variable", "principiantes"]
+tags: ["cartera de inversión", "diversificación", "asset allocation", "Fondos Indexados", "renta fija", "renta variable", "principiantes"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/pRk0BBHkMaY"
@@ -48,7 +48,7 @@ Las clases de activos principales son:
 ### **1. Renta Variable (Acciones)**
 Tienen mayor crecimiento a largo plazo, pero también mayor volatilidad.
 
-### **2. Renta Fija (Bonos)**
+### **2. [Renta Fija](/blog/error-invertir-renta-fija-sin-saber/) (Bonos)**
 Más estables, con rendimientos moderados. Menor riesgo, menor crecimiento.
 
 ### **3. Equivalentes de Efectivo**
@@ -111,7 +111,7 @@ Este paso determina más del **80% del rendimiento a largo plazo**, según déca
 Una vez definida tu distribución, eliges los instrumentos concretos.
 
 ### Para principiantes, lo más eficiente suele ser:
-- **Fondos indexados**  
+- **[Fondos indexados](/blog/triunfo-inversor-mediocre-inversion-indexada/)**  
 - **ETFs globales**  
 - Costos bajos, diversificación automática y simplicidad.
 
