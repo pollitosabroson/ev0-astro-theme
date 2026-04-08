@@ -3,9 +3,9 @@ title: "Kodak: El Gigante que Inventó su Propia Tumba (y la lección que puede 
 description: "Kodak dominó el mundo, inventó la cámara digital… y aun así quebró. Descubre el error que la destruyó y cómo evitarlo en tus inversiones en 2026."
 pubDate: "2026-04-06"
 heroImage: "/blogs/kodak-historia-caida.webp"
-categories: ["Inversión", "Educación Financiera", "Historia Empresarial"]
-tags: ["Kodak", "Innovación", "Inversión", "Errores Financieros", "Empresas", "IA", "Estrategia"]
-author: "Alejandro Rosales"
+categories: ["Inversiones", "Educación Financiera", "Empresas"]
+tags: ["Kodak", "Innovación", "Inversión", "Errores Financieros", "Empresas", "Inteligencia Artificial", "Estrategias Financieras"]
+author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/7DuK9Ll76oc"
   thumbnailUrl: "https://i.ytimg.com/vi/7DuK9Ll76oc/maxresdefault.jpg"
@@ -112,7 +112,7 @@ Y prefirieron proteger el pasado… en lugar de construir el futuro.
 Este es el mismo error que destruye inversiones hoy:
 - Empresas que no evolucionan
 - Sectores que ignoran disrupciones
-- Inversores que se enamoran de sus activos
+- [Inversores](/blog/tipos-de-inversores/) que se enamoran de sus activos
 
 ---
 
@@ -215,7 +215,7 @@ Kodak no murió por falta de recursos.
 
 Murió por falta de mentalidad.
 
-En 2026, con la Inteligencia Artificial cambiándolo todo, el “momento Kodak” está más presente que nunca.
+En 2026, con la [Inteligencia Artificial](/blog/megatendencias-inversion-2040/) cambiándolo todo, el “momento Kodak” está más presente que nunca.
 
 - Empresas que no adoptan IA  
 - Sectores que ignoran cambios estructurales  
