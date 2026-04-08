@@ -90,8 +90,12 @@ export default function sitemapGenerator() {
             },
           ];
           
-          // Ordenar por prioridad descendente
-          urlStructure.sort((a, b) => b.priority - a.priority);
+          // Ordenar: home primero, luego posts por fecha descendente, luego resto
+          urlStructure.sort((a, b) => {
+            if (b.priority !== a.priority) return b.priority - a.priority;
+            // Dentro de la misma prioridad, más reciente primero
+            return new Date(b.lastmod) - new Date(a.lastmod);
+          });
           
           // Generar XML del sitemap
           const sitemapXml = generateSitemapXml(urlStructure);
