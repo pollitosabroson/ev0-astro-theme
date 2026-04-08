@@ -169,7 +169,7 @@ function generatePersonJsonLd(config, topics, skills, posts) {
     "url": baseUrl,
     "image": `${baseUrl}${config.author?.avatar || '/autor.jpeg'}`,
     "sameAs": [
-      "https://youtube.com/@alejandrorosales",
+      "https://www.youtube.com/@Alejandro-Rosales",
       `${baseUrl}/about`
     ],
     "knowsAbout": topics.sort(),
