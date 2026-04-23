@@ -1,6 +1,6 @@
 ---
 title: "¿La IA va a quitarte el trabajo en 2026? La verdad que nadie te está contando"
-description: "Despidos masivos, salarios que cambian y nuevas oportunidades: descubre qué está haciendo realmente la Inteligencia Artificial con el empleo en 2026 y cómo puedes aprovecharlo a tu favor."
+description: "Despidos masivos, nuevos salarios y oportunidades: qué está haciendo la IA con el empleo en 2026 y cómo aprovecharlo a tu favor."
 slug: ia-trabajo-2026-impacto-empleo-realidad
 pubDate: 2026-04-12
 heroImage: "/blogs/ia-trabajo-2026.webp"
@@ -22,7 +22,7 @@ video:
     - name: "La Trampa de Kodak en la era de la IA"
       startOffset: 279
       endOffset: 614
-    - name: "perfect¿Dónde está el dinero en 2026?"
+    - name: "¿Dónde está el dinero en 2026?"
       startOffset: 614
       endOffset: 0
 ---
@@ -274,8 +274,6 @@ El nuevo juego es:
 
 ---
 
-# CTA
-
 Si has llegado hasta aquí, ya entiendes algo que la mayoría todavía no ve:  
 esto no va de sobrevivir… va de posicionarte.
 
@@ -288,7 +286,7 @@ Y ahora dime algo importante:
 
 👉 ¿Estás usando la IA para avanzar… o todavía la estás evitando?
 
-Tu respuesta dice mucho más sobre tu futuro que cualquier algoritmo. Condition
+Tu respuesta dice mucho más sobre tu futuro que cualquier algoritmo.
 
 <div class="iframe-container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/9dhzQ-bHbTE?si=7Otpt1uKPQGj8NhF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
