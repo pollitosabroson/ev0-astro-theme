@@ -1,5 +1,30 @@
 [
   {
+    "title": "Polymarket: la web que predice el futuro mejor que las NOTICIAS #inversiones  #dinero",
+    "description": "Las encuestas mienten. Los expertos se equivocan. Pero hay un sitio donde la gente apuesta su dinero por lo que va a pasar… y ...",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "z2K71JooSC4",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/z2K71JooSC4/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/z2K71JooSC4/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/z2K71JooSC4/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2026-05-13T11:15:40Z"
+  },
+  {
     "title": "NVIDIA estuvo a 30 días de quebrar… y ganó #dinero #finanzas",
     "description": "NVIDIA no se convirtió en gigante por suerte. Se construyó tomando decisiones que parecían errores… mientras todos miraban a ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,22 +32,22 @@
     "videoId": "6I-DV7q8BUc",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/6I-DV7q8BUc/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/6I-DV7q8BUc/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/6I-DV7q8BUc/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/6I-DV7q8BUc/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/6I-DV7q8BUc/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/6I-DV7q8BUc/hqdefault.jpg",
         "width": 480,
         "height": 360
       }
     },
-    "publishedAt": "2026-04-30T12:30:08Z"
+    "publishedAt": "2026-04-30T18:30:06Z"
   },
   {
     "title": "El INFARTO del petróleo: por qué TODO es más caro #petróleo #geopolitica #dinero",
@@ -98,31 +123,6 @@
       }
     },
     "publishedAt": "2026-04-09T18:30:06Z"
-  },
-  {
-    "title": "La caída del 2026 no es lo que crees (y esto lo cambia todo) #dinero #crisis",
-    "description": "Si abriste tu cuenta este mes y viste números en rojo… no eres el único. Pero aquí va lo importante: esta caída no es el ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "QraTqN3yRfA",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/QraTqN3yRfA/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/QraTqN3yRfA/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/QraTqN3yRfA/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2026-03-31T04:00:06Z"
   },
   {
     "title": "El DÍA que el MERCADO entra en PÁNICO (y tu FONDO lo PAGA) #fondosindexados #inversiones",

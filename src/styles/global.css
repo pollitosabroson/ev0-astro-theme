@@ -21,6 +21,10 @@
   table * {
     @apply text-zinc-700 dark:text-zinc-300;
   }
+  .dark .prose a {
+    @apply text-green-400;
+    background-image: linear-gradient(to right, theme('colors.green.400'), theme('colors.green.400'));
+  }
   kbd {
     @apply bg-white text-zinc-700;
   }

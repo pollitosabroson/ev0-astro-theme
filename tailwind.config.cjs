@@ -39,10 +39,8 @@ module.exports = {
             },
             li: {
               'margin-bottom': '0.5rem',
-              color: 'rgb(var(--color-code-text))',
               'font-size': '1rem',
               'line-height': '1.5',
-              'font-family': "Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace",
             },
             'code::before': {
               content: 'none',
