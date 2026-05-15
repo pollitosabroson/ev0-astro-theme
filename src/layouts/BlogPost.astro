@@ -8,15 +8,17 @@ import VideoSEO from "@components/VideoSEO.astro";
 import BlogPostJsonLd from "@components/BlogPostJsonLd.astro";
 import FAQSchema from "@components/FAQSchema.astro";
 import DisclaimerFinanciero from "@components/DisclaimerFinanciero.astro";
+import RelatedPosts from "@components/RelatedPosts.astro";
 import { Image } from "astro:assets";
 import config from "@config/config.json";
 import { slugify } from "@utils/slug";
 
 type Props = CollectionEntry<"blog">["data"] & {
   content?: string;
+  slug?: string;
 };
 
-const { title, description, pubDate, heroImage, categories, tags, video, content, faqs } =
+const { title, description, pubDate, heroImage, categories, tags, video, content, faqs, slug } =
   Astro.props;
 
 const FINANCIAL_CATEGORIES = [
@@ -119,5 +121,8 @@ const showDisclaimer = categories?.some((cat) =>
         ))
       }
     </div>
+    {slug && (
+      <RelatedPosts currentSlug={slug} categories={categories ?? []} tags={tags ?? []} />
+    )}
   </article>
 </Base>

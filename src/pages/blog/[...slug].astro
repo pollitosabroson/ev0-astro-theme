@@ -18,6 +18,6 @@ const { Content } = await post.render();
 const { body } = post;
 ---
 
-<BlogPost {...post.data} content={body}>
+<BlogPost {...post.data} slug={post.slug} content={body}>
   <Content components={{ pre: Code }} />
 </BlogPost>

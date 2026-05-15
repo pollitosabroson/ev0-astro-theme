@@ -1,0 +1,72 @@
+---
+import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
+import { slugify } from "@utils/slug";
+
+interface Props {
+  currentSlug: string;
+  categories: string[];
+  tags: string[];
+}
+
+const { currentSlug, categories, tags } = Astro.props;
+
+const allPosts = await getCollection("blog");
+
+const scored = allPosts
+  .filter((p) => p.slug !== currentSlug)
+  .map((p) => {
+    const sharedCats = (p.data.categories ?? []).filter((c) => categories.includes(c)).length;
+    const sharedTags = (p.data.tags ?? []).filter((t) => tags.includes(t)).length;
+    return { post: p, score: sharedCats * 2 + sharedTags };
+  })
+  .sort((a, b) => {
+    if (b.score !== a.score) return b.score - a.score;
+    return new Date(b.post.data.pubDate).getTime() - new Date(a.post.data.pubDate).getTime();
+  });
+
+const related = scored.slice(0, 3).map((s) => s.post);
+---
+
+{related.length > 0 && (
+  <section class="mt-12 pt-8 border-t border-zinc-200 dark:border-zinc-700">
+    <h2 class="text-xl font-bold mb-6 text-zinc-900 dark:text-zinc-100">Artículos relacionados</h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      {related.map((post) => (
+        <a
+          href={`/blog/${post.slug}/`}
+          class="group flex flex-col rounded-lg overflow-hidden border border-zinc-200 dark:border-zinc-700 hover:border-green-500 dark:hover:border-green-500 transition-colors duration-200"
+        >
+          {post.data.heroImage && (
+            <div class="overflow-hidden">
+              <figure class="w-auto md:h-[150px] overflow-hidden">
+                <Image
+                  src={post.data.heroImage}
+                  alt={post.data.title}
+                  width={480}
+                  height={270}
+                  class="w-full h-full object-cover transition duration-300 ease-in-out group-hover:scale-110"
+                  loading="lazy"
+                  decoding="async"
+                />
+              </figure>
+            </div>
+          )}
+          <div class="flex flex-col flex-1 p-4 gap-2">
+            {post.data.categories?.[0] && (
+              <span class="capitalize text-xs rounded-full bg-zinc-50 dark:bg-zinc-900 px-3 py-1 font-medium text-zinc-600 dark:text-zinc-400 self-start">
+                {post.data.categories[0]}
+              </span>
+            )}
+            <h3 class="text-sm font-semibold leading-snug text-zinc-900 dark:text-white line-clamp-2 group-hover:text-green-600 dark:group-hover:text-green-400 transition-colors">
+              {post.data.title}
+            </h3>
+            <span class="mt-auto text-xs font-semibold text-green-600 dark:text-green-400">
+              Leer más →
+            </span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+)}
