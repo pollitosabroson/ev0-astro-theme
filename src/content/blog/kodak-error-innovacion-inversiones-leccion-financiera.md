@@ -4,7 +4,7 @@ description: "Kodak dominó el mundo, inventó la cámara digital… y aun así 
 pubDate: "2026-04-06"
 heroImage: "/blogs/kodak-historia-caida.webp"
 categories: ["Inversiones", "Educación Financiera", "Empresas"]
-tags: ["Kodak", "Innovación", "Inversión", "Errores Financieros", "Empresas", "Inteligencia Artificial", "Estrategias Financieras"]
+tags: ["Empresas", "Innovación", "Inversión", "Errores Financieros", "Inteligencia Artificial", "Estrategias Financieras"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/7DuK9Ll76oc"

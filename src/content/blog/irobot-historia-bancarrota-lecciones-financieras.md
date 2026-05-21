@@ -4,7 +4,7 @@ description: "iRobot creó una categoría entera, dominó el mercado durante añ
 pubDate: "2026-01-06T20:30:22.231Z"
 heroImage: "/blogs/irobot-bancarrota.webp"
 categories: ["empresas", "inversiones", "Educación Financiera"]
-tags: ["irobot", "roomba", "bancarrota", "acciones", "riesgo financiero"]
+tags: ["Empresas", "bancarrota", "Acciones", "Riesgo Financiero"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/QxvfzyJ7pzA"

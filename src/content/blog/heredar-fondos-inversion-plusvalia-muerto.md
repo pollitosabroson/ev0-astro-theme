@@ -4,7 +4,7 @@ description: "¿Y si morir rico no fuera tan buena idea? Descubre qué pasa con 
 pubDate: "2025-05-27T20:30:49.174Z"
 heroImage: "/blogs/plusvalia-muerto.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
-tags: ["herencia", "Fondos de Inversión", "planificación financiera", "Educación Financiera", "plusvalía del muerto"]
+tags: ["Herencia", "Fondos de Inversión", "planificación financiera", "Educación Financiera", "Plusvalía del Muerto"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/okICDO7uAB0"

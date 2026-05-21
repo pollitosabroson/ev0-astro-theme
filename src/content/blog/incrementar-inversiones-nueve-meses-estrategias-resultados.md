@@ -4,7 +4,7 @@ description: "Descubre cómo optimicé mis finanzas, enfrenté la inflación y a
 pubDate: "2024-10-09T07:02:19.709Z"
 heroImage: "/blogs/invest-sep.webp"
 categories: ["Finanzas Personales", "Inversiones", "Nudismo Financiero", "Ahorro e Inversión", "Educación Financiera"]
-tags: ["nudismo financiero", "Inversión Inteligente", "Estrategias Financieras", "rentabilidad", "diversificación", "metas financieras", "Fondos de Inversión", "gestión de patrimonio", "inflación", "finanzas 2023"]
+tags: ["Nudismo Financiero", "Inversión Inteligente", "Estrategias Financieras", "Rentabilidad", "Diversificación", "Metas Financieras", "Fondos de Inversión", "gestión de patrimonio", "inflación"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/ls8ZDR_PSV4"

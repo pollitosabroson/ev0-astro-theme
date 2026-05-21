@@ -38,7 +38,7 @@ video:
     - name: "El Salto a Wall Street y la Batalla por la Verdad"
       startOffset: 669
       endOffset: 889
-      endOffset: 0---
+---
 
 # Polymarket: La Plataforma que Convierte el Futuro en Dinero
 

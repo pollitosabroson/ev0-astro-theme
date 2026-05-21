@@ -4,7 +4,7 @@ description: "Descubre cómo alcanzar la tranquilidad financiera y dejar atrás 
 pubDate: "2024-02-14T14:53:55.887Z"
 heroImage: "/blogs/3.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
-tags: ["finanzas personales", "salud financiera", "ahorro", "presupuesto", "control de gastos"]
+tags: ["finanzas personales", "Salud Financiera", "ahorro", "presupuesto", "control de gastos"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/CgJeVy_ySZQ"

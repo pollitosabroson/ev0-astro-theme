@@ -129,7 +129,8 @@ function parseFrontmatter(content) {
     return { frontmatter: '', body: content, hasVideo: false };
   }
 
-  const frontmatter = match[1];
+  // Añadir \n para que el último campo del frontmatter siempre sea capturable por el regex
+  const frontmatter = match[1] + '\n';
   const body = content.slice(match[0].length);
   
   // Check si ya tiene video con datos reales (no solo el campo vacío)
@@ -216,8 +217,8 @@ async function processPostFile(filePath) {
     );
     console.log(`🔄 ${fileName}: Reemplazando campo video incompleto`);
   } else {
-    // Añadir campo video nuevo
-    newFrontmatter = `${frontmatter}\n${videoYaml}`;
+    // Añadir campo video nuevo (frontmatter ya termina en \n)
+    newFrontmatter = `${frontmatter}${videoYaml}`;
   }
 
   const newContent = `---\n${newFrontmatter}---${body}`;

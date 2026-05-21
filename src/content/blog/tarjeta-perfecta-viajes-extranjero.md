@@ -4,7 +4,7 @@ description: "Evita comisiones ocultas y haz que tu dinero rinda más en cada vi
 pubDate: "2025-09-09T20:30:00.965Z"
 heroImage: "/blogs/tarjeta-viajes.webp"
 categories: ["Finanzas Personales", "Viajes"]
-tags: ["tarjetas de crédito", "neobancos", "comisiones internacionales", "viajes inteligentes"]
+tags: ["Tarjetas de Crédito", "Neobancos", "Comisiones Internacionales", "Viajes Inteligentes"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/m6zo_XzReII"

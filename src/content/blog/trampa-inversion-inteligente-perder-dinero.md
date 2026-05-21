@@ -4,7 +4,7 @@ description: "Descubre por qué las comisiones, el ego y la psicología hacen qu
 pubDate: "2026-02-03T20:30:49.344Z"
 heroImage: "/blogs/trampa-inversion-inteligente.webp"
 categories: ["Finanzas Personales", "Educación Financiera", "inversión"]
-tags: ["inversión", "errores financieros", "Fondos de Inversión", "comisiones", "inflación", "psicología del inversor", "S&P 500"]
+tags: ["inversión", "errores financieros", "Fondos de Inversión", "comisiones", "inflación", "Psicología del Inversor", "S&P 500"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/yw3fmLiE53o"

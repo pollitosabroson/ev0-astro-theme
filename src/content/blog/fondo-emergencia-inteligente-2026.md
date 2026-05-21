@@ -5,7 +5,7 @@ slug: fondo-emergencia-inteligente-2026
 pubDate: "2026-03-07T10:30:00.000Z"
 heroImage: "/blogs/fondo-emergencia-2026.webp"
 categories: ["Finanzas Personales", "ahorro", "planificación financiera"]
-tags: ["fondo de emergencia", "ahorro inteligente", "gestión del riesgo", "inflación", "finanzas personales", "IA financiera", "plan financiero"]
+tags: ["Fondo de Emergencia", "ahorro inteligente", "Gestión del Riesgo", "inflación", "finanzas personales", "Inteligencia Artificial", "plan financiero"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/Juhq_sS66qY"
@@ -31,7 +31,7 @@ video:
     - name: "Reparando la Muralla y Conclusiones"
       startOffset: 738
       endOffset: 954
-      endOffset: 0---
+---
 
 <div class="bg-zinc-50 border border-zinc-200 rounded-2xl p-8 mb-10">
   <h3 class="text-xl font-bold text-zinc-900 mb-4">Arquitectura de liquidez: el sistema de defensa financiera</h3>

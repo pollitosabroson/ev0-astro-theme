@@ -4,7 +4,7 @@ description: "¡Bienvenidos! Hoy vamos a analizar juntos mis inversiones de octu
 pubDate: "2024-11-05T13:16:57.319Z"
 heroImage: "/blogs/october.webp"
 categories: ["Blog Inversiones"]
-tags: ["actualización financiera", "independencia financiera", "inversión en S&P 500", "cuenta MyInvestor", "renta fija", "estrategia de inversión", "crecimiento de inversiones"]
+tags: ["Actualización Financiera", "independencia financiera", "inversión en S&P 500", "cuenta MyInvestor", "Renta Fija", "estrategia de inversión", "crecimiento de inversiones"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/1DFmcjG2BqU"

@@ -3,8 +3,8 @@ title: "Cómo proteger tu dinero en una guerra o crisis global"
 description: "Descubre cómo proteger tu patrimonio ante guerras, corralitos bancarios o crisis geopolíticas. Estrategias reales de resiliencia financiera en 2026."
 pubDate: "2026-03-13T08:00:00.000Z"
 heroImage: "/blogs/proteger-dinero-guerra-2026.webp"
-categories: ["Finanzas Personales", "gestión del riesgo", "economía global"]
-tags: ["crisis financiera", "corralito bancario", "protección del patrimonio", "bitcoin", "oro", "stablecoins", "geopolítica"]
+categories: ["Finanzas Personales", "Gestión del Riesgo", "economía global"]
+tags: ["crisis financiera", "corralito bancario", "protección del patrimonio", "Blockchain", "Oro", "Análisis de Mercado"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/wi5Cq33WgeI"

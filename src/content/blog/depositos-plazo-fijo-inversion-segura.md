@@ -4,7 +4,7 @@ description: "¿Quieres invertir sin complicaciones ni riesgos excesivos? Descub
 pubDate: "2025-09-16T20:30:09.495Z"
 heroImage: "/blogs/depositos-plazo-fijo.webp"
 categories: ["Inversiones", "Finanzas Personales", "ahorro", "seguridad financiera", "productos bancarios", "depósitos"]
-tags: ["depósitos a plazo fijo", "inversión segura", "TAE", "TIN", "finanzas personales", "ahorro inteligente", "estrategias de inversión"]
+tags: ["depósitos a plazo fijo", "inversión segura", "TAE", "TIN", "finanzas personales", "ahorro inteligente", "Estrategias de Inversión"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/7tIyXGn8V1o"

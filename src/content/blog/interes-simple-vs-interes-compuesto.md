@@ -4,7 +4,7 @@ description: "¿Te sientes atrapado en un ciclo financiero? Descubre por qué ah
 pubDate: "2025-04-07T17:05:04.964Z"
 heroImage: "/blogs/simplevscompuesto.webp"
 categories: ["Finanzas Personales", "inversiones", "Educación Financiera"]
-tags: ["interés compuesto", "finanzas personales", "inversiones", "crecimiento financiero", "Educación Financiera", "dinero trabajando para ti"]
+tags: ["Interés Compuesto", "finanzas personales", "inversiones", "crecimiento financiero", "Educación Financiera", "dinero trabajando para ti"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/G3yIr7tPelA"

@@ -4,7 +4,7 @@ description: "¿Sientes que tus deudas nunca terminan? Descubre cómo reestructu
 pubDate: "2025-10-14T20:30:00.000Z"
 heroImage: "/blogs/reestructurar-deudas.webp"
 categories: ["Finanzas Personales", "Educación Financiera", "estrategias de deuda", "Libertad Financiera"]
-tags: ["reestructuración de deuda", "consolidación", "transferencia de saldo", "negociación con acreedores", "debt stacking", "disciplina financiera"]
+tags: ["Reestructuración de Deuda", "Consolidación", "Transferencia de Saldo", "Negociación con Acreedores", "Debt Stacking", "Disciplina Financiera"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/6FvwHXC5eRc"

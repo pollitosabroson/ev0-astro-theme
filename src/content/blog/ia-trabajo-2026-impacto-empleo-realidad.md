@@ -24,7 +24,7 @@ video:
       endOffset: 614
     - name: "¿Dónde está el dinero en 2026?"
       startOffset: 614
-      endOffset: 0
+      endOffset: 828
 ---
 
 ## TL;DR

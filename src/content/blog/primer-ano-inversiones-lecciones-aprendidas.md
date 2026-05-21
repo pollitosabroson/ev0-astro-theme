@@ -4,7 +4,7 @@ description: "Descubre cómo fue mi primer año invirtiendo: los retos, errores 
 pubDate: "2025-01-28T10:32:07.617Z"
 heroImage: "/blogs/1-ano.webp"
 categories: ["Finanzas Personales", "Inversiones para Principiantes"]
-tags: ["primeros pasos en inversión", "S&P 500", "libertad financiera", "cómo empezar a invertir", "Fondos de Pensiones"]
+tags: ["Primeros Pasos en Inversión", "S&P 500", "libertad financiera", "Cómo Empezar a Invertir", "Fondos de Pensiones"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/rYkYZmUv5lU"

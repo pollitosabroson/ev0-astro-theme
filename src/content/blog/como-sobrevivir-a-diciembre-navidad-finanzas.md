@@ -4,7 +4,7 @@ description: "Diciembre es alegría, pero también uno de los meses más peligro
 pubDate: "2025-12-02T20:30:26.113Z"
 heroImage: "/blogs/navidad-finanzas-guia.webp"
 categories: ["Finanzas Personales", "Educación Financiera", "Presupuestos"]
-tags: ["Cuesta de Enero", "Navidad", "Aguinaldo", "Presupuesto", "Gasto Consciente"]
+tags: ["Aguinaldo", "Presupuesto", "Gasto Consciente"]
 author: "Alejandro Rosales"
 video:
   embedUrl: "https://www.youtube.com/embed/-PGYX4Zt04c"

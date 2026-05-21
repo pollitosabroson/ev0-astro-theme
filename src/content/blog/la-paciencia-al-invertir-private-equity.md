@@ -4,7 +4,7 @@ description: "Descubre por qué la paciencia es la habilidad más infravalorada 
 pubDate: "2025-11-05T20:30:32.502Z"
 heroImage: "/blogs/private-equity-paciencia.webp"
 categories: ["inversiones", "Private Equity", "Educación Financiera", "Finanzas Personales"]
-tags: ["Private Equity", "capital privado", "inversión a largo plazo", "libertad financiera", "Fondos de Inversión", "paciencia financiera", "inversores institucionales", "Educación Financiera"]
+tags: ["Private Equity", "Capital Privado", "inversión a largo plazo", "libertad financiera", "Fondos de Inversión", "Paciencia Financiera", "inversores institucionales", "Educación Financiera"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/lAj25EHzKtA"

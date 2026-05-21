@@ -4,7 +4,7 @@ description: "¿Tu banco ya no te paga casi nada por tus ahorros? Descubre por q
 pubDate: "2025-07-07T09:55:28.394Z"
 heroImage: "/blogs/remuneradas.webp"
 categories: ["Finanzas Personales", "Educación Financiera", "estrategia de ahorro"]
-tags: ["cuentas remuneradas", "intereses bancarios", "BCE", "estrategias de ahorro", "Educación Financiera", "banca", "tipos de interés", "inflación"]
+tags: ["Cuentas Remuneradas", "Intereses Bancarios", "BCE", "estrategias de ahorro", "Educación Financiera", "Banca", "Tipos de Interés", "inflación"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/dwGMzlTY4Fs"

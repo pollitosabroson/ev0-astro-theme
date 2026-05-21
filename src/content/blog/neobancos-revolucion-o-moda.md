@@ -4,7 +4,7 @@ description: "Descubre si los neobancos son el futuro de la banca o solo una mod
 pubDate: "2025-02-16T12:39:07.888Z"
 heroImage: "/blogs/neobancos.webp"
 categories: ["Finanzas Personales", "Banca Digital"]
-tags: ["neobancos", "banca digital", "finanzas", "apps financieras", "dinero sin comisiones"]
+tags: ["Neobancos", "Banca Digital", "finanzas", "Apps Financieras", "Dinero sin Comisiones"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/VcB-fL3rHrk"

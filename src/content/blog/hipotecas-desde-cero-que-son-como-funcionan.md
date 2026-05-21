@@ -4,7 +4,7 @@ description: "Comprar una casa es el gran objetivo de muchas personas, pero las 
 pubDate: "2025-12-16T20:20:14.019Z"
 heroImage: "/blogs/hipotecas-desde-cero.webp"
 categories: ["Hipotecas", "vivienda", "Finanzas Personales", "Educación Financiera"]
-tags: ["hipoteca fija", "hipoteca variable", "hipoteca mixta", "amortización", "comprar casa"]
+tags: ["Hipoteca Fija", "Hipoteca Variable", "Hipoteca Mixta", "Amortización", "comprar casa"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/pmKBDX2c-LU"

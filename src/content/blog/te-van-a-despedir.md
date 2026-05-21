@@ -3,8 +3,8 @@ title: "Qué hacer cuando te despiden?"
 description: "Hagas lo que hagas, no importa en qué sector estés trabajando, vas a pasar sí o sí por un despido. Puede ser que tengas problemas con tu jefe, que la empresa se esté quedando sin dinero o que simplemente estés haciendo todo lo posible para que te despidan."
 pubDate: "2024-03-22T20:38:51.677Z"
 heroImage: "/blogs/despido.webp"
-categories: ["Blog Inversiones", "Finanzas Personales", "Despidos"]
-tags: ["Despidos", "Finiquito", "Negociación", "Derechos del trabajador", "Emprendimiento", "Ahorro", "Motivos de despido", "Tipos de despido", "Indemnización", "Reacción ante un despido", "Cómo afrontar un despido", "Oportunidades después de un despido"]
+categories: ["Blog Inversiones", "Finanzas Personales", "Finiquito"]
+tags: ["Finiquito", "Negociación", "Emprendimiento", "Ahorro", "Indemnización"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/YKR_5fPL-v0"
