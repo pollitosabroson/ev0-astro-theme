@@ -25,6 +25,54 @@ function extractVideoId(content) {
   return null;
 }
 
+// Parsear timestamp a segundos (soporta M:SS, MM:SS, H:MM:SS, HH:MM:SS)
+function timestampToSeconds(timestamp) {
+  const parts = timestamp.split(':').map(Number);
+  if (parts.length === 3) {
+    return parts[0] * 3600 + parts[1] * 60 + parts[2];
+  }
+  return parts[0] * 60 + parts[1];
+}
+
+// Parsear duración ISO 8601 (PT12M30S) a segundos
+function isoDurationToSeconds(iso) {
+  if (!iso) return 0;
+  const match = iso.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/);
+  if (!match) return 0;
+  const hours = parseInt(match[1] || 0);
+  const minutes = parseInt(match[2] || 0);
+  const seconds = parseInt(match[3] || 0);
+  return hours * 3600 + minutes * 60 + seconds;
+}
+
+// Extraer capítulos de la descripción del video de YouTube
+function parseChaptersFromDescription(description, videoDurationISO) {
+  const lines = description.split('\n');
+  const chapterRegex = /^\s*(\d{1,2}:\d{2}(?::\d{2})?)\s*[–—\-]?\s*(.+)$/;
+  const rawChapters = [];
+
+  for (const line of lines) {
+    const match = line.match(chapterRegex);
+    if (match) {
+      rawChapters.push({
+        timestamp: match[1],
+        name: match[2].trim(),
+        startOffset: timestampToSeconds(match[1]),
+      });
+    }
+  }
+
+  if (rawChapters.length === 0) return [];
+
+  // Calcular endOffset de cada capítulo (inicio del siguiente, o duración total para el último)
+  const totalSeconds = isoDurationToSeconds(videoDurationISO);
+  return rawChapters.map((chapter, i) => ({
+    name: chapter.name,
+    startOffset: chapter.startOffset,
+    endOffset: i < rawChapters.length - 1 ? rawChapters[i + 1].startOffset : totalSeconds,
+  }));
+}
+
 // Obtener información del video desde YouTube API
 async function getVideoInfo(videoId) {
   try {
@@ -43,15 +91,28 @@ async function getVideoInfo(videoId) {
     const snippet = video.snippet;
     const contentDetails = video.contentDetails;
 
+    const duration = contentDetails?.duration && /^PT/.test(contentDetails.duration)
+      ? contentDetails.duration
+      : null;
+
+    if (!duration) {
+      console.log(`⚠️  Video ${videoId}: duración no disponible (¿estreno en curso?). Se omitirá el campo duration.`);
+    }
+
+    const chapters = snippet?.description
+      ? parseChaptersFromDescription(snippet.description, duration)
+      : [];
+
     return {
       title: snippet.title,
       description: snippet.description,
       embedUrl: `https://www.youtube.com/embed/${videoId}`,
-      thumbnailUrl: snippet.thumbnails.maxres?.url || 
-                    snippet.thumbnails.high?.url || 
+      thumbnailUrl: snippet.thumbnails.maxres?.url ||
+                    snippet.thumbnails.high?.url ||
                     snippet.thumbnails.default?.url,
-      duration: contentDetails.duration,
+      duration: duration,
       uploadDate: snippet.publishedAt,
+      chapters: chapters,
     };
   } catch (error) {
     console.error(`❌ Error al obtener info del video ${videoId}:`, error.message);
@@ -71,10 +132,14 @@ function parseFrontmatter(content) {
   const frontmatter = match[1];
   const body = content.slice(match[0].length);
   
-  // Check si ya tiene video
-  const hasVideo = /^video:/m.test(frontmatter);
-  
-  return { frontmatter, body, hasVideo };
+  // Check si ya tiene video con datos reales (no solo el campo vacío)
+  const hasVideoKey = /^video:/m.test(frontmatter);
+  const hasEmbedUrl = hasVideoKey && /embedUrl:\s*".+"/m.test(frontmatter);
+  const hasBadDuration = hasVideoKey && /duration:\s*"undefined"/m.test(frontmatter);
+  // Si tiene embedUrl pero la duración es "undefined", necesita re-procesarse
+  const hasVideoData = hasEmbedUrl && !hasBadDuration;
+
+  return { frontmatter, body, hasVideo: hasVideoData, hasEmptyVideo: hasVideoKey && !hasVideoData };
 }
 
 // Generar YAML para el objeto video
@@ -83,8 +148,21 @@ function generateVideoYaml(videoInfo, indent = 0) {
   let yaml = `${spaces}video:\n`;
   yaml += `${spaces}  embedUrl: "${videoInfo.embedUrl}"\n`;
   yaml += `${spaces}  thumbnailUrl: "${videoInfo.thumbnailUrl}"\n`;
-  yaml += `${spaces}  duration: "${videoInfo.duration}"\n`;
+  if (videoInfo.duration) {
+    yaml += `${spaces}  duration: "${videoInfo.duration}"\n`;
+  }
   yaml += `${spaces}  uploadDate: "${videoInfo.uploadDate}"\n`;
+  
+  if (videoInfo.chapters && videoInfo.chapters.length > 0) {
+    yaml += `${spaces}  chapters:\n`;
+    for (const chapter of videoInfo.chapters) {
+      // Escapar comillas dobles en el nombre del capítulo
+      const safeName = chapter.name.replace(/"/g, '\\"');
+      yaml += `${spaces}    - name: "${safeName}"\n`;
+      yaml += `${spaces}      startOffset: ${chapter.startOffset}\n`;
+      yaml += `${spaces}      endOffset: ${chapter.endOffset}\n`;
+    }
+  }
   
   return yaml;
 }
@@ -95,16 +173,16 @@ async function processPostFile(filePath) {
   const content = fs.readFileSync(filePath, 'utf-8');
   
   // Parsear frontmatter
-  const { frontmatter, body, hasVideo } = parseFrontmatter(content);
+  const { frontmatter, body, hasVideo, hasEmptyVideo } = parseFrontmatter(content);
   
   if (!frontmatter) {
     console.log(`⚠️  ${fileName}: No se encontró frontmatter válido`);
     return;
   }
 
-  // Si ya tiene video, saltar
+  // Si ya tiene video completo, saltar
   if (hasVideo) {
-    console.log(`✅ ${fileName}: Ya tiene campo video`);
+    console.log(`✅ ${fileName}: Ya tiene campo video configurado`);
     return;
   }
 
@@ -128,7 +206,20 @@ async function processPostFile(filePath) {
 
   // Generar nuevo frontmatter con campo video
   const videoYaml = generateVideoYaml(videoInfo);
-  const newFrontmatter = `${frontmatter}\n${videoYaml}`;
+  let newFrontmatter;
+
+  if (hasEmptyVideo) {
+    // Reemplazar el bloque video completo (incluyendo líneas indentadas anidadas)
+    newFrontmatter = frontmatter.replace(
+      /^video:\n(?:[ \t]+.*\n)*/m,
+      videoYaml
+    );
+    console.log(`🔄 ${fileName}: Reemplazando campo video incompleto`);
+  } else {
+    // Añadir campo video nuevo
+    newFrontmatter = `${frontmatter}\n${videoYaml}`;
+  }
+
   const newContent = `---\n${newFrontmatter}---${body}`;
 
   // Guardar archivo
@@ -136,6 +227,7 @@ async function processPostFile(filePath) {
   console.log(`✅ ${fileName}: Video SEO agregado exitosamente`);
   console.log(`   Título: ${videoInfo.title}`);
   console.log(`   Duración: ${videoInfo.duration}`);
+  console.log(`   Capítulos: ${videoInfo.chapters.length > 0 ? videoInfo.chapters.length : 'No encontrados en la descripción'}`);
   console.log('');
 }
 

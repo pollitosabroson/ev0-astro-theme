@@ -20,8 +20,8 @@ faqs:
 video:
   embedUrl: "https://www.youtube.com/embed/z2K71JooSC4"
   thumbnailUrl: "https://i.ytimg.com/vi/z2K71JooSC4/maxresdefault.jpg"
-  duration: "undefined"
-  uploadDate: "2026-05-13T11:09:52Z"
+  duration: "PT14M49S"
+  uploadDate: "2026-05-14T18:30:06Z"
   chapters:
     - name: "El Mercado de la Verdad y el fin de las \"Opiniones\""
       startOffset: 0
@@ -37,8 +37,8 @@ video:
       endOffset: 669
     - name: "El Salto a Wall Street y la Batalla por la Verdad"
       startOffset: 669
-      endOffset: 0
----
+      endOffset: 889
+      endOffset: 0---
 
 # Polymarket: La Plataforma que Convierte el Futuro en Dinero
 

@@ -10,8 +10,8 @@ author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/Juhq_sS66qY"
   thumbnailUrl: "https://i.ytimg.com/vi/Juhq_sS66qY/maxresdefault.jpg"
-  duration: "undefined"
-  uploadDate: "2026-03-09T14:15:13Z"
+  duration: "PT15M54S"
+  uploadDate: "2026-03-10T19:30:06Z"
   chapters:
     - name: "Como gestionar tu fondo de emergencia"
       startOffset: 0
@@ -30,8 +30,8 @@ video:
       endOffset: 738
     - name: "Reparando la Muralla y Conclusiones"
       startOffset: 738
-      endOffset: 0
----
+      endOffset: 954
+      endOffset: 0---
 
 <div class="bg-zinc-50 border border-zinc-200 rounded-2xl p-8 mb-10">
   <h3 class="text-xl font-bold text-zinc-900 mb-4">Arquitectura de liquidez: el sistema de defensa financiera</h3>
