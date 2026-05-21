@@ -4,7 +4,7 @@ description: "Los mercados bursátiles han experimentado un crecimiento inusual 
 pubDate: "2024-04-07T14:53:20.023Z"
 heroImage: "/blogs/inversiones-marzo.webp"
 categories: ["Blog Inversiones"]
-tags: ["inversión a largo plazo", "dividendos", "trading", "test de perfil de inversor", "estrategias de inversión", "análisis de mercado", "comunidad de inversores"]
+tags: ["inversión a largo plazo", "Dividendos", "trading", "Test de Perfil de Inversor", "Estrategias de Inversión", "análisis de mercado", "Comunidad de Inversores"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/znVIIVfYoh0"

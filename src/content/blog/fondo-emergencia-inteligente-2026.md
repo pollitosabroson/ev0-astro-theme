@@ -5,13 +5,13 @@ slug: fondo-emergencia-inteligente-2026
 pubDate: "2026-03-07T10:30:00.000Z"
 heroImage: "/blogs/fondo-emergencia-2026.webp"
 categories: ["Finanzas Personales", "ahorro", "planificación financiera"]
-tags: ["fondo de emergencia", "ahorro inteligente", "gestión del riesgo", "inflación", "finanzas personales", "IA financiera", "plan financiero"]
+tags: ["Fondo de Emergencia", "ahorro inteligente", "Gestión del Riesgo", "inflación", "finanzas personales", "Inteligencia Artificial", "plan financiero"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/Juhq_sS66qY"
   thumbnailUrl: "https://i.ytimg.com/vi/Juhq_sS66qY/maxresdefault.jpg"
-  duration: "undefined"
-  uploadDate: "2026-03-09T14:15:13Z"
+  duration: "PT15M54S"
+  uploadDate: "2026-03-10T19:30:06Z"
   chapters:
     - name: "Como gestionar tu fondo de emergencia"
       startOffset: 0
@@ -30,7 +30,7 @@ video:
       endOffset: 738
     - name: "Reparando la Muralla y Conclusiones"
       startOffset: 738
-      endOffset: 0
+      endOffset: 954
 ---
 
 <div class="bg-zinc-50 border border-zinc-200 rounded-2xl p-8 mb-10">

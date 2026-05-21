@@ -4,7 +4,7 @@ description: "Aprende a evitar las trampas del Black Friday y protege tu dinero.
 pubDate: "2024-11-26T13:39:52.384Z"
 heroImage: "/blogs/blackfriday-2024.webp"
 categories: ["Finanzas Personales", "Consejos de consumo"]  
-tags: ["Black Friday", "Ahorro Inteligente", "Trampas financieras", "Phishing", "Consumo responsable", "Ciberseguridad", "Control de gastos"]  
+tags: ["Black Friday", "Ahorro Inteligente", "Trampas Financieras", "Phishing", "Consumo Responsable", "Ciberseguridad", "Control de gastos"]  
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/YEB8yBvJbNE"

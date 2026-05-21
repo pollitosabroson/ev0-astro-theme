@@ -4,7 +4,7 @@ description: "¿Te han dicho que la deuda es el enemigo? La verdad es otra. Desc
 pubDate: "2025-03-11T16:33:41.478Z"
 heroImage: "/blogs/deudas.webp"
 categories: ["Finanzas Personales", "Educación Financiera"]
-tags: ["deuda", "finanzas personales", "créditos", "dinero", "Educación Financiera"]
+tags: ["Deuda", "finanzas personales", "Créditos", "dinero", "Educación Financiera"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/BBQs21_7s4c"

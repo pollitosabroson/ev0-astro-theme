@@ -4,7 +4,7 @@ description: "¿Te gustaría jubilarte a los 40 y vivir la vida que realmente de
 pubDate: "2025-03-28T23:32:15.337Z"
 heroImage: "/blogs/40-retirement.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
-tags: ["Finanzas Personales", "Independencia Financiera", "FIRE", "Ahorro", "Inversiones", "Retiro Temprano"]
+tags: ["Finanzas Personales", "Independencia Financiera", "Movimiento FIRE", "Ahorro", "Inversiones", "Jubilación"]
 author: "Alejandro Rosales"
 video:
   embedUrl: "https://www.youtube.com/embed/AbCVvaP127c"

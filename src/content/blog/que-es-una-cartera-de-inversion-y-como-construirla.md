@@ -4,7 +4,7 @@ description: "¿Todavía no entiendes qué es una cartera de inversión? Tranqui
 pubDate: "2025-12-09T20:30:19.486Z"
 heroImage: "/blogs/cartera-inversion.webp"
 categories: ["Finanzas Personales", "Inversiones", "Educación Financiera"]
-tags: ["cartera de inversión", "diversificación", "asset allocation", "Fondos Indexados", "renta fija", "renta variable", "principiantes"]
+tags: ["Cartera de Inversión", "Diversificación", "asset allocation", "Fondos Indexados", "Renta Fija", "Renta Variable", "principiantes"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/pRk0BBHkMaY"

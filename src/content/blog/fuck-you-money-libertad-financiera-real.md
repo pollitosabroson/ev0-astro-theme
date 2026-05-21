@@ -4,7 +4,7 @@ description: "Descubre qué es el Fuck You Money, cómo puedes alcanzarlo aunque
 pubDate: "2025-07-01T20:30:27.406Z"
 heroImage: "/blogs/fuckyoumoney.webp"
 categories: ["Finanzas Personales", "Libertad Financiera"]
-tags: ["fuck you money", "libertad financiera", "ahorro inteligente", "inversión consciente", "mentalidad de abundancia"]
+tags: ["Fuck You Money", "libertad financiera", "ahorro inteligente", "inversión consciente", "mentalidad de abundancia"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/W_K1NIa5IpY"

@@ -4,7 +4,7 @@ description: "¿Estás pensando en ese sueño guajiro de tener una hipoteca para
 pubDate: "2024-05-20T14:32:10.026Z"
 heroImage: "/blogs/hipotecas.webp"
 categories: ["Hipotecas"]
-tags: ["Hipoteca", "Vivienda", "Propiedad", "Finanzas", "Inversión", "Ahorro", "Comprar casa", "Tramites hipotecarios", "Tasacion vivienda", "Oferta vinculante", "Firma hipoteca", "Impuestos vivienda", "Consejos hipoteca", "Asesoría financiera", "Planificación financiera", "España hipoteca", "Madrid hipoteca", "Barcelona hipoteca", "Valencia hipoteca", "Sevilla hipoteca", "Alejandro Rosales", "Viviendapropria", "Micasapropia", "Sueñocasa", "Independencia generacional", "Futuro financiero"]
+tags: ["Hipoteca", "Vivienda", "Finanzas Personales", "Inversión", "Ahorro", "Comprar casa", "Impuestos vivienda", "Asesoría financiera", "Planificación financiera", "Alejandro Rosales", "Independencia generacional", "Futuro financiero"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/O7LmT_p0uGE"

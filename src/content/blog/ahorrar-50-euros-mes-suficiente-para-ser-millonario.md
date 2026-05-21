@@ -4,7 +4,7 @@ description: "Últimamente, todo el mundo habla de la magia de invertir en fondo
 pubDate: "2024-04-30T20:48:15.577Z"
 heroImage: "/blogs/fondos.webp"
 categories: ["Blog Inversiones"]
-tags: ["Inversiones", "MyInvestor", "Febrero"]
+tags: ["Inversiones", "MyInvestor"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/UbRlK39RLLE"

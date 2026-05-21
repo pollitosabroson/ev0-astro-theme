@@ -4,7 +4,7 @@ description: "Descubre la importancia del fondo de emergencia y cómo puede prot
 pubDate: "2024-02-09T23:22:13.908Z"
 heroImage: "/blogs/2.webp"
 categories: ["Blog Inversiones"]
-tags: ["Inversiones", "Ahorro de emergencia", "BlogPersonal"]
+tags: ["Inversiones", "Ahorro de Emergencia", "Blog Personal"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/_xbugAGXxmM"

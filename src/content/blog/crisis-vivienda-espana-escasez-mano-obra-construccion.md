@@ -4,7 +4,7 @@ description: "Comprar una casa es casi imposible. Analizamos por qué la viviend
 pubDate: "2025-09-30T20:30:00.000Z" 
 heroImage: "/blogs/crisis-vivienda-espana.webp" 
 categories: ["Finanzas Personales", "Blog Inversiones", "Economía Española", "Mercado Inmobiliario"]
-tags: ["crisis vivienda", "construccion españa", "precio vivienda", "escasez mano de obra", "hipoteca", "salarios construccion", "Inversión Inmobiliaria", "Alejandro Rosales"] 
+tags: ["Crisis Vivienda", "construccion españa", "Precio Vivienda", "escasez mano de obra", "hipoteca", "Salarios Construcción", "Inversión Inmobiliaria", "Alejandro Rosales"] 
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/KM5szKu1VnA"

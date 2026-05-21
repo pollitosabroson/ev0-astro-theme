@@ -4,7 +4,7 @@ description: "Llegar a tus primeros 100 mil no es solo una meta económica: es u
 pubDate: "2025-10-21T20:30:00.000Z"
 heroImage: "/blogs/primeros-100-mil.webp"
 categories: ["Finanzas Personales", "crecimiento financiero", "Educación Financiera"]
-tags: ["ahorro", "disciplina financiera", "interés compuesto", "tasa de ahorro", "libertad financiera", "primeros 100 mil"]
+tags: ["ahorro", "Disciplina Financiera", "Interés Compuesto", "tasa de ahorro", "libertad financiera", "primeros 100 mil"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/cndpifWLqSs"

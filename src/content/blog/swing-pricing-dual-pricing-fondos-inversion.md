@@ -4,7 +4,7 @@ description: "Descubre qué pasa con tu dinero cuando muchos inversores entran o
 pubDate: "2026-01-13T20:30:47.668Z"
 heroImage: "/blogs/swing-pricing-dual-pricing.webp"
 categories: ["Fondos de Inversión", "Finanzas Personales", "Inversión Pasiva", "Educación Financiera"]
-tags: ["swing pricing", "dual pricing", "Fondos Indexados", "dilución", "liquidez", "inversión a largo plazo"]
+tags: ["Swing Pricing", "Dual Pricing", "Fondos Indexados", "dilución", "Liquidez", "inversión a largo plazo"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/db6d3GeFV34"

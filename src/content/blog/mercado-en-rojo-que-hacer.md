@@ -4,7 +4,7 @@ description: "¿Te asustan las caídas del mercado? Descubre la estrategia que l
 pubDate: "2025-04-22T18:11:41.806Z"
 heroImage: "/blogs/bajas-2025.webp"
 categories: ["Finanzas Personales", "Inversión Inteligente"]
-tags: ["mercado bajista", "psicologia financiera", "inversiones", "educacion financiera", "volatilidad", "estrategia financiera"]
+tags: ["Análisis de Mercado", "Psicología del Inversor", "inversiones", "educacion financiera", "Estrategias de Inversión"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/MlAwgTRkR1U"

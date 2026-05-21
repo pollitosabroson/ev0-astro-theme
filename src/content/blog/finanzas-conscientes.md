@@ -4,7 +4,7 @@ description: "Descubre cómo las finanzas conscientes transforman tu vida al int
 pubDate: "2025-09-02T20:30:00.874Z"
 heroImage: "/blogs/finanzas-conscientes.webp"
 categories: ["Finanzas Personales", "desarrollo personal", "bienestar financiero"]
-tags: ["finanzas conscientes", "Educación Financiera", "bienestar emocional", "dinero con propósito", "interés compuesto", "finanzas personales"]
+tags: ["finanzas conscientes", "Educación Financiera", "Bienestar Emocional", "dinero con propósito", "Interés Compuesto", "finanzas personales"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/Jw7iqPEBgV4"

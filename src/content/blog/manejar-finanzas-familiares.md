@@ -4,7 +4,7 @@ description: "¿Quieres tomar el control de tus finanzas familiares? En este blo
 pubDate: "2024-09-24T20:08:28.303Z"
 heroImage: "/blogs/finanzas-familia.webp"
 categories: ["Finanzas Personales"]
-tags: ["Finanzas Familiares", "ahorro para el futuro", "presupuesto familiar", "Educación Financiera", "cómo ahorrar dinero", "inversiones familiares", "gestión del dinero", "finanzas personales", "objetivos financieros", "ahorro para hijos", "manejo del dinero", "fondo de emergencia", "planificación financiera", "aprender a invertir", "dinero en familia", "educar a los niños sobre finanzas", "invertir para el futuro", "estrategias de ahorro", "reducir gastos", "herramientas financieras", "podcast finanzas", "curso finanzas", "finanzas para principiantes", "Alejandro Rosales finanzas", "video de finanzas familiares"]
+tags: ["Finanzas Familiares", "ahorro para el futuro", "Presupuesto Familiar", "Educación Financiera", "Cómo Ahorrar Dinero", "Inversiones Familiares", "gestión del dinero", "finanzas personales", "Objetivos Financieros", "Ahorro para Hijos", "Manejo del Dinero", "Fondo de Emergencia", "planificación financiera", "Aprender a Invertir", "Dinero en Familia", "educar a los niños sobre finanzas", "invertir para el futuro", "estrategias de ahorro", "Reducir Gastos", "herramientas financieras", "Finanzas para Principiantes", "Alejandro Rosales finanzas"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/q1jDATs0wpM"

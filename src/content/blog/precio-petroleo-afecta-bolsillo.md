@@ -26,7 +26,7 @@ video:
       endOffset: 573
     - name: "El Mapa del Dinero en 2026"
       startOffset: 573
-      endOffset: 0
+      endOffset: 750
 ---
 # Por qué el precio del petróleo afecta tu bolsillo (y todo lo que compras)
 

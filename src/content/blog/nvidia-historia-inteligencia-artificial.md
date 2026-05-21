@@ -27,7 +27,7 @@ video:
       endOffset: 635
     - name: "Los Desafíos del Gigante y el Método del Éxito"
       startOffset: 635
-      endOffset: 0
+      endOffset: 878
 ---
 
 # Cómo NVIDIA pasó de casi quebrar a dominar la Inteligencia Artificial

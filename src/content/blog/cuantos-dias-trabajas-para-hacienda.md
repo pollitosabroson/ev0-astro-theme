@@ -4,7 +4,7 @@ description: "Descubre cuántos días al año trabajas solo para pagar impuestos
 pubDate: "2024-06-05T04:39:36.968Z"
 heroImage: "/blogs/fiscal.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
-tags: ["finanzas personales", "salud financiera", "ahorro", "presupuesto", "control de gastos"]
+tags: ["finanzas personales", "Salud Financiera", "ahorro", "presupuesto", "control de gastos"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/E9NJGQNXVx4"

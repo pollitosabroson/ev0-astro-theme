@@ -5,7 +5,7 @@ slug: por-que-nadie-te-enseno-a-invertir-2026
 pubDate: 2026-03-23
 heroImage: "/blogs/educacion-financiera.webp"
 categories: ["Finanzas Personales", "Educación Financiera", "Inversión"]
-tags: ["Educación Financiera", "invertir desde cero", "interés compuesto", "finanzas 2026", "libertad financiera"]
+tags: ["Educación Financiera", "invertir desde cero", "Interés Compuesto", "libertad financiera"]
 author: "Alejandro Rosales"
 video:
   embedUrl: "https://www.youtube.com/embed/ARB94nQ1Yp0"

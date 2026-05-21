@@ -4,7 +4,7 @@ description: "Los dividendos no son 'dinero gratis', son el motor invisible que 
 pubDate: "2025-10-28T20:30:43.815Z"
 heroImage: "/blogs/poder-silencioso-de-los-dividendos.webp"
 categories: ["inversiones", "Educación Financiera", "mercado bursátil"]
-tags: ["dividendos", "inversión a largo plazo", "ingresos pasivos", "acciones", "rentabilidad", "Educación Financiera"]
+tags: ["Dividendos", "inversión a largo plazo", "Ingresos Pasivos", "Acciones", "Rentabilidad", "Educación Financiera"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/p7rsa8omugQ"
