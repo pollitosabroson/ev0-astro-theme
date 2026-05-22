@@ -4,7 +4,7 @@ description: "Descubre la verdad incómoda: la educación financiera no es un er
 slug: por-que-nadie-te-enseno-a-invertir-2026
 pubDate: 2026-03-23
 heroImage: "/blogs/educacion-financiera.webp"
-categories: ["Finanzas Personales", "Educación Financiera", "Inversión"]
+categories: ["Finanzas Personales", "Educación Financiera", "Inversiones"]
 tags: ["Educación Financiera", "invertir desde cero", "Interés Compuesto", "libertad financiera"]
 author: "Alejandro Rosales"
 video:

@@ -4,7 +4,7 @@ description: "Descubre cómo manejar una gran suma de dinero de forma inteligent
 pubDate: "2024-11-19T06:20:30.279Z"
 heroImage: "/blogs/lottery.webp"
 categories: ["Blog Inversiones"]
-tags: ["Ganar la Lotería", "Libertad financiera", "Errores financieros", "Cómo Invertir Dinero", "Educación Financiera", "Ahorro Inteligente", "Gestión del dinero", "Inversión Inteligente", "Planificación financiera", "Blog Personal"]
+tags: ["Ganar la Lotería", "Libertad Financiera", "Errores Financieros", "Cómo Invertir Dinero", "Educación Financiera", "Ahorro Inteligente", "Gestión del Dinero", "Inversión Inteligente", "Planificación Financiera", "Blog Personal"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/NSN6CKJR9eE"

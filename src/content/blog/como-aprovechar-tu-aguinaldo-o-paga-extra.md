@@ -3,7 +3,7 @@ title: "Cómo aprovechar tu aguinaldo o paga extra sin caer en compras impulsiva
 description: "¿Recibiste tu aguinaldo o paga extra y no sabes qué hacer con él? Te explico cómo evitar las trampas del Black Friday, cómo priorizar tu dinero, qué decisiones te dan tranquilidad y cómo usar este ingreso extraordinario para mejorar tu vida financiera sin complicaciones."
 pubDate: "2025-11-18T20:20:57.336Z"
 heroImage: "/blogs/aguinaldo-inteligente.webp"
-categories: ["Finanzas Personales", "Educación Financiera", "Ahorro", "Gestión del Dinero"]
+categories: ["Finanzas Personales", "Educación Financiera", "Ahorro e Inversión", "Gestión del Dinero"]
 tags: ["aguinaldo", "Paga Extra", "Dinero Extra", "ahorro", "Deudas", "Fondo de Emergencia", "Educación Financiera", "Black Friday", "gastos inteligentes"]
 author: ["Alejandro Rosales"]
 video:

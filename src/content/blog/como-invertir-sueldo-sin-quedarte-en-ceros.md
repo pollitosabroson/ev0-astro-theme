@@ -3,7 +3,7 @@ title: "Cómo Invertir tu Sueldo Sin Quedarte en Ceros al Final del Mes"
 description: "Si crees que no puedes invertir porque apenas te alcanza para vivir, estás cometiendo un error costoso. Descubre la estrategia que te permitirá ahorrar e invertir sin sacrificar tu calidad de vida."
 pubDate: "2025-02-10T16:52:57.417Z"
 heroImage: "/blogs/invertir-without-parents.webp"
-categories: ["Finanzas Personales", "inversión"]
+categories: ["Finanzas Personales", "Inversiones"]
 tags: ["finanzas personales", "ahorro", "Inversión Inteligente", "gestión financiera", "dinero"]
 author: ["Alejandro Rosales"]
 video:

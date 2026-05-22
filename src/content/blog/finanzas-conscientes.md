@@ -3,7 +3,7 @@ title: "Finanzas Conscientes: La Evolución de Tu Relación con el Dinero"
 description: "Descubre cómo las finanzas conscientes transforman tu vida al integrar valores, propósito y bienestar emocional en tus decisiones económicas. 🌱"
 pubDate: "2025-09-02T20:30:00.874Z"
 heroImage: "/blogs/finanzas-conscientes.webp"
-categories: ["Finanzas Personales", "desarrollo personal", "bienestar financiero"]
+categories: ["Finanzas Personales", "Mentalidad Financiera", "Finanzas Conscientes"]
 tags: ["finanzas conscientes", "Educación Financiera", "Bienestar Emocional", "dinero con propósito", "Interés Compuesto", "finanzas personales"]
 author: ["Alejandro Rosales"]
 video:

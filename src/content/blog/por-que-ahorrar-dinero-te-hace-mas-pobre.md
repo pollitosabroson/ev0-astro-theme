@@ -4,7 +4,7 @@ description: "Ahorrar dinero ya no es seguro: la inflación y la expansión mone
 slug: por-que-ahorrar-dinero-te-hace-mas-pobre
 pubDate: "2026-02-10T20:30:00.000Z"
 heroImage: "/blogs/ahorrar-te-hace-mas-pobre.webp"
-categories: ["Finanzas Personales", "Educación Financiera", "inversión"]
+categories: ["Finanzas Personales", "Educación Financiera", "Inversiones"]
 tags: ["ahorro", "inflación", "Poder Adquisitivo", "inversión", "Oro", "bienes raíces", "política monetaria"]
 author: ["Alejandro Rosales"]
 video:

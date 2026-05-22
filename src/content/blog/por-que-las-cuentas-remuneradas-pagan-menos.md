@@ -3,7 +3,7 @@ title: "¿Por qué las cuentas remuneradas cada vez pagan menos?"
 description: "¿Tu banco ya no te paga casi nada por tus ahorros? Descubre por qué las cuentas remuneradas han perdido rentabilidad y qué hacer con tu dinero antes de que siga perdiendo valor. ¡Lo que nadie te dice, explicado claro y sin rodeos!"
 pubDate: "2025-07-07T09:55:28.394Z"
 heroImage: "/blogs/remuneradas.webp"
-categories: ["Finanzas Personales", "Educación Financiera", "estrategia de ahorro"]
+categories: ["Finanzas Personales", "Educación Financiera", "Ahorro e Inversión"]
 tags: ["Cuentas Remuneradas", "Intereses Bancarios", "BCE", "estrategias de ahorro", "Educación Financiera", "Banca", "Tipos de Interés", "inflación"]
 author: ["Alejandro Rosales"]
 video:

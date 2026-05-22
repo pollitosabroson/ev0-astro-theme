@@ -3,7 +3,7 @@ title: "El poder silencioso de los dividendos: cómo ganar dinero mientras duerm
 description: "Los dividendos no son 'dinero gratis', son el motor invisible que permite que tu dinero trabaje por ti. Descubre cómo funcionan, cuándo se pagan y cómo convertirlos en una estrategia real de ingresos pasivos sostenibles."
 pubDate: "2025-10-28T20:30:43.815Z"
 heroImage: "/blogs/poder-silencioso-de-los-dividendos.webp"
-categories: ["inversiones", "Educación Financiera", "mercado bursátil"]
+categories: ["Inversiones", "Educación Financiera", "Estrategias de Inversión"]
 tags: ["Dividendos", "inversión a largo plazo", "Ingresos Pasivos", "Acciones", "Rentabilidad", "Educación Financiera"]
 author: ["Alejandro Rosales"]
 video:

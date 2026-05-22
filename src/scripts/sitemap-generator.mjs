@@ -24,22 +24,33 @@ export default function sitemapGenerator() {
           // Buscar todos los archivos markdown del blog
           const blogFiles = await glob('src/content/blog/*.md');
           const posts = [];
-          
-          // Procesar todos los posts para obtener fechas
+          const categoriesSet = new Set();
+
+          // Procesar todos los posts para obtener fechas y categorías
           for (const file of blogFiles) {
             try {
               const content = fs.readFileSync(file, 'utf-8');
               const { data: frontmatter } = matter(content);
-              
+
               posts.push({
                 slug: frontmatter.slug || path.basename(file, '.md'),
                 pubDate: frontmatter.pubDate || new Date().toISOString(),
                 updateDate: frontmatter.updateDate || frontmatter.pubDate || new Date().toISOString(),
               });
+
+              (frontmatter.categories || []).forEach(cat => categoriesSet.add(cat));
             } catch (error) {
               console.warn(`Error procesando ${file}:`, error.message);
             }
           }
+
+          // Generar URLs de categorías individuales
+          const categoryUrls = [...categoriesSet].map(cat => ({
+            loc: `${baseUrl}/categories/${cat.replace(/\s+/g, '-')}/`,
+            priority: 0.6,
+            changefreq: 'weekly',
+            lastmod: new Date().toISOString(),
+          }));
           
           // Definir estructura de URLs con prioridades y frecuencias
           const urlStructure = [
@@ -73,13 +84,14 @@ export default function sitemapGenerator() {
               lastmod: new Date().toISOString(),
             },
             
-            // Categorías - media prioridad
+            // Categorías - índice + páginas individuales
             {
               loc: `${baseUrl}/categories/`,
               priority: 0.6,
               changefreq: 'weekly',
               lastmod: new Date().toISOString(),
             },
+            ...categoryUrls,
             
             // Tags - baja prioridad
             {

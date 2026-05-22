@@ -4,7 +4,7 @@ description: "Aprende a construir un fondo de emergencia eficiente en 2026 usand
 slug: fondo-emergencia-inteligente-2026
 pubDate: "2026-03-07T10:30:00.000Z"
 heroImage: "/blogs/fondo-emergencia-2026.webp"
-categories: ["Finanzas Personales", "ahorro", "planificación financiera"]
+categories: ["Finanzas Personales", "Ahorro e Inversión", "Planificación Financiera"]
 tags: ["Fondo de Emergencia", "ahorro inteligente", "Gestión del Riesgo", "inflación", "finanzas personales", "Inteligencia Artificial", "plan financiero"]
 author: ["Alejandro Rosales"]
 video:

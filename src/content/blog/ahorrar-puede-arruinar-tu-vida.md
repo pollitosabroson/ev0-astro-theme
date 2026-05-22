@@ -3,7 +3,7 @@ title: "Ahorrar puede arruinar tu vida: la trampa que nadie te advierte"
 description: "¿Y si te dijera que ahorrar en exceso puede destruir tu salud mental y tu vida? Descubre cómo el 'buen hábito' de ahorrar se convierte en una cárcel invisible y lo que puedes hacer para liberarte sin poner en riesgo tu futuro. Este post va a cambiar tu forma de ver el dinero para siempre."
 pubDate: "2025-05-12T13:40:38.591Z"
 heroImage: "/blogs/ahorro-problems.webp"
-categories: ["Finanzas Personales", "psicología del dinero"]
+categories: ["Finanzas Personales", "Psicología del Dinero"]
 tags: ["Ahorro Excesivo", "Salud Financiera", "Educación Financiera", "Ansiedad Financiera", "Mentalidad de Escasez", "trampa del ahorro"]
 author: ["Alejandro Rosales"]
 video:

@@ -3,7 +3,7 @@ title: "Cómo Evitar Caer en las Trampas del Black Friday y Proteger tu Dinero"
 description: "Aprende a evitar las trampas del Black Friday y protege tu dinero. Descubre cómo identificar estafas como phishing y aprovechar ofertas sin caer en el consumo masi"
 pubDate: "2024-11-26T13:39:52.384Z"
 heroImage: "/blogs/blackfriday-2024.webp"
-categories: ["Finanzas Personales", "Consejos de consumo"]  
+categories: ["Finanzas Personales", "Finanzas Personales"]  
 tags: ["Black Friday", "Ahorro Inteligente", "Trampas Financieras", "Phishing", "Consumo Responsable", "Ciberseguridad", "Control de gastos"]  
 author: ["Alejandro Rosales"]
 video:

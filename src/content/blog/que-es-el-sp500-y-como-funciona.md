@@ -3,7 +3,7 @@ title: "S&P 500: el índice que todos nombran pero pocos entienden"
 description: "¿De verdad sabes en qué estás invirtiendo cuando alguien te dice ‘mete tu dinero en el S&P 500’? Te explico qué es, cómo funciona y por qué es el índice más importante del mundo (aunque casi nadie lo entiende de verdad)."
 pubDate: "2025-11-11T20:30:00.000Z"
 heroImage: "/blogs/sp500-explicado.webp"
-categories: ["Inversiones", "Educación Financiera", "Mercados Globales"]
+categories: ["Inversiones", "Educación Financiera", "Economía Personal"]
 tags: ["S&P 500", "Fondos Indexados", "ETF", "Inversión Pasiva", "mercado estadounidense", "finanzas personales", "Aprender a Invertir"]
 author: ["Alejandro Rosales"]
 video:

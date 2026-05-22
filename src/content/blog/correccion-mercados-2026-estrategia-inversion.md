@@ -3,7 +3,7 @@ title: "Marzo 2026: La caída del Nasdaq y cómo convertir el pánico en oportun
 description: "El Nasdaq entra en corrección en marzo 2026. Descubre qué está pasando realmente y cómo proteger tu dinero con una estrategia inteligente."
 pubDate: 2026-03-30
 heroImage: "/blogs/correccion-marzo-2026.webp"
-categories: ["Inversión", "Finanzas Personales"]
+categories: ["Inversiones", "Finanzas Personales"]
 tags: ["Análisis de Mercado", "S&P 500", "Estrategias de Inversión", "Inteligencia Artificial", "inflación"]
 author: "Alejandro Rosales"
 video:

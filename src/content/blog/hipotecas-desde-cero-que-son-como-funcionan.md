@@ -3,7 +3,7 @@ title: "Hipotecas desde Cero: Qué Son, Cómo Funcionan y Por Qué Pueden Marcar
 description: "Comprar una casa es el gran objetivo de muchas personas, pero las hipotecas suelen generar miedo y confusión. En este post te explico qué es realmente una hipoteca, qué tipos existen y cómo funcionan, sin tecnicismos ni letras pequeñas."
 pubDate: "2025-12-16T20:20:14.019Z"
 heroImage: "/blogs/hipotecas-desde-cero.webp"
-categories: ["Hipotecas", "vivienda", "Finanzas Personales", "Educación Financiera"]
+categories: ["Hipotecas", "Vivienda", "Finanzas Personales", "Educación Financiera"]
 tags: ["Hipoteca Fija", "Hipoteca Variable", "Hipoteca Mixta", "Amortización", "comprar casa"]
 author: ["Alejandro Rosales"]
 video:

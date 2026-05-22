@@ -3,7 +3,7 @@ title: "La trampa de la inversión inteligente que te hace perder dinero"
 description: "Descubre por qué las comisiones, el ego y la psicología hacen que la mayoría invierta mal y pierda dinero incluso cuando cree estar haciéndolo bien."
 pubDate: "2026-02-03T20:30:49.344Z"
 heroImage: "/blogs/trampa-inversion-inteligente.webp"
-categories: ["Finanzas Personales", "Educación Financiera", "inversión"]
+categories: ["Finanzas Personales", "Educación Financiera", "Inversiones"]
 tags: ["inversión", "errores financieros", "Fondos de Inversión", "comisiones", "inflación", "Psicología del Inversor", "S&P 500"]
 author: ["Alejandro Rosales"]
 video:
