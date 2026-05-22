@@ -5,7 +5,7 @@ slug: megatendencias-inversion-2040
 pubDate: "2026-02-14T18:00:00.000Z"
 heroImage: "/blogs/megatendencias-2040.webp"
 categories: ["Inversiones", "Educación Financiera", "Economía Personal"]
-tags: ["megatendencias", "inversión a largo plazo", "inteligencia artificial", "inflación", "Demografía", "Tokenización", "activos reales"]
+tags: ["Megatendencias", "Inversión a Largo Plazo", "Inteligencia Artificial", "Inflación", "Demografía", "Tokenización", "Inversiones"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/MlAwgTRkR1U"

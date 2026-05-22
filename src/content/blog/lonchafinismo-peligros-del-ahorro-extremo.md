@@ -4,7 +4,7 @@ description: "¿Vale la pena vivir como monje para ahorrar 3€? Descubre qué h
 pubDate: "2025-06-24T20:30:17.598Z"
 heroImage: "/blogs/lonchafinismo.webp"
 categories: ["Finanzas Personales", "Mentalidad Financiera"]
-tags: ["Lonchafinismo", "frugalidad extrema", "Salud Financiera", "ahorro inteligente", "Educación Financiera"]
+tags: ["Lonchafinismo", "Frugalidad", "Salud Financiera", "Ahorro Inteligente", "Educación Financiera"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/gk8qPkI8R90"

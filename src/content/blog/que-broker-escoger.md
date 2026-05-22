@@ -4,7 +4,7 @@ description: "Cuando se trata de invertir, las dudas pueden abrumarnos, ¡pero n
 pubDate: "2024-03-09T12:01:00.416Z"
 heroImage: "/blogs/que-broker-elegir.webp"
 categories: ["Blog Inversiones", "Estrategias de Inversión", "Inversiones para Principiantes"]
-tags: ["Inversiones", "Brokers", "Estrategia de inversión", "Tipos de inversores", "Finanzas personales"]
+tags: ["Inversiones", "Primeros Pasos en Inversión", "Estrategias de Inversión", "Test de Perfil de Inversor", "Finanzas Personales"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/OCVe8BX0oJI"

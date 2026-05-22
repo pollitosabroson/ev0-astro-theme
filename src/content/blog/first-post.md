@@ -4,7 +4,7 @@ description: "Descubre mi emocionante regreso al mundo de los blogs mientras doc
 pubDate: "2024-02-09T11:30:02.621Z"
 heroImage: "/blogs/1.webp"
 categories: ["Blog Inversiones"]
-tags: ["Inversiones", "Emprendimiento", "Blog Personal", "Nuevos Comienzos", "Experiencias", "Aprendizaje"]
+tags: ["Inversiones", "Emprendimiento", "Blog Personal", "Nuevos Comienzos", "Educación Financiera"]
 author: ["Alejandro Rosales"]
 ---
 

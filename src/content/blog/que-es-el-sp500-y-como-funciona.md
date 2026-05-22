@@ -4,7 +4,7 @@ description: "¿De verdad sabes en qué estás invirtiendo cuando alguien te dic
 pubDate: "2025-11-11T20:30:00.000Z"
 heroImage: "/blogs/sp500-explicado.webp"
 categories: ["Inversiones", "Educación Financiera", "Economía Personal"]
-tags: ["S&P 500", "Fondos Indexados", "ETF", "Inversión Pasiva", "mercado estadounidense", "finanzas personales", "Aprender a Invertir"]
+tags: ["S&P 500", "Fondos Indexados", "ETF", "Inversión Pasiva", "finanzas personales", "Aprender a Invertir"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/-YJhD11gn5s"

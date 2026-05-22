@@ -4,7 +4,7 @@ description: "¿Cansado de vivir al límite y no tener dinero ahorrado? Aquí te
 pubDate: "2025-03-18T14:24:53.547Z"
 heroImage: "/blogs/saving.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
-tags: ["finanzas personales", "Salud Financiera", "ahorro", "presupuesto", "control de gastos"]
+tags: ["finanzas personales", "Salud Financiera", "ahorro", "Presupuesto", "Control de Gastos"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/45AKSD3GkuU"

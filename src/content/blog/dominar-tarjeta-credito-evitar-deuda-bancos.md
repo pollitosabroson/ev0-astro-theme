@@ -4,7 +4,7 @@ description: "¿Usas tu tarjeta de crédito sin entender sus reglas? Descubre c�
 pubDate: "2025-09-23T20:30:00.000Z" 
 heroImage: "/blogs/credit-card.webp" 
 categories: ["Finanzas Personales", "Educación Financiera"] 
-tags: ["Tarjeta de Crédito", "Deuda", "educacion financiera", "finanzas personales", "Pago Mínimo", "Historial Crediticio", "Bancos", "Alejandro Rosales"]
+tags: ["Tarjeta de Crédito", "Deuda", "Educación financiera", "finanzas personales", "Pago Mínimo", "Historial Crediticio", "Bancos", "Alejandro Rosales"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/_QuLOgNU08o"

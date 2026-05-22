@@ -4,7 +4,7 @@ description: "Millones de personas invierten en productos financieros sin entend
 pubDate: "2025-06-10T20:30:25.679Z"
 heroImage: "/blogs/renta-fija-errores.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
-tags: ["Renta Fija", "Bonos", "Riesgo Financiero", "Educación Financiera", "Fondos de Inversión", "ETF", "banca tradicional", "errores de inversión"]
+tags: ["Renta Fija", "Bonos", "Riesgo Financiero", "Educación Financiera", "Fondos de Inversión", "ETF", "Banca", "Errores Financieros"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/UYXOpLhq730"

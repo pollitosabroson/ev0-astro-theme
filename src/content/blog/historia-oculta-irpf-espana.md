@@ -4,7 +4,7 @@ description: "¿Por qué la declaración de la renta genera tanto miedo cada añ
 pubDate: "2025-04-11T21:29:29.565Z"
 heroImage: "/blogs/irpf.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
-tags: ["Declaración de la Renta", "IRPF", "historia de los impuestos", "Impuestos en España", "finanzas personales", "Educación Financiera", "ahorro"]
+tags: ["Declaración de la Renta", "IRPF", "Impuestos en España", "finanzas personales", "Educación Financiera", "ahorro"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/6SO9-QHnvyY"

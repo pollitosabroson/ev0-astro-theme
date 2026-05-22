@@ -4,7 +4,7 @@ description: "El Nasdaq entra en corrección en marzo 2026. Descubre qué está 
 pubDate: 2026-03-30
 heroImage: "/blogs/correccion-marzo-2026.webp"
 categories: ["Inversiones", "Finanzas Personales"]
-tags: ["Análisis de Mercado", "S&P 500", "Estrategias de Inversión", "Inteligencia Artificial", "inflación"]
+tags: ["Análisis de Mercado", "S&P 500", "Estrategias de Inversión", "Inteligencia Artificial", "Inflación"]
 author: "Alejandro Rosales"
 video:
   embedUrl: "https://www.youtube.com/embed/QraTqN3yRfA"

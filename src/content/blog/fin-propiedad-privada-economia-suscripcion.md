@@ -4,7 +4,7 @@ description: "¿Realmente nos dirigimos hacia un mundo donde no tendrás nada? A
 pubDate: "2026-02-22T11:30:00.000Z"
 heroImage: "/blogs/fin-propiedad-privada.webp"
 categories: ["Finanzas Personales", "Inversiones", "Economía Personal"]
-tags: ["propiedad privada", "suscripciones", "servitización", "efecto Cantillon", "CBDC", "inflación", "libertad financiera", "megatendencias"]
+tags: ["Inversiones", "Economía Personal", "Efecto Cantillon", "CBDC", "Inflación", "Libertad Financiera", "Megatendencias"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/Ez4hvjrSlEc"

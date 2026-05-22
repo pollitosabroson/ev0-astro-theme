@@ -4,7 +4,7 @@ description: "¿Y si te dijera que ahorrar en exceso puede destruir tu salud men
 pubDate: "2025-05-12T13:40:38.591Z"
 heroImage: "/blogs/ahorro-problems.webp"
 categories: ["Finanzas Personales", "Psicología del Dinero"]
-tags: ["Ahorro Excesivo", "Salud Financiera", "Educación Financiera", "Ansiedad Financiera", "Mentalidad de Escasez", "trampa del ahorro"]
+tags: ["Ahorro Excesivo", "Salud Financiera", "Educación Financiera", "Ansiedad Financiera", "Mentalidad de Escasez", "Trampas Financieras"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/7QvJJRxJT0c"

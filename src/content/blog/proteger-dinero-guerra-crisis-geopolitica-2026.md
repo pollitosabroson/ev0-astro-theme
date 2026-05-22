@@ -4,7 +4,7 @@ description: "Descubre cómo proteger tu patrimonio ante guerras, corralitos ban
 pubDate: "2026-03-13T08:00:00.000Z"
 heroImage: "/blogs/proteger-dinero-guerra-2026.webp"
 categories: ["Finanzas Personales", "Estrategias de Inversión", "Economía Personal"]
-tags: ["crisis financiera", "corralito bancario", "protección del patrimonio", "Blockchain", "Oro", "Análisis de Mercado"]
+tags: ["Análisis de Mercado", "Banca", "Inversiones", "Blockchain", "Oro"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/wi5Cq33WgeI"

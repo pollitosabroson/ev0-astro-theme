@@ -4,7 +4,7 @@ description: "Cada mes tu sueldo se esfuma y no sabes por qué. Descubre los err
 pubDate: "2025-03-03T22:39:01.741Z"
 heroImage: "/blogs/expense.webp"
 categories: ["Finanzas Personales", "Gestión del Dinero"]
-tags: ["finanzas personales", "control de gastos", "ahorro", "Salud Financiera", "Gastos Hormiga"]
+tags: ["finanzas personales", "Control de Gastos", "ahorro", "Salud Financiera", "Gastos Hormiga"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/Atm60O9Dc2A"

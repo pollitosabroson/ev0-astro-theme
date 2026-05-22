@@ -4,7 +4,7 @@ description: "¿Cansado de la rutina del trabajo de 9 a 5? ¿Sueñas con una vid
 pubDate: "2024-09-17T04:39:36.968Z"
 heroImage: "/blogs/movimiento-fire.webp"
 categories: ["FIRE", "Retiro Temprano", "Libertad Financiera", "Ahorro e Inversión", "Consejos para Jubilación", "Estrategias Financieras", "Finanzas Personales", "Planificación Financiera", "Finanzas Conscientes"]
-tags: ["finanzas personales", "Salud Financiera", "estrategias de ahorro", "Ingresos Recurrentes", "fire"]
+tags: ["finanzas personales", "Salud Financiera", "Estrategias de Ahorro", "Ingresos Recurrentes", "FIRE"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/5NCFVff8RHw"

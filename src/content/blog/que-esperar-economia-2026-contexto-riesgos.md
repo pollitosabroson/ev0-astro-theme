@@ -4,7 +4,7 @@ description: "El 2026 no empieza desde cero. Para entender qué puede pasar en l
 pubDate: "2025-12-31T15:00:05.195Z"
 heroImage: "/blogs/economia-2026.webp"
 categories: ["Economía Personal", "Estrategias de Inversión", "Educación Financiera"]
-tags: ["bolsa", "inflación", "inteligencia artificial", "contexto económico"]
+tags: ["Bolsa de Valores", "Inflación", "Inteligencia Artificial", "Economía Personal"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/XWBQ5IKR5UA"

@@ -5,7 +5,7 @@ slug: fondo-emergencia-inteligente-2026
 pubDate: "2026-03-07T10:30:00.000Z"
 heroImage: "/blogs/fondo-emergencia-2026.webp"
 categories: ["Finanzas Personales", "Ahorro e Inversión", "Planificación Financiera"]
-tags: ["Fondo de Emergencia", "ahorro inteligente", "Gestión del Riesgo", "inflación", "finanzas personales", "Inteligencia Artificial", "plan financiero"]
+tags: ["Fondo de Emergencia", "Ahorro Inteligente", "Gestión del Riesgo", "Inflación", "finanzas personales", "Inteligencia Artificial", "Planificación Financiera"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/Juhq_sS66qY"

@@ -4,7 +4,7 @@ description: "La situación actual de los sistemas de pensiones es preocupante. 
 pubDate: "2024-10-29T15:57:51.308Z"
 heroImage: "/blogs/retirement.webp"
 categories: ["Finanzas Personales", "Consejos para Jubilación", "Planificación Financiera"]
-tags: ["Ahorro para Jubilación", "Seguridad Financiera", "Inversión a Largo Plazo", "Libertad Financiera", "Errores Financieros", "Estrategias de Ahorro"]
+tags: ["Ahorro para Jubilación", "Salud Financiera", "Inversión a Largo Plazo", "Libertad Financiera", "Errores Financieros", "Estrategias de Ahorro"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/9N53uheGjWs"

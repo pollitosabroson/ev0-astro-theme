@@ -4,7 +4,7 @@ description: "Descubre qué es el MSCI World, cómo funciona, qué países inclu
 pubDate: "2025-11-25T20:30:36.968Z"
 heroImage: "/blogs/msci-world-guia-principiantes.webp"
 categories: ["Inversiones", "Estrategias de Inversión", "Educación Financiera"]
-tags: ["MSCI World", "Inversión global", "Fondos Indexados", "ETF", "Mercados desarrollados"]
+tags: ["MSCI World", "Inversiones", "Fondos Indexados", "ETF", "Análisis de Mercado"]
 author: "Alejandro Rosales"
 video:
   embedUrl: "https://www.youtube.com/embed/z-kbiTfZqOo"

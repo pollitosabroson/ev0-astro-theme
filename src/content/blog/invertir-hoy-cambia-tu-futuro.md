@@ -4,7 +4,7 @@ description: "¿Por qué empezar a invertir hoy y no mañana? Descubre cómo el 
 pubDate: "2025-07-22T20:30:00.000Z"
 heroImage: "/blogs/invertir-hoy.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
-tags: ["inversión", "Educación Financiera", "Interés Compuesto", "libertad financiera", "ahorro inteligente"]
+tags: ["inversión", "Educación Financiera", "Interés Compuesto", "Libertad Financiera", "Ahorro Inteligente"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/TkJ9mTPJex4"

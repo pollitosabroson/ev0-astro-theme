@@ -4,7 +4,7 @@ description: "¿Te cuesta cumplir tus propósitos de Año Nuevo? Aprende 3 estra
 pubDate: "2025-01-06T22:43:36.160Z"
 heroImage: "/blogs/metas-2025.webp"
 categories: ["Finanzas Personales", "Blog Inversiones", "Mentalidad Financiera", "Planificación Financiera"]
-tags: ["Propósitos de Año Nuevo", "Cumplir Metas", "desarrollo personal", "Hábitos Diarios", "mejorar tu vida"]
+tags: ["Propósitos de Año Nuevo", "Cumplir Metas", "desarrollo personal", "Hábitos Diarios"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/kHCW8r9ANDk"

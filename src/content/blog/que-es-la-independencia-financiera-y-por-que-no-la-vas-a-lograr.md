@@ -4,7 +4,7 @@ description: "En este post te voy a contar qué es la IF realmente, por qué la 
 pubDate: "2024-04-23T08:35:19.085Z"
 heroImage: "/blogs/if.webp"
 categories: ["Blog Inversiones", "Finanzas Personales", "Inversiones", "Gestión del Dinero", "Libertad Financiera"]
-tags: ["Independencia Financiera", "Educación Financiera", "Inversiones", "Ahorro", "Constancia", "Metas Financieras", "Gestión del Dinero", "Ingresos Pasivos", "Disciplina Financiera"]
+tags: ["Independencia Financiera", "Educación Financiera", "Inversiones", "Ahorro", "Disciplina Financiera", "Metas Financieras", "Gestión del Dinero", "Ingresos Pasivos"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/QCEyk6rO8V0"

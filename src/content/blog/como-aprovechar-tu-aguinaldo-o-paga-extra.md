@@ -4,7 +4,7 @@ description: "¿Recibiste tu aguinaldo o paga extra y no sabes qué hacer con é
 pubDate: "2025-11-18T20:20:57.336Z"
 heroImage: "/blogs/aguinaldo-inteligente.webp"
 categories: ["Finanzas Personales", "Educación Financiera", "Ahorro e Inversión", "Gestión del Dinero"]
-tags: ["aguinaldo", "Paga Extra", "Dinero Extra", "ahorro", "Deudas", "Fondo de Emergencia", "Educación Financiera", "Black Friday", "gastos inteligentes"]
+tags: ["Aguinaldo", "Paga Extra", "Dinero Extra", "ahorro", "Deudas", "Fondo de Emergencia", "Educación Financiera", "Black Friday", "Control de Gastos"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/b3k_qyJR6hU"

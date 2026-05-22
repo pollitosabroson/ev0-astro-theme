@@ -4,7 +4,7 @@ description: "¿Ganas bien pero nunca sabes a dónde se va tu dinero? Descubre c
 pubDate: "2025-06-16T07:00:12.918Z"
 heroImage: "/blogs/presupuesto-funcional.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
-tags: ["presupuesto", "ahorro inteligente", "Educación Financiera", "control de gastos", "libertad financiera", "Planificación Mensual"]
+tags: ["Presupuesto", "Ahorro Inteligente", "Educación Financiera", "Control de Gastos", "Libertad Financiera", "Planificación Mensual"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/KLvJpFWd9MM"

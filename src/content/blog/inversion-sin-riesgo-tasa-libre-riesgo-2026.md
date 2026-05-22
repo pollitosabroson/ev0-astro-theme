@@ -4,7 +4,7 @@ description: "Descubre qué es la Tasa Libre de Riesgo, cómo funciona el CAPM y
 pubDate: "2026-02-28T12:00:00.000Z"
 heroImage: "/blogs/inversion-sin-riesgo-2026.webp"
 categories: ["Finanzas Personales", "Inversiones", "Educación Financiera"]
-tags: ["tasa libre de riesgo", "CAPM", "inflación", "Bonos del Tesoro", "CNMV", "Gestión del Riesgo"]
+tags: ["Renta Fija", "Inflación", "Bonos del Tesoro", "Gestión del Riesgo"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/wd9UzzZtiIk"

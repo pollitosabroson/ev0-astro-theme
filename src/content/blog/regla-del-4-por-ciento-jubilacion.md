@@ -4,7 +4,7 @@ description: "¿Podrás vivir tranquilo cuando te jubiles? Descubre cómo funcio
 pubDate: "2025-04-28T21:37:13.282Z"
 heroImage: "/blogs/regla4.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
-tags: ["finanzas personales", "planificacion financiera", "regla del 4", "independencia financiera", "retiro", "Jubilación"]
+tags: ["finanzas personales", "planificación financiera", "Jubilación", "independencia financiera"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/gv-uyQYiJWw"

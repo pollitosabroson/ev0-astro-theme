@@ -4,7 +4,7 @@ description: "Descubre por qué la inversión mediocre, basada en índices y baj
 pubDate: "2026-01-20T20:30:09.415Z"
 heroImage: "/blogs/inversor-mediocre.webp"
 categories: ["Finanzas Personales", "Inversión Pasiva", "Educación Financiera"]
-tags: ["inversión indexada", "Fondos Indexados", "S&P 500", "MSCI World", "gestión activa", "comisiones", "Psicología del Inversor"]
+tags: ["Fondos Indexados", "S&P 500", "MSCI World", "Estrategias de Inversión", "Gestión de Gastos", "Psicología del Inversor"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/ssvvhhpjGk0"

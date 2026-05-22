@@ -90,7 +90,7 @@ Usa **solo** estas categorías. Si un artículo no encaja en ninguna, propón un
 Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 
 ### A
-`Abastecedor` · `Actualización Financiera` · `Ahorro` · `Ahorro de Emergencia` · `Ahorro e Inversión` · `Ahorro Excesivo` · `Ahorro Inteligente` · `Ahorro para Hijos` · `Ahorro para Jubilación` · `Ahorro sin Esfuerzo` · `Ahorros` · `Alejandro Rosales` · `Amortización` · `Análisis de Mercado` · `Ansiedad Financiera` · `Apps Financieras` · `Aprender a Invertir` · `Aranceles Internacionales`
+`Abastecedor` · `Acciones` · `Actualización Financiera` · `Aguinaldo` · `Ahorro` · `Ahorro de Emergencia` · `Ahorro e Inversión` · `Ahorro Excesivo` · `Ahorro Inteligente` · `Ahorro para Hijos` · `Ahorro para Jubilación` · `Ahorro sin Esfuerzo` · `Ahorros` · `Alejandro Rosales` · `Amortización` · `Análisis de Mercado` · `Ansiedad Financiera` · `Apps Financieras` · `Aprender a Invertir` · `Aranceles Internacionales`
 
 ### B
 `Banca` · `Banca Digital` · `Banco Digital` · `Bancos` · `Bancos Centrales` · `Barista FIRE` · `BCE` · `Bienestar Emocional` · `Bienestar Financiero` · `Black Friday` · `Blockchain` · `Blog Personal` · `BNPL` · `Bolsa de Valores` · `Bonos` · `Bonos del Tesoro`
@@ -102,28 +102,28 @@ Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 `Debt Stacking` · `Decisiones Financieras` · `Declaración de la Renta` · `Deducciones Fiscales` · `Demografía` · `Desarrollo Personal` · `Deuda` · `Deudas` · `Deudas y Compras Impulsivas` · `Dinero` · `Dinero en Familia` · `Dinero Extra` · `Dinero sin Comisiones` · `Disciplina Financiera` · `Diversificación` · `Dividendos` · `Dual Pricing`
 
 ### E
-`Economía Global` · `Educación Financiera` · `Educación Financiera Infantil` · `Efecto Cantillon` · `Efecto Diderot` · `Emprendimiento` · `Energía` · `Entorno Familiar` · `Errores Financieros` · `Escasez de Mano de Obra` · `Estrategias Financieras` · `Estrategias Fiscales`
+`Economía Global` · `Educación Financiera` · `Educación Financiera Infantil` · `Efecto Cantillon` · `Efecto Diderot` · `Emprendimiento` · `Empresas` · `Energía` · `Entorno Familiar` · `Errores Financieros` · `Escasez de Mano de Obra` · `Estrategias de Ahorro` · `Estrategias de Inversión` · `Estrategias Financieras` · `Estrategias Fiscales` · `ETF`
 
 ### F
-`Finanzas Familiares` · `Finanzas para Principiantes` · `Finanzas Personales` · `Finiquito` · `Fondo de Emergencia` · `Fondos de Inversión` · `Fondos de Pensiones` · `Fondos Indexados` · `Fondos Monetarios` · `Frugalidad` · `Futuro Financiero`
+`Finanzas Conscientes` · `Finanzas Familiares` · `Finanzas para Principiantes` · `Finanzas Personales` · `Finiquito` · `Fondo de Emergencia` · `Fondos de Inversión` · `Fondos de Pensiones` · `Fondos Indexados` · `Fondos Monetarios` · `Frugalidad` · `Fuck You Money` · `Futuro Financiero`
 
 ### G – H
-`Gastos Hormiga` · `Gestión de Gastos` · `Gestión del Dinero` · `GPU` · `Hábitos Diarios` · `Hábitos de Consumo` · `Hábitos Financieros` · `Herencia` · `Hipoteca` · `Hipoteca Fija` · `Hipoteca Mixta` · `Hipoteca Variable` · `Historial Crediticio`
+`Ganar la Lotería` · `Gastos Hormiga` · `Gestión de Gastos` · `Gestión del Dinero` · `Gestión del Riesgo` · `GPU` · `Hábitos Diarios` · `Hábitos de Consumo` · `Hábitos Financieros` · `Herencia` · `Hipoteca` · `Hipoteca Fija` · `Hipoteca Mixta` · `Hipoteca Variable` · `Historial Crediticio`
 
 ### I
-`Impacto Económico` · `Impuestos en España` · `Independencia Financiera` · `Indemnización` · `Influencers` · `Inflación` · `Ingresos Recurrentes` · `Inteligencia Artificial` · `Intereses Bancarios` · `Inversión` · `Inversión a Largo Plazo` · `Inversión Inmobiliaria` · `Inversión Inteligente` · `Inversión para Hijos` · `Inversiones` · `Inversiones Familiares` · `IRPF` · `IVA Alimentos`
+`Impacto Económico` · `Impuestos en España` · `Independencia Financiera` · `Indemnización` · `Influencers` · `Inflación` · `Ingresos Pasivos` · `Ingresos Recurrentes` · `Inteligencia Artificial` · `Interés Compuesto` · `Intereses Bancarios` · `Inversión` · `Inversión a Largo Plazo` · `Inversión Inmobiliaria` · `Inversión Inteligente` · `Inversión Pasiva` · `Inversión para Hijos` · `Inversiones` · `Inversiones Familiares` · `IRPF` · `IVA Alimentos`
 
 ### J – K – L
 `Jensen Huang` · `Jubilación` · `Klarna` · `Libertad Financiera` · `Liquidez` · `Lonchafinismo`
 
 ### M – N
-`Manejo del Dinero` · `Megatendencias` · `Mentalidad de Escasez` · `Mentalidad Millonaria` · `Mercados de Predicción` · `Metas Financieras` · `Miedo al Dinero` · `Movimiento FIRE` · `MyInvestor` · `Neobancos` · `Negociación` · `Negociación con Acreedores` · `Nuevos Comienzos` · `Nuevos Impuestos` · `Nudismo Financiero` · `NVIDIA`
+`Manejo del Dinero` · `Megatendencias` · `Mentalidad de Escasez` · `Mentalidad Millonaria` · `Mercados de Predicción` · `Metas Financieras` · `Miedo al Dinero` · `Movimiento FIRE` · `MSCI World` · `MyInvestor` · `Neobancos` · `Negociación` · `Negociación con Acreedores` · `Nuevos Comienzos` · `Nuevos Impuestos` · `Nudismo Financiero` · `NVIDIA`
 
 ### O – P
-`Objetivos Financieros` · `Optimización de Recursos` · `Paga Extra` · `Paciencia Financiera` · `Pago Mínimo` · `PayPal` · `Personalidad Financiera` · `Petróleo` · `Phishing` · `Pignoración` · `Planificación Financiera` · `Planificación Mensual` · `Plusvalía del Muerto` · `Polymarket` · `Precio Vivienda` · `Préstamos` · `Presupuesto` · `Presupuesto Familiar` · `Primeros Pasos en Inversión` · `Private Equity` · `Propósitos de Año Nuevo` · `Psicología del Consumo`
+`Objetivos Financieros` · `Optimización de Recursos` · `Oro` · `Paga Extra` · `Paciencia Financiera` · `Pago Mínimo` · `PayPal` · `Personalidad Financiera` · `Petróleo` · `Phishing` · `Pignoración` · `Planificación Financiera` · `Planificación Mensual` · `Plusvalía del Muerto` · `Poder Adquisitivo` · `Polymarket` · `Precio Vivienda` · `Préstamos` · `Presupuesto` · `Presupuesto Familiar` · `Primeros Pasos en Inversión` · `Private Equity` · `Propósitos de Año Nuevo` · `Psicología del Consumo` · `Psicología del Inversor`
 
 ### R
-`Reestructuración de Deuda` · `Reducir Gastos` · `Relaciones Personales` · `Rentabilidad` · `S&P 500` · `Salarios Construcción` · `Salud Financiera` · `Semiconductores` · `Subida de Impuestos` · `Swing Pricing`
+`Reestructuración de Deuda` · `Reducir Gastos` · `Relaciones Personales` · `Renta Fija` · `Renta Variable` · `Rentabilidad` · `Riesgo Financiero` · `S&P 500` · `Salarios Construcción` · `Salud Financiera` · `Semiconductores` · `Subida de Impuestos` · `Swing Pricing`
 
 ### T – V
 `Tarjeta de Crédito` · `Tarjetas de Crédito` · `Tecnología` · `Test de Perfil de Inversor` · `Tokenización` · `Trading` · `Trampas Financieras` · `Transferencia de Saldo` · `Tipos de Interés` · `Viajes Inteligentes`

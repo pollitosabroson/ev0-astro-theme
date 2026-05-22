@@ -4,7 +4,7 @@ description: "Descubre por qué tu entorno más cercano puede estar saboteando t
 pubDate: "2025-05-05T05:05:34.650Z"
 heroImage: "/blogs/entorno-financiero.webp"
 categories: ["Finanzas Personales", "Psicología del Dinero"]
-tags: ["Entorno Familiar", "Educación Financiera", "Creencias Limitantes", "libertad financiera", "Relaciones Personales", "Hábitos Financieros", "Miedo al Dinero"]
+tags: ["Entorno Familiar", "Educación Financiera", "Creencias Limitantes", "Libertad Financiera", "Relaciones Personales", "Hábitos Financieros", "Miedo al Dinero"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/vgxRJCxa8hg"

@@ -4,7 +4,7 @@ description: "Si crees que no puedes invertir porque apenas te alcanza para vivi
 pubDate: "2025-02-10T16:52:57.417Z"
 heroImage: "/blogs/invertir-without-parents.webp"
 categories: ["Finanzas Personales", "Inversiones"]
-tags: ["finanzas personales", "ahorro", "Inversión Inteligente", "gestión financiera", "dinero"]
+tags: ["Finanzas Personales", "Ahorro", "Inversión Inteligente", "Gestión del Dinero", "Dinero"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/NQ4xqyXpH9o"

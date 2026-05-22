@@ -5,7 +5,7 @@ slug: por-que-ahorrar-dinero-te-hace-mas-pobre
 pubDate: "2026-02-10T20:30:00.000Z"
 heroImage: "/blogs/ahorrar-te-hace-mas-pobre.webp"
 categories: ["Finanzas Personales", "Educación Financiera", "Inversiones"]
-tags: ["ahorro", "inflación", "Poder Adquisitivo", "inversión", "Oro", "bienes raíces", "política monetaria"]
+tags: ["ahorro", "Inflación", "Poder Adquisitivo", "inversión", "Oro", "Inversión Inmobiliaria", "Economía Global"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/8cwWV8V2aBI"

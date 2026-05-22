@@ -4,7 +4,7 @@ description: "Ahora que termina el primer cuarto del año toca actualizar mis in
 pubDate: "2024-05-10T10:30:00.001Z"
 heroImage: "/blogs/inversiones-marzo.webp"
 categories: ["Blog Inversiones"]
-tags: ["inversión a largo plazo", "Dividendos", "trading", "Test de Perfil de Inversor", "Estrategias de Inversión", "análisis de mercado", "Comunidad de Inversores"]
+tags: ["Inversión a Largo Plazo", "Dividendos", "Trading", "Test de Perfil de Inversor", "Estrategias de Inversión", "Análisis de Mercado", "Comunidad de Inversores"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/pdhzDAHW9_0"

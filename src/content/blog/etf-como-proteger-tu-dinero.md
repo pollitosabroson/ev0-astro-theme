@@ -4,7 +4,7 @@ description: "Cada día tu dinero vale menos y lo peor es que ni te das cuenta. 
 pubDate: "2025-02-24T23:21:03.892Z"
 heroImage: "/blogs/ETF.webp"
 categories: ["Inversiones", "Finanzas Personales"]
-tags: ["ETF", "Inversión Inteligente", "ahorro", "protección financiera", "crecimiento del dinero"]
+tags: ["ETF", "Inversión Inteligente", "ahorro", "Rentabilidad"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/Gl-1QFoedtw"

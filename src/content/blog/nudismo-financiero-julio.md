@@ -4,7 +4,7 @@ description: "Explora el análisis de mi quinto mes de inversiones, enfrentando 
 pubDate: "2024-06-04T05:13:38.108Z"
 heroImage: "/blogs/julio.webp"
 categories: ["Blog Inversiones"]
-tags: ["inversión a largo plazo", "Dividendos", "trading", "Test de Perfil de Inversor", "Estrategias de Inversión", "análisis de mercado", "Comunidad de Inversores", "MyInvestor"]
+tags: ["Inversión a Largo Plazo", "Dividendos", "Trading", "Test de Perfil de Inversor", "Estrategias de Inversión", "Análisis de Mercado", "Comunidad de Inversores", "MyInvestor"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/bZgfXUbotAQ"

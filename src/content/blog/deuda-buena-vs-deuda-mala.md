@@ -4,7 +4,7 @@ description: " ¿Tu deuda te está hundiendo o impulsando? No todas las deudas s
 pubDate: "2025-03-24T10:08:36.623Z"
 heroImage: "/blogs/deuda-buena-vs-deuda-mala.webp"
 categories: ["Finanzas Personales", "Inversiones", "Educación Financiera"]
-tags: ["deuda buena", "deuda mala", "finanzas personales", "control de gastos", "Inversión Inteligente", "libertad financiera"]
+tags: ["Deuda", "finanzas personales", "Control de Gastos", "Inversión Inteligente", "Libertad Financiera"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/0IaMuzdYipc"

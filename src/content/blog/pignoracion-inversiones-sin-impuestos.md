@@ -4,7 +4,7 @@ description: "Descubre cómo los ricos acceden a dinero sin vender sus inversion
 pubDate: "2025-06-03T20:30:20.505Z"
 heroImage: "/blogs/pignoracion-inversiones.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
-tags: ["Pignoración", "Fondos de Inversión", "Estrategias Fiscales", "libertad financiera", "Educación Financiera"]
+tags: ["Pignoración", "Fondos de Inversión", "Estrategias Fiscales", "Libertad Financiera", "Educación Financiera"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/lE5xm1Fac64"

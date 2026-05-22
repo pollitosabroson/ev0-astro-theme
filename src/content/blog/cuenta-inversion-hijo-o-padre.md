@@ -4,7 +4,7 @@ description: "Invertir para tus hijos puede cambiar su vida financiera. Pero… 
 pubDate: "2025-07-15T10:00:00.000Z"
 heroImage: "/blogs/cuenta-inversion-hijo.webp"
 categories: ["Finanzas Familiares", "Educación Financiera", "Estrategias de Inversión"]
-tags: ["Cuenta Junior", "Educación Financiera Infantil", "Inversión para Hijos", "futuro financiero", "Cuentas para Menores"]
+tags: ["Cuenta Junior", "Educación Financiera Infantil", "Inversión para Hijos", "Futuro Financiero", "Cuentas para Menores"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/bTZufqL-Tzs"

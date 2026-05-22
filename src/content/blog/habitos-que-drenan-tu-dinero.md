@@ -4,7 +4,7 @@ description: "Descubre los 10 hábitos silenciosos que están drenando tu dinero
 pubDate: "2025-01-21T13:19:56.120Z"
 heroImage: "/blogs/habitos.webp"
 categories: ["Finanzas Personales", "Gestión Financiera"]
-tags: ["Hábitos Financieros", "ahorro inteligente", "control de gastos", "planificación financiera", "soluciones prácticas"]
+tags: ["Hábitos Financieros", "Ahorro Inteligente", "Control de Gastos", "planificación financiera", "Consejos Financieros"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/F2vOno5KBX4"

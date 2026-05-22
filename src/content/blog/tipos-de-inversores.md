@@ -4,7 +4,7 @@ description: "¿Eres un inversor paciente que busca construir riqueza a largo pl
 pubDate: "2024-02-24T16:46:16.643Z"
 heroImage: "/blogs/tipo-de-inversor-cover.webp"
 categories: ["Blog Inversiones"]
-tags: ["inversión a largo plazo", "Dividendos", "trading", "Test de Perfil de Inversor", "Estrategias de Inversión", "análisis de mercado", "Comunidad de Inversores"]
+tags: ["Inversión a Largo Plazo", "Dividendos", "Trading", "Test de Perfil de Inversor", "Estrategias de Inversión", "Análisis de Mercado", "Comunidad de Inversores"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/NYcug9_WstU"

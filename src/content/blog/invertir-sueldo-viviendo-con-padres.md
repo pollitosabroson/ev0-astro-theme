@@ -4,7 +4,7 @@ description: "Descubre la estrategia financiera que nadie te contó para multipl
 pubDate: "2025-02-03T15:08:20.926Z"
 heroImage: "/blogs/sueldo-casa-padres.webp"
 categories: ["Finanzas Personales", "Inversiones"]
-tags: ["inversiones", "ahorro", "finanzas personales", "Educación Financiera", "gestión del dinero"]
+tags: ["Inversiones", "ahorro", "finanzas personales", "Educación Financiera", "Gestión del dinero"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/tM99Dc0PYI8"

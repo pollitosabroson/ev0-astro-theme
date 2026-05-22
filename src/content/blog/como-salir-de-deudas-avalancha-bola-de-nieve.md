@@ -4,7 +4,7 @@ description: "¿Sabías que pagar solo el mínimo de tus deudas puede mantenerte
 pubDate: "2025-10-07T20:30:55.069Z"
 heroImage: "/blogs/salir-de-deudas.webp"
 categories: ["Finanzas Personales", "Educación Financiera", "Libertad Financiera", "Gestión del Dinero"]
-tags: ["Deudas", "método avalancha", "método bola de nieve", "Educación Financiera", "pagos mínimos", "presupuesto inteligente"]
+tags: ["Deudas", "Debt Stacking", "Educación Financiera", "Pago Mínimo", "Presupuesto"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/nI1oa0m5U6Y"

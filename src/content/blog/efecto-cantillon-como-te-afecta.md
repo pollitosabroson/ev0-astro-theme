@@ -4,7 +4,7 @@ description: "¿Sabías que cuando los gobiernos imprimen dinero, los precios su
 pubDate: "2025-05-19T10:08:12.526Z"
 heroImage: "/blogs/efecto-cantillon.webp"
 categories: ["Finanzas Personales", "Educación Financiera"]
-tags: ["efecto cantillon", "inflación", "Poder Adquisitivo", "Bancos Centrales", "Educación Financiera", "inversión"]
+tags: ["Efecto Cantillon", "Inflación", "Poder Adquisitivo", "Bancos Centrales", "Educación Financiera", "inversión"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/8V-dQuJRN0I"
