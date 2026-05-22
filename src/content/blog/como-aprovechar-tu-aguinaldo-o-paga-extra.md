@@ -3,8 +3,8 @@ title: "Cómo aprovechar tu aguinaldo o paga extra sin caer en compras impulsiva
 description: "¿Recibiste tu aguinaldo o paga extra y no sabes qué hacer con él? Te explico cómo evitar las trampas del Black Friday, cómo priorizar tu dinero, qué decisiones te dan tranquilidad y cómo usar este ingreso extraordinario para mejorar tu vida financiera sin complicaciones."
 pubDate: "2025-11-18T20:20:57.336Z"
 heroImage: "/blogs/aguinaldo-inteligente.webp"
-categories: ["Finanzas Personales", "Educación Financiera", "Ahorro e Inversión", "Gestión del Dinero"]
-tags: ["Aguinaldo", "Paga Extra", "Dinero Extra", "ahorro", "Deudas", "Fondo de Emergencia", "Educación Financiera", "Black Friday", "Control de Gastos"]
+categories: ["Finanzas Personales", "Educación Financiera", "Ahorro e Inversión"]
+tags: ["Aguinaldo", "Paga Extra", "Dinero Extra", "Ahorro", "Deudas", "Fondo de Emergencia", "Educación Financiera", "Black Friday"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/b3k_qyJR6hU"
@@ -48,7 +48,7 @@ La realidad es otra.
 
 Este ingreso es un **momento clave del año** porque llega siempre en la misma fecha, y justo por eso puede ayudarte a mejorar tu situación financiera.
 
-Y aquí entra un enemigo silencioso: **Black Friday**.  
+Y aquí entra un enemigo silencioso: **[Black Friday](/blog/evitar-trampas-black-friday-compras-inteligentes/)**.  
 Las tiendas llevan meses preparándose para que gastes lo máximo posible:
 
 - descuentos explosivos  
@@ -188,10 +188,10 @@ Moderados/Agresivos:
 - acciones  
 - [fondos indexados](/blog/triunfo-inversor-mediocre-inversion-indexada/)  
 - renta variable global  
-- ETFs que replican índices (como el S&P 500)  
+- ETFs que replican índices (como el [S&P 500](/blog/que-es-el-sp500-y-como-funciona/))  
 - CEDEARS en LATAM  
 
-Aquí entra el interés compuesto, que funciona así:
+Aquí entra el [interés compuesto](/blog/interes-simple-vs-interes-compuesto/), que funciona así:
 
 > Tu dinero crece sobre el propio crecimiento.  
 

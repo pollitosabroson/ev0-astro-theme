@@ -162,7 +162,7 @@ No cotizan; se compran al valor liquidativo diario.
 ### ✔️ Fiscalidad: el factor clave  
 En España (y otros países similares):
 
-- **Fondos indexados** permiten traspasos sin pagar impuestos → ideal para el largo plazo  
+- **[Fondos indexados](/blog/triunfo-inversor-mediocre-inversion-indexada/)** permiten traspasos sin pagar impuestos → ideal para el largo plazo  
 - **ETFs** no permiten traspasos → pagas impuestos cada vez que vendes  
 
 Por eso, para estrategias de 10, 20 o 30 años:
@@ -179,7 +179,7 @@ Esto lo hace un índice:
 
 - Sólido  
 - Diversificado  
-- Muy usado como pilar central de las carteras  
+- Muy usado como pilar central de las [carteras](/blog/que-es-una-cartera-de-inversion-y-como-construirla/)  
 
 Aun así, su concentración en EE.UU. y tecnología significa que **no es tan equilibrado como parece**. Por eso muchos inversores añaden un 10–20% de Mercados Emergentes para tener un equilibrio más realista (similar al MSCI ACWI).
 

@@ -74,9 +74,9 @@ Aquí entra un socio silencioso que siempre gana: **Hacienda**.
 La gestión activa vende y compra constantemente.  
 Cada venta con beneficio genera una **ganancia patrimonial**, incluso aunque tú no retires dinero.
 
-Eso frena el **interés compuesto**.
+Eso frena el **[interés compuesto](/blog/interes-simple-vs-interes-compuesto/)**.
 
-Los fondos indexados y los ETFs están diseñados para vender lo mínimo posible, permitiendo que el capital crezca de forma diferida durante décadas.
+Los fondos indexados y los [ETFs](/blog/etf-como-proteger-tu-dinero/) están diseñados para vender lo mínimo posible, permitiendo que el capital crezca de forma diferida durante décadas.
 
 Esta eficiencia fiscal puede suponer entre **0,5% y 1,2% anual adicional**, solo por no tocar la inversión.
 
@@ -105,7 +105,7 @@ Las inversiones aburridas te protegen de ti mismo porque fomentan el “configur
 ## ¿Por qué la diversificación es la verdadera armadura?
 
 Aquí entra una verdad incómoda:  
-la mayoría de las acciones rinden peor que los bonos del Estado.
+la mayoría de las acciones rinden peor que los [bonos del Estado](/blog/inversion-sin-riesgo-tasa-libre-riesgo-2026/).
 
 El **Efecto Bessembinder** demuestra que solo un pequeño grupo de empresas genera casi toda la riqueza del mercado.
 

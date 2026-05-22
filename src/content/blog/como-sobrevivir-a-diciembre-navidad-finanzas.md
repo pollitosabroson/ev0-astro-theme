@@ -46,7 +46,7 @@ La ansiedad que sentimos nos empuja a comprar:
 El regalo da satisfacción por minutos.  
 La deuda dura semanas o meses.
 
-Por eso, un presupuesto no es solo una herramienta financiera, es una herramienta de **salud mental**: te da control y evita que empieces enero con el pie izquierdo.
+Por eso, un [presupuesto](/blog/como-hacer-un-presupuesto-que-funciona/) no es solo una herramienta financiera, es una herramienta de **salud mental**: te da control y evita que empieces enero con el pie izquierdo.
 
 ---
 
@@ -61,7 +61,7 @@ Tres factores la provocan:
 Cenas, viajes, regalos, compromisos, compras impulsivas, promociones por todos lados… diciembre está diseñado para que pierdas el control sin darte cuenta.
 
 ### **2. Inflación estacional**
-En casi todos los países, los precios suben en estas fechas por la alta demanda. En enero, sientes que el dinero “no rinde igual”… porque realmente no rinde igual.
+En casi todos los países, los precios suben en estas fechas por la alta demanda. En enero, sientes que el dinero “no rinde igual”… porque realmente no rinde igual. La [inflación](/blog/por-que-ahorrar-dinero-te-hace-mas-pobre/) también erosiona el poder adquisitivo de lo que gastas en estas fechas.
 
 ### **3. El ingreso extra mal administrado**
 Aguinaldos, pagas extras, bonos…  
@@ -93,7 +93,7 @@ Es tu salvavidas para enero.
 No es emocionante, pero sí necesario.
 
 ### **🟡 40% — Deudas o inversión**
-Pagar deudas caras es un ROI garantizado.  
+Pagar [deudas caras](/blog/como-salir-de-deudas-avalancha-bola-de-nieve/) es un ROI garantizado.  
 Invertir te da estabilidad futura.
 
 ### **🔴 40% — Gastos navideños**

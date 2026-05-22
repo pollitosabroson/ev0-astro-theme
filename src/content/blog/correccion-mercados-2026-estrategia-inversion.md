@@ -96,7 +96,7 @@ Aquí es donde separas amateur de estratega.
 
 ### Perfil conservador: protege tu paz mental
 
-- Bonos de calidad  
+- [Bonos de calidad](/blog/inversion-sin-riesgo-tasa-libre-riesgo-2026/)  
 - Liquidez  
 - Estabilidad > rentabilidad  
 
@@ -116,7 +116,7 @@ O seguro… o capturando el futuro.
 
 ---
 
-### Perfil agresivo: esto es un Black Friday
+### Perfil agresivo: esto es un [Black Friday](/blog/evitar-trampas-black-friday-compras-inteligentes/)
 
 Las correcciones crean oportunidades en:
 
