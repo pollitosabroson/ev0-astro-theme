@@ -20,7 +20,7 @@ Una tendencia donde, por algún motivo, se aplaude a la gente que presume su cap
 Sí, me refiero a esos vídeos donde te enseñan a reutilizar bolsitas de té diez veces, comer arroz blanco con sal tres veces al día o calentar sopa con la luz del monitor para ahorrar 3 euros.
 
 Y luego viene el “consejo”:  
-> “Si inviertes esos 3€ en un fondo indexado y lo dejas ahí por 100 años… serás millonario”.
+> “Si inviertes esos 3€ en un [fondo indexado](/blog/triunfo-inversor-mediocre-inversion-indexada/) y lo dejas ahí por 100 años… serás millonario”.
 
 ¿En serio? ¿Vas a vivir como un monje tibetano toda tu vida solo para que —con suerte— tus bisnietos disfruten ese dinero?
 
@@ -40,7 +40,7 @@ Gente que tiene ingresos estables, pero decide vivir como si cada euro fuera el 
 - Cancelan planes sociales por no gastar en transporte o café.
 
 No estamos hablando de [frugalidad](/blog/frugalidad-para-mejorar-finanzas/) inteligente, sino de una versión degenerada del ahorro.  
-Una que no construye libertad financiera… sino una cárcel mental.
+Una que no construye [libertad financiera](/blog/fuck-you-money-libertad-financiera-real/)… sino una cárcel mental.
 
 Porque ahorrar está bien.  
 Pero vivir como si fueras pobre —sin serlo— solo para ver crecer una cuenta que nunca vas a disfrutar… eso ya no es salud financiera. Es miedo.
@@ -100,7 +100,7 @@ Ahorrar sí.
 Pero con sentido.
 
 ✅ Usa metodologías como el 50/30/20 o el presupuesto base cero.  
-✅ Define metas claras: viaje, fondo de emergencia, libertad.  
+✅ Define metas claras: viaje, [fondo de emergencia](/blog/fondo-emergencia-inteligente-2026/), libertad.  
 ✅ Invierte en educación financiera (y no en miedo).  
 ✅ Aprende a gastar con conciencia… no con culpa.
 

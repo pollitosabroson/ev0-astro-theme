@@ -102,7 +102,7 @@ Estos son los gastos que **no puedes eliminar en una crisis**.
 Aquí entran:
 
 - Seguros (salud, coche, hogar)  
-- Pagos mínimos de deudas  
+- Pagos mínimos de [deudas](/blog/como-salir-de-deudas-avalancha-bola-de-nieve/)  
 - préstamos personales  
 
 Son compromisos financieros que **siguen existiendo aunque pierdas ingresos**.
@@ -136,7 +136,7 @@ Multiplica por el nivel de riesgo de tu situación laboral.
 
 Este número no es ahorro.
 
-Es el **presupuesto de supervivencia de tu vida**.
+Es el **presupuesto** de supervivencia de tu vida. Si aún no tienes uno, aquí tienes [cómo hacer un presupuesto](/blog/como-hacer-un-presupuesto-que-funciona/).
 
 ---
 
@@ -192,7 +192,7 @@ Opciones comunes:
 
 - [fondos monetarios](/blog/inversion-sin-riesgo-tasa-libre-riesgo-2026/)  
 - bonos del tesoro a corto plazo  
-- ETFs de liquidez
+- [ETFs](/blog/etf-como-proteger-tu-dinero/) de liquidez
 
 Son activos con bajo riesgo y alta liquidez.
 

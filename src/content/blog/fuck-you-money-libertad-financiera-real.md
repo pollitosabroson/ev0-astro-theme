@@ -39,7 +39,7 @@ La tranquilidad de saber que puedes parar, cambiar de rumbo o simplemente tomar 
 
 Y no es humo. Tiene historia.
 
-Desde escritores en los años 70 hasta emprendedores de Silicon Valley, todos entendieron lo mismo: cuando tienes ese colchón financiero, recuperas tu poder de elección.
+Desde escritores en los años 70 hasta emprendedores de Silicon Valley, todos entendieron lo mismo: cuando tienes ese [colchón financiero](/blog/fondo-emergencia-inteligente-2026/), recuperas tu poder de elección.
 
 ---
 
@@ -79,7 +79,7 @@ Vivir por debajo de tus posibilidades es revolucionario.
 
 ### 2. Inversión inteligente
 
-Haz que tu dinero trabaje para ti. Desde [fondos indexados](/blog/triunfo-inversor-mediocre-inversion-indexada/) hasta renta fija, hay opciones para todos los perfiles.  
+Haz que tu dinero trabaje para ti. Desde [fondos indexados](/blog/triunfo-inversor-mediocre-inversion-indexada/) hasta [renta fija](/blog/error-invertir-renta-fija-sin-saber/), hay opciones para todos los perfiles.  
 Investiga, aprende, asesórate.
 
 ### 3. Elimina tus deudas

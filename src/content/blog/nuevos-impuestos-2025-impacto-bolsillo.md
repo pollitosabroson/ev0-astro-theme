@@ -4,7 +4,7 @@ description: "Descubre cómo los nuevos impuestos de 2025 afectarán tu día a d
 pubDate: "2025-01-12T23:07:44.849Z"
 heroImage: "/blogs/impuestos-2025.webp"
 categories: ["Economía Personal", "Economía Española"]
-tags: ["Economía Personal", "Nuevos Impuestos", "Gestión de Gastos", "Ahorro Inteligente", "Presupuesto Familiar", "Impacto Económico", "IVA Alimentos", "Subida de Impuestos", "Deducciones Fiscales"]
+tags: ["Economía Personal", "Gestión de Gastos", "Ahorro Inteligente", "Presupuesto Familiar", "Impacto Económico", "IVA Alimentos", "Deducciones Fiscales", "Impuestos en España"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/luKC7E4J_JY"

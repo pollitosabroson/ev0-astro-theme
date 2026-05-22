@@ -3,8 +3,8 @@ title: "¡Finanzas Personales No Son Para Imbeciles Y Perezosos!"
 description: "Si ya lo sé, otro que viene a decirte que te vuelvas un ermitaño y que casi casi te conviertas en una persona que sale en tacaños extremos para que no gastes nada de dinero y te conviertas en el viejo amargado que juraste no ser cuando eras adolescente. Pero no, las putas finanzas personales son prácticamente para que no gastes como un imbécil"
 pubDate: "2024-04-15T14:53:20.023Z"
 heroImage: "/blogs/Finanzas-Personales.webp"
-categories: ["Blog Inversiones", "Finanzas Personales", "Gestión del Dinero", "Mentalidad Financiera"]
-tags: ["Finanzas personales", "Ahorro", "Inversiones", "Gestión del dinero", "desarrollo personal", "Desarrollo Personal", "Presupuesto", "Educación Financiera", "Gastos Hormiga", "Consejos Financieros"]
+categories: ["Finanzas Personales", "Gestión del Dinero", "Mentalidad Financiera"]
+tags: ["Finanzas Personales", "Ahorro", "Inversiones", "Gestión del Dinero", "Desarrollo Personal", "Presupuesto", "Educación Financiera", "Gastos Hormiga"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/5cfs5rz-Kro"

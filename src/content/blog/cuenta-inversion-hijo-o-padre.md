@@ -33,7 +33,7 @@ Ser padre o madre hoy va más allá de cubrir necesidades básicas.
 También implica anticiparte, planificar y construir un camino más libre para ellos.
 
 Cada mes que pasa sin invertir, es una oportunidad que se pierde.  
-Porque el **interés compuesto** no espera a nadie.
+Porque el **[interés compuesto](/blog/interes-simple-vs-interes-compuesto/)** no espera a nadie.
 
 ¿Sabías que con solo 50 €/mes durante 18 años, podrías reunir más de 20.000 € para tu hijo?  
 Y todo gracias a invertir con estrategia, no con suerte.
@@ -66,7 +66,7 @@ Tiene impacto fiscal, legal y emocional.
 
 En España existen productos como:
 - **Cuenta Junior**
-- **Fondos indexados para menores**
+- **[Fondos indexados](/blog/triunfo-inversor-mediocre-inversion-indexada/) para menores**
 - **Planes de ahorro con gestión delegada**
 
 Pero atención:  
@@ -145,4 +145,4 @@ Revisa tus opciones, asesórate si es necesario, y toma acción.
 
 ---
 
-👉 **La libertad financiera no se hereda… se construye en familia.**
+👉 **La [libertad financiera](/blog/fuck-you-money-libertad-financiera-real/) no se hereda… se construye en familia.**

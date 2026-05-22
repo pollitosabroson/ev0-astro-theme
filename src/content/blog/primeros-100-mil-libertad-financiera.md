@@ -4,7 +4,7 @@ description: "Llegar a tus primeros 100 mil no es solo una meta económica: es u
 pubDate: "2025-10-21T20:30:00.000Z"
 heroImage: "/blogs/primeros-100-mil.webp"
 categories: ["Finanzas Personales", "Estrategias de Inversión", "Educación Financiera"]
-tags: ["ahorro", "Disciplina Financiera", "Interés Compuesto", "Ahorro", "Libertad Financiera"]
+tags: ["Ahorro", "Disciplina Financiera", "Interés Compuesto", "Libertad Financiera"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/cndpifWLqSs"
@@ -17,7 +17,7 @@ video:
 Dicen que el primer paso siempre es el más difícil.  
 Y en el mundo del dinero, eso también es verdad.
 
-Llegar a tus primeros **100 mil euros —o dólares—** es probablemente la parte más dura del camino hacia la libertad financiera.  
+Llegar a tus primeros **100 mil euros —o dólares—** es probablemente la parte más dura del camino hacia la [libertad financiera](/blog/fuck-you-money-libertad-financiera-real/).  
 Charlie Munger, socio de Warren Buffett, lo dijo sin rodeos: *“es la peor parte”*.  
 No porque sea imposible, sino porque es donde se forja lo más valioso: **la disciplina**.
 
@@ -166,13 +166,13 @@ Usar fondos de inversión con traspasos exentos puede acelerar tu avance más de
    Todo lo que supere el 10% TAE es un drenaje directo.  
 
 2️⃣ **Aumenta tu tasa de ahorro.**  
-   Automatiza tus aportes y revisa tu presupuesto cada mes.  
+   Automatiza tus aportes y revisa tu [presupuesto](/blog/como-hacer-un-presupuesto-que-funciona/) cada mes.  
 
 3️⃣ **Crea nuevas fuentes de ingreso.**  
    Freelancing, proyectos paralelos o microemprendimientos.  
 
 4️⃣ **Protege tu capital.**  
-   Usa productos que al menos igualen la inflación.  
+   Usa productos que al menos igualen la [inflación](/blog/por-que-ahorrar-dinero-te-hace-mas-pobre/).  
 
 5️⃣ **Mantén la disciplina.**  
    El crecimiento al principio es lento, pero después se dispara.  

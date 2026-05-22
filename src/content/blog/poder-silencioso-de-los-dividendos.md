@@ -57,7 +57,7 @@ Pagar dividendos no es una cuestión de generosidad, sino de estrategia.
 Una empresa puede mostrar grandes beneficios contables, pero si **no tiene efectivo real**, no puede pagarlos.
 
 La métrica que define todo es el **Flujo de Caja Libre (FCL)**:  
-es el dinero que queda después de cubrir gastos, invertir y pagar deudas.  
+es el dinero que queda después de cubrir gastos, invertir y pagar [deudas](/blog/como-salir-de-deudas-avalancha-bola-de-nieve/).  
 Solo si ese flujo es positivo y saludable, repartir dividendos es sostenible.
 
 Cada euro que se reparte en dividendos es **un euro menos para crecer**.  
@@ -139,7 +139,7 @@ Esa combinación se llama **Retorno Total (Total Return)**.
 Y aquí está el dato clave:  
 Históricamente, los dividendos han representado **alrededor del 25 %** del rendimiento total del mercado global ([MSCI World](/blog/msci-world-para-principiantes/)), con **menor volatilidad** que los precios.
 
-Por eso, en entornos de inflación o incertidumbre, las **acciones que pagan dividendos estables** suelen superar al promedio del mercado.  
+Por eso, en entornos de [inflación](/blog/por-que-ahorrar-dinero-te-hace-mas-pobre/) o incertidumbre, las **acciones que pagan dividendos estables** suelen superar al promedio del mercado.  
 Funcionan como un **ancla de estabilidad** para el inversor a largo plazo.
 
 ---
@@ -163,7 +163,7 @@ sino de **dejar que el dinero se multiplique por sí mismo**.
 ## Conclusiones: la verdadera magia del dividendo
 
 Los dividendos no son un simple pago.  
-Son una **estrategia silenciosa de libertad financiera**.
+Son una **estrategia silenciosa de [libertad financiera](/blog/fuck-you-money-libertad-financiera-real/)**.
 
 - Te enseñan a pensar en **flujos, no en precios**.  
 - Te protegen en épocas de volatilidad.  

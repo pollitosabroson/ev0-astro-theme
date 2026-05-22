@@ -4,7 +4,7 @@ description: "¿Te preguntas si pagar con ahorros o con un préstamo? Descubre l
 pubDate: "2024-05-14T11:49:44.616Z"
 heroImage: "/blogs/ahorro_prestamo.webp"
 categories: ["Blog Inversiones"]
-tags: ["Finanzas Personales", "Ahorros", "Préstamos", "Dinero", "Inversión", "Personalidad Financiera", "Bienestar Financiero", "Alejandro Rosales", "Consejos Financieros", "Educación Financiera", "Mentalidad Millonaria", "Libertad Financiera"]
+tags: ["Finanzas Personales", "Ahorros", "Préstamos", "Bienestar Financiero", "Educación Financiera", "Inversión", "Libertad Financiera", "Alejandro Rosales"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/lNj-DRb_ORQ"

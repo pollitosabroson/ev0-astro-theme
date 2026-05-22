@@ -4,7 +4,7 @@ description: "¿Podrás vivir tranquilo cuando te jubiles? Descubre cómo funcio
 pubDate: "2025-04-28T21:37:13.282Z"
 heroImage: "/blogs/regla4.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
-tags: ["finanzas personales", "planificación financiera", "Jubilación", "independencia financiera"]
+tags: ["Finanzas Personales", "Planificación Financiera", "Jubilación", "Independencia Financiera"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/gv-uyQYiJWw"
@@ -25,7 +25,7 @@ Si estás leyendo esto, sabes que el panorama no pinta bien:
 ✔️ pirámides poblacionales invertidas,  
 ✔️ gobiernos prometiendo imposibles.
 
-La cruda verdad es que, si no tomas control ahora, podrías terminar compartiendo piso con otros jubilados, peleando por una pensión que apenas alcance para sobrevivir.
+La cruda verdad es que, si no tomas control ahora, podrías terminar compartiendo piso con otros jubilados, peleando por una [pensión](/blog/jubilarse-a-los-40-estrategias-realistas/) que apenas alcance para sobrevivir.
 
 Pero no estás aquí para lamentarte.  
 Estás aquí para **hacer algo diferente**.  
@@ -44,7 +44,7 @@ Muy sencillo:
 
 En números:
 - Si tienes 500.000€, puedes retirar 20.000€ al año.
-- Ajustando cada año por inflación, para mantener tu poder adquisitivo.
+- Ajustando cada año por [inflación](/blog/por-que-ahorrar-dinero-te-hace-mas-pobre/), para mantener tu poder adquisitivo.
 
 **¿Magia? No.  
 ¿Matemática? Absolutamente.**
@@ -55,7 +55,7 @@ En números:
 
 La historia empieza en 1994, cuando William Bengen analizó décadas de datos y concluyó:
 
-✅ Con una cartera de acciones y bonos, podías retirar el 4% anual durante 30 años de jubilación... y tu dinero resistiría.
+✅ Con una cartera de acciones y [bonos](/blog/error-invertir-renta-fija-sin-saber/), podías retirar el 4% anual durante 30 años de jubilación... y tu dinero resistiría.
 
 Más tarde, el famoso **Estudio Trinity** confirmó esta teoría y refinó los datos.
 

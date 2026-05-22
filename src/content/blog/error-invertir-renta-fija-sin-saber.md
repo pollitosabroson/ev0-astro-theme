@@ -46,7 +46,7 @@ La renta fija te promete pagos constantes. La renta variable te ofrece ser dueñ
 
 ❌ No lo es.
 
-Puede haber impagos. Puede afectarte la inflación. Y si los tipos de interés suben, lo que compraste ayer vale menos hoy.
+Puede haber impagos. Puede afectarte la [inflación](/blog/por-que-ahorrar-dinero-te-hace-mas-pobre/). Y si los tipos de interés suben, lo que compraste ayer vale menos hoy.
 
 Por eso, entender **qué estás comprando** es más importante que cualquier promesa de “interés garantizado”.
 
@@ -69,13 +69,13 @@ Ambas tienen ventajas y riesgos distintos. Y muchas veces, lo que parece rentabl
 No necesitas comprar bonos uno a uno. Existen dos vehículos ideales:
 
 ✅ **Fondos de renta fija**  
-✅ **ETFs de bonos**
+✅ **[ETFs](/blog/etf-como-proteger-tu-dinero/) de bonos**
 
 Los fondos agrupan dinero de muchos inversores. Son ideales si no quieres complicarte.
 
 Los ETFs se compran como acciones y ofrecen mayor control, liquidez y flexibilidad.
 
-🔑 *¿Mi recomendación? Si no tienes experiencia, empieza con ETFs de vencimiento fijo o fondos indexados diversificados.*
+🔑 *¿Mi recomendación? Si no tienes experiencia, empieza con ETFs de vencimiento fijo o [fondos indexados](/blog/triunfo-inversor-mediocre-inversion-indexada/) diversificados.*
 
 ---
 

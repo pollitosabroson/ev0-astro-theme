@@ -24,7 +24,7 @@ Y si todavía no me conoces, soy **Alejandro Rosales**, ingeniero de software e 
 
 ## 1. ¿Qué es una Cartera de Inversión?
 
-Piensa en una cartera de inversión como una **caja** donde guardas distintos tipos de activos: acciones, bonos, ETFs, fondos monetarios, incluso bienes raíces o cripto. Pero no están ahí al azar. No es “compro lo que me gusta y ya”.
+Piensa en una cartera de inversión como una **caja** donde guardas distintos tipos de activos: acciones, bonos, [ETFs](/blog/etf-como-proteger-tu-dinero/), fondos monetarios, incluso bienes raíces o cripto. Pero no están ahí al azar. No es “compro lo que me gusta y ya”.
 
 Una cartera es un **conjunto ordenado de activos diseñado para equilibrar riesgo y rentabilidad** según tus objetivos.
 
@@ -33,7 +33,7 @@ Este equilibrio depende de cuatro pilares:
 1. **Objetivos financieros**: no es lo mismo invertir para 2 años que para 30.  
 2. **Tolerancia al riesgo**: ¿duermes tranquilo si tu cartera baja un 10%?  
 3. **Horizonte temporal**: el tiempo suaviza la volatilidad.  
-4. **Situación económica real**: ingresos, deudas, gastos y capacidad de ahorro.
+4. **Situación económica real**: ingresos, [deudas](/blog/como-salir-de-deudas-avalancha-bola-de-nieve/), gastos y capacidad de ahorro.
 
 Cuando entiendes estos cuatro factores, dejas de invertir “a ciegas” y comienzas a tomar decisiones con intención.
 
@@ -86,7 +86,7 @@ Elementos clave:
 - **Tu capacidad de riesgo** (económica).  
 - **Tu tolerancia emocional al riesgo** (psicológica).  
 - **Tu horizonte temporal**.  
-- **Tus objetivos específicos**: jubilación, libertad financiera, comprar casa, etc.
+- **Tus objetivos específicos**: jubilación, [libertad financiera](/blog/fuck-you-money-libertad-financiera-real/), comprar casa, etc.
 
 Hoy en día, los inversores modernos no usan “una cartera para todo”, sino un modelo **por objetivos** donde cada meta tiene su propia estructura y riesgo.
 

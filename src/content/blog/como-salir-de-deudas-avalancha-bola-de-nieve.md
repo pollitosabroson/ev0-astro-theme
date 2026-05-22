@@ -3,7 +3,7 @@ title: "Cómo salir de deudas rápido: Métodos Avalancha y Bola de Nieve explic
 description: "¿Sabías que pagar solo el mínimo de tus deudas puede mantenerte atrapado durante años? Descubre cómo identificar tus deudas, por qué los pagos mínimos son una trampa y cuáles son los métodos más efectivos para liberarte: Avalancha o Bola de Nieve."
 pubDate: "2025-10-07T20:30:55.069Z"
 heroImage: "/blogs/salir-de-deudas.webp"
-categories: ["Finanzas Personales", "Educación Financiera", "Libertad Financiera", "Gestión del Dinero"]
+categories: ["Finanzas Personales", "Educación Financiera", "Libertad Financiera"]
 tags: ["Deudas", "Debt Stacking", "Educación Financiera", "Pago Mínimo", "Presupuesto"]
 author: ["Alejandro Rosales"]
 video:
@@ -109,7 +109,7 @@ Salir de deudas no es suerte, es estrategia.
 3. Diseña un presupuesto realista.  
 4. Elige tu método y mantente constante.  
 
-La libertad financiera no se logra en un día, pero cada pago extra te acerca a ella.  
+La [libertad financiera](/blog/fuck-you-money-libertad-financiera-real/) no se logra en un día, pero cada pago extra te acerca a ella.  
 
 ---
 

@@ -3,8 +3,8 @@ title: "Cómo Logré Incrementar Mis Inversiones en 9 Meses: Estrategias, Retos 
 description: "Descubre cómo optimicé mis finanzas, enfrenté la inflación y alcancé un 89% de mi meta anual. ¿Listo para mejorar tu rendimiento financiero?"
 pubDate: "2024-10-09T07:02:19.709Z"
 heroImage: "/blogs/invest-sep.webp"
-categories: ["Finanzas Personales", "Inversiones", "Nudismo Financiero", "Ahorro e Inversión", "Educación Financiera"]
-tags: ["Nudismo Financiero", "Inversión Inteligente", "Estrategias Financieras", "Rentabilidad", "Diversificación", "Metas Financieras", "Fondos de Inversión", "Cartera de Inversión", "Inflación"]
+categories: ["Inversiones", "Nudismo Financiero", "Finanzas Personales"]
+tags: ["Nudismo Financiero", "Inversión Inteligente", "Estrategias Financieras", "Rentabilidad", "Diversificación", "Fondos de Inversión", "Cartera de Inversión", "Inflación"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/ls8ZDR_PSV4"
