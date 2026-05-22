@@ -3,7 +3,7 @@ title: "La Paciencia que Pocos Tienen al Invertir: El Verdadero Poder del Privat
 description: "Descubre por qué la paciencia es la habilidad más infravalorada al invertir y cómo el Private Equity puede transformar tu manera de crear riqueza a largo plazo. Conoce cómo los grandes inversores están accediendo a este mundo exclusivo… y por qué ahora está al alcance de más personas que nunca."
 pubDate: "2025-11-05T20:30:32.502Z"
 heroImage: "/blogs/private-equity-paciencia.webp"
-categories: ["Inversiones", "Private Equity", "Educación Financiera", "Finanzas Personales"]
+categories: ["Inversiones", "Private Equity", "Educación Financiera"]
 tags: ["Private Equity", "Capital Privado", "Inversión a Largo Plazo", "Libertad Financiera", "Fondos de Inversión", "Paciencia Financiera", "Educación Financiera"]
 author: ["Alejandro Rosales"]
 video:

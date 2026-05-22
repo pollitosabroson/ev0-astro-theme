@@ -3,8 +3,8 @@ title: "Depósitos a Plazo Fijo: La Puerta de Entrada Segura al Mundo de las Inv
 description: "¿Quieres invertir sin complicaciones ni riesgos excesivos? Descubre qué son los depósitos a plazo fijo, cómo funcionan, sus ventajas, riesgos y si realmente son una opción inteligente para empezar a invertir."
 pubDate: "2025-09-16T20:30:09.495Z"
 heroImage: "/blogs/depositos-plazo-fijo.webp"
-categories: ["Inversiones", "Finanzas Personales", "Ahorro e Inversión", "Banca Digital"]
-tags: ["Cuentas Remuneradas", "Intereses Bancarios", "finanzas personales", "Ahorro Inteligente", "Estrategias de Inversión"]
+categories: ["Inversiones", "Finanzas Personales", "Ahorro e Inversión"]
+tags: ["Cuentas Remuneradas", "Intereses Bancarios", "Finanzas Personales", "Ahorro Inteligente", "Estrategias de Inversión"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/7tIyXGn8V1o"

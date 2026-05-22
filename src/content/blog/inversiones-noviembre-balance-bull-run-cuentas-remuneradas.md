@@ -3,7 +3,7 @@ title: "Mis inversiones en noviembre: lo bueno, lo malo y lo inesperado"
 description: "¡Un mes más y cerramos el año! Estamos en diciembre, al borde de 2025, y aunque el futuro promete nuevas locuras, hoy quiero compartir contigo el balance de mis finanzas e inversiones en noviembre."
 pubDate: "2024-12-04T06:19:59.712Z"
 heroImage: "/blogs/noviembre-2024.webp"
-categories: ["Finanzas Personales", "Inversiones", "Nudismo Financiero", "Ahorro e Inversión", "Educación Financiera"]
+categories: ["Inversiones", "Nudismo Financiero", "Finanzas Personales"]
 tags: ["Inversiones", "Ahorro de Emergencia", "Estrategias Financieras"]
 author: ["Alejandro Rosales"]
 video:

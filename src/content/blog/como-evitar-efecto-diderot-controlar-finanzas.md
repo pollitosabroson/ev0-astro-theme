@@ -4,7 +4,7 @@ description: "Descubre el Efecto Diderot: la trampa psicológica que nos hace ga
 pubDate: "2024-11-11T22:28:48.386Z"
 heroImage: "/blogs/diderot.webp"
 categories: ["Blog Inversiones"]
-tags: ["Finanzas Personales", "Educación Financiera", "Psicología del Consumo", "Hábitos de Consumo", "Ahorro e Inversión", "Finanzas Conscientes", "Consumo Consciente", "Control de Gastos", "Desarrollo Personal", "Efecto Diderot", "Consejos Financieros", "Alejandro Rosales"]
+tags: ["Educación Financiera", "Psicología del Consumo", "Consumo Consciente", "Control de Gastos", "Efecto Diderot", "Finanzas Conscientes", "Desarrollo Personal", "Alejandro Rosales"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/AtMrZwMB4EI"
