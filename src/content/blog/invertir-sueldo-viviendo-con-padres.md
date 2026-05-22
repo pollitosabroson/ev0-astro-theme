@@ -33,7 +33,7 @@ Supongamos que tu sueldo neto es de **1.765 euros al mes**. Aquí te dejo una es
 
 ✅ **1/3 para gastos fijos:** 765 euros (comida, transporte, entretenimiento moderado).  
 ✅ **1/3 para ahorro:** 500 euros ([fondo de emergencia](/blog/fondo-emergencia-inteligente-2026/)).  
-✅ **1/3 para inversión:** 500 euros ([fondos indexados](/blog/triunfo-inversor-mediocre-inversion-indexada/), acciones, ETFs).
+✅ **1/3 para inversión:** 500 euros ([fondos indexados](/blog/triunfo-inversor-mediocre-inversion-indexada/), acciones, [ETFs](/blog/etf-como-proteger-tu-dinero/)).
 
 Siguiendo esta estrategia, en solo **18 meses tendrás 9.000 euros** de ahorro. Esto te dará seguridad ante cualquier imprevisto y una base para hacer crecer tu dinero con inversiones inteligentes.
 
@@ -41,7 +41,7 @@ Siguiendo esta estrategia, en solo **18 meses tendrás 9.000 euros** de ahorro. 
 
 Aquí es donde la magia ocurre. No necesitas ser un experto en inversiones, solo seguir una estrategia sencilla y efectiva:
 
-🔹 Invierte en fondos indexados como el **S&P 500** o el **MSCI World**. Son fondos que han demostrado rendimientos promedio del 8-10% anual a largo plazo.  
+🔹 Invierte en fondos indexados como el **[S&P 500](/blog/que-es-el-sp500-y-como-funciona/)** o el **[MSCI World](/blog/msci-world-para-principiantes/)**. Son fondos que han demostrado rendimientos promedio del 8-10% anual a largo plazo.  
 🔹 Mantén una inversión constante, sin importar si el mercado sube o baja.  
 🔹 Si inviertes **500 euros al mes** en estos fondos, en **10 años podrías acumular más de 91.000 euros** con la ayuda del [interés compuesto](/blog/interes-simple-vs-interes-compuesto/).
 

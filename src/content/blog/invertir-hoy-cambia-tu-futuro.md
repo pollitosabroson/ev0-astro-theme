@@ -4,7 +4,7 @@ description: "¿Por qué empezar a invertir hoy y no mañana? Descubre cómo el 
 pubDate: "2025-07-22T20:30:00.000Z"
 heroImage: "/blogs/invertir-hoy.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
-tags: ["inversión", "Educación Financiera", "Interés Compuesto", "Libertad Financiera", "Ahorro Inteligente"]
+tags: ["Inversión", "Educación Financiera", "Interés Compuesto", "Libertad Financiera", "Ahorro Inteligente"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/TkJ9mTPJex4"
@@ -18,7 +18,7 @@ video:
 
 Así me sentía yo con 25 años, recién independizado, con mi primer trabajo en Ciudad de México. Tenía todo para ahorrar… y aun así, no llegaba a fin de mes. ¿Lo peor? No tenía hijos, ni hipoteca, ni gastos pesados. Solo una mala gestión del dinero.
 
-Todo cambió cuando leí *El Pequeño Cerdo Capitalista*. Me voló la cabeza. Entendí que ahorrar no era suficiente. Que el dinero parado pierde valor. Que si no lo pones a trabajar, lo estás dejando morir lentamente frente a la inflación.
+Todo cambió cuando leí *El Pequeño Cerdo Capitalista*. Me voló la cabeza. Entendí que ahorrar no era suficiente. Que el dinero parado pierde valor. Que si no lo pones a trabajar, lo estás dejando morir lentamente frente a la [inflación](/blog/por-que-ahorrar-dinero-te-hace-mas-pobre/).
 
 Pero cometí un error que me costó carísimo: **esperé 12 años para empezar a invertir**. ¡Doce! Ese tiempo no lo recupera nadie. Y si estás leyendo esto, espero que no cometas el mismo error.
 
@@ -74,7 +74,7 @@ Invertir no es solo para ricos o expertos. **Es para cualquier persona dispuesta
 
 No esperes el “momento perfecto”, porque ese momento es **ahora**. Cada día que pospones, es capital que pierdes para tu yo del futuro.
 
-¿Quieres libertad financiera? ¿Un retiro tranquilo? ¿Poder ayudar a tu familia sin estrés?
+¿Quieres [libertad financiera](/blog/fuck-you-money-libertad-financiera-real/)? ¿Un retiro tranquilo? ¿Poder ayudar a tu familia sin estrés?
 
 Entonces empieza **hoy mismo**. Con poco, con lo que tengas, pero empieza. Porque el tiempo es tu mejor aliado, y si lo usas bien, puede cambiar tu vida para siempre.
 

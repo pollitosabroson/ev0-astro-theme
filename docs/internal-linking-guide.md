@@ -66,7 +66,7 @@ Temas recurrentes en el blog que **aún no tienen su propio artículo**. Al escr
 
 ## Historial de enlaces aplicados (última actualización: 2026-05-22)
 
-Estado tras el análisis de 95 artículos: **98 enlaces aplicados**.
+Estado tras el análisis de 95 artículos: **130 enlaces aplicados**.
 
 | Archivo | Texto ancla | Destino |
 |---|---|---|
@@ -179,3 +179,35 @@ Estado tras el análisis de 95 artículos: **98 enlaces aplicados**.
 | triunfo-inversor-mediocre-inversion-indexada.md | ETFs | etf-como-proteger-tu-dinero |
 | triunfo-inversor-mediocre-inversion-indexada.md | bonos del Estado | inversion-sin-riesgo-tasa-libre-riesgo-2026 |
 | como-salir-de-deudas-avalancha-bola-de-nieve.md | libertad financiera | fuck-you-money-libertad-financiera-real |
+| error-invertir-renta-fija-sin-saber.md | inflación | por-que-ahorrar-dinero-te-hace-mas-pobre |
+| error-invertir-renta-fija-sin-saber.md | ETFs | etf-como-proteger-tu-dinero |
+| error-invertir-renta-fija-sin-saber.md | fondos indexados | triunfo-inversor-mediocre-inversion-indexada |
+| fuck-you-money-libertad-financiera-real.md | colchón financiero | fondo-emergencia-inteligente-2026 |
+| fuck-you-money-libertad-financiera-real.md | renta fija | error-invertir-renta-fija-sin-saber |
+| jubilarse-a-los-40-estrategias-realistas.md | dividendos | poder-silencioso-de-los-dividendos |
+| jubilarse-a-los-40-estrategias-realistas.md | presupuesto | como-hacer-un-presupuesto-que-funciona |
+| jubilarse-a-los-40-estrategias-realistas.md | independencia financiera | fuck-you-money-libertad-financiera-real |
+| poder-silencioso-de-los-dividendos.md | deudas | como-salir-de-deudas-avalancha-bola-de-nieve |
+| poder-silencioso-de-los-dividendos.md | inflación | por-que-ahorrar-dinero-te-hace-mas-pobre |
+| poder-silencioso-de-los-dividendos.md | libertad financiera | fuck-you-money-libertad-financiera-real |
+| regla-del-4-por-ciento-jubilacion.md | pensión | jubilarse-a-los-40-estrategias-realistas |
+| regla-del-4-por-ciento-jubilacion.md | bonos | error-invertir-renta-fija-sin-saber |
+| regla-del-4-por-ciento-jubilacion.md | inflación | por-que-ahorrar-dinero-te-hace-mas-pobre |
+| invertir-sueldo-viviendo-con-padres.md | ETFs | etf-como-proteger-tu-dinero |
+| invertir-sueldo-viviendo-con-padres.md | S&P 500 | que-es-el-sp500-y-como-funciona |
+| invertir-sueldo-viviendo-con-padres.md | MSCI World | msci-world-para-principiantes |
+| cuenta-inversion-hijo-o-padre.md | interés compuesto | interes-simple-vs-interes-compuesto |
+| cuenta-inversion-hijo-o-padre.md | fondos indexados | triunfo-inversor-mediocre-inversion-indexada |
+| cuenta-inversion-hijo-o-padre.md | libertad financiera | fuck-you-money-libertad-financiera-real |
+| manejar-finanzas-familiares.md | presupuesto familiar | como-hacer-un-presupuesto-que-funciona |
+| manejar-finanzas-familiares.md | deudas | como-salir-de-deudas-avalancha-bola-de-nieve |
+| manejar-finanzas-familiares.md | fondo de emergencia | fondo-emergencia-inteligente-2026 |
+| movimiento-fire.md | libertad financiera | fuck-you-money-libertad-financiera-real |
+| movimiento-fire.md | ingresos pasivos | poder-silencioso-de-los-dividendos |
+| movimiento-fire.md | deudas | como-salir-de-deudas-avalancha-bola-de-nieve |
+| reestructurar-deudas-control-financiero.md | Avalancha y Bola de Nieve | como-salir-de-deudas-avalancha-bola-de-nieve |
+| reestructurar-deudas-control-financiero.md | fondo de emergencia | fondo-emergencia-inteligente-2026 |
+| reestructurar-deudas-control-financiero.md | libertad financiera | fuck-you-money-libertad-financiera-real |
+| dominar-tarjeta-credito-evitar-deuda-bancos.md | deudas | como-salir-de-deudas-avalancha-bola-de-nieve |
+| invertir-hoy-cambia-tu-futuro.md | inflación | por-que-ahorrar-dinero-te-hace-mas-pobre |
+| invertir-hoy-cambia-tu-futuro.md | libertad financiera | fuck-you-money-libertad-financiera-real |
