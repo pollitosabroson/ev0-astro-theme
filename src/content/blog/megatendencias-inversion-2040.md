@@ -276,7 +276,7 @@ Factor crítico para centros de datos.
 ### Revolución cuántica
 Amenaza para la ciberseguridad actual.
 
-La criptografía post-cuántica será inevitable.
+La [criptografía post-cuántica](/blog/computacion-cuantica-bitcoin-riesgos/) será inevitable.
 
 ---
 
