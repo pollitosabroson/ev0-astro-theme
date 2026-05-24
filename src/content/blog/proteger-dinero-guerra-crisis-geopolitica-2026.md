@@ -228,7 +228,7 @@ Esto permite:
 
 ## Bitcoin y Ethereum como redes resistentes
 
-A diferencia de los bancos, redes como Bitcoin o Ethereum **no tienen un centro de control**.
+A diferencia de los bancos, redes como [Bitcoin](/blog/computacion-cuantica-bitcoin-riesgos/) o Ethereum **no tienen un centro de control**.
 
 No hay una oficina que pueda cerrarse ni un servidor central que pueda apagarse.
 

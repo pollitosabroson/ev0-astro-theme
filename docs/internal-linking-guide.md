@@ -46,6 +46,7 @@ Cuando escribas un nuevo artículo y menciones cualquiera de estos temas, enlaza
 | corrección de mercado, caída bursátil | Mercado en rojo qué hacer | `/blog/mercado-en-rojo-que-hacer/` |
 | broker, plataforma de inversión | Qué broker escoger | `/blog/que-broker-escoger/` |
 | tipos de inversor, perfil inversor | Tipos de inversores | `/blog/tipos-de-inversores/` |
+| Bitcoin, criptomonedas, computación cuántica, seguridad cripto | ¿Puede la Computación Cuántica Romper Bitcoin? | `/blog/computacion-cuantica-bitcoin-riesgos/` |
 
 ---
 
@@ -64,9 +65,9 @@ Temas recurrentes en el blog que **aún no tienen su propio artículo**. Al escr
 
 ---
 
-## Historial de enlaces aplicados (última actualización: 2026-05-22)
+## Historial de enlaces aplicados (última actualización: 2026-05-25)
 
-Estado tras el análisis de 95 artículos: **130 enlaces aplicados**.
+Estado tras el análisis de 95 artículos: **133 enlaces aplicados**.
 
 | Archivo | Texto ancla | Destino |
 |---|---|---|
@@ -211,3 +212,6 @@ Estado tras el análisis de 95 artículos: **130 enlaces aplicados**.
 | dominar-tarjeta-credito-evitar-deuda-bancos.md | deudas | como-salir-de-deudas-avalancha-bola-de-nieve |
 | invertir-hoy-cambia-tu-futuro.md | inflación | por-que-ahorrar-dinero-te-hace-mas-pobre |
 | invertir-hoy-cambia-tu-futuro.md | libertad financiera | fuck-you-money-libertad-financiera-real |
+| computacion-cuantica-bitcoin-riesgos.md | inversores | tipos-de-inversores |
+| megatendencias-inversion-2040.md | criptografía post-cuántica | computacion-cuantica-bitcoin-riesgos |
+| proteger-dinero-guerra-crisis-geopolitica-2026.md | Bitcoin | computacion-cuantica-bitcoin-riesgos |
