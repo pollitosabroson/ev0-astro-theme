@@ -47,6 +47,8 @@ Cuando escribas un nuevo artículo y menciones cualquiera de estos temas, enlaza
 | broker, plataforma de inversión | Qué broker escoger | `/blog/que-broker-escoger/` |
 | tipos de inversor, perfil inversor | Tipos de inversores | `/blog/tipos-de-inversores/` |
 | Bitcoin, criptomonedas, computación cuántica, seguridad cripto | ¿Puede la Computación Cuántica Romper Bitcoin? | `/blog/computacion-cuantica-bitcoin-riesgos/` |
+| coste de oportunidad vital, decisiones de compra grande, comprar un coche | Comprar un coche: mala inversión | `/blog/comprar-coche-mala-inversion/` |
+| SpaceX, IPO, salida a bolsa, Starlink, Elon Musk, valoración por ventas | Invertir en SpaceX | `/blog/invertir-en-spacex/` |
 
 ---
 
@@ -65,9 +67,9 @@ Temas recurrentes en el blog que **aún no tienen su propio artículo**. Al escr
 
 ---
 
-## Historial de enlaces aplicados (última actualización: 2026-05-25)
+## Historial de enlaces aplicados (última actualización: 2026-06-10)
 
-Estado tras el análisis de 95 artículos: **133 enlaces aplicados**.
+Estado tras el análisis de 97 artículos: **139 enlaces aplicados**.
 
 | Archivo | Texto ancla | Destino |
 |---|---|---|
@@ -215,3 +217,9 @@ Estado tras el análisis de 95 artículos: **133 enlaces aplicados**.
 | computacion-cuantica-bitcoin-riesgos.md | inversores | tipos-de-inversores |
 | megatendencias-inversion-2040.md | criptografía post-cuántica | computacion-cuantica-bitcoin-riesgos |
 | proteger-dinero-guerra-crisis-geopolitica-2026.md | Bitcoin | computacion-cuantica-bitcoin-riesgos |
+| comprar-coche-mala-inversion.md | fondo indexado | triunfo-inversor-mediocre-inversion-indexada |
+| comprar-coche-mala-inversion.md | inteligencia artificial | ia-trabajo-2026-impacto-empleo-realidad |
+| comprar-coche-mala-inversion.md | deuda buena, deuda mala | deuda-buena-vs-deuda-mala |
+| invertir-en-spacex.md | inteligencia artificial | ia-trabajo-2026-impacto-empleo-realidad |
+| invertir-en-spacex.md | Nvidia | nvidia-historia-inteligencia-artificial |
+| invertir-en-spacex.md | S&P 500 | que-es-el-sp500-y-como-funciona |
