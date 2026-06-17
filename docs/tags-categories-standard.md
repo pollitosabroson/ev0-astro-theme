@@ -102,7 +102,7 @@ Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 `Debt Stacking` · `Decisiones Financieras` · `Declaración de la Renta` · `Deducciones Fiscales` · `Demografía` · `Depreciación` · `Desarrollo Personal` · `Deuda` · `Deudas` · `Deudas y Compras Impulsivas` · `Dinero` · `Dinero en Familia` · `Dinero Extra` · `Dinero sin Comisiones` · `Disciplina Financiera` · `Diversificación` · `Dividendos` · `Dual Pricing`
 
 ### E
-`Economía Global` · `Educación Financiera` · `Educación Financiera Infantil` · `Efecto Cantillon` · `Efecto Diderot` · `Emprendimiento` · `Empresas` · `Energía` · `Entorno Familiar` · `Errores Financieros` · `Escasez de Mano de Obra` · `Estrategias de Ahorro` · `Estrategias de Inversión` · `Estrategias Financieras` · `Estrategias Fiscales` · `ETF`
+`Economía Global` · `Educación Financiera` · `Educación Financiera Infantil` · `Efecto Cantillon` · `Efecto Diderot` · `Elon Musk` · `Emprendimiento` · `Empresas` · `Energía` · `Entorno Familiar` · `Errores Financieros` · `Escasez de Mano de Obra` · `Estrategias de Ahorro` · `Estrategias de Inversión` · `Estrategias Financieras` · `Estrategias Fiscales` · `ETF`
 
 ### F
 `Finanzas Conscientes` · `Finanzas Familiares` · `Finanzas para Principiantes` · `Finanzas Personales` · `Finiquito` · `Fondo de Emergencia` · `Fondos de Inversión` · `Fondos de Pensiones` · `Fondos Indexados` · `Fondos Monetarios` · `Frugalidad` · `Fuck You Money` · `Futuro Financiero`
@@ -111,7 +111,7 @@ Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 `Ganar la Lotería` · `Gastos Hormiga` · `Gestión de Gastos` · `Gestión del Dinero` · `Gestión del Riesgo` · `GPU` · `Hábitos Diarios` · `Hábitos de Consumo` · `Hábitos Financieros` · `Herencia` · `Hipoteca` · `Hipoteca Fija` · `Hipoteca Mixta` · `Hipoteca Variable` · `Historial Crediticio`
 
 ### I
-`Impacto Económico` · `Impuestos en España` · `Independencia Financiera` · `Indemnización` · `Influencers` · `Inflación` · `Ingresos Pasivos` · `Ingresos Recurrentes` · `Inteligencia Artificial` · `Interés Compuesto` · `Intereses Bancarios` · `Inversión` · `Inversión a Largo Plazo` · `Inversión Inmobiliaria` · `Inversión Inteligente` · `Inversión Pasiva` · `Inversión para Hijos` · `Inversiones` · `Inversiones Familiares` · `IRPF` · `IVA Alimentos`
+`Impacto Económico` · `Impuestos en España` · `Independencia Financiera` · `Indemnización` · `Influencers` · `Inflación` · `Ingresos Pasivos` · `Ingresos Recurrentes` · `Inteligencia Artificial` · `Interés Compuesto` · `Intereses Bancarios` · `Inversión` · `Inversión a Largo Plazo` · `Inversión Inmobiliaria` · `Inversión Inteligente` · `Inversión Pasiva` · `Inversión para Hijos` · `Inversiones` · `Inversiones Familiares` · `IPO` · `IRPF` · `IVA Alimentos`
 
 ### J – K – L
 `Jensen Huang` · `Jubilación` · `Klarna` · `Libertad Financiera` · `Liquidez` · `Lonchafinismo`
@@ -123,7 +123,7 @@ Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 `Objetivos Financieros` · `Optimización de Recursos` · `Oro` · `Paga Extra` · `Paciencia Financiera` · `Pago Mínimo` · `PayPal` · `Personalidad Financiera` · `Petróleo` · `Phishing` · `Pignoración` · `Planificación Financiera` · `Planificación Mensual` · `Plusvalía del Muerto` · `Poder Adquisitivo` · `Polymarket` · `Precio Vivienda` · `Préstamos` · `Presupuesto` · `Presupuesto Familiar` · `Primeros Pasos en Inversión` · `Private Equity` · `Propósitos de Año Nuevo` · `Psicología del Consumo` · `Psicología del Inversor`
 
 ### R
-`Reestructuración de Deuda` · `Reducir Gastos` · `Relaciones Personales` · `Renta Fija` · `Renta Variable` · `Rentabilidad` · `Riesgo Financiero` · `S&P 500` · `Salarios Construcción` · `Salud Financiera` · `Semiconductores` · `Subida de Impuestos` · `Swing Pricing`
+`Reestructuración de Deuda` · `Reducir Gastos` · `Relaciones Personales` · `Renta Fija` · `Renta Variable` · `Rentabilidad` · `Riesgo Financiero` · `S&P 500` · `Salarios Construcción` · `Salud Financiera` · `Semiconductores` · `SpaceX` · `Starlink` · `Subida de Impuestos` · `Swing Pricing`
 
 ### T – V
 `Tarjeta de Crédito` · `Tarjetas de Crédito` · `Tecnología` · `Test de Perfil de Inversor` · `Tokenización` · `Trading` · `Trampas Financieras` · `Transferencia de Saldo` · `Tipos de Interés` · `Viajes Inteligentes`
@@ -204,4 +204,4 @@ Antes de hacer merge de un nuevo post, verifica:
 ---
 
 *Última actualización: 2026-06-17*
-*Generado tras auditoría completa de 95 artículos — tags y categories normalizados. Añadidos `Coste de Oportunidad` y `Depreciación` (post comprar-coche-mala-inversion).*
+*Generado tras auditoría completa de 95 artículos — tags y categories normalizados. Tags añadidos: `Coste de Oportunidad`, `Depreciación` (post comprar-coche-mala-inversion); `SpaceX`, `Starlink`, `IPO`, `Elon Musk` (post invertir-en-spacex).*
