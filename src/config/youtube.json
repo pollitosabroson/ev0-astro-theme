@@ -1,5 +1,55 @@
 [
   {
+    "title": "¿Comprar coche o invertir? Los 5 criterios reales",
+    "description": "Llevo dos años diciéndote en el canal que no te compres un coche. Y hace unos meses hice exactamente lo contrario. No, no he ...",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "DaFAawb_eNI",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/DaFAawb_eNI/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/DaFAawb_eNI/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/DaFAawb_eNI/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2026-06-17T14:35:45Z"
+  },
+  {
+    "title": "La verdad sobre el IPO de SpaceX en 2026 #spacex",
+    "description": "SpaceX sale a bolsa con la mayor valoración de la historia: 1,77 billones de dólares. Pero cuando compras SpaceX, no estás ...",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "4BFoidtO9BU",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/4BFoidtO9BU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/4BFoidtO9BU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/4BFoidtO9BU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2026-06-11T18:30:06Z"
+  },
+  {
     "title": "Tu Bitcoin en 2028: tres cosas que debes hacer ya  #bitcoin",
     "description": "Una sola computadora capaz de vaciar todas las billeteras de Bitcoin del planeta. Incluida la de Satoshi. Y podría estar lista antes ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -100,31 +150,6 @@
     "publishedAt": "2026-04-23T18:30:06Z"
   },
   {
-    "title": "🚨 La IA NO te quitará el trabajo… hará esto #inversion #ai",
-    "description": "La inteligencia artificial no está destruyendo el trabajo… lo está redefiniendo en silencio. Lo que estamos viendo en 2026 no es ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "9dhzQ-bHbTE",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/9dhzQ-bHbTE/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/9dhzQ-bHbTE/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/9dhzQ-bHbTE/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2026-04-16T18:30:06Z"
-  },
-  {
     "title": "El DÍA que el MERCADO entra en PÁNICO (y tu FONDO lo PAGA) #fondosindexados #inversiones",
     "description": "Cuando todo va bien, nadie se hace esta pregunta. Pero cuando el mercado entra en pánico y miles de personas intentan sacar ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -223,30 +248,5 @@
       }
     },
     "publishedAt": "2025-11-25T19:30:06Z"
-  },
-  {
-    "title": "💰 AGUINALDO: La GUÍA DEFINITIVA para usar tu PAGA EXTRA con INTELIGENCIA #aguinaldo #dinero",
-    "description": "Recibir un ingreso extraordinario —aguinaldo, paga doble, bono o utilidades— puede cambiar tu año… si lo usas con estrategia.",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "b3k_qyJR6hU",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/b3k_qyJR6hU/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/b3k_qyJR6hU/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/b3k_qyJR6hU/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2025-11-18T19:30:06Z"
   }
 ]

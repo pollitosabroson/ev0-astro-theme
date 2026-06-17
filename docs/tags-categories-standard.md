@@ -96,10 +96,10 @@ Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 `Banca` · `Banca Digital` · `Banco Digital` · `Bancos` · `Bancos Centrales` · `Barista FIRE` · `BCE` · `Bienestar Emocional` · `Bienestar Financiero` · `Bitcoin` · `Black Friday` · `Blockchain` · `Blog Personal` · `BNPL` · `Bolsa de Valores` · `Bonos` · `Bonos del Tesoro`
 
 ### C
-`Capital Privado` · `Capitalismo Consciente` · `Cartera de Inversión` · `CBDC` · `Ciberseguridad` · `Cómo Ahorrar Dinero` · `Cómo Empezar a Invertir` · `Cómo Invertir` · `Cómo Invertir Dinero` · `Comisiones Internacionales` · `Compra Ahora Paga Después` · `Comprar Casa` · `Computación Cuántica` · `Comunidad de Inversores` · `Consejos Financieros` · `Consejos para Invertir` · `Consolidación` · `Consumo Consciente` · `Consumo Responsable` · `Control de Gastos` · `Creencias Limitantes` · `Crisis Vivienda` · `Créditos` · `Cuenta Junior` · `Cuentas para Menores` · `Cuentas Remuneradas` · `Cumplir Metas`
+`Capital Privado` · `Capitalismo Consciente` · `Cartera de Inversión` · `CBDC` · `Ciberseguridad` · `Cómo Ahorrar Dinero` · `Cómo Empezar a Invertir` · `Cómo Invertir` · `Cómo Invertir Dinero` · `Comisiones Internacionales` · `Compra Ahora Paga Después` · `Comprar Casa` · `Computación Cuántica` · `Comunidad de Inversores` · `Consejos Financieros` · `Consejos para Invertir` · `Consolidación` · `Consumo Consciente` · `Consumo Responsable` · `Control de Gastos` · `Coste de Oportunidad` · `Creencias Limitantes` · `Crisis Vivienda` · `Créditos` · `Cuenta Junior` · `Cuentas para Menores` · `Cuentas Remuneradas` · `Cumplir Metas`
 
 ### D
-`Debt Stacking` · `Decisiones Financieras` · `Declaración de la Renta` · `Deducciones Fiscales` · `Demografía` · `Desarrollo Personal` · `Deuda` · `Deudas` · `Deudas y Compras Impulsivas` · `Dinero` · `Dinero en Familia` · `Dinero Extra` · `Dinero sin Comisiones` · `Disciplina Financiera` · `Diversificación` · `Dividendos` · `Dual Pricing`
+`Debt Stacking` · `Decisiones Financieras` · `Declaración de la Renta` · `Deducciones Fiscales` · `Demografía` · `Depreciación` · `Desarrollo Personal` · `Deuda` · `Deudas` · `Deudas y Compras Impulsivas` · `Dinero` · `Dinero en Familia` · `Dinero Extra` · `Dinero sin Comisiones` · `Disciplina Financiera` · `Diversificación` · `Dividendos` · `Dual Pricing`
 
 ### E
 `Economía Global` · `Educación Financiera` · `Educación Financiera Infantil` · `Efecto Cantillon` · `Efecto Diderot` · `Emprendimiento` · `Empresas` · `Energía` · `Entorno Familiar` · `Errores Financieros` · `Escasez de Mano de Obra` · `Estrategias de Ahorro` · `Estrategias de Inversión` · `Estrategias Financieras` · `Estrategias Fiscales` · `ETF`
@@ -203,5 +203,5 @@ Antes de hacer merge de un nuevo post, verifica:
 
 ---
 
-*Última actualización: 2026-05-25*
-*Generado tras auditoría completa de 95 artículos — tags y categories normalizados.*
+*Última actualización: 2026-06-17*
+*Generado tras auditoría completa de 95 artículos — tags y categories normalizados. Añadidos `Coste de Oportunidad` y `Depreciación` (post comprar-coche-mala-inversion).*
