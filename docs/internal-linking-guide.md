@@ -47,7 +47,7 @@ Cuando escribas un nuevo artículo y menciones cualquiera de estos temas, enlaza
 | broker, plataforma de inversión | Qué broker escoger | `/blog/que-broker-escoger/` |
 | tipos de inversor, perfil inversor | Tipos de inversores | `/blog/tipos-de-inversores/` |
 | Bitcoin, criptomonedas, computación cuántica, seguridad cripto | ¿Puede la Computación Cuántica Romper Bitcoin? | `/blog/computacion-cuantica-bitcoin-riesgos/` |
-| coste de oportunidad vital, decisiones de compra grande, comprar un coche | Comprar un coche: mala inversión | `/blog/comprar-coche-mala-inversion/` |
+| comprar coche, coche como inversión, coste de oportunidad vital, compras grandes, depreciación | Comprar un coche es mala inversión | `/blog/comprar-coche-mala-inversion/` |
 | SpaceX, IPO, salida a bolsa, Starlink, Elon Musk, valoración por ventas | Invertir en SpaceX | `/blog/invertir-en-spacex/` |
 
 ---
@@ -67,7 +67,7 @@ Temas recurrentes en el blog que **aún no tienen su propio artículo**. Al escr
 
 ---
 
-## Historial de enlaces aplicados (última actualización: 2026-06-10)
+## Historial de enlaces aplicados (última actualización: 2026-06-17)
 
 Estado tras el análisis de 97 artículos: **139 enlaces aplicados**.
 

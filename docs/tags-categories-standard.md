@@ -203,5 +203,5 @@ Antes de hacer merge de un nuevo post, verifica:
 
 ---
 
-*Última actualización: 2026-06-10*
+*Última actualización: 2026-06-17*
 *Generado tras auditoría completa de 95 artículos — tags y categories normalizados. Tags añadidos: `Coste de Oportunidad`, `Depreciación` (post comprar-coche-mala-inversion); `SpaceX`, `Starlink`, `IPO`, `Elon Musk` (post invertir-en-spacex).*
