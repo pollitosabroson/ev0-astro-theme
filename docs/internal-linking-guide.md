@@ -49,6 +49,8 @@ Cuando escribas un nuevo artículo y menciones cualquiera de estos temas, enlaza
 | Bitcoin, criptomonedas, computación cuántica, seguridad cripto | ¿Puede la Computación Cuántica Romper Bitcoin? | `/blog/computacion-cuantica-bitcoin-riesgos/` |
 | comprar coche, coche como inversión, coste de oportunidad vital, compras grandes, depreciación | Comprar un coche es mala inversión | `/blog/comprar-coche-mala-inversion/` |
 | SpaceX, IPO, salida a bolsa, Starlink, Elon Musk, valoración por ventas | Invertir en SpaceX | `/blog/invertir-en-spacex/` |
+| Rolex, reloj de lujo como inversión, escasez controlada, valor refugio, reventa, bienes de lujo | Comprar un Rolex como inversión | `/blog/rolex-como-inversion/` |
+| MiCA, regulación cripto, exchanges con licencia, CASP, stablecoins, autocustodia, ESMA | Regulación MiCA: criptomonedas | `/blog/regulacion-mica-criptomonedas/` |
 
 ---
 
@@ -67,9 +69,9 @@ Temas recurrentes en el blog que **aún no tienen su propio artículo**. Al escr
 
 ---
 
-## Historial de enlaces aplicados (última actualización: 2026-06-17)
+## Historial de enlaces aplicados (última actualización: 2026-06-29)
 
-Estado tras el análisis de 97 artículos: **139 enlaces aplicados**.
+Estado tras el análisis de 99 artículos: **143 enlaces aplicados**.
 
 | Archivo | Texto ancla | Destino |
 |---|---|---|
@@ -223,3 +225,7 @@ Estado tras el análisis de 97 artículos: **139 enlaces aplicados**.
 | invertir-en-spacex.md | inteligencia artificial | ia-trabajo-2026-impacto-empleo-realidad |
 | invertir-en-spacex.md | Nvidia | nvidia-historia-inteligencia-artificial |
 | invertir-en-spacex.md | S&P 500 | que-es-el-sp500-y-como-funciona |
+| rolex-como-inversion.md | coste de oportunidad | comprar-coche-mala-inversion |
+| rolex-como-inversion.md | fondo de emergencia | fondo-emergencia-inteligente-2026 |
+| rolex-como-inversion.md | interés compuesto | interes-simple-vs-interes-compuesto |
+| regulacion-mica-criptomonedas.md | Bitcoin | computacion-cuantica-bitcoin-riesgos |
