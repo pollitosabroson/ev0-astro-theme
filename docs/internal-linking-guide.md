@@ -18,7 +18,8 @@ Cuando escribas un nuevo artículo y menciones cualquiera de estos temas, enlaza
 | presupuesto, 50/30/20, base cero | Cómo hacer un presupuesto | `/blog/como-hacer-un-presupuesto-que-funciona/` |
 | ETF, fondos cotizados | ETF: cómo proteger tu dinero | `/blog/etf-como-proteger-tu-dinero/` |
 | MSCI World, índice global | MSCI World para principiantes | `/blog/msci-world-para-principiantes/` |
-| inflación, pérdida de poder adquisitivo | Por qué ahorrar te hace más pobre | `/blog/por-que-ahorrar-dinero-te-hace-mas-pobre/` |
+| inflación, IPC, inflación subyacente, cesta de la compra, por qué suben los precios | Qué es la inflación | `/blog/que-es-la-inflacion/` |
+| pérdida de poder adquisitivo, ahorrar sin invertir, dinero parado | Por qué ahorrar te hace más pobre | `/blog/por-que-ahorrar-dinero-te-hace-mas-pobre/` |
 | cartera de inversión, diversificación | Cómo construir una cartera | `/blog/que-es-una-cartera-de-inversion-y-como-construirla/` |
 | regla del 4%, tasa de retiro | Regla del 4% para jubilación | `/blog/regla-del-4-por-ciento-jubilacion/` |
 | deudas, avalancha, bola de nieve | Salir de deudas: avalancha y bola de nieve | `/blog/como-salir-de-deudas-avalancha-bola-de-nieve/` |
