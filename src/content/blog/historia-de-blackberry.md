@@ -9,7 +9,7 @@ authors: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/TxuoOmdNtdE"
   thumbnailUrl: "https://i.ytimg.com/vi/TxuoOmdNtdE/maxresdefault.jpg"
-  uploadDate: "2026-07-29T20:48:34Z"
+  uploadDate: "2026-07-29T20:52:42Z"
 faqs:
   - question: "¿Por qué fracasó BlackBerry frente al iPhone?"
     answer: "Porque compitió por tener el mejor teléfono cuando Apple había cambiado el juego. El iPhone no era solo un móvil: era una plataforma con una tienda de aplicaciones donde miles de empresas ajenas aportaban valor. BlackBerry vendía un producto cerrado y no pudo igualar ese efecto de red."

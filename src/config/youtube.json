@@ -1,5 +1,55 @@
 [
   {
+    "title": "BlackBerry no murió. Está en 275 millones de coches",
+    "description": "Ochenta millones de usuarios. El presidente de Estados Unidos usaba una. El 90% de las grandes empresas del planeta ...",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "TxuoOmdNtdE",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/TxuoOmdNtdE/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/TxuoOmdNtdE/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/TxuoOmdNtdE/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2026-07-29T20:52:42Z"
+  },
+  {
+    "title": "Tu ahorro pierde valor cada mes. Así puedes verlo",
+    "description": "Los titulares celebran que la inflación por fin baja. Y es verdad… en los datos de junio. Con el petróleo a 70 dólares.",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "X8_a3kREiy4",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/X8_a3kREiy4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/X8_a3kREiy4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/X8_a3kREiy4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2026-07-24T16:00:06Z"
+  },
+  {
     "title": "La empresa que nadie puede comprar (y factura 11.000M)  #inversiones #dinero",
     "description": "Una empresa que factura más de 11.000 millones de dólares al año, vende más que sus cinco mayores competidores juntos, ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,22 +57,22 @@
     "videoId": "JGASd3tRnj0",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/JGASd3tRnj0/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/JGASd3tRnj0/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/JGASd3tRnj0/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/JGASd3tRnj0/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/JGASd3tRnj0/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/JGASd3tRnj0/hqdefault.jpg",
         "width": 480,
         "height": 360
       }
     },
-    "publishedAt": "2026-07-08T20:48:58Z"
+    "publishedAt": "2026-07-09T16:00:06Z"
   },
   {
     "title": "Solo 14 exchanges sobreviven en Europa el 1 de julio #mica #criptonoticias",
@@ -98,56 +148,6 @@
       }
     },
     "publishedAt": "2026-06-11T18:30:06Z"
-  },
-  {
-    "title": "Tu Bitcoin en 2028: tres cosas que debes hacer ya  #bitcoin",
-    "description": "Una sola computadora capaz de vaciar todas las billeteras de Bitcoin del planeta. Incluida la de Satoshi. Y podría estar lista antes ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "rtq1y2fm8dQ",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/rtq1y2fm8dQ/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/rtq1y2fm8dQ/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/rtq1y2fm8dQ/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2026-05-21T18:30:06Z"
-  },
-  {
-    "title": "Polymarket: la web que predice el futuro mejor que las NOTICIAS #inversiones  #dinero",
-    "description": "Las encuestas mienten. Los expertos se equivocan. Pero hay un sitio donde la gente apuesta su dinero por lo que va a pasar… y ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "z2K71JooSC4",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/z2K71JooSC4/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/z2K71JooSC4/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/z2K71JooSC4/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2026-05-14T18:30:06Z"
   },
   {
     "title": "El DÍA que el MERCADO entra en PÁNICO (y tu FONDO lo PAGA) #fondosindexados #inversiones",
