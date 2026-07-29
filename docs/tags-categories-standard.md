@@ -90,10 +90,10 @@ Usa **solo** estas categorías. Si un artículo no encaja en ninguna, propón un
 Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 
 ### A
-`Abastecedor` · `Acciones` · `Actualización Financiera` · `Aguinaldo` · `Ahorro` · `Ahorro de Emergencia` · `Ahorro e Inversión` · `Ahorro Excesivo` · `Ahorro Inteligente` · `Ahorro para Hijos` · `Ahorro para Jubilación` · `Ahorro sin Esfuerzo` · `Ahorros` · `Alejandro Rosales` · `Amortización` · `Análisis de Mercado` · `Ansiedad Financiera` · `Apps Financieras` · `Aprender a Invertir` · `Aranceles Internacionales` · `Autocustodia`
+`Abastecedor` · `Acciones` · `Actualización Financiera` · `Aguinaldo` · `Ahorro` · `Ahorro de Emergencia` · `Ahorro e Inversión` · `Ahorro Excesivo` · `Ahorro Inteligente` · `Ahorro para Hijos` · `Ahorro para Jubilación` · `Ahorro sin Esfuerzo` · `Ahorros` · `Alejandro Rosales` · `Amortización` · `Análisis de Mercado` · `Ansiedad Financiera` · `Apple` · `Apps Financieras` · `Aprender a Invertir` · `Aranceles Internacionales` · `Autocustodia`
 
 ### B
-`Banca` · `Banca Digital` · `Banco Digital` · `Bancos` · `Bancos Centrales` · `Barista FIRE` · `BCE` · `Bienestar Emocional` · `Bienestar Financiero` · `Bitcoin` · `Black Friday` · `Blockchain` · `Blog Personal` · `BNPL` · `Bolsa de Valores` · `Bonos` · `Bonos del Tesoro`
+`Banca` · `Banca Digital` · `Banco Digital` · `Bancos` · `Bancos Centrales` · `Barista FIRE` · `BCE` · `Bienestar Emocional` · `Bienestar Financiero` · `Bitcoin` · `Black Friday` · `BlackBerry` · `Blockchain` · `Blog Personal` · `BNPL` · `Bolsa de Valores` · `Bonos` · `Bonos del Tesoro`
 
 ### C
 `Capital Privado` · `Capitalismo Consciente` · `Cartera de Inversión` · `CBDC` · `Ciberseguridad` · `Cómo Ahorrar Dinero` · `Cómo Empezar a Invertir` · `Cómo Invertir` · `Cómo Invertir Dinero` · `Comisiones Internacionales` · `Compra Ahora Paga Después` · `Comprar Casa` · `Computación Cuántica` · `Comunidad de Inversores` · `Consejos Financieros` · `Consejos para Invertir` · `Consolidación` · `Consumo Consciente` · `Consumo Responsable` · `Control de Gastos` · `Coste de Oportunidad` · `Creencias Limitantes` · `Criptomonedas` · `Crisis Vivienda` · `Créditos` · `Cuenta Junior` · `Cuentas para Menores` · `Cuentas Remuneradas` · `Cumplir Metas`
@@ -105,7 +105,7 @@ Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 `Economía Global` · `Educación Financiera` · `Educación Financiera Infantil` · `Efecto Cantillon` · `Efecto Diderot` · `Elon Musk` · `Emprendimiento` · `Empresas` · `Energía` · `Entorno Familiar` · `Errores Financieros` · `Escasez` · `Escasez de Mano de Obra` · `Estrategias de Ahorro` · `Estrategias de Inversión` · `Estrategias Financieras` · `Estrategias Fiscales` · `ETF`
 
 ### F
-`Finanzas Conscientes` · `Finanzas Familiares` · `Finanzas para Principiantes` · `Finanzas Personales` · `Finiquito` · `Fondo de Emergencia` · `Fondos de Inversión` · `Fondos de Pensiones` · `Fondos Indexados` · `Fondos Monetarios` · `Frugalidad` · `Fuck You Money` · `Futuro Financiero`
+`Finanzas Conscientes` · `Finanzas Familiares` · `Finanzas para Principiantes` · `Finanzas Personales` · `Finiquito` · `Fondo de Emergencia` · `Fondos de Inversión` · `Fondos de Pensiones` · `Fondos Indexados` · `Fondos Monetarios` · `Foso Económico` · `Frugalidad` · `Fuck You Money` · `Futuro Financiero`
 
 ### G – H
 `Ganar la Lotería` · `Gastos Hormiga` · `Gestión de Gastos` · `Gestión del Dinero` · `Gestión del Riesgo` · `GPU` · `Hábitos Diarios` · `Hábitos de Consumo` · `Hábitos Financieros` · `Herencia` · `Hipoteca` · `Hipoteca Fija` · `Hipoteca Mixta` · `Hipoteca Variable` · `Historial Crediticio`
@@ -119,8 +119,8 @@ Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 ### M – N
 `Manejo del Dinero` · `Megatendencias` · `Mentalidad de Escasez` · `Mentalidad Millonaria` · `Mercados de Predicción` · `Metas Financieras` · `MiCA` · `Miedo al Dinero` · `Movimiento FIRE` · `MSCI World` · `MyInvestor` · `Neobancos` · `Negociación` · `Negociación con Acreedores` · `Nuevos Comienzos` · `Nuevos Impuestos` · `Nudismo Financiero` · `NVIDIA`
 
-### O – P
-`Objetivos Financieros` · `Optimización de Recursos` · `Oro` · `Paga Extra` · `Paciencia Financiera` · `Pago Mínimo` · `PayPal` · `Personalidad Financiera` · `Petróleo` · `Phishing` · `Pignoración` · `Planificación Financiera` · `Planificación Mensual` · `Plusvalía del Muerto` · `Poder Adquisitivo` · `Polymarket` · `Precio Vivienda` · `Préstamos` · `Presupuesto` · `Presupuesto Familiar` · `Primeros Pasos en Inversión` · `Private Equity` · `Propósitos de Año Nuevo` · `Psicología del Consumo` · `Psicología del Inversor`
+### O – P – Q
+`Objetivos Financieros` · `Optimización de Recursos` · `Oro` · `Paga Extra` · `Paciencia Financiera` · `Pago Mínimo` · `PayPal` · `Personalidad Financiera` · `Petróleo` · `Phishing` · `Pignoración` · `Planificación Financiera` · `Planificación Mensual` · `Plusvalía del Muerto` · `Poder Adquisitivo` · `Polymarket` · `Precio Vivienda` · `Préstamos` · `Presupuesto` · `Presupuesto Familiar` · `Primeros Pasos en Inversión` · `Private Equity` · `Propósitos de Año Nuevo` · `Psicología del Consumo` · `Psicología del Inversor` · `QNX`
 
 ### R
 `Reestructuración de Deuda` · `Reducir Gastos` · `Regulación Financiera` · `Relaciones Personales` · `Renta Fija` · `Renta Variable` · `Rentabilidad` · `Riesgo Financiero` · `Rolex` · `S&P 500` · `Salarios Construcción` · `Salud Financiera` · `Semiconductores` · `SpaceX` · `Stablecoins` · `Starlink` · `Subida de Impuestos` · `Swing Pricing`
@@ -203,5 +203,5 @@ Antes de hacer merge de un nuevo post, verifica:
 
 ---
 
-*Última actualización: 2026-06-22*
-*Generado tras auditoría completa de 95 artículos — tags y categories normalizados. Tags añadidos: `Coste de Oportunidad`, `Depreciación` (post comprar-coche-mala-inversion); `SpaceX`, `Starlink`, `IPO`, `Elon Musk` (post invertir-en-spacex); `Escasez`, `Rolex`, `Valor Refugio` (post rolex-como-inversion); `Criptomonedas`, `MiCA`, `Stablecoins`, `Autocustodia`, `Regulación Financiera` (post regulacion-mica-criptomonedas).*
+*Última actualización: 2026-07-29*
+*Generado tras auditoría completa de 95 artículos — tags y categories normalizados. Tags añadidos: `Coste de Oportunidad`, `Depreciación` (post comprar-coche-mala-inversion); `SpaceX`, `Starlink`, `IPO`, `Elon Musk` (post invertir-en-spacex); `Escasez`, `Rolex`, `Valor Refugio` (post rolex-como-inversion); `Criptomonedas`, `MiCA`, `Stablecoins`, `Autocustodia`, `Regulación Financiera` (post regulacion-mica-criptomonedas); `Apple`, `BlackBerry`, `Foso Económico`, `QNX` (post historia-de-blackberry).*

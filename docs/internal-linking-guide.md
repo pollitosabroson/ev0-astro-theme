@@ -18,7 +18,8 @@ Cuando escribas un nuevo artículo y menciones cualquiera de estos temas, enlaza
 | presupuesto, 50/30/20, base cero | Cómo hacer un presupuesto | `/blog/como-hacer-un-presupuesto-que-funciona/` |
 | ETF, fondos cotizados | ETF: cómo proteger tu dinero | `/blog/etf-como-proteger-tu-dinero/` |
 | MSCI World, índice global | MSCI World para principiantes | `/blog/msci-world-para-principiantes/` |
-| inflación, pérdida de poder adquisitivo | Por qué ahorrar te hace más pobre | `/blog/por-que-ahorrar-dinero-te-hace-mas-pobre/` |
+| inflación, IPC, inflación subyacente, cesta de la compra, por qué suben los precios | Qué es la inflación | `/blog/que-es-la-inflacion/` |
+| pérdida de poder adquisitivo, ahorrar sin invertir, dinero parado | Por qué ahorrar te hace más pobre | `/blog/por-que-ahorrar-dinero-te-hace-mas-pobre/` |
 | cartera de inversión, diversificación | Cómo construir una cartera | `/blog/que-es-una-cartera-de-inversion-y-como-construirla/` |
 | regla del 4%, tasa de retiro | Regla del 4% para jubilación | `/blog/regla-del-4-por-ciento-jubilacion/` |
 | deudas, avalancha, bola de nieve | Salir de deudas: avalancha y bola de nieve | `/blog/como-salir-de-deudas-avalancha-bola-de-nieve/` |
@@ -51,6 +52,7 @@ Cuando escribas un nuevo artículo y menciones cualquiera de estos temas, enlaza
 | SpaceX, IPO, salida a bolsa, Starlink, Elon Musk, valoración por ventas | Invertir en SpaceX | `/blog/invertir-en-spacex/` |
 | Rolex, reloj de lujo como inversión, escasez controlada, valor refugio, reventa, bienes de lujo | Comprar un Rolex como inversión | `/blog/rolex-como-inversion/` |
 | MiCA, regulación cripto, exchanges con licencia, CASP, stablecoins, autocustodia, ESMA | Regulación MiCA: criptomonedas | `/blog/regulacion-mica-criptomonedas/` |
+| BlackBerry, foso económico, plataforma vs producto, QNX, reinvención de una empresa, empresa que parecía imparable | La historia de BlackBerry | `/blog/historia-de-blackberry/` |
 
 ---
 
@@ -69,9 +71,9 @@ Temas recurrentes en el blog que **aún no tienen su propio artículo**. Al escr
 
 ---
 
-## Historial de enlaces aplicados (última actualización: 2026-06-29)
+## Historial de enlaces aplicados (última actualización: 2026-07-29)
 
-Estado tras el análisis de 99 artículos: **143 enlaces aplicados**.
+Estado tras el análisis de 102 artículos: **153 enlaces aplicados**.
 
 | Archivo | Texto ancla | Destino |
 |---|---|---|
@@ -229,3 +231,13 @@ Estado tras el análisis de 99 artículos: **143 enlaces aplicados**.
 | rolex-como-inversion.md | fondo de emergencia | fondo-emergencia-inteligente-2026 |
 | rolex-como-inversion.md | interés compuesto | interes-simple-vs-interes-compuesto |
 | regulacion-mica-criptomonedas.md | Bitcoin | computacion-cuantica-bitcoin-riesgos |
+| kodak-error-innovacion-inversiones-leccion-financiera.md | Inversores | tipos-de-inversores |
+| kodak-error-innovacion-inversiones-leccion-financiera.md | Inteligencia Artificial | megatendencias-inversion-2040 |
+| nvidia-historia-inteligencia-artificial.md | Megatendencias de inversión hacia 2040 | megatendencias-inversion-2040 |
+| nvidia-historia-inteligencia-artificial.md | iRobot: de líder a la bancarrota | irobot-historia-bancarrota-lecciones-financieras |
+| que-es-la-inflacion.md | cómo el precio del petróleo afecta a tu bolsillo | precio-petroleo-afecta-bolsillo |
+| que-es-la-inflacion.md | ahorrar sin invertir puede hacerte más pobre | por-que-ahorrar-dinero-te-hace-mas-pobre |
+| que-es-la-inflacion.md | hipoteca variable | hipotecas-desde-cero-que-son-como-funcionan |
+| historia-de-blackberry.md | error de Kodak | kodak-error-innovacion-inversiones-leccion-financiera |
+| historia-de-blackberry.md | iRobot creó una categoría entera y acabó en bancarrota | irobot-historia-bancarrota-lecciones-financieras |
+| historia-de-blackberry.md | interés compuesto | interes-simple-vs-interes-compuesto |
