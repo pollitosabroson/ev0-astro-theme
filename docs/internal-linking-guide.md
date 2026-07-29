@@ -51,6 +51,7 @@ Cuando escribas un nuevo artículo y menciones cualquiera de estos temas, enlaza
 | SpaceX, IPO, salida a bolsa, Starlink, Elon Musk, valoración por ventas | Invertir en SpaceX | `/blog/invertir-en-spacex/` |
 | Rolex, reloj de lujo como inversión, escasez controlada, valor refugio, reventa, bienes de lujo | Comprar un Rolex como inversión | `/blog/rolex-como-inversion/` |
 | MiCA, regulación cripto, exchanges con licencia, CASP, stablecoins, autocustodia, ESMA | Regulación MiCA: criptomonedas | `/blog/regulacion-mica-criptomonedas/` |
+| BlackBerry, foso económico, plataforma vs producto, QNX, reinvención de una empresa, empresa que parecía imparable | La historia de BlackBerry | `/blog/historia-de-blackberry/` |
 
 ---
 
@@ -69,9 +70,9 @@ Temas recurrentes en el blog que **aún no tienen su propio artículo**. Al escr
 
 ---
 
-## Historial de enlaces aplicados (última actualización: 2026-06-29)
+## Historial de enlaces aplicados (última actualización: 2026-07-29)
 
-Estado tras el análisis de 99 artículos: **143 enlaces aplicados**.
+Estado tras el análisis de 99 artículos: **146 enlaces aplicados**.
 
 | Archivo | Texto ancla | Destino |
 |---|---|---|
@@ -229,3 +230,6 @@ Estado tras el análisis de 99 artículos: **143 enlaces aplicados**.
 | rolex-como-inversion.md | fondo de emergencia | fondo-emergencia-inteligente-2026 |
 | rolex-como-inversion.md | interés compuesto | interes-simple-vs-interes-compuesto |
 | regulacion-mica-criptomonedas.md | Bitcoin | computacion-cuantica-bitcoin-riesgos |
+| historia-de-blackberry.md | error de Kodak | kodak-error-innovacion-inversiones-leccion-financiera |
+| historia-de-blackberry.md | iRobot creó una categoría entera y acabó en bancarrota | irobot-historia-bancarrota-lecciones-financieras |
+| historia-de-blackberry.md | interés compuesto | interes-simple-vs-interes-compuesto |

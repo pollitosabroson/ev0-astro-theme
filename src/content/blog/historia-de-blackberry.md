@@ -86,7 +86,7 @@ Y llegó el desplome:
 
 El golpe final fue al corazón: aquel peaje de 2.000 millones al año **se evaporó**. Las operadoras dejaron de pagarlo. La máquina de imprimir billetes se apagó.
 
-El peligro casi nunca viene del rival que hace lo mismo un poco mejor. Viene del que **cambia las reglas del juego** mientras tú sigues jugando con las viejas.
+El peligro casi nunca viene del rival que hace lo mismo un poco mejor. Viene del que **cambia las reglas del juego** mientras tú sigues jugando con las viejas. Es el mismo patrón que ya vimos en el [error de Kodak](/blog/kodak-error-innovacion-inversiones-leccion-financiera/): tenía la cámara digital inventada en su propio laboratorio y siguió defendiendo el carrete.
 
 ## ¿BlackBerry todavía existe hoy?
 
@@ -106,7 +106,7 @@ A veces, lo que salva a una empresa no es su producto estrella. Es ese activo ab
 
 La historia de BlackBerry deja tres lecciones que sirven para cualquier empresa en la que pienses invertir:
 
-1. **Ningún foso es para siempre.** El peaje de BlackBerry parecía imposible de tumbar y se evaporó. Cada vez que oigas "esta empresa es imparable, domina su sector", hazte una sola pregunta: **¿qué la mataría?** Si no se te ocurre nada, no es que sea invencible; es que no estás mirando lo suficientemente bien. (Es la misma lección de otras caídas de manual, como el [error de Kodak](/blog/kodak-error-innovacion-inversiones-leccion-financiera/).)
+1. **Ningún foso es para siempre.** El peaje de BlackBerry parecía imposible de tumbar y se evaporó. Cada vez que oigas "esta empresa es imparable, domina su sector", hazte una sola pregunta: **¿qué la mataría?** Si no se te ocurre nada, no es que sea invencible; es que no estás mirando lo suficientemente bien. Y no es un caso aislado: [iRobot creó una categoría entera y acabó en bancarrota](/blog/irobot-historia-bancarrota-lecciones-financieras/) por exactamente lo mismo.
 2. **Una plataforma casi siempre le gana a un producto.** BlackBerry tenía el mejor producto; Apple, la mejor plataforma. Es la razón exacta por la que hoy valen tanto las grandes tecnológicas: no venden un aparato, venden un sitio del que es dificilísimo salir. Pregúntate siempre: ¿esto es un martillo, o una caja de herramientas donde otros construyen?
 3. **Lo aburrido a veces vale más que lo brillante.** El móvil glamuroso murió; el software gris resucitó la empresa. En bolsa pasa igual: la compañía de portada muchas veces te arruina, y la aburrida es la que compone tu dinero década tras década, como pasa con el [interés compuesto](/blog/interes-simple-vs-interes-compuesto/).
 
