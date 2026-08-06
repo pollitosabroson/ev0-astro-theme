@@ -15,6 +15,26 @@ faqs:
     answer: "Sí. Para Hacienda, cambiar una criptomoneda por otra es una permuta, es decir, una venta. Genera una ganancia o pérdida patrimonial que hay que declarar, aunque no hayas retirado dinero a tu cuenta bancaria en ningún momento."
   - question: "¿FIFO se calcula por cada broker o de forma global?"
     answer: "De forma global por contribuyente y por activo. Si tienes el mismo valor o la misma criptomoneda repartida en varias plataformas, se consideran vendidas primero las unidades más antiguas del conjunto, sin importar en qué broker o exchange estén."
+video:
+  embedUrl: "https://www.youtube.com/embed/eBW-01LGn3Q"
+  thumbnailUrl: "https://i.ytimg.com/vi/eBW-01LGn3Q/maxresdefault.jpg"
+  uploadDate: "2026-08-06T14:58:06Z"
+  chapters:
+    - name: "La regla que decide tus impuestos (y no elegiste)"
+      startOffset: 0
+      endOffset: 106
+    - name: "Qué es FIFO explicado con la leche del súper"
+      startOffset: 106
+      endOffset: 257
+    - name: "La lotería geográfica: España, EE.UU. y el resto"
+      startOffset: 257
+      endOffset: 409
+    - name: "Las cuatro Trampas"
+      startOffset: 409
+      endOffset: 560
+    - name: "Qué puedes hacer legalmente"
+      startOffset: 560
+      endOffset: 707
 ---
 
 ## TL;DR
@@ -132,3 +152,9 @@ La lección de fondo es la de siempre en este canal: en el dinero, la diferencia
 ## ¿Y tú?
 
 ¿Sabías que esta regla existía? ¿Sí o no? Y si has hecho cambios de una cripto por otra pensando que no tributaban… cuéntamelo en los comentarios. Leo todos, y de los mejores salen los próximos análisis del canal.
+
+📺 [Ver el análisis completo en mi canal de YouTube](https://www.youtube.com/watch?v=eBW-01LGn3Q)
+
+<div class="iframe-container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/eBW-01LGn3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
+</div>
