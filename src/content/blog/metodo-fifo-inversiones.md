@@ -18,6 +18,7 @@ faqs:
 video:
   embedUrl: "https://www.youtube.com/embed/eBW-01LGn3Q"
   thumbnailUrl: "https://i.ytimg.com/vi/eBW-01LGn3Q/maxresdefault.jpg"
+  duration: "PT13M19S"
   uploadDate: "2026-08-06T14:58:06Z"
   chapters:
     - name: "La regla que decide tus impuestos (y no elegiste)"
@@ -35,6 +36,9 @@ video:
     - name: "Qué puedes hacer legalmente"
       startOffset: 560
       endOffset: 707
+    - name: "Cierre"
+      startOffset: 707
+      endOffset: 799
 ---
 
 ## TL;DR
