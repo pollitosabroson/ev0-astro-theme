@@ -138,6 +138,8 @@ Estado tras el análisis de 102 artículos: **153 enlaces aplicados**.
 | fin-propiedad-privada-economia-suscripcion.md | Efecto Cantillon | efecto-cantillon-como-te-afecta |
 | inversion-sin-riesgo-tasa-libre-riesgo-2026.md | cartera | que-es-una-cartera-de-inversion-y-como-construirla |
 | fondo-emergencia-inteligente-2026.md | inflación | por-que-ahorrar-dinero-te-hace-mas-pobre |
+| metodo-fifo-inversiones.md | la regulación MiCA de las criptomonedas | regulacion-mica-criptomonedas |
+| metodo-fifo-inversiones.md | pignorar tus inversiones | pignoracion-inversiones-sin-impuestos |
 | fondo-emergencia-inteligente-2026.md | fondos monetarios | inversion-sin-riesgo-tasa-libre-riesgo-2026 |
 | como-ahorrar-sin-esfuerzo-y-hacer-que-tu-dinero-trabaje-para-ti.md | regla 50/30/20 | como-hacer-un-presupuesto-que-funciona |
 | ahorrar-puede-arruinar-tu-vida.md | libertad financiera | fuck-you-money-libertad-financiera-real |
