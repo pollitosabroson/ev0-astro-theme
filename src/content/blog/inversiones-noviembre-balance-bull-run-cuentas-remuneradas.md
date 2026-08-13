@@ -24,7 +24,7 @@ En noviembre, logré una inversión de 575,62 €, lo que me generó un retorno 
 ¿El resultado? Estoy cerca de mi meta anual de 25.500 € y más motivado que nunca para terminar el año en verde.
 
 ### Lo malo: La caída de las cuentas remuneradas
-Si has notado que tu cuenta remunerada ya no rinde igual, no estás solo. Este mes vi cómo mis intereses pasaron del 3% al 1.5%, reduciendo mis ingresos mensuales de 8 € a apenas 7,14 €.
+Si has notado que tu [cuenta remunerada](/blog/cuentas-remuneradas/) ya no rinde igual, no estás solo. Este mes vi cómo mis intereses pasaron del 3% al 1.5%, reduciendo mis ingresos mensuales de 8 € a apenas 7,14 €.
 
 Aunque entiendo que las tasas están fuera de mi control, este ajuste me obligó a replantear mi estrategia de efectivo. Mi fondo de emergencia, ese colchón para imprevistos, sigue en una cuenta líquida, pero estoy evaluando opciones más rentables para mantener su valor.
 

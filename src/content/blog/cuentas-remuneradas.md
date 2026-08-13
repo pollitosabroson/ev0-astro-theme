@@ -50,7 +50,7 @@ Y ojo, no es lo mismo que un depósito:
 
 Además, tu dinero está **garantizado por el Estado hasta 100.000 euros por banco** (el Fondo de Garantía de Depósitos). Por eso es un producto **casi sin riesgo**.
 
-¿Y por qué hace tres años no te pagaban nada y ahora sí? Es la otra cara de la moneda de la inflación. El interés que te paga tu banco **sigue a los tipos del banco central como una sombra**. Entre 2015 y 2022 esos tipos estaban a cero, así que los bancos no te pagaban nada: conseguir dinero les salía gratis. Cuando el banco central los subió para frenar la inflación, de repente tu dinero volvió a interesarles, y empezaron a competir por él. (Si quieres el porqué completo, lo cuento en [qué es la inflación](/blog/que-es-la-inflacion/).)
+¿Y por qué hace tres años no te pagaban nada y ahora sí? Es la otra cara de la moneda de la inflación. El interés que te paga tu banco **sigue a los tipos del banco central como una sombra**. Entre 2015 y 2022 esos tipos estaban a cero, así que los bancos no te pagaban nada: conseguir dinero les salía gratis. Cuando el banco central los subió para frenar la inflación, de repente tu dinero volvió a interesarles, y empezaron a competir por él. Y funciona igual a la baja: cuando los tipos bajan, [las cuentas remuneradas empiezan a pagar menos](/blog/por-que-las-cuentas-remuneradas-pagan-menos/). (Si quieres el porqué completo, lo cuento en [qué es la inflación](/blog/que-es-la-inflacion/).)
 
 Un apunte que te ahorra disgustos: al comparar verás dos números, el **TIN** y la **TAE**. Fíate siempre de la **TAE**, que es el número honesto e incluye cómo y cuándo te pagan de verdad.
 

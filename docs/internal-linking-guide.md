@@ -53,6 +53,7 @@ Cuando escribas un nuevo artículo y menciones cualquiera de estos temas, enlaza
 | Rolex, reloj de lujo como inversión, escasez controlada, valor refugio, reventa, bienes de lujo | Comprar un Rolex como inversión | `/blog/rolex-como-inversion/` |
 | MiCA, regulación cripto, exchanges con licencia, CASP, stablecoins, autocustodia, ESMA | Regulación MiCA: criptomonedas | `/blog/regulacion-mica-criptomonedas/` |
 | BlackBerry, foso económico, plataforma vs producto, QNX, reinvención de una empresa, empresa que parecía imparable | La historia de BlackBerry | `/blog/historia-de-blackberry/` |
+| cuenta remunerada, cuentas remuneradas, TAE, TIN, depósito vs cuenta, Fondo de Garantía de Depósitos | Cuentas remuneradas: ¿valen la pena? | `/blog/cuentas-remuneradas/` |
 
 ---
 
@@ -243,3 +244,13 @@ Estado tras el análisis de 102 artículos: **153 enlaces aplicados**.
 | historia-de-blackberry.md | error de Kodak | kodak-error-innovacion-inversiones-leccion-financiera |
 | historia-de-blackberry.md | iRobot creó una categoría entera y acabó en bancarrota | irobot-historia-bancarrota-lecciones-financieras |
 | historia-de-blackberry.md | interés compuesto | interes-simple-vs-interes-compuesto |
+| cuentas-remuneradas.md | qué es la inflación | que-es-la-inflacion |
+| cuentas-remuneradas.md | el fondo de emergencia | fondo-emergencia-inteligente-2026 |
+| cuentas-remuneradas.md | las cuentas remuneradas empiezan a pagar menos | por-que-las-cuentas-remuneradas-pagan-menos |
+| cuentas-remuneradas.md | el método FIFO | metodo-fifo-inversiones |
+| por-que-las-cuentas-remuneradas-pagan-menos.md | cuentas remuneradas | cuentas-remuneradas |
+| depositos-plazo-fijo-inversion-segura.md | Cuentas remuneradas | cuentas-remuneradas |
+| que-es-una-cartera-de-inversion-y-como-construirla.md | Cuentas remuneradas | cuentas-remuneradas |
+| fondo-de-emergencia-la-clave-para-tu-estabilidad-financiera.md | cuenta remunerada | cuentas-remuneradas |
+| inversiones-noviembre-balance-bull-run-cuentas-remuneradas.md | cuenta remunerada | cuentas-remuneradas |
+| incrementar-inversiones-nueve-meses-estrategias-resultados.md | cuentas remuneradas | cuentas-remuneradas |

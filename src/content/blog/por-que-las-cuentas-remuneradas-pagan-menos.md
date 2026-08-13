@@ -29,7 +29,7 @@ Spoiler: **no es casualidad**, y sí, puede estar afectando más de lo que imagi
 
 ## 📉 El panorama real de las cuentas remuneradas
 
-Las cuentas remuneradas han sido por años la forma más simple de ahorrar con algo de rentabilidad. Son seguras, líquidas y fáciles de entender.  
+Las [cuentas remuneradas](/blog/cuentas-remuneradas/) han sido por años la forma más simple de ahorrar con algo de rentabilidad. Son seguras, líquidas y fáciles de entender.  
 Pero también tienen letra pequeña.
 
 La mayoría funcionan con la famosa “**promoción temporal**”: te dan un interés alto por 3 o 6 meses… y luego, zas, la rentabilidad cae. Lo que parecía una buena oportunidad se convierte en algo simbólico.

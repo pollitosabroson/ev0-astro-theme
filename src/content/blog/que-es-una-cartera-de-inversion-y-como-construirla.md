@@ -52,7 +52,7 @@ Tienen mayor crecimiento a largo plazo, pero también mayor volatilidad.
 Más estables, con rendimientos moderados. Menor riesgo, menor crecimiento.
 
 ### **3. Equivalentes de Efectivo**
-Cuentas remuneradas, depósitos o fondos monetarios. Alta seguridad, baja rentabilidad.
+[Cuentas remuneradas](/blog/cuentas-remuneradas/), depósitos o fondos monetarios. Alta seguridad, baja rentabilidad.
 
 ### **4. Activos Alternativos**
 REITs, materias primas, private equity. No son esenciales para principiantes, pero agregan diversificación.
