@@ -1,5 +1,30 @@
 [
   {
+    "title": "Cuentas remuneradas: qué ganas tras impuestos e inflación",
+    "description": "El banco te ofrece un 5% por tener el dinero ahí parado. Suena a \"por fin\". Pero ese 5% del anuncio, después de los dos ...",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "qFPoEM4CRbw",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/qFPoEM4CRbw/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/qFPoEM4CRbw/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/qFPoEM4CRbw/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2026-08-13T15:04:43Z"
+  },
+  {
     "title": "Dos personas, la misma venta, el doble de impuestos",
     "description": "Dos personas compran bitcoin en las mismas fechas, a los mismos precios y venden lo mismo el mismo día. Uno declara 20.000 ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,22 +32,22 @@
     "videoId": "eBW-01LGn3Q",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/eBW-01LGn3Q/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/eBW-01LGn3Q/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/eBW-01LGn3Q/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/eBW-01LGn3Q/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/eBW-01LGn3Q/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/eBW-01LGn3Q/hqdefault.jpg",
         "width": 480,
         "height": 360
       }
     },
-    "publishedAt": "2026-08-06T15:02:15Z"
+    "publishedAt": "2026-08-06T16:00:06Z"
   },
   {
     "title": "BlackBerry no murió. Está en 275 millones de coches",
@@ -98,31 +123,6 @@
       }
     },
     "publishedAt": "2026-07-09T16:00:06Z"
-  },
-  {
-    "title": "Solo 14 exchanges sobreviven en Europa el 1 de julio #mica #criptonoticias",
-    "description": "El 1 de julio, hasta el 83% de las plataformas de cripto de Europa se quedan fuera de la ley. De más de 3.000 empresas, solo 14 ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "DzSlLUW78RQ",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/DzSlLUW78RQ/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/DzSlLUW78RQ/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/DzSlLUW78RQ/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2026-06-29T18:30:06Z"
   },
   {
     "title": "La verdad sobre el IPO de SpaceX en 2026 #spacex",

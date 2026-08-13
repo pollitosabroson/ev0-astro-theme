@@ -15,6 +15,10 @@ faqs:
     answer: "Depende de si vas a necesitar el dinero. La cuenta remunerada es líquida: sacas cuando quieres, a cambio de algo menos de interés. El depósito paga algo más, pero ata el dinero un plazo y penaliza si lo retiras antes. Ambos suelen estar cubiertos por el Fondo de Garantía de Depósitos."
   - question: "¿Dónde pongo el dinero que sí quiero que crezca?"
     answer: "No en una cuenta remunerada. Ese dinero, si es a largo plazo (cinco años o más) y puedes asumir riesgo, encaja mejor en inversión diversificada. La cuenta remunerada está pensada para el dinero que necesitas seguro y a mano, no para hacerlo crecer."
+video:
+  embedUrl: "https://www.youtube.com/embed/qFPoEM4CRbw"
+  thumbnailUrl: "https://i.ytimg.com/vi/qFPoEM4CRbw/maxresdefault.jpg"
+  uploadDate: "2026-08-13T15:02:51Z"
 ---
 
 ## TL;DR
@@ -142,3 +146,9 @@ Porque en el dinero, ganar no va de encontrar el número más alto del anuncio. 
 ## ¿Y tú?
 
 ¿Tienes tu dinero en una cuenta remunerada? ¿Sí o no? Y si te apetece, dime a qué interés, que montamos ahí abajo el mejor comparador de España, gratis y entre todos. Leo todos los comentarios, y de los mejores salen los próximos análisis del canal.
+
+📺 [Ver el análisis completo en mi canal de YouTube](https://www.youtube.com/watch?v=qFPoEM4CRbw)
+
+<div class="iframe-container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/qFPoEM4CRbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
+</div>
