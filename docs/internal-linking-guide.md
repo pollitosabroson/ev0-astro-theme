@@ -54,6 +54,7 @@ Cuando escribas un nuevo artículo y menciones cualquiera de estos temas, enlaza
 | MiCA, regulación cripto, exchanges con licencia, CASP, stablecoins, autocustodia, ESMA | Regulación MiCA: criptomonedas | `/blog/regulacion-mica-criptomonedas/` |
 | BlackBerry, foso económico, plataforma vs producto, QNX, reinvención de una empresa, empresa que parecía imparable | La historia de BlackBerry | `/blog/historia-de-blackberry/` |
 | cuenta remunerada, cuentas remuneradas, TAE, TIN, depósito vs cuenta, Fondo de Garantía de Depósitos | Cuentas remuneradas: ¿valen la pena? | `/blog/cuentas-remuneradas/` |
+| Tesla, quién fundó Tesla, Martin Eberhard, cofundadores, infierno de producción, créditos de emisiones | ¿Quién fundó Tesla? | `/blog/quien-fundo-tesla/` |
 
 ---
 
@@ -254,3 +255,7 @@ Estado tras el análisis de 102 artículos: **153 enlaces aplicados**.
 | fondo-de-emergencia-la-clave-para-tu-estabilidad-financiera.md | cuenta remunerada | cuentas-remuneradas |
 | inversiones-noviembre-balance-bull-run-cuentas-remuneradas.md | cuenta remunerada | cuentas-remuneradas |
 | incrementar-inversiones-nueve-meses-estrategias-resultados.md | cuentas remuneradas | cuentas-remuneradas |
+| quien-fundo-tesla.md | SpaceX | invertir-en-spacex |
+| quien-fundo-tesla.md | historia de BlackBerry | historia-de-blackberry |
+| quien-fundo-tesla.md | inteligencia artificial | ia-trabajo-2026-impacto-empleo-realidad |
+| invertir-en-spacex.md | Tesla | quien-fundo-tesla |

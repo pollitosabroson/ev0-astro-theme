@@ -61,7 +61,7 @@ Soy **Alejandro Rosales**, inversor y divulgador financiero. Mi único objetivo 
 
 SpaceX debuta en el Nasdaq bajo el ticker SPCX a 135 dólares por acción, colocando unos 555 millones de títulos para recaudar cerca de **75.000 millones de dólares** en un solo día. Eso casi triplica el récord anterior, el de Saudi Aramco en 2019.
 
-Con esa operación, la empresa valdría de un día para otro más que Tesla, más que Walmart, más que JP Morgan. Entraría directamente en el **top 7 de empresas más valiosas de Estados Unidos** sin haber cotizado ni un minuto.
+Con esa operación, la empresa valdría de un día para otro más que [Tesla](/blog/quien-fundo-tesla/), más que Walmart, más que JP Morgan. Entraría directamente en el **top 7 de empresas más valiosas de Estados Unidos** sin haber cotizado ni un minuto.
 
 Y el titular más comentado: Elon Musk se convertiría en el **primer billonario de la historia**. Un uno seguido de doce ceros. (Recuerda: en español un billón es un millón de millones, no lo que en EE. UU. llaman "trillion".)
 

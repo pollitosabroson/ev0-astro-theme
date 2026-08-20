@@ -126,7 +126,7 @@ Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 `Reestructuración de Deuda` · `Reducir Gastos` · `Regulación Financiera` · `Relaciones Personales` · `Renta Fija` · `Renta Variable` · `Rentabilidad` · `Riesgo Financiero` · `Rolex` · `S&P 500` · `Salarios Construcción` · `Salud Financiera` · `Semiconductores` · `SpaceX` · `Stablecoins` · `Starlink` · `Subida de Impuestos` · `Swing Pricing`
 
 ### T – V
-`Tarjeta de Crédito` · `Tarjetas de Crédito` · `Tecnología` · `Test de Perfil de Inversor` · `Tokenización` · `Trading` · `Trampas Financieras` · `Transferencia de Saldo` · `Tipos de Interés` · `Valor Refugio` · `Viajes Inteligentes`
+`Tarjeta de Crédito` · `Tarjetas de Crédito` · `Tecnología` · `Tesla` · `Test de Perfil de Inversor` · `Tokenización` · `Trading` · `Trampas Financieras` · `Transferencia de Saldo` · `Tipos de Interés` · `Valor Refugio` · `Viajes Inteligentes`
 
 ---
 

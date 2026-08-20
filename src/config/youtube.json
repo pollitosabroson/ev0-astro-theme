@@ -1,5 +1,30 @@
 [
   {
+    "title": "Los que tuvieron la idea vs el que se llevó el dinero",
+    "description": "Si te pregunto quién fundó Tesla, me vas a decir Elon Musk. Lo dice todo el mundo. Lo dice internet. Y es mentira. Cuando Tesla ...",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "cLfGmajTbT8",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/cLfGmajTbT8/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/cLfGmajTbT8/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/cLfGmajTbT8/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2026-08-20T17:25:50Z"
+  },
+  {
     "title": "Cuentas remuneradas: qué ganas tras impuestos e inflación",
     "description": "El banco te ofrece un 5% por tener el dinero ahí parado. Suena a \"por fin\". Pero ese 5% del anuncio, después de los dos ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,22 +32,22 @@
     "videoId": "qFPoEM4CRbw",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/qFPoEM4CRbw/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/qFPoEM4CRbw/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/qFPoEM4CRbw/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/qFPoEM4CRbw/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/qFPoEM4CRbw/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/qFPoEM4CRbw/hqdefault.jpg",
         "width": 480,
         "height": 360
       }
     },
-    "publishedAt": "2026-08-13T15:04:43Z"
+    "publishedAt": "2026-08-13T16:00:06Z"
   },
   {
     "title": "Dos personas, la misma venta, el doble de impuestos",
@@ -98,31 +123,6 @@
       }
     },
     "publishedAt": "2026-07-24T16:00:06Z"
-  },
-  {
-    "title": "La empresa que nadie puede comprar (y factura 11.000M)  #inversiones #dinero",
-    "description": "Una empresa que factura más de 11.000 millones de dólares al año, vende más que sus cinco mayores competidores juntos, ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "JGASd3tRnj0",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/JGASd3tRnj0/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/JGASd3tRnj0/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/JGASd3tRnj0/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2026-07-09T16:00:06Z"
   },
   {
     "title": "La verdad sobre el IPO de SpaceX en 2026 #spacex",
