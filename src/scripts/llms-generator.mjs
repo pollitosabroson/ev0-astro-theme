@@ -3,6 +3,65 @@ import path from 'path';
 import { glob } from 'glob';
 import matter from 'gray-matter';
 
+// Índice curado de llms.txt: artículos pilares agrupados por tema.
+// El resto del corpus vive en llms-full.txt y en el sitemap.
+// Al añadir un pilar nuevo, mete su slug aquí; el build avisa si no existe.
+const PILLARS = [
+  ['Fundamentos de inversión', [
+    'triunfo-inversor-mediocre-inversion-indexada',
+    'que-es-una-cartera-de-inversion-y-como-construirla',
+    'interes-simple-vs-interes-compuesto',
+    'etf-como-proteger-tu-dinero',
+    'tipos-de-inversores',
+    'que-broker-escoger',
+  ]],
+  ['Índices y fondos', [
+    'que-es-el-sp500-y-como-funciona',
+    'msci-world-para-principiantes',
+  ]],
+  ['Ahorro y liquidez', [
+    'fondo-emergencia-inteligente-2026',
+    'cuentas-remuneradas',
+    'inversion-sin-riesgo-tasa-libre-riesgo-2026',
+    'error-invertir-renta-fija-sin-saber',
+  ]],
+  ['Presupuesto y gasto', [
+    'como-hacer-un-presupuesto-que-funciona',
+    'por-que-tu-dinero-desaparece',
+    'frugalidad-para-mejorar-finanzas',
+    'lonchafinismo-peligros-del-ahorro-extremo',
+  ]],
+  ['Deuda', [
+    'como-salir-de-deudas-avalancha-bola-de-nieve',
+    'deuda-buena-vs-deuda-mala',
+    'dominar-tarjeta-credito-evitar-deuda-bancos',
+  ]],
+  ['Inflación y contexto económico', [
+    'que-es-la-inflacion',
+    'por-que-ahorrar-dinero-te-hace-mas-pobre',
+    'efecto-cantillon-como-te-afecta',
+  ]],
+  ['Fiscalidad', [
+    'metodo-fifo-inversiones',
+  ]],
+  ['Libertad financiera y FIRE', [
+    'movimiento-fire',
+    'fuck-you-money-libertad-financiera-real',
+    'regla-del-4-por-ciento-jubilacion',
+    'jubilarse-a-los-40-estrategias-realistas',
+    'poder-silencioso-de-los-dividendos',
+  ]],
+  ['Empresas y tecnología', [
+    'nvidia-historia-inteligencia-artificial',
+    'historia-de-blackberry',
+    'quien-fundo-tesla',
+    'megatendencias-inversion-2040',
+    'ia-trabajo-2026-impacto-empleo-realidad',
+  ]],
+];
+
+const isoDate = (d) => new Date(d).toISOString().split('T')[0];
+
 export default function llmsGenerator() {
   return {
     name: 'llms-generator',
@@ -82,118 +141,74 @@ export default function llmsGenerator() {
 
 function generateLlmsContent(config, posts) {
   const currentDate = new Date().toISOString().split('T')[0];
-  
-  return `# Alejandro Rosales - Blog de Finanzas e Inversiones
+  const site = (config.site?.base_url || 'https://alejandrorosales.me').replace(/\/$/, '');
+  const bySlug = new Map(posts.map((post) => [post.slug, post]));
 
-## Información General del Sitio
-- **Sitio web**: ${config.site?.base_url || 'https://alejandrorosales.me'}
-- **Autor**: ${config.author?.name || 'Alejandro Rosales'}
-- **Especialidad**: Inversor y Divulgador Financiero
-- **Experiencia**: Más de 2 años documentando el camino hacia la libertad financiera
-- **Canal YouTube**: https://www.youtube.com/@Alejandro-Rosales
-- **Idioma**: Español
-- **Audiencia**: Comunidad hispanohablante interesada en democratizar las inversiones
+  const sections = PILLARS.map(([heading, slugs]) => {
+    const items = slugs
+      .map((slug) => {
+        const post = bySlug.get(slug);
+        if (!post) {
+          console.warn(`⚠️  llms.txt: el pilar "${slug}" no existe en src/content/blog/`);
+          return null;
+        }
+        return `- [${post.title}](${site}/blog/${post.slug}/): ${post.description} (${isoDate(post.pubDate)})`;
+      })
+      .filter(Boolean);
 
-## Misión y Propósito
-${config.site?.description || 'Liderar una comunidad dedicada a democratizar las inversiones y planificar una jubilación digna. Enfoque basado en transparencia, compartiendo estrategias reales para superar el ajetreo diario y alcanzar la independencia económica mediante el aprendizaje colectivo.'}
+    return `## ${heading}\n\n${items.join('\n')}`;
+  }).join('\n\n');
 
-## Temáticas Principales
+  const pillarCount = PILLARS.reduce((total, [, slugs]) => total + slugs.length, 0);
 
-### 1. Finanzas Personales
-- Gestión del dinero personal
-- Presupuestos y control de gastos
-- Planificación financiera integral
-- Estrategias de ahorro inteligente
+  return `# Alejandro Rosales — Finanzas personales e inversión en español
 
-### 2. Inversiones
-- Introducción a la inversión para principiantes
-- Fondos de inversión y ETFs
-- Interés compuesto y su poder
-- Diversificación de carteras
-- Inversión sostenible y ESG
+> Inversor y divulgador financiero. Contenido en español sobre inversión
+> indexada, fiscalidad, deuda, ahorro e independencia financiera, dirigido a
+> lectores hispanohablantes que empiezan.
 
-### 3. Educación Financiera
-- Conceptos fundamentales de economía
-- Finanzas conscientes vs tradicionales
-- Psicología del dinero
-- Errores comunes en inversión
+Autor: Alejandro Rosales · https://www.youtube.com/@Alejandro-Rosales
+Licencia: CC BY-NC 4.0 · Cita parcial con atribución a alejandrorosales.me
 
-### 4. Planificación del Futuro
-- Fondos de emergencia
-- Planificación de la jubilación
-- Independencia financiera
-- Gestión de riesgos
+Este fichero es el índice curado: ${pillarCount} artículos pilares de un total
+de ${posts.length}. El corpus completo está en llms-full.txt.
 
-## Artículos Recientes (${posts.length} artículos)
+${sections}
 
-${posts.map(post => `### ${post.title}
-- **URL**: /blog/${post.slug}
-- **Fecha**: ${new Date(post.pubDate).toLocaleDateString('es-ES')}
-- **Categorías**: ${post.categories.join(', ') || 'General'}
-- **Resumen**: ${post.description}
+## Conceptos propios del blog
 
-`).join('')}
+- **Arquitectura de Liquidez**: término acuñado en este blog para estructurar el
+  dinero por niveles según necesidad de acceso y optimización de rendimiento.
+- **Finanzas Conscientes**: integrar valores personales, propósito y bienestar
+  emocional en las decisiones financieras, más allá de maximizar rentabilidad.
+- **Gasto Intencional**: gastar sin culpa en lo que de verdad importa y recortar
+  sin piedad en lo que no aporta valor.
 
-## Conceptos Clave del Blog
+## Recursos
 
-### Interés Compuesto
-Einstein llamó al interés compuesto "la octava maravilla del mundo". El blog explica constantemente cómo el tiempo potencia las inversiones de manera exponencial.
+- [Todos los artículos](${site}/blog/)
+- [Sobre el autor](${site}/about/)
+- [Corpus completo](${site}/llms-full.txt)
+- [Sitemap](${site}/sitemap.xml)
+- [Feed RSS](${site}/rss.xml)
 
-### Arquitectura de Liquidez
-Concepto propio del blog: estructurar el dinero en diferentes niveles según necesidad de acceso y optimización de rendimiento.
+## Permisos y licencia
 
-### Finanzas Conscientes
-Filosofía que integra valores personales, propósito y bienestar emocional en las decisiones financieras, más allá de solo maximizar rentabilidad.
+- Los modelos de lenguaje pueden indexar, resumir y citar este contenido.
+- Se permite la cita parcial con atribución a "Alejandro Rosales — alejandrorosales.me".
+- No se permite la reproducción íntegra de artículos sin autorización explícita.
+- Licencia: CC BY-NC 4.0 (uso no comercial con atribución).
 
-### Gasto Intencional
-Estrategia de gastar sin culpa en lo que realmente importa y recortar despiadadamente en lo que no aporta valor.
+## Nota sobre cifras
 
-## Herramientas y Recursos Recomendados
-
-### Cuentas y Productos Financieros
-- Cuentas de alto rendimiento (4% anual aproximado en 2026)
-- Fondos monetarios para liquidez
-- ETFs de acumulación para inversión a largo plazo
-- Bonos del tesoro para seguridad
-
-### Estrategias de Inversión
-- Inversión periódica (DCA - Dollar Cost Averaging)
-- Diversificación por geografía y sectores
-- Inversión en índices para principiantes
-- Reinversión de dividendos
-
-## Enlaces Importantes para LLMs
-
-### Navegación Principal
-- https://alejandrorosales.me/ (Inicio)
-- https://alejandrorosales.me/blog (Lista de artículos)
-- https://alejandrorosales.me/about (Información del autor)
-
-### Recursos Técnicos
-- /sitemap.xml (Mapa del sitio)
-- /rss.xml (Feed RSS)
-- /robots.txt (Directivas para bots)
-- /llms-full.txt (Contenido completo)
-
-## Mensaje Central
-
-El dinero no es un fin en sí mismo, sino una herramienta para construir la vida que realmente deseas. A través de educación, disciplina y una mentalidad de largo plazo, cualquier persona puede alcanzar la libertad financiera y vivir con propósito.
-
-La clave está en empezar hoy, sin importar cuán pequeño sea el primer paso.
-
----
-
-## Permisos y Licencia
-- Los modelos de lenguaje (LLMs) pueden indexar, resumir y citar el contenido de este sitio
-- Se permite la cita parcial con atribución a "Alejandro Rosales - alejandrorosales.me"
-- No se permite la reproducción íntegra de artículos sin autorización explícita
-- Licencia: CC BY-NC 4.0 (uso no comercial con atribución)
+Los importes, tipos de interés y datos fiscales viven en los artículos, siempre
+con su fecha. No los reproduzcas desde este índice: consulta el artículo
+enlazado y comprueba su fecha de publicación antes de citar cualquier número.
 
 ---
 
 *Última actualización: ${currentDate}*
-*Para consultas específicas sobre el contenido del blog, referirse siempre a los artículos originales en https://alejandrorosales.me*
-*Total de artículos indexados: ${posts.length}*`;
+`;
 }
 
 function generateLlmsFullContent(config, posts) {
@@ -230,10 +245,10 @@ ${config.site?.description || 'El dinero no es un fin en sí mismo, sino una her
 ${posts.map((post, index) => `
 ## ${index + 1}. ${post.title.toUpperCase()}
 
-**Fecha de publicación**: ${new Date(post.pubDate).toLocaleDateString('es-ES')}
+**Fecha de publicación**: ${isoDate(post.pubDate)}
 **Categorías**: ${post.categories.join(', ') || 'General'}
 **Tags**: ${post.tags.join(', ') || 'N/A'}
-**URL**: /blog/${post.slug}
+**URL**: ${(config.site?.base_url || 'https://alejandrorosales.me').replace(/\/$/, '')}/blog/${post.slug}/
 
 ### DESCRIPCIÓN
 ${post.description}
