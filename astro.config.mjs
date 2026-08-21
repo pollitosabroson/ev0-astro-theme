@@ -42,36 +42,6 @@ export default defineConfig({
         {
           userAgent: '*',
           allow: '/',
-          disallow: ['/tags/', '/tags/*', '/admin/', '/private/', '/.well-known/', '/api/', '/temp/'],
-        },
-        {
-          userAgent: 'GPTBot',
-          allow: ['/', '/blog/', '/llms.txt', '/llms-full.txt', '/sitemap.xml', '/rss.xml'],
-        },
-        {
-          userAgent: 'ClaudeBot',
-          allow: ['/', '/blog/', '/llms.txt', '/llms-full.txt', '/sitemap.xml', '/rss.xml'],
-        },
-        {
-          userAgent: 'CCBot',
-          allow: ['/', '/blog/', '/llms.txt', '/llms-full.txt'],
-        },
-        {
-          userAgent: 'PerplexityBot',
-          allow: ['/', '/blog/', '/llms.txt', '/llms-full.txt', '/sitemap.xml', '/rss.xml'],
-        },
-        {
-          userAgent: 'Google-Extended',
-          allow: ['/', '/blog/', '/llms.txt', '/llms-full.txt'],
-        },
-        {
-          userAgent: 'FacebookBot',
-          allow: ['/', '/blog/', '/llms.txt', '/llms-full.txt'],
-        },
-        {
-          userAgent: 'Googlebot',
-          allow: '/',
-          crawlDelay: 1,
         },
         {
           userAgent: 'Bingbot',
@@ -79,15 +49,7 @@ export default defineConfig({
           crawlDelay: 1,
         },
         {
-          userAgent: 'AhrefsBot',
-          disallow: '/',
-        },
-        {
           userAgent: 'MJ12bot',
-          disallow: '/',
-        },
-        {
-          userAgent: 'SemrushBot',
           disallow: '/',
         },
         {
@@ -96,7 +58,6 @@ export default defineConfig({
         },
       ],
       sitemap: ['https://alejandrorosales.me/sitemap.xml'],
-      host: 'alejandrorosales.me',
     }),
     llmsGenerator(),
     jsonLdGenerator(),
