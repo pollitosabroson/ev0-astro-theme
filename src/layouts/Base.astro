@@ -5,7 +5,6 @@ import FeaturedVideos from "@components/FeaturedVideos.astro";
 import Footer from "@components/Footer.astro";
 import JsonLd from "@components/JsonLd.astro";
 import config from "@config/config.json";
-import { createOgImage } from "@utils/createOgImage";
 
 import "@styles/global.css";
 
@@ -21,12 +20,9 @@ export interface Props {
   blogpost?: boolean;
 }
 
-const { title, meta_title, description, noindex, blogpost } = Astro.props;
+const { title, meta_title, description, image, noindex, blogpost } = Astro.props;
 
-const ogImage = createOgImage({
-  title: meta_title ? meta_title : title ? title : config.site.title,
-  meta: [config.site.title, config.site.base_url].join(" · "),
-});
+const ogImage = new URL(image ?? "/blog-placeholder.jpg", config.site.base_url).href;
 ---
 
 <!doctype html>
