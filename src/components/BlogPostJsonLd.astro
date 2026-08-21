@@ -12,7 +12,6 @@ const { post, url, content } = Astro.props;
 const { title, description, pubDate, heroImage, categories, tags, video, author } = post;
 
 const baseUrl = config.site?.base_url || 'https://alejandrorosales.me';
-const authorName = config.author?.name || 'Alejandro Rosales';
 const postUrl = url || `${baseUrl}${Astro.url.pathname}`;
 
 // Generar keywords from categories and tags
