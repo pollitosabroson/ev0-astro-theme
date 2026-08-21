@@ -20,6 +20,7 @@ export interface Props {
   duration?: string; // Formato ISO 8601 (ej: PT12M30S)
   uploadDate?: string; // Formato ISO 8601 (ej: 2025-02-03T15:08:20Z)
   chapters?: VideoChapter[];
+  id?: string; // @id para enlazar el vídeo con el artículo
 }
 
 const {
@@ -30,6 +31,7 @@ const {
   duration,
   uploadDate,
   chapters = [],
+  id,
 } = Astro.props;
 
 // Extraer el video ID del embedUrl y construir contentUrl
@@ -41,6 +43,7 @@ const contentUrl = videoId ? `https://www.youtube.com/watch?v=${videoId}` : null
 const videoObject: Record<string, any> = {
   "@context": "https://schema.org",
   "@type": "VideoObject",
+  ...(id ? { "@id": id } : {}),
   name: title,
   description: description,
   embedUrl: embedUrl,

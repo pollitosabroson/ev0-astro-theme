@@ -18,7 +18,8 @@ faqs:
 video:
   embedUrl: "https://www.youtube.com/embed/cLfGmajTbT8"
   thumbnailUrl: "https://i.ytimg.com/vi/cLfGmajTbT8/maxresdefault.jpg"
-  uploadDate: "2026-08-20T17:25:50Z"
+  duration: "PT15M4S"
+  uploadDate: "2026-08-20T18:00:06Z"
 ---
 
 ## TL;DR

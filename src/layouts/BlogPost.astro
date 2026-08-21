@@ -31,12 +31,16 @@ const FINANCIAL_CATEGORIES = [
 const showDisclaimer = categories?.some((cat) =>
   FINANCIAL_CATEGORIES.includes(cat.toLowerCase())
 );
+
+// Misma URL que usa BlogPostJsonLd como postUrl, para que los @id casen
+const canonicalUrl = `${config.site.base_url}${Astro.url.pathname}`;
 ---
 
 <Base meta_title={title} description={description} image={heroImage} blogpost>
   <!-- Inyectar VideoSEO si hay datos de video (retrocompatible) -->
   {video && (
     <VideoSEO
+      id={`${canonicalUrl}#video`}
       title={title}
       description={description}
       embedUrl={video.embedUrl}

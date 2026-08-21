@@ -1,7 +1,4 @@
 ---
-import fs from 'fs';
-import path from 'path';
-
 interface Props {
   type?: 'person' | 'website' | 'organization' | 'blog' | 'combined';
 }
@@ -12,11 +9,12 @@ const { type = 'combined' } = Astro.props;
 let jsonLdData = null;
 
 try {
-  // En desarrollo, usar archivos estáticos si existen
-  const isDev = import.meta.env.DEV;
-  
-  if (isDev) {
-    // En desarrollo, generar JSON-LD básico
+  // El grafo se emite siempre inline. Antes se intentaba leer
+  // dist/structured-data.json en producción, pero ese fichero lo escribe
+  // jsonld-generator.mjs en astro:build:done, después de renderizar las
+  // páginas, y Astro vacía dist/ al empezar: nunca existía durante el
+  // render y todas las páginas caían en un fallback sin sameAs ni WebSite.
+  {
     const baseUrl = 'https://alejandrorosales.me';
     
     switch (type) {
@@ -28,12 +26,11 @@ try {
           "name": "Alejandro Rosales",
           "jobTitle": ["Inversor", "Divulgador Financiero", "Ingeniero de Software"],
           "description": "Inversor y divulgador financiero especializado en educación financiera e inversiones",
-          "url": baseUrl,
+          "url": `${baseUrl}/`,
           "image": `${baseUrl}/autor.jpeg`,
           "sameAs": [
             "https://www.youtube.com/@Alejandro-Rosales",
-            "https://twitter.com/pollitosabroson",
-            "https://alejandrorosales.me"
+            "https://twitter.com/pollitosabroson"
           ],
           "knowsAbout": [
             "ETF",
@@ -61,7 +58,7 @@ try {
           "@id": `${baseUrl}/#website`,
           "name": "Alejandro Rosales, Inversor y Divulgador Financiero",
           "description": "Blog de finanzas personales e inversiones",
-          "url": baseUrl,
+          "url": `${baseUrl}/`,
           "inLanguage": "es-ES",
           "about": [
             "Finanzas Personales",
@@ -80,7 +77,7 @@ try {
           "@id": `${baseUrl}/#organization`,
           "name": "Alejandro Rosales - Educación Financiera",
           "description": "Organización dedicada a la educación financiera y democratización de las inversiones",
-          "url": baseUrl,
+          "url": `${baseUrl}/`,
           "founder": {
             "@id": `${baseUrl}/#person`
           }
@@ -94,7 +91,7 @@ try {
           "@id": `${baseUrl}/blog/#blog`,
           "name": "Blog de Finanzas e Inversiones - Alejandro Rosales",
           "description": "Blog especializado en finanzas personales, inversiones y educación financiera",
-          "url": `${baseUrl}/blog`,
+          "url": `${baseUrl}/blog/`,
           "inLanguage": "es-ES",
           "author": {
             "@id": `${baseUrl}/#person`
@@ -113,12 +110,11 @@ try {
               "name": "Alejandro Rosales",
               "jobTitle": ["Inversor", "Divulgador Financiero", "Ingeniero de Software"],
               "description": "Inversor y divulgador financiero especializado en educación financiera e inversiones",
-              "url": baseUrl,
+              "url": `${baseUrl}/`,
               "image": `${baseUrl}/autor.jpeg`,
               "sameAs": [
                 "https://www.youtube.com/@Alejandro-Rosales",
-                "https://twitter.com/pollitosabroson",
-                "https://alejandrorosales.me"
+                "https://twitter.com/pollitosabroson"
               ],
               "knowsAbout": [
                 "ETF",
@@ -142,7 +138,7 @@ try {
               "@id": `${baseUrl}/#website`,
               "name": "Alejandro Rosales, Inversor y Divulgador Financiero",
               "description": "Blog de finanzas personales, inversiones y educación financiera",
-              "url": baseUrl,
+              "url": `${baseUrl}/`,
               "inLanguage": "es-ES",
               "author": {
                 "@id": `${baseUrl}/#person`
@@ -156,7 +152,7 @@ try {
               "@id": `${baseUrl}/#blog`,
               "name": "Blog de Finanzas e Inversiones - Alejandro Rosales",
               "description": "Blog especializado en finanzas personales, inversiones, ETFs y educación financiera para alcanzar la libertad financiera",
-              "url": baseUrl,
+              "url": `${baseUrl}/blog/`,
               "inLanguage": "es-ES",
               "author": {
                 "@id": `${baseUrl}/#person`
@@ -176,46 +172,6 @@ try {
             }
           ]
         };
-    }
-  } else {
-    // En producción, intentar leer el archivo generado desde la raíz de dist
-    try {
-      const publicPath = path.join(process.cwd(), 'dist');
-      let filePath;
-      
-      // Intentar cargar el archivo structured-data.json generado
-      filePath = path.join(publicPath, 'structured-data.json');
-      
-      if (fs.existsSync(filePath)) {
-        const fileContent = fs.readFileSync(filePath, 'utf-8');
-        jsonLdData = JSON.parse(fileContent);
-      } else {
-        // Fallback: generar JSON-LD básico si no existe el archivo
-        const baseUrl = 'https://alejandrorosales.me';
-        jsonLdData = {
-          "@context": "https://schema.org",
-          "@graph": [
-            {
-              "@type": "Person",
-              "@id": `${baseUrl}/#person`,
-              "name": "Alejandro Rosales",
-              "jobTitle": ["Inversor", "Divulgador Financiero"],
-              "url": baseUrl
-            },
-            {
-              "@type": "Blog",
-              "@id": `${baseUrl}/#blog`,
-              "name": "Blog de Finanzas e Inversiones - Alejandro Rosales",
-              "url": baseUrl,
-              "author": {
-                "@id": `${baseUrl}/#person`
-              }
-            }
-          ]
-        };
-      }
-    } catch (error) {
-      console.warn('No se pudo cargar JSON-LD generado, usando fallback:', error);
     }
   }
 } catch (error) {

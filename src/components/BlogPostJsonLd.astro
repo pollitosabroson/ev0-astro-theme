@@ -48,24 +48,7 @@ const blogPostJsonLd = {
   "description": description,
   "image": heroImage ? `${baseUrl}${heroImage}` : `${baseUrl}/blog-placeholder.jpg`,
   "author": {
-    "@type": "Person",
-    "@id": `${baseUrl}/#person`,
-    "name": authorName,
-    "url": baseUrl,
-    "image": `${baseUrl}${config.author?.avatar || '/autor.jpeg'}`,
-    "jobTitle": ["Inversor", "Divulgador Financiero", "Ingeniero de Software"],
-    "knowsAbout": [
-      "ETF",
-      "Inversión",
-      "Interés Compuesto", 
-      "Finanzas Personales",
-      "Educación Financiera",
-      "Planificación de Jubilación",
-      "Fondos de Inversión"
-    ],
-    "sameAs": [
-      "https://www.youtube.com/@Alejandro-Rosales"
-    ]
+    "@id": `${baseUrl}/#person`
   },
   "publisher": {
     "@type": ["Organization", "EducationalOrganization"],
@@ -143,24 +126,6 @@ const blogPostJsonLd = {
       "name": "España"
     }
   },
-  "citation": video?.embedUrl ? [
-    {
-      "@type": "VideoObject",
-      "@id": video.embedUrl,
-      "name": title,
-      "description": description,
-      "thumbnailUrl": video.thumbnailUrl,
-      "embedUrl": video.embedUrl,
-      "uploadDate": video.uploadDate || pubDate,
-      "duration": video.duration || "PT15M",
-      "publisher": {
-        "@id": `${baseUrl}/#organization`
-      },
-      "author": {
-        "@id": `${baseUrl}/#person`
-      }
-    }
-  ] : undefined,
   "potentialAction": [
     {
       "@type": "ReadAction",
@@ -182,20 +147,10 @@ const blogPostJsonLd = {
   }
 };
 
-// Si hay video, agregar información adicional
+// El VideoObject completo lo emite VideoSEO.astro; aquí solo se referencia
+// por @id para que el vídeo quede atado a este artículo y no sea una isla.
 if (video?.embedUrl) {
-  blogPostJsonLd.video = {
-    "@type": "VideoObject",
-    "name": title,
-    "description": description,
-    "thumbnailUrl": video.thumbnailUrl,
-    "embedUrl": video.embedUrl,
-    "uploadDate": video.uploadDate || pubDate,
-    "duration": video.duration || "PT15M",
-    "publisher": {
-      "@id": `${baseUrl}/#organization`
-    }
-  };
+  blogPostJsonLd.video = { "@id": `${postUrl}#video` };
 }
 
 // Limpiar propiedades undefined
