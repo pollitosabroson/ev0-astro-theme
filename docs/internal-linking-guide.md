@@ -55,6 +55,7 @@ Cuando escribas un nuevo artículo y menciones cualquiera de estos temas, enlaza
 | BlackBerry, foso económico, plataforma vs producto, QNX, reinvención de una empresa, empresa que parecía imparable | La historia de BlackBerry | `/blog/historia-de-blackberry/` |
 | cuenta remunerada, cuentas remuneradas, TAE, TIN, depósito vs cuenta, Fondo de Garantía de Depósitos | Cuentas remuneradas: ¿valen la pena? | `/blog/cuentas-remuneradas/` |
 | Tesla, quién fundó Tesla, Martin Eberhard, cofundadores, infierno de producción, créditos de emisiones | ¿Quién fundó Tesla? | `/blog/quien-fundo-tesla/` |
+| Amazon, AWS, cómo gana dinero Amazon, Jeff Bezos, burbuja puntocom, modelo de negocio | Cómo gana dinero Amazon | `/blog/como-gana-dinero-amazon/` |
 
 ---
 
@@ -259,3 +260,6 @@ Estado tras el análisis de 102 artículos: **153 enlaces aplicados**.
 | quien-fundo-tesla.md | historia de BlackBerry | historia-de-blackberry |
 | quien-fundo-tesla.md | inteligencia artificial | ia-trabajo-2026-impacto-empleo-realidad |
 | invertir-en-spacex.md | Tesla | quien-fundo-tesla |
+| como-gana-dinero-amazon.md | la historia de Tesla | quien-fundo-tesla |
+| como-gana-dinero-amazon.md | inteligencia artificial | ia-trabajo-2026-impacto-empleo-realidad |
+| como-gana-dinero-amazon.md | megatendencias de inversión a largo plazo | megatendencias-inversion-2040 |
