@@ -85,7 +85,7 @@ La bolsa no premia el pasado, premia las expectativas de futuro. Y cuando una em
 
 ## El acuerdo con Amazon que nunca llegó a salvarla
 
-En 2022, Amazon anuncia la compra de iRobot por **1.700 millones de dólares**. Para muchos, esto parecía el final feliz: más recursos, más estabilidad, más futuro.
+En 2022, [Amazon](/blog/como-gana-dinero-amazon/) anuncia la compra de iRobot por **1.700 millones de dólares**. Para muchos, esto parecía el final feliz: más recursos, más estabilidad, más futuro.
 
 Pero una compra anunciada no es una compra garantizada.
 

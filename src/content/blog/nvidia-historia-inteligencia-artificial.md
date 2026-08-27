@@ -280,7 +280,7 @@ Es la pregunta que muchos inversores se hacen.
 
 Y la comparación aparece constantemente:
 
-👉 la burbuja puntocom del año 2000.
+👉 [la burbuja puntocom del año 2000](/blog/como-gana-dinero-amazon/).
 
 Pero hay una diferencia clave.
 

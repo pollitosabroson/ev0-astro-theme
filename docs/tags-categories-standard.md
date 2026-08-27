@@ -90,10 +90,10 @@ Usa **solo** estas categorías. Si un artículo no encaja en ninguna, propón un
 Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 
 ### A
-`Abastecedor` · `Acciones` · `Actualización Financiera` · `Aguinaldo` · `Ahorro` · `Ahorro de Emergencia` · `Ahorro e Inversión` · `Ahorro Excesivo` · `Ahorro Inteligente` · `Ahorro para Hijos` · `Ahorro para Jubilación` · `Ahorro sin Esfuerzo` · `Ahorros` · `Alejandro Rosales` · `Amortización` · `Análisis de Mercado` · `Ansiedad Financiera` · `Apple` · `Apps Financieras` · `Aprender a Invertir` · `Aranceles Internacionales` · `Autocustodia`
+`Abastecedor` · `Acciones` · `Actualización Financiera` · `Aguinaldo` · `Ahorro` · `Ahorro de Emergencia` · `Ahorro e Inversión` · `Ahorro Excesivo` · `Ahorro Inteligente` · `Ahorro para Hijos` · `Ahorro para Jubilación` · `Ahorro sin Esfuerzo` · `Ahorros` · `Alejandro Rosales` · `Amazon` · `Amortización` · `Análisis de Mercado` · `Ansiedad Financiera` · `Apple` · `Apps Financieras` · `Aprender a Invertir` · `Aranceles Internacionales` · `Autocustodia` · `AWS`
 
 ### B
-`Banca` · `Banca Digital` · `Banco Digital` · `Bancos` · `Bancos Centrales` · `Barista FIRE` · `BCE` · `Bienestar Emocional` · `Bienestar Financiero` · `Bitcoin` · `Black Friday` · `BlackBerry` · `Blockchain` · `Blog Personal` · `BNPL` · `Bolsa de Valores` · `Bonos` · `Bonos del Tesoro`
+`Banca` · `Banca Digital` · `Banco Digital` · `Bancos` · `Bancos Centrales` · `Barista FIRE` · `BCE` · `Bienestar Emocional` · `Bienestar Financiero` · `Bitcoin` · `Black Friday` · `BlackBerry` · `Blockchain` · `Blog Personal` · `BNPL` · `Bolsa de Valores` · `Bonos` · `Bonos del Tesoro` · `Burbuja Puntocom`
 
 ### C
 `Capital Privado` · `Capitalismo Consciente` · `Cartera de Inversión` · `CBDC` · `Ciberseguridad` · `Cómo Ahorrar Dinero` · `Cómo Empezar a Invertir` · `Cómo Invertir` · `Cómo Invertir Dinero` · `Comisiones Internacionales` · `Compra Ahora Paga Después` · `Comprar Casa` · `Computación Cuántica` · `Comunidad de Inversores` · `Consejos Financieros` · `Consejos para Invertir` · `Consolidación` · `Consumo Consciente` · `Consumo Responsable` · `Control de Gastos` · `Coste de Oportunidad` · `Creencias Limitantes` · `Criptomonedas` · `Crisis Vivienda` · `Créditos` · `Cuenta Junior` · `Cuentas para Menores` · `Cuentas Remuneradas` · `Cumplir Metas`
@@ -114,7 +114,7 @@ Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 `Impacto Económico` · `Impuestos en España` · `Independencia Financiera` · `Indemnización` · `Influencers` · `Inflación` · `Ingresos Pasivos` · `Ingresos Recurrentes` · `Inteligencia Artificial` · `Interés Compuesto` · `Intereses Bancarios` · `Inversión` · `Inversión a Largo Plazo` · `Inversión Inmobiliaria` · `Inversión Inteligente` · `Inversión Pasiva` · `Inversión para Hijos` · `Inversiones` · `Inversiones Familiares` · `IPO` · `IRPF` · `IVA Alimentos`
 
 ### J – K – L
-`Jensen Huang` · `Jubilación` · `Klarna` · `Libertad Financiera` · `Liquidez` · `Lonchafinismo`
+`Jeff Bezos` · `Jensen Huang` · `Jubilación` · `Klarna` · `Libertad Financiera` · `Liquidez` · `Lonchafinismo`
 
 ### M – N
 `Manejo del Dinero` · `Megatendencias` · `Mentalidad de Escasez` · `Mentalidad Millonaria` · `Mercados de Predicción` · `Metas Financieras` · `MiCA` · `Miedo al Dinero` · `Movimiento FIRE` · `MSCI World` · `MyInvestor` · `Neobancos` · `Negociación` · `Negociación con Acreedores` · `Nuevos Comienzos` · `Nuevos Impuestos` · `Nudismo Financiero` · `NVIDIA`
