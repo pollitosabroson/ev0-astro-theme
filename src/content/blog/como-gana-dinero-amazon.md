@@ -18,6 +18,7 @@ faqs:
 video:
   embedUrl: "https://www.youtube.com/embed/5MFo45HQESI"
   thumbnailUrl: "https://i.ytimg.com/vi/5MFo45HQESI/maxresdefault.jpg"
+  duration: "PT16M38S"
   uploadDate: "2026-08-27T12:47:33Z"
   chapters:
     - name: "Intro: la mentira del señuelo"
@@ -32,6 +33,9 @@ video:
     - name: "El negocio secreto: cómo gana dinero de verdad"
       startOffset: 489
       endOffset: 689
+    - name: "El Amazon de hoy: la apuesta de 220.000 millones"
+      startOffset: 689
+      endOffset: 998
 ---
 
 ## TL;DR
