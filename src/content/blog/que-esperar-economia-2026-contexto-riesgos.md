@@ -63,7 +63,7 @@ Aquí es donde mucha gente se equivoca. No se trata de adivinar el futuro, sino 
 
 ### Inteligencia artificial: menos euforia, más competencia
 
-No creo que la burbuja de la inteligencia artificial explote en 2026, pero sí creo que se va a enfriar. NVIDIA ya no está sola. Google desarrolla sus propios chips y los vende a empresas como Amazon o Meta. China también entra en juego con su propia tecnología.
+No creo que la burbuja de la inteligencia artificial explote en 2026, pero sí creo que se va a enfriar. NVIDIA ya no está sola. Google desarrolla sus propios chips y los vende a empresas como [Amazon](/blog/como-gana-dinero-amazon/) o Meta. China también entra en juego con su propia tecnología.
 
 Esto no significa una caída brutal, sino **crecimiento más lento y más competencia**.
 

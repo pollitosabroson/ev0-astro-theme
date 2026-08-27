@@ -263,3 +263,6 @@ Estado tras el análisis de 102 artículos: **153 enlaces aplicados**.
 | como-gana-dinero-amazon.md | la historia de Tesla | quien-fundo-tesla |
 | como-gana-dinero-amazon.md | inteligencia artificial | ia-trabajo-2026-impacto-empleo-realidad |
 | como-gana-dinero-amazon.md | megatendencias de inversión a largo plazo | megatendencias-inversion-2040 |
+| irobot-historia-bancarrota-lecciones-financieras.md | Amazon | como-gana-dinero-amazon |
+| nvidia-historia-inteligencia-artificial.md | la burbuja puntocom del año 2000 | como-gana-dinero-amazon |
+| que-esperar-economia-2026-contexto-riesgos.md | Amazon | como-gana-dinero-amazon |

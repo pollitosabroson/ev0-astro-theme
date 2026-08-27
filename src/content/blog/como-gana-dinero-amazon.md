@@ -15,6 +15,23 @@ faqs:
     answer: "Porque en el año 2000 Amazon abrió su web a vendedores externos. En lugar de comprar y arriesgar stock, cobra una comisión por cada venta ajena más el almacenaje y el envío. Se convirtió en un centro comercial que cobra alquiler, un negocio más rentable que vender directamente."
   - question: "¿Es buena inversión comprar acciones de una gran empresa como Amazon?"
     answer: "Depende del precio que pagues, no solo de lo buena que sea la empresa. La historia de Amazon lo demuestra: quien compró en el pico de 1999 tardó una década en recuperar su dinero pese a acertar con la empresa. El precio importa tanto como el negocio."
+video:
+  embedUrl: "https://www.youtube.com/embed/5MFo45HQESI"
+  thumbnailUrl: "https://i.ytimg.com/vi/5MFo45HQESI/maxresdefault.jpg"
+  uploadDate: "2026-08-27T12:47:33Z"
+  chapters:
+    - name: "Intro: la mentira del señuelo"
+      startOffset: 0
+      endOffset: 140
+    - name: "El garaje, las puertas y la librería sin libros"
+      startOffset: 140
+      endOffset: 302
+    - name: "Casi muere: el 94% y los 10 meses de vida"
+      startOffset: 302
+      endOffset: 489
+    - name: "El negocio secreto: cómo gana dinero de verdad"
+      startOffset: 489
+      endOffset: 689
 ---
 
 ## TL;DR
@@ -129,3 +146,7 @@ Porque invertir bien no va de mirar lo que una empresa te enseña. Va de encontr
 ## ¿Y tú?
 
 ¿Comprarías acciones de Amazon hoy? ¿Sí o no? Y si quieres, por qué. Cuéntamelo en los comentarios. Leo todos, y de los mejores salen los próximos análisis del canal.
+
+<div class="iframe-container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/5MFo45HQESI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
+</div>
