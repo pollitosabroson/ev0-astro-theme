@@ -1,5 +1,30 @@
 [
   {
+    "title": "Rechazaron comprar Netflix por 50 millones. Adivina el final",
+    "description": "En el año 2000 tenía 9.000 tiendas por todo el mundo. Le ofrecieron comprar una empresucha que empezaba por 50 millones.",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "7sL8h7bS2q4",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/7sL8h7bS2q4/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/7sL8h7bS2q4/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/7sL8h7bS2q4/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2026-09-03T15:10:51Z"
+  },
+  {
     "title": "Comprar la mejor empresa y perder 10 años. El caso Amazon",
     "description": "Por cada 100 euros que Amazon factura en su tienda, gana alrededor de ocho. Una miseria, para el gigante que es. Pero tiene ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,22 +32,22 @@
     "videoId": "5MFo45HQESI",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/5MFo45HQESI/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/5MFo45HQESI/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/5MFo45HQESI/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/5MFo45HQESI/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/5MFo45HQESI/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/5MFo45HQESI/hqdefault.jpg",
         "width": 480,
         "height": 360
       }
     },
-    "publishedAt": "2026-08-27T12:53:47Z"
+    "publishedAt": "2026-08-27T16:00:06Z"
   },
   {
     "title": "Los que tuvieron la idea vs el que se llevó el dinero",
@@ -98,31 +123,6 @@
       }
     },
     "publishedAt": "2026-08-06T16:00:06Z"
-  },
-  {
-    "title": "BlackBerry no murió. Está en 275 millones de coches",
-    "description": "Ochenta millones de usuarios. El presidente de Estados Unidos usaba una. El 90% de las grandes empresas del planeta ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "TxuoOmdNtdE",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/TxuoOmdNtdE/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/TxuoOmdNtdE/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/TxuoOmdNtdE/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "publishedAt": "2026-07-30T16:00:06Z"
   },
   {
     "title": "La verdad sobre el IPO de SpaceX en 2026 #spacex",

@@ -93,7 +93,7 @@ Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 `Abastecedor` · `Acciones` · `Actualización Financiera` · `Aguinaldo` · `Ahorro` · `Ahorro de Emergencia` · `Ahorro e Inversión` · `Ahorro Excesivo` · `Ahorro Inteligente` · `Ahorro para Hijos` · `Ahorro para Jubilación` · `Ahorro sin Esfuerzo` · `Ahorros` · `Alejandro Rosales` · `Amazon` · `Amortización` · `Análisis de Mercado` · `Ansiedad Financiera` · `Apple` · `Apps Financieras` · `Aprender a Invertir` · `Aranceles Internacionales` · `Autocustodia` · `AWS`
 
 ### B
-`Banca` · `Banca Digital` · `Banco Digital` · `Bancos` · `Bancos Centrales` · `Barista FIRE` · `BCE` · `Bienestar Emocional` · `Bienestar Financiero` · `Bitcoin` · `Black Friday` · `BlackBerry` · `Blockchain` · `Blog Personal` · `BNPL` · `Bolsa de Valores` · `Bonos` · `Bonos del Tesoro` · `Burbuja Puntocom`
+`Banca` · `Banca Digital` · `Banco Digital` · `Bancos` · `Bancos Centrales` · `Barista FIRE` · `BCE` · `Bienestar Emocional` · `Bienestar Financiero` · `Bitcoin` · `Black Friday` · `BlackBerry` · `Blockbuster` · `Blockchain` · `Blog Personal` · `BNPL` · `Bolsa de Valores` · `Bonos` · `Bonos del Tesoro` · `Burbuja Puntocom`
 
 ### C
 `Capital Privado` · `Capitalismo Consciente` · `Cartera de Inversión` · `CBDC` · `Ciberseguridad` · `Cómo Ahorrar Dinero` · `Cómo Empezar a Invertir` · `Cómo Invertir` · `Cómo Invertir Dinero` · `Comisiones Internacionales` · `Compra Ahora Paga Después` · `Comprar Casa` · `Computación Cuántica` · `Comunidad de Inversores` · `Consejos Financieros` · `Consejos para Invertir` · `Consolidación` · `Consumo Consciente` · `Consumo Responsable` · `Control de Gastos` · `Coste de Oportunidad` · `Creencias Limitantes` · `Criptomonedas` · `Crisis Vivienda` · `Créditos` · `Cuenta Junior` · `Cuentas para Menores` · `Cuentas Remuneradas` · `Cumplir Metas`
@@ -117,7 +117,7 @@ Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 `Jeff Bezos` · `Jensen Huang` · `Jubilación` · `Klarna` · `Libertad Financiera` · `Liquidez` · `Lonchafinismo`
 
 ### M – N
-`Manejo del Dinero` · `Megatendencias` · `Mentalidad de Escasez` · `Mentalidad Millonaria` · `Mercados de Predicción` · `Metas Financieras` · `MiCA` · `Miedo al Dinero` · `Movimiento FIRE` · `MSCI World` · `MyInvestor` · `Neobancos` · `Negociación` · `Negociación con Acreedores` · `Nuevos Comienzos` · `Nuevos Impuestos` · `Nudismo Financiero` · `NVIDIA`
+`Manejo del Dinero` · `Megatendencias` · `Mentalidad de Escasez` · `Mentalidad Millonaria` · `Mercados de Predicción` · `Metas Financieras` · `MiCA` · `Miedo al Dinero` · `Movimiento FIRE` · `MSCI World` · `MyInvestor` · `Neobancos` · `Negociación` · `Negociación con Acreedores` · `Netflix` · `Nuevos Comienzos` · `Nuevos Impuestos` · `Nudismo Financiero` · `NVIDIA`
 
 ### O – P – Q
 `Objetivos Financieros` · `Optimización de Recursos` · `Oro` · `Paga Extra` · `Paciencia Financiera` · `Pago Mínimo` · `PayPal` · `Personalidad Financiera` · `Petróleo` · `Phishing` · `Pignoración` · `Planificación Financiera` · `Planificación Mensual` · `Plusvalía del Muerto` · `Poder Adquisitivo` · `Polymarket` · `Precio Vivienda` · `Préstamos` · `Presupuesto` · `Presupuesto Familiar` · `Primeros Pasos en Inversión` · `Private Equity` · `Propósitos de Año Nuevo` · `Psicología del Consumo` · `Psicología del Inversor` · `QNX`

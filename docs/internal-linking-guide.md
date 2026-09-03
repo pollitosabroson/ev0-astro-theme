@@ -56,6 +56,7 @@ Cuando escribas un nuevo artículo y menciones cualquiera de estos temas, enlaza
 | cuenta remunerada, cuentas remuneradas, TAE, TIN, depósito vs cuenta, Fondo de Garantía de Depósitos | Cuentas remuneradas: ¿valen la pena? | `/blog/cuentas-remuneradas/` |
 | Tesla, quién fundó Tesla, Martin Eberhard, cofundadores, infierno de producción, créditos de emisiones | ¿Quién fundó Tesla? | `/blog/quien-fundo-tesla/` |
 | Amazon, AWS, cómo gana dinero Amazon, Jeff Bezos, burbuja puntocom, modelo de negocio | Cómo gana dinero Amazon | `/blog/como-gana-dinero-amazon/` |
+| Blockbuster, por qué quebró Blockbuster, Netflix, multas por retraso, foso económico que se vuelve trampa | Por qué quebró Blockbuster | `/blog/por-que-quebro-blockbuster/` |
 
 ---
 
@@ -74,9 +75,9 @@ Temas recurrentes en el blog que **aún no tienen su propio artículo**. Al escr
 
 ---
 
-## Historial de enlaces aplicados (última actualización: 2026-07-29)
+## Historial de enlaces aplicados (última actualización: 2026-09-02)
 
-Estado tras el análisis de 102 artículos: **153 enlaces aplicados**.
+Estado tras el análisis de 102 artículos: **158 enlaces aplicados**.
 
 | Archivo | Texto ancla | Destino |
 |---|---|---|
@@ -266,3 +267,8 @@ Estado tras el análisis de 102 artículos: **153 enlaces aplicados**.
 | irobot-historia-bancarrota-lecciones-financieras.md | Amazon | como-gana-dinero-amazon |
 | nvidia-historia-inteligencia-artificial.md | la burbuja puntocom del año 2000 | como-gana-dinero-amazon |
 | que-esperar-economia-2026-contexto-riesgos.md | Amazon | como-gana-dinero-amazon |
+| por-que-quebro-blockbuster.md | historia de BlackBerry | historia-de-blackberry |
+| por-que-quebro-blockbuster.md | error de Kodak | kodak-error-innovacion-inversiones-leccion-financiera |
+| por-que-quebro-blockbuster.md | cuota que no sabes ni cómo cancelar | fin-propiedad-privada-economia-suscripcion |
+| kodak-error-innovacion-inversiones-leccion-financiera.md | Blockbuster le pasó lo mismo con las multas por retraso | por-que-quebro-blockbuster |
+| irobot-historia-bancarrota-lecciones-financieras.md | Blockbuster, que llegó a tener 9.000 tiendas | por-que-quebro-blockbuster |
