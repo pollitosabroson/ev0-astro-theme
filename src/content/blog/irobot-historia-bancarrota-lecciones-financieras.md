@@ -109,7 +109,7 @@ La caída no fue repentina. Fue lenta, visible y avisada. Simplemente, muchos pr
 
 Esta historia va mucho más allá de los robots.
 
-La primera lección es clara: **nada es para siempre**. Ni las marcas líderes, ni las empresas pioneras, ni lo que parece seguro.
+La primera lección es clara: **nada es para siempre**. Ni las marcas líderes, ni las empresas pioneras, ni lo que parece seguro. Le ocurrió a [Blockbuster, que llegó a tener 9.000 tiendas](/blog/por-que-quebro-blockbuster/) y hoy conserva una.
 
 La segunda: incluso siendo el número uno, las malas rachas llegan. El problema no es tenerlas, sino no estar preparado para ellas.
 

@@ -194,7 +194,10 @@ Pero no tuvo el coraje.
 El mercado no premia al más grande.
 Premia al más flexible.
 
-### 4. Cuidado con enamorarte de tus inversiones
+### 4. Cuidado con el negocio que no puedes soltar
+Kodak no podía renunciar al carrete. A [Blockbuster le pasó lo mismo con las multas por retraso](/blog/por-que-quebro-blockbuster/): eran uno de cada seis dólares que ingresaba y lo que más odiaban sus clientes.
+
+### 5. Cuidado con enamorarte de tus inversiones
 Cuando justificas una inversión en lugar de cuestionarla… ya perdiste objetividad.
 
 ---
