@@ -60,6 +60,8 @@ Y cada cosa **pesa** lo que pesa en la vida real. Si una familia media gasta má
 
 Cada mes se compara cuánto cuesta esa cesta con lo que costaba **hace exactamente doce meses**. Si cuesta un 3,6 % más, la inflación es del 3,6 %. Eso es lo que significa la palabra que oyes siempre en las noticias: **interanual**.
 
+Ese método mide muy bien el precio, pero se le escapa algo: cuando lo que encoge no es el tamaño sino la calidad. Eso tiene nombre propio, la [skimpflation](/blog/skimpflation/), y casi ningún índice lo recoge.
+
 > **Un matiz de analista:** cada país tiene su índice nacional (el IPC) y otro armonizado que sirve para comparar entre países de la UE (el IPCA). No siempre coinciden. En junio de 2026, el IPC español estaba en el 3,2 % mientras el IPCA marcaba 3,6 %. Cuando compares España con Alemania, asegúrate de estar mirando el mismo índice.
 
 ## ¿Cuál es la diferencia entre inflación general y subyacente?

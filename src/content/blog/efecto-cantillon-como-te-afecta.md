@@ -67,6 +67,7 @@ Es una trampa silenciosa donde **los que reciben tarde siempre pierden.**
 ## 🛒 ¿Cómo te afecta directamente?
 
 Con los mismos 100 € de hace un año, hoy comprás menos.  
+Y a veces ni siquiera sube el precio: es la [skimpflation](/blog/skimpflation/), el mismo importe a cambio de menos calidad.  
 Eso es pérdida de poder adquisitivo.
 
 Pero lo peor no es el supermercado.  

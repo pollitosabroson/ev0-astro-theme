@@ -80,7 +80,7 @@ Pero una erosión lenta y constante es mucho más peligrosa que una caída puntu
 
 ## ¿Cómo la inflación actúa como un impuesto oculto?
 
-La inflación es un impuesto que no se vota y no aparece en la nómina.
+La inflación es un impuesto que no se vota y no aparece en la nómina. Y tiene una versión todavía más silenciosa: la [skimpflation](/blog/skimpflation/), pagar lo mismo a cambio de menos calidad.
 
 Cuando los tipos de interés reales son negativos —cuando el banco paga menos de lo que suben los precios— el ahorrador es castigado. En algunos casos, incluso paga por mantener su dinero en el banco.
 

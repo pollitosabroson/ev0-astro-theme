@@ -96,7 +96,7 @@ Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 `Banca` · `Banca Digital` · `Banco Digital` · `Bancos` · `Bancos Centrales` · `Barista FIRE` · `BCE` · `Bienestar Emocional` · `Bienestar Financiero` · `Bitcoin` · `Black Friday` · `BlackBerry` · `Blockbuster` · `Blockchain` · `Blog Personal` · `BNPL` · `Bolsa de Valores` · `Bonos` · `Bonos del Tesoro` · `Burbuja Puntocom`
 
 ### C
-`Capital Privado` · `Capitalismo Consciente` · `Cartera de Inversión` · `CBDC` · `Ciberseguridad` · `Cómo Ahorrar Dinero` · `Cómo Empezar a Invertir` · `Cómo Invertir` · `Cómo Invertir Dinero` · `Comisiones Internacionales` · `Compra Ahora Paga Después` · `Comprar Casa` · `Computación Cuántica` · `Comunidad de Inversores` · `Consejos Financieros` · `Consejos para Invertir` · `Consolidación` · `Consumo Consciente` · `Consumo Responsable` · `Control de Gastos` · `Coste de Oportunidad` · `Creencias Limitantes` · `Criptomonedas` · `Crisis Vivienda` · `Créditos` · `Cuenta Junior` · `Cuentas para Menores` · `Cuentas Remuneradas` · `Cumplir Metas`
+`Capital Privado` · `Capitalismo Consciente` · `Cartera de Inversión` · `CBDC` · `Ciberseguridad` · `Cómo Ahorrar Dinero` · `Cómo Empezar a Invertir` · `Cómo Invertir` · `Cómo Invertir Dinero` · `Comisiones Internacionales` · `Compra Ahora Paga Después` · `Comprar Casa` · `Computación Cuántica` · `Comunidad de Inversores` · `Consejos Financieros` · `Consejos para Invertir` · `Consolidación` · `Consumo Consciente` · `Consumo Responsable` · `Control de Gastos` · `Coste de la Vida` · `Coste de Oportunidad` · `Creencias Limitantes` · `Criptomonedas` · `Crisis Vivienda` · `Créditos` · `Cuenta Junior` · `Cuentas para Menores` · `Cuentas Remuneradas` · `Cumplir Metas`
 
 ### D
 `Debt Stacking` · `Decisiones Financieras` · `Declaración de la Renta` · `Deducciones Fiscales` · `Demografía` · `Depreciación` · `Desarrollo Personal` · `Deuda` · `Deudas` · `Deudas y Compras Impulsivas` · `Dinero` · `Dinero en Familia` · `Dinero Extra` · `Dinero sin Comisiones` · `Disciplina Financiera` · `Diversificación` · `Dividendos` · `Dual Pricing`
@@ -111,7 +111,7 @@ Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 `Ganar la Lotería` · `Gastos Hormiga` · `Gestión de Gastos` · `Gestión del Dinero` · `Gestión del Riesgo` · `GPU` · `Hábitos Diarios` · `Hábitos de Consumo` · `Hábitos Financieros` · `Herencia` · `Hipoteca` · `Hipoteca Fija` · `Hipoteca Mixta` · `Hipoteca Variable` · `Historial Crediticio`
 
 ### I
-`Impacto Económico` · `Impuestos en España` · `Independencia Financiera` · `Indemnización` · `Influencers` · `Inflación` · `Ingresos Pasivos` · `Ingresos Recurrentes` · `Inteligencia Artificial` · `Interés Compuesto` · `Intereses Bancarios` · `Inversión` · `Inversión a Largo Plazo` · `Inversión Inmobiliaria` · `Inversión Inteligente` · `Inversión Pasiva` · `Inversión para Hijos` · `Inversiones` · `Inversiones Familiares` · `IPO` · `IRPF` · `IVA Alimentos`
+`Impacto Económico` · `Impuestos en España` · `Independencia Financiera` · `Indemnización` · `Influencers` · `Inflación` · `Ingresos Pasivos` · `Ingresos Recurrentes` · `Inteligencia Artificial` · `Interés Compuesto` · `Intereses Bancarios` · `Inversión` · `Inversión a Largo Plazo` · `Inversión Inmobiliaria` · `Inversión Inteligente` · `Inversión Pasiva` · `Inversión para Hijos` · `Inversiones` · `Inversiones Familiares` · `IPC` · `IPO` · `IRPF` · `IVA Alimentos`
 
 ### J – K – L
 `Jeff Bezos` · `Jensen Huang` · `Jubilación` · `Klarna` · `Libertad Financiera` · `Liquidez` · `Lonchafinismo`
@@ -123,7 +123,7 @@ Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 `Objetivos Financieros` · `Optimización de Recursos` · `Oro` · `Paga Extra` · `Paciencia Financiera` · `Pago Mínimo` · `PayPal` · `Personalidad Financiera` · `Petróleo` · `Phishing` · `Pignoración` · `Planificación Financiera` · `Planificación Mensual` · `Plusvalía del Muerto` · `Poder Adquisitivo` · `Polymarket` · `Precio Vivienda` · `Préstamos` · `Presupuesto` · `Presupuesto Familiar` · `Primeros Pasos en Inversión` · `Private Equity` · `Propósitos de Año Nuevo` · `Psicología del Consumo` · `Psicología del Inversor` · `QNX`
 
 ### R
-`Reestructuración de Deuda` · `Reducir Gastos` · `Regulación Financiera` · `Relaciones Personales` · `Renta Fija` · `Renta Variable` · `Rentabilidad` · `Riesgo Financiero` · `Rolex` · `S&P 500` · `Salarios Construcción` · `Salud Financiera` · `Semiconductores` · `SpaceX` · `Stablecoins` · `Starlink` · `Subida de Impuestos` · `Swing Pricing`
+`Reestructuración de Deuda` · `Reducir Gastos` · `Reduflación` · `Regulación Financiera` · `Relaciones Personales` · `Renta Fija` · `Renta Variable` · `Rentabilidad` · `Riesgo Financiero` · `Rolex` · `S&P 500` · `Salarios Construcción` · `Salud Financiera` · `Semiconductores` · `Skimpflation` · `SpaceX` · `Stablecoins` · `Starlink` · `Subida de Impuestos` · `Swing Pricing`
 
 ### T – V
 `Tarjeta de Crédito` · `Tarjetas de Crédito` · `Tecnología` · `Tesla` · `Test de Perfil de Inversor` · `Tokenización` · `Trading` · `Trampas Financieras` · `Transferencia de Saldo` · `Tipos de Interés` · `Valor Refugio` · `Viajes Inteligentes`
