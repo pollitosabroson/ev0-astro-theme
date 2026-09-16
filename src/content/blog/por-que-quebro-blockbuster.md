@@ -96,7 +96,7 @@ Pero el mito de que "Netflix mató a Blockbuster" es **incompleto**. Blockbuster
 
 Blockbuster reaccionó y lanzó su propio servicio por internet, pero lo hizo **media década tarde**, ahogado en deudas, y no funcionó. El final llegó en **2010: la quiebra**, con pérdidas de cientos de millones en un solo año.
 
-Las empresas rara vez mueren por el rival de fuera. Mueren por lo de dentro: la deuda, los costes y **no poder soltar el negocio que las hizo ricas** (es el mismo patrón del [error de Kodak](/blog/kodak-error-innovacion-inversiones-leccion-financiera/), que inventó la cámara digital y siguió defendiendo el carrete). Netflix solo dio el empujón; la grieta ya estaba. (Le pasó igual a otro gigante: la [historia de BlackBerry](/blog/historia-de-blackberry/).)
+Las empresas rara vez mueren por el rival de fuera. Mueren por lo de dentro: la deuda, los costes y **no poder soltar el negocio que las hizo ricas** (es el mismo patrón del [error de Kodak](/blog/kodak-error-innovacion-inversiones-leccion-financiera/), que inventó la cámara digital y siguió defendiendo el carrete). Netflix solo dio el empujón; la grieta ya estaba. (Le pasó igual a otros dos gigantes del móvil: la [historia de BlackBerry](/blog/historia-de-blackberry/) y la [historia de Nokia](/blog/historia-de-nokia/).)
 
 ## ¿Queda alguna tienda de Blockbuster abierta?
 

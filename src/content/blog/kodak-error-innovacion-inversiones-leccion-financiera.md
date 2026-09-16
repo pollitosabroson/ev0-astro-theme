@@ -140,6 +140,8 @@ Resultado:
 - Kodak quebró en 2012  
 - Fujifilm sigue creciendo en 2026  
 
+No es un caso aislado: otra empresa lleva 160 años haciendo justo eso, matar su propio negocio antes de que se lo maten. Es la [historia de Nokia](/blog/historia-de-nokia/).
+
 ---
 
 ## La caída: cuando el gigante se queda sin oxígeno

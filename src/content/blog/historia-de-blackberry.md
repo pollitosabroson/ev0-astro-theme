@@ -84,6 +84,8 @@ Y llegó el desplome:
 - **2014:** 6.800 millones, con pérdidas de casi 6.000 ese año.
 - **2016:** fuera del negocio de los móviles, para siempre.
 
+Su gran rival de entonces se estrelló casi a la vez y por un motivo muy parecido, aferrarse al software que lo había hecho grande. Pero su final fue distinto: la [historia de Nokia](/blog/historia-de-nokia/).
+
 El golpe final fue al corazón: aquel peaje de 2.000 millones al año **se evaporó**. Las operadoras dejaron de pagarlo. La máquina de imprimir billetes se apagó.
 
 El peligro casi nunca viene del rival que hace lo mismo un poco mejor. Viene del que **cambia las reglas del juego** mientras tú sigues jugando con las viejas. Es el mismo patrón que ya vimos en el [error de Kodak](/blog/kodak-error-innovacion-inversiones-leccion-financiera/): tenía la cámara digital inventada en su propio laboratorio y siguió defendiendo el carrete.

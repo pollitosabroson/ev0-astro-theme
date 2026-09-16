@@ -1,7 +1,8 @@
 # Guía de Enlazado Interno — alejandrorosales.me
 
 Referencia rápida para añadir enlaces internos en nuevos artículos **sin re-analizar todo el blog**.
-Reglas: máximo 3 enlaces nuevos por artículo · solo primera aparición · no en TL;DR ni FAQ.
+Reglas: enlaza cada tema HUB que menciones de verdad · solo primera aparición · no en TL;DR ni FAQ.
+Sin tope numérico — el criterio es que el enlace lo pida la frase, no rellenar. Excepción: al retrofitar posts antiguos, máximo 3 enlaces nuevos por tanda para no reescribirlos.
 
 ---
 
@@ -57,6 +58,7 @@ Cuando escribas un nuevo artículo y menciones cualquiera de estos temas, enlaza
 | Tesla, quién fundó Tesla, Martin Eberhard, cofundadores, infierno de producción, créditos de emisiones | ¿Quién fundó Tesla? | `/blog/quien-fundo-tesla/` |
 | Amazon, AWS, cómo gana dinero Amazon, Jeff Bezos, burbuja puntocom, modelo de negocio | Cómo gana dinero Amazon | `/blog/como-gana-dinero-amazon/` |
 | Blockbuster, por qué quebró Blockbuster, Netflix, multas por retraso, foso económico que se vuelve trampa | Por qué quebró Blockbuster | `/blog/por-que-quebro-blockbuster/` |
+| Nokia, historia de Nokia, Symbian, reinvención, AI-RAN, empresa que se reinventa | Historia de Nokia | `/blog/historia-de-nokia/` |
 
 ---
 
@@ -241,6 +243,14 @@ Estado tras el análisis de 102 artículos: **158 enlaces aplicados**.
 | kodak-error-innovacion-inversiones-leccion-financiera.md | Inteligencia Artificial | megatendencias-inversion-2040 |
 | nvidia-historia-inteligencia-artificial.md | Megatendencias de inversión hacia 2040 | megatendencias-inversion-2040 |
 | nvidia-historia-inteligencia-artificial.md | iRobot: de líder a la bancarrota | irobot-historia-bancarrota-lecciones-financieras |
+| nvidia-historia-inteligencia-artificial.md | historia de Nokia | historia-de-nokia |
+| historia-de-blackberry.md | historia de Nokia | historia-de-nokia |
+| por-que-quebro-blockbuster.md | historia de Nokia | historia-de-nokia |
+| kodak-error-innovacion-inversiones-leccion-financiera.md | historia de Nokia | historia-de-nokia |
+| historia-de-nokia.md | Nvidia | nvidia-historia-inteligencia-artificial |
+| historia-de-nokia.md | historia de BlackBerry | historia-de-blackberry |
+| historia-de-nokia.md | Blockbuster | por-que-quebro-blockbuster |
+| historia-de-nokia.md | Kodak | kodak-error-innovacion-inversiones-leccion-financiera |
 | que-es-la-inflacion.md | cómo el precio del petróleo afecta a tu bolsillo | precio-petroleo-afecta-bolsillo |
 | que-es-la-inflacion.md | ahorrar sin invertir puede hacerte más pobre | por-que-ahorrar-dinero-te-hace-mas-pobre |
 | que-es-la-inflacion.md | hipoteca variable | hipotecas-desde-cero-que-son-como-funcionan |
