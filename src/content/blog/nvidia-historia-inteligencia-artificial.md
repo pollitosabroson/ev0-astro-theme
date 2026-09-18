@@ -406,6 +406,8 @@ Y esa es probablemente la mayor lección para cualquier inversor o profesional h
 
 👉 el futuro pertenece a quienes saben reinventarse antes de que el mercado los obligue.
 
+El ejemplo más extremo de eso lleva 160 años haciéndolo, y hoy NVIDIA le ha invertido 1.000 millones: la [historia de Nokia](/blog/historia-de-nokia/).
+
 ---
 
 # FAQ (Optimizado para Featured Snippets)

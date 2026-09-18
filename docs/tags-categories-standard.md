@@ -117,13 +117,13 @@ Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 `Jeff Bezos` · `Jensen Huang` · `Jubilación` · `Klarna` · `Libertad Financiera` · `Liquidez` · `Lonchafinismo`
 
 ### M – N
-`Manejo del Dinero` · `Megatendencias` · `Mentalidad de Escasez` · `Mentalidad Millonaria` · `Mercados de Predicción` · `Metas Financieras` · `MiCA` · `Miedo al Dinero` · `Movimiento FIRE` · `MSCI World` · `MyInvestor` · `Neobancos` · `Negociación` · `Negociación con Acreedores` · `Netflix` · `Nuevos Comienzos` · `Nuevos Impuestos` · `Nudismo Financiero` · `NVIDIA`
+`Manejo del Dinero` · `Megatendencias` · `Mentalidad de Escasez` · `Mentalidad Millonaria` · `Mercados de Predicción` · `Metas Financieras` · `MiCA` · `Miedo al Dinero` · `Movimiento FIRE` · `MSCI World` · `MyInvestor` · `Neobancos` · `Negociación` · `Negociación con Acreedores` · `Netflix` · `Nokia` · `Nuevos Comienzos` · `Nuevos Impuestos` · `Nudismo Financiero` · `NVIDIA`
 
 ### O – P – Q
 `Objetivos Financieros` · `Optimización de Recursos` · `Oro` · `Paga Extra` · `Paciencia Financiera` · `Pago Mínimo` · `PayPal` · `Personalidad Financiera` · `Petróleo` · `Phishing` · `Pignoración` · `Planificación Financiera` · `Planificación Mensual` · `Plusvalía del Muerto` · `Poder Adquisitivo` · `Polymarket` · `Precio Vivienda` · `Préstamos` · `Presupuesto` · `Presupuesto Familiar` · `Primeros Pasos en Inversión` · `Private Equity` · `Propósitos de Año Nuevo` · `Psicología del Consumo` · `Psicología del Inversor` · `QNX`
 
 ### R
-`Reestructuración de Deuda` · `Reducir Gastos` · `Reduflación` · `Regulación Financiera` · `Relaciones Personales` · `Renta Fija` · `Renta Variable` · `Rentabilidad` · `Riesgo Financiero` · `Rolex` · `S&P 500` · `Salarios Construcción` · `Salud Financiera` · `Semiconductores` · `Skimpflation` · `SpaceX` · `Stablecoins` · `Starlink` · `Subida de Impuestos` · `Swing Pricing`
+`Reestructuración de Deuda` · `Reducir Gastos` · `Reduflación` · `Regulación Financiera` · `Reinvención` · `Relaciones Personales` · `Renta Fija` · `Renta Variable` · `Rentabilidad` · `Riesgo Financiero` · `Rolex` · `S&P 500` · `Salarios Construcción` · `Salud Financiera` · `Semiconductores` · `Skimpflation` · `SpaceX` · `Stablecoins` · `Starlink` · `Subida de Impuestos` · `Swing Pricing` · `Symbian`
 
 ### T – V
 `Tarjeta de Crédito` · `Tarjetas de Crédito` · `Tecnología` · `Tesla` · `Test de Perfil de Inversor` · `Tokenización` · `Trading` · `Trampas Financieras` · `Transferencia de Saldo` · `Tipos de Interés` · `Valor Refugio` · `Viajes Inteligentes`
