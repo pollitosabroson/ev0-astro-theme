@@ -2,7 +2,7 @@
 title: "Roboadvisors: qué son y cuándo merecen la pena"
 description: "Qué es un roboadvisor, cuánto cobra de verdad y cuándo merece la pena frente a tu banco o a hacerlo tú mismo. Su valor real no es la rentabilidad."
 pubDate: "2026-09-24T18:00:00.000Z"
-heroImage: "/blogs/roboadvisors.webp"
+heroImage: "https://src.img.pro/fFgMe/98h2x2td.webp"
 categories: ["Inversiones", "Educación Financiera", "Psicología del Dinero"]
 tags: ["Roboadvisors", "Inversión Pasiva", "Fondos Indexados", "Comisiones", "Diversificación", "Inversión a Largo Plazo", "Psicología del Inversor"]
 authors: ["Alejandro Rosales"]
