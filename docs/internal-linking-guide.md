@@ -247,6 +247,9 @@ Estado tras el análisis de 102 artículos: **158 enlaces aplicados**.
 | historia-de-blackberry.md | historia de Nokia | historia-de-nokia |
 | por-que-quebro-blockbuster.md | historia de Nokia | historia-de-nokia |
 | kodak-error-innovacion-inversiones-leccion-financiera.md | historia de Nokia | historia-de-nokia |
+| roboadvisors.md | fondos indexados | triunfo-inversor-mediocre-inversion-indexada |
+| roboadvisors.md | el método FIFO | metodo-fifo-inversiones |
+| roboadvisors.md | las cuentas remuneradas | cuentas-remuneradas |
 | historia-de-nokia.md | Nvidia | nvidia-historia-inteligencia-artificial |
 | historia-de-nokia.md | historia de BlackBerry | historia-de-blackberry |
 | historia-de-nokia.md | Blockbuster | por-que-quebro-blockbuster |
