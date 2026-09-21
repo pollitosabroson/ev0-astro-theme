@@ -2,7 +2,7 @@
 title: "El peligro de romantizar el ahorro extremo: ¿realmente vale la pena?"
 description: "¿Vale la pena vivir como monje para ahorrar 3€? Descubre qué hay detrás del lonchafinismo, por qué se ha vuelto viral y cómo puede arruinar tu salud financiera si no lo gestionas con equilibrio. Este blog no es lo que esperas, pero sí lo que necesitas leer."
 pubDate: "2025-06-24T20:30:17.598Z"
-heroImage: "/blogs/lonchafinismo.webp"
+heroImage: "https://src.img.pro/fFgMe/b5hxmvmf.webp"
 categories: ["Finanzas Personales", "Mentalidad Financiera"]
 tags: ["Lonchafinismo", "Frugalidad", "Salud Financiera", "Ahorro Inteligente", "Educación Financiera"]
 author: ["Alejandro Rosales"]

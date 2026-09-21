@@ -2,7 +2,7 @@
 title: "El laberinto de las hipotecas"
 description: "¿Estás pensando en ese sueño guajiro de tener una hipoteca para por fin mandar a freír espárragos (mandarlo a la mierda, pues) a tu casero y dejar de pagar un alquiler para tener algo tuyo y darle tu dinero, que ganaste con el sudor de tu frente, a un banco y a Hacienda, para que te fundan a impuestos? Si quieres saber lo básico de una hipoteca y no tienes paciencia para leer!"
 pubDate: "2024-05-20T14:32:10.026Z"
-heroImage: "/blogs/hipotecas.webp"
+heroImage: "https://src.img.pro/fFgMe/t3hjqdeo.webp"
 categories: ["Hipotecas"]
 tags: ["Hipoteca", "Comprar Casa", "Finanzas Personales", "IRPF", "Planificación Financiera", "Libertad Financiera", "Inversión", "Alejandro Rosales"]
 author: ["Alejandro Rosales"]

@@ -2,7 +2,7 @@
 title: "El Efecto Cantillon: por qué tu sueldo no crece aunque impriman más dinero"
 description: "¿Sabías que cuando los gobiernos imprimen dinero, los precios suben antes de que tú lo notes… y tu salario queda igual? Descubre cómo el Efecto Cantillon afecta directamente tu bolsillo y aprende cómo proteger tu poder adquisitivo (e incluso beneficiarte) con una estrategia clara."
 pubDate: "2025-05-19T10:08:12.526Z"
-heroImage: "/blogs/efecto-cantillon.webp"
+heroImage: "https://src.img.pro/fFgMe/437mw68e.webp"
 categories: ["Finanzas Personales", "Educación Financiera"]
 tags: ["Efecto Cantillon", "Inflación", "Poder Adquisitivo", "Bancos Centrales", "Educación Financiera", "inversión"]
 author: ["Alejandro Rosales"]

@@ -2,7 +2,7 @@
 title: "Cómo sobrevivir a diciembre sin arruinar enero: guía práctica para una Navidad financiera inteligente"
 description: "Diciembre es alegría, pero también uno de los meses más peligrosos para tus finanzas. Descubre por qué ocurre, cómo evitar la famosa Cuesta de Enero y cómo planificar tu dinero para cerrar el año con tranquilidad."
 pubDate: "2025-12-02T20:30:26.113Z"
-heroImage: "/blogs/navidad-finanzas-guia.webp"
+heroImage: "https://src.img.pro/fFgMe/9n6cf8tz.webp"
 categories: ["Finanzas Personales", "Educación Financiera", "Presupuestos"]
 tags: ["Aguinaldo", "Presupuesto", "Consumo Consciente"]
 author: "Alejandro Rosales"

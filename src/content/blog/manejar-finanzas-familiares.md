@@ -2,7 +2,7 @@
 title: "Cómo Manejar las Finanzas Familiares de Manera Eficiente"
 description: "¿Quieres tomar el control de tus finanzas familiares? En este blog, te enseñaré cómo crear un presupuesto, establecer objetivos financieros y ahorrar para el futuro. ¡Descubre los secretos para una vida financiera saludable! "
 pubDate: "2024-09-24T20:08:28.303Z"
-heroImage: "/blogs/finanzas-familia.webp"
+heroImage: "https://src.img.pro/fFgMe/qzxlz78l.webp"
 categories: ["Finanzas Personales"]
 tags: ["Finanzas Familiares", "Presupuesto Familiar", "Educación Financiera", "Fondo de Emergencia", "Ahorro", "Inversiones Familiares", "Estrategias de Ahorro", "Objetivos Financieros"]
 author: ["Alejandro Rosales"]

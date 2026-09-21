@@ -2,7 +2,7 @@
 title: "¿Quién fundó Tesla? La historia real (no fue Musk)"
 description: "¿Quién fundó Tesla? No fue Elon Musk. La historia real: los dos ingenieros que la crearon, las dos casi-quiebras y la lección de inversión que deja."
 pubDate: "2026-08-20T12:00:00.000Z"
-heroImage: "/blogs/quien-fundo-tesla.webp"
+heroImage: "https://src.img.pro/fFgMe/naw5mqjh.webp"
 categories: ["Empresas", "Inversiones", "Tecnología"]
 tags: ["Tesla", "Elon Musk", "Empresas", "Tecnología", "Acciones", "Psicología del Inversor", "Inversiones", "Inteligencia Artificial"]
 authors: ["Alejandro Rosales"]

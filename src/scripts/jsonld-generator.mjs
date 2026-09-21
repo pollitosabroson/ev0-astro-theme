@@ -414,7 +414,7 @@ function generateBlogJsonLd(config, posts) {
         "@id": `${baseUrl}/#organization`
       },
       "mainEntityOfPage": `${baseUrl}/blog/${post.slug}`,
-      "image": post.heroImage ? `${baseUrl}${post.heroImage}` : `${baseUrl}/blog-placeholder.jpg`,
+      "image": new URL(post.heroImage || "/blog-placeholder.jpg", baseUrl).href,
       "articleSection": post.categories,
       "keywords": post.tags,
       "isPartOf": {

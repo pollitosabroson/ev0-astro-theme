@@ -3,7 +3,7 @@ title: "¿La IA va a quitarte el trabajo en 2026? La verdad que nadie te está c
 description: "Despidos masivos, nuevos salarios y oportunidades: qué está haciendo la IA con el empleo en 2026 y cómo aprovecharlo a tu favor."
 slug: ia-trabajo-2026-impacto-empleo-realidad
 pubDate: 2026-04-12
-heroImage: "/blogs/ia-trabajo-2026.webp"
+heroImage: "https://src.img.pro/fFgMe/vwzgpdsq.webp"
 categories: ["Educación Financiera", "Economía Personal", "Mentalidad Financiera"]
 tags: ["Inteligencia Artificial", "Impacto Económico", "Educación Financiera", "Megatendencias", "Desarrollo Personal", "Finanzas Personales"]
 authors: ["Alejandro Rosales"]

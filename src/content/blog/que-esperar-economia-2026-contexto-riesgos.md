@@ -2,7 +2,7 @@
 title: "Qué Podemos Esperar de la Economía en 2026: Contexto, Riesgos y Oportunidades"
 description: "El 2026 no empieza desde cero. Para entender qué puede pasar en la economía y los mercados, primero hay que comprender lo que ocurrió en 2025. En este análisis explico el contexto, las señales clave y qué deberías observar sin caer en el miedo."
 pubDate: "2025-12-31T15:00:05.195Z"
-heroImage: "/blogs/economia-2026.webp"
+heroImage: "https://src.img.pro/fFgMe/v88dktmk.webp"
 categories: ["Economía Personal", "Estrategias de Inversión", "Educación Financiera"]
 tags: ["Bolsa de Valores", "Inflación", "Inteligencia Artificial", "Economía Personal"]
 author: ["Alejandro Rosales"]

@@ -3,7 +3,7 @@ title: "Megatendencias de inversión hacia 2040"
 description: "Las megatendencias están redefiniendo la economía global. Descubre cómo la IA, la energía, la demografía y la tokenización impactarán tus inversiones."
 slug: megatendencias-inversion-2040
 pubDate: "2026-02-14T18:00:00.000Z"
-heroImage: "/blogs/megatendencias-2040.webp"
+heroImage: "https://src.img.pro/fFgMe/hmtczpzq.webp"
 categories: ["Inversiones", "Educación Financiera", "Economía Personal"]
 tags: ["Megatendencias", "Inversión a Largo Plazo", "Inteligencia Artificial", "Inflación", "Demografía", "Tokenización", "Inversiones"]
 author: ["Alejandro Rosales"]

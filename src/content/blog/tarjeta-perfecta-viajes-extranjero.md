@@ -2,7 +2,7 @@
 title: "Cómo Elegir la Tarjeta Perfecta para Tus Viajes al Extranjero"
 description: "Evita comisiones ocultas y haz que tu dinero rinda más en cada viaje con estas estrategias financieras indispensables."
 pubDate: "2025-09-09T20:30:00.965Z"
-heroImage: "/blogs/tarjeta-viajes.webp"
+heroImage: "https://src.img.pro/fFgMe/5b3vzbbe.webp"
 categories: ["Finanzas Personales", "Viajes"]
 tags: ["Tarjetas de Crédito", "Neobancos", "Comisiones Internacionales", "Viajes Inteligentes"]
 author: ["Alejandro Rosales"]

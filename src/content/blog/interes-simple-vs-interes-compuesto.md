@@ -2,7 +2,7 @@
 title: "El Secreto del Interés Simple vs. Interés Compuesto: ¿Estás Haciendo Crecer Tu Dinero?"
 description: "¿Te sientes atrapado en un ciclo financiero? Descubre por qué ahorrar no es suficiente y cómo el interés compuesto puede transformar tu futuro financiero. ¡Haz que tu dinero trabaje para ti ahora!"
 pubDate: "2025-04-07T17:05:04.964Z"
-heroImage: "/blogs/simplevscompuesto.webp"
+heroImage: "https://src.img.pro/fFgMe/cr89s2c9.webp"
 categories: ["Finanzas Personales", "Inversiones", "Educación Financiera"]
 tags: ["Interés Compuesto", "finanzas personales", "Inversiones", "Rentabilidad", "Educación Financiera", "Inversión Inteligente"]
 author: ["Alejandro Rosales"]

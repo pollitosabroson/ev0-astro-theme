@@ -2,7 +2,7 @@
 title: "Cómo gana dinero Amazon (no es vendiendo cosas)"
 description: "Cómo gana dinero Amazon de verdad: no vendiendo cosas, sino con AWS y publicidad. La historia del garaje a hoy y la lección de inversión que deja."
 pubDate: "2026-08-27T16:30:00.000Z"
-heroImage: "/blogs/como-gana-dinero-amazon.webp"
+heroImage: "https://src.img.pro/fFgMe/acrlmafs.webp"
 categories: ["Empresas", "Inversiones", "Tecnología"]
 tags: ["Amazon", "AWS", "Jeff Bezos", "Empresas", "Tecnología", "Burbuja Puntocom", "Psicología del Inversor", "Inteligencia Artificial"]
 authors: ["Alejandro Rosales"]

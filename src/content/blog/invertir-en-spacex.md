@@ -3,7 +3,7 @@ title: "Invertir en SpaceX: qué estás comprando de verdad"
 description: "Invertir en SpaceX no es comprar cohetes. Qué hay dentro de la empresa, la guerra de valoraciones y los riesgos a leer antes de poner tu dinero."
 slug: invertir-en-spacex
 pubDate: "2026-06-11T20:30:59.712Z"
-heroImage: "/blogs/invertir-en-spacex.webp"
+heroImage: "https://src.img.pro/fFgMe/dfzjshly.webp"
 categories: ["Inversiones", "Tecnología", "Psicología Financiera"]
 tags: ["SpaceX", "Starlink", "IPO", "Elon Musk", "Acciones", "Bolsa de Valores", "Riesgo Financiero", "Psicología del Inversor"]
 authors: ["Alejandro Rosales"]

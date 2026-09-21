@@ -2,7 +2,7 @@
 title: "La Verdad Detrás de la Crisis de la Vivienda en España: La Construcción, el Cuello de Botella que Nos Está Jodiendo"
 description: "Comprar una casa es casi imposible. Analizamos por qué la vivienda está tan cara en España: la escasez crítica de 700.000 trabajadores en la construcción, el envejecimiento del sector, la presión salarial y cómo esto frena la obra nueva. Una crisis estructural que afecta a toda una generación."
 pubDate: "2025-09-30T20:30:00.000Z" 
-heroImage: "/blogs/crisis-vivienda-espana.webp" 
+heroImage: "https://src.img.pro/fFgMe/otvvdgkm.webp" 
 categories: ["Economía Española", "Mercado Inmobiliario", "Vivienda"]
 tags: ["Crisis Vivienda", "Precio Vivienda", "Escasez de Mano de Obra", "Hipoteca", "Inversión Inmobiliaria", "Alejandro Rosales"] 
 author: ["Alejandro Rosales"]

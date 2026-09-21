@@ -2,7 +2,7 @@
 title: "Cuentas remuneradas: ¿de verdad valen la pena?"
 description: "¿Las cuentas remuneradas valen la pena? Qué te pagan de verdad tras Hacienda y la inflación, para qué son perfectas y para qué son un error."
 pubDate: "2026-08-13T12:00:00.000Z"
-heroImage: "/blogs/cuentas-remuneradas.webp"
+heroImage: "https://src.img.pro/fFgMe/jxsdvp8t.webp"
 categories: ["Ahorro e Inversión", "Educación Financiera", "Finanzas Personales"]
 tags: ["Cuentas Remuneradas", "Ahorro", "Inflación", "Fondo de Emergencia", "Bonos del Tesoro", "Fondos Monetarios", "Liquidez", "Tipos de Interés"]
 authors: ["Alejandro Rosales"]
@@ -86,7 +86,7 @@ Y aún hay letra pequeña: el 5 % suele ser **solo el primer año**, muchas cuen
 
 Depende de para qué. Una cuenta remunerada no es buena ni mala: es **una herramienta**, y una herramienta es buena o mala según el uso. Un martillo es perfecto para un clavo y malísimo para un tornillo.
 
-![Para qué sí y para qué no sirven las cuentas remuneradas: fondo de emergencia y ahorro a corto plazo sí; hacerte rico y largo plazo no](/blogs/cuentas-remuneradas-usos.webp)
+![Para qué sí y para qué no sirven las cuentas remuneradas: fondo de emergencia y ahorro a corto plazo sí; hacerte rico y largo plazo no](https://src.img.pro/fFgMe/rx2hx5cm.webp?w=960&q=72)
 
 **Sí valen la pena si:**
 
@@ -106,7 +106,7 @@ La frase que quiero que te lleves: la cuenta remunerada es **la primera parada d
 
 La clave es dejar de buscar "el mejor sitio" para todo tu dinero: ese sitio no existe, porque **cada euro tuyo tiene un trabajo distinto**. En vez de elegir una opción, **reparte por objetivos y por plazo**:
 
-![Comparativa de alternativas: cuenta remunerada para seguridad, fondos indexados para rentabilidad, invertir a largo plazo para crecimiento](/blogs/cuentas-remuneradas-alternativas.webp)
+![Comparativa de alternativas: cuenta remunerada para seguridad, fondos indexados para rentabilidad, invertir a largo plazo para crecimiento](https://src.img.pro/fFgMe/6xovshog.webp?w=960&q=72)
 
 | Horizonte | Para qué | Opción típica |
 | --- | --- | --- |

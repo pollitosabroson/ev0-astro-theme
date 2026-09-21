@@ -2,7 +2,7 @@
 title: "Qué es la inflación y por qué no baja igual en todos"
 description: "Qué es la inflación, en qué se diferencia la general de la subyacente y por qué a unos países se les va mientras a otros se les queda pegada."
 pubDate: "2026-07-24T12:00:00.000Z"
-heroImage: "/blogs/que-es-la-inflacion.webp"
+heroImage: "https://src.img.pro/fFgMe/tsq9qqa6.webp"
 categories: ["Economía Personal", "Educación Financiera"]
 tags: ["Inflación", "Poder Adquisitivo", "Tipos de Interés", "Bancos Centrales", "Ahorro", "Economía Global", "Energía", "Educación Financiera"]
 authors: ["Alejandro Rosales"]

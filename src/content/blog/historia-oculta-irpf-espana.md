@@ -2,7 +2,7 @@
 title: "La historia oculta del IRPF que nadie te cuenta (y cómo afecta tu bolsillo sin que lo sepas)"
 description: "¿Por qué la declaración de la renta genera tanto miedo cada año? Descubre el origen del IRPF y cómo una guerra marcó el inicio del impuesto más importante en España. Spoiler: no es lo que crees."
 pubDate: "2025-04-11T21:29:29.565Z"
-heroImage: "/blogs/irpf.webp"
+heroImage: "https://src.img.pro/fFgMe/5solrrrj.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
 tags: ["Declaración de la Renta", "IRPF", "Impuestos en España", "finanzas personales", "Educación Financiera", "ahorro"]
 author: ["Alejandro Rosales"]

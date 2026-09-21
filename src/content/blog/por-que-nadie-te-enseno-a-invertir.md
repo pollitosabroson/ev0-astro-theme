@@ -3,7 +3,7 @@ title: "Por qué NADIE te enseñó a invertir (y cómo romper el sistema en 2026
 description: "Descubre la verdad incómoda: la educación financiera no es un error, es un diseño. Aprende cómo romper el sistema y empezar a invertir desde hoy."
 slug: por-que-nadie-te-enseno-a-invertir-2026
 pubDate: 2026-03-23
-heroImage: "/blogs/educacion-financiera.webp"
+heroImage: "https://src.img.pro/fFgMe/b2gkde8e.webp"
 categories: ["Finanzas Personales", "Educación Financiera", "Inversiones"]
 tags: ["Educación Financiera", "Cómo Empezar a Invertir", "Interés Compuesto", "Libertad Financiera"]
 author: "Alejandro Rosales"

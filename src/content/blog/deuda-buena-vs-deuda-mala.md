@@ -2,7 +2,7 @@
 title: "¿Tu deuda te hunde o te impulsa? Descubre la diferencia entre deuda buena y deuda mala"
 description: " ¿Tu deuda te está hundiendo o impulsando? No todas las deudas son malas, pero si no las entiendes bien, puedes perder dinero. Aprende a diferenciar entre deuda buena y deuda mala y descubre cómo hacer que el dinero trabaje para ti. 🚀"
 pubDate: "2025-03-24T10:08:36.623Z"
-heroImage: "/blogs/deuda-buena-vs-deuda-mala.webp"
+heroImage: "https://src.img.pro/fFgMe/l52xvxqh.webp"
 categories: ["Finanzas Personales", "Inversiones", "Educación Financiera"]
 tags: ["Deuda", "finanzas personales", "Control de Gastos", "Inversión Inteligente", "Libertad Financiera"]
 author: ["Alejandro Rosales"]
