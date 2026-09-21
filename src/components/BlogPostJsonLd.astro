@@ -45,7 +45,7 @@ const blogPostJsonLd = {
   },
   "headline": title,
   "description": description,
-  "image": heroImage ? `${baseUrl}${heroImage}` : `${baseUrl}/blog-placeholder.jpg`,
+  "image": new URL(heroImage || "/blog-placeholder.jpg", baseUrl).href,
   "author": {
     "@id": `${baseUrl}/#person`
   },

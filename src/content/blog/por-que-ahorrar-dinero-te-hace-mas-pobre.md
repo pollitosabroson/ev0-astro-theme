@@ -3,7 +3,7 @@ title: "Por qué ahorrar dinero te hace más pobre cada año"
 description: "Ahorrar dinero ya no es seguro: la inflación y la expansión monetaria destruyen tu poder adquisitivo. Descubre por qué el ahorro pasivo es una trampa."
 slug: por-que-ahorrar-dinero-te-hace-mas-pobre
 pubDate: "2026-02-10T20:30:00.000Z"
-heroImage: "/blogs/ahorrar-te-hace-mas-pobre.webp"
+heroImage: "https://src.img.pro/fFgMe/t4xssvns.webp"
 categories: ["Finanzas Personales", "Educación Financiera", "Inversiones"]
 tags: ["ahorro", "Inflación", "Poder Adquisitivo", "inversión", "Oro", "Inversión Inmobiliaria", "Economía Global"]
 author: ["Alejandro Rosales"]

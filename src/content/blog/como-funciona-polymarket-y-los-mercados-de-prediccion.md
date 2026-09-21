@@ -2,7 +2,7 @@
 title: "Polymarket: Cómo los Mercados de Predicción Están Cambiando la Información"
 description: "Descubre cómo Polymarket está transformando la forma en que el mundo predice economía, política y tecnología. Aprende cómo funcionan los mercados de predicción, sus riesgos y por qué Wall Street ya les presta atención."
 pubDate: "2026-05-13T12:00:00.000Z"
-heroImage: "/blogs/polymarket-mercados-prediccion.webp"
+heroImage: "https://src.img.pro/fFgMe/txrl6omw.webp"
 categories: ["Tecnología", "Inversiones", "Educación Financiera"]
 tags: ["Polymarket", "Mercados de Predicción", "Blockchain", "Trading", "Inteligencia Artificial", "Análisis de Mercado", "Economía Global", "Inversión"]
 authors: ["Alejandro Rosales"]

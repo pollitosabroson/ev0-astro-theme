@@ -10,6 +10,7 @@ import FAQSchema from "@components/FAQSchema.astro";
 import DisclaimerFinanciero from "@components/DisclaimerFinanciero.astro";
 import RelatedPosts from "@components/RelatedPosts.astro";
 import { Image } from "astro:assets";
+import { heroUrl } from "@utils/img";
 import config from "@config/config.json";
 import { slugify } from "@utils/slug";
 
@@ -59,9 +60,9 @@ const canonicalUrl = `${config.site.base_url}${Astro.url.pathname}`;
       {
         heroImage && (
           <figure class="w-auto h-auto md:h-[480px] object-cover">
-            <Image
+            <img
               class="transition duration-300 ease-in-out hover:scale-110"
-              src={heroImage}
+              src={heroUrl(heroImage, 960)}
               alt={title}
               width={960}
               height={480}

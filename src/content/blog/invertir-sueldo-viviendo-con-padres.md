@@ -2,7 +2,7 @@
 title: "Cómo invertir tu sueldo mientras vives con tus padres y asegurar tu futuro financiero"
 description: "Descubre la estrategia financiera que nadie te contó para multiplicar tu dinero mientras vives con tus padres. Aprende a ahorrar, invertir y asegurar tu futuro financiero de forma inteligente."
 pubDate: "2025-02-03T15:08:20.926Z"
-heroImage: "/blogs/sueldo-casa-padres.webp"
+heroImage: "https://src.img.pro/fFgMe/efbtc75e.webp"
 categories: ["Finanzas Personales", "Inversiones"]
 tags: ["Inversiones", "Ahorro", "Finanzas Personales", "Educación Financiera", "Gestión del Dinero"]
 author: ["Alejandro Rosales"]

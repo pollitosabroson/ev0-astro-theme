@@ -2,7 +2,7 @@
 title: "Comprar un coche es mala inversión (y aún así lo hice)"
 description: "Comprar un coche es una mala inversión en lo financiero. Pero hay cinco criterios que cambian la ecuación en cualquier compra grande de tu vida."
 pubDate: "2026-06-11T13:40:38.591Z"
-heroImage: "/blogs/comprar-coche-mala-inversion.webp"
+heroImage: "https://src.img.pro/fFgMe/nmg9exxt.webp"
 categories: ["Finanzas Personales", "Psicología del Dinero"]
 tags: ["Decisiones Financieras", "Coste de Oportunidad", "Depreciación", "Consumo Consciente", "Errores Financieros", "Bienestar Emocional", "Finanzas Personales"]
 authors: ["Alejandro Rosales"]

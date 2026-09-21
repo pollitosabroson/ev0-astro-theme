@@ -2,7 +2,7 @@
 title: "Presupuesto: El secreto para llegar a fin de mes"
 description: "Descubre cómo alcanzar la tranquilidad financiera y dejar atrás las deudas. Una historia personal de transformación y consejos prácticos para tomar el control de tu dinero."
 pubDate: "2024-02-14T14:53:55.887Z"
-heroImage: "/blogs/3.webp"
+heroImage: "https://src.img.pro/fFgMe/5kq4lzse.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
 tags: ["finanzas personales", "Salud Financiera", "ahorro", "Presupuesto", "Control de Gastos"]
 author: ["Alejandro Rosales"]

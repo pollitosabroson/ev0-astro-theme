@@ -2,7 +2,7 @@
 title: "¿Existe la inversión sin riesgo en 2026?"
 description: "Descubre qué es la Tasa Libre de Riesgo, cómo funciona el CAPM y por qué la seguridad absoluta no existe. Aprende a proteger tu patrimonio en 2026."
 pubDate: "2026-02-28T12:00:00.000Z"
-heroImage: "/blogs/inversion-sin-riesgo-2026.webp"
+heroImage: "https://src.img.pro/fFgMe/vo466ogw.webp"
 categories: ["Finanzas Personales", "Inversiones", "Educación Financiera"]
 tags: ["Renta Fija", "Inflación", "Bonos del Tesoro", "Gestión del Riesgo"]
 author: ["Alejandro Rosales"]

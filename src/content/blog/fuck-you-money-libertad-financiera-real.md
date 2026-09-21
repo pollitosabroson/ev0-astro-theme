@@ -2,7 +2,7 @@
 title: "¿Qué es el Fuck You Money y por qué podría cambiar tu vida para siempre?"
 description: "Descubre qué es el Fuck You Money, cómo puedes alcanzarlo aunque no seas millonario, y por qué se ha convertido en la verdadera meta de quienes buscan libertad financiera"
 pubDate: "2025-07-01T20:30:27.406Z"
-heroImage: "/blogs/fuckyoumoney.webp"
+heroImage: "https://src.img.pro/fFgMe/sw8cfr2s.webp"
 categories: ["Finanzas Personales", "Libertad Financiera"]
 tags: ["Fuck You Money", "Libertad Financiera", "Ahorro Inteligente", "Inversión Inteligente", "Mentalidad Millonaria"]
 author: ["Alejandro Rosales"]

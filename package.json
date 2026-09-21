@@ -34,6 +34,8 @@
     "astro": "astro",
     "youtube": "node scripts/youtube.cjs",
     "add-video-seo": "node scripts/add-video-seo.cjs",
+    "check:cdn": "sh scripts/check-cdn.sh",
+    "img": "node scripts/img-pro.cjs",
     "newpost": "astro-md-generator",
     "format": "prettier -w .",
     "lint:eslint": "eslint . --ext .js,.ts,.astro"

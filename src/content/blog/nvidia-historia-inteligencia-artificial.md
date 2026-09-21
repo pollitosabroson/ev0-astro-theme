@@ -3,7 +3,7 @@ title: "Cómo NVIDIA pasó de casi quebrar a dominar la Inteligencia Artificial"
 description: "Descubre cómo NVIDIA sobrevivió a la quiebra, revolucionó los videojuegos y terminó convirtiéndose en el motor de la Inteligencia Artificial y la economía tecnológica."
 slug: "nvidia-historia-inteligencia-artificial"
 pubDate: "2026-04-25"
-heroImage: "/blogs/nvidia-inteligencia-artificial.webp"
+heroImage: "https://src.img.pro/fFgMe/gc7g5a7v.webp"
 categories: ["Tecnología", "Empresas", "Inversiones"]
 tags: ["NVIDIA", "Inteligencia Artificial", "Jensen Huang", "GPU", "Semiconductores", "Inversiones", "Análisis de Mercado", "Economía Global"]
 authors: ["Alejandro Rosales"]

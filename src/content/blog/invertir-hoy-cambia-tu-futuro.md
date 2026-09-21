@@ -2,7 +2,7 @@
 title: "Invertir Hoy: El Secreto que Cambiará Tu Futuro Financiero para Siempre"
 description: "¿Por qué empezar a invertir hoy y no mañana? Descubre cómo el tiempo y el interés compuesto pueden cambiar tu vida financiera. Aprende desde mi experiencia lo que nadie te dice sobre invertir tarde… y por qué no puedes darte ese lujo."
 pubDate: "2025-07-22T20:30:00.000Z"
-heroImage: "/blogs/invertir-hoy.webp"
+heroImage: "https://src.img.pro/fFgMe/lvhhjlpg.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
 tags: ["Inversión", "Educación Financiera", "Interés Compuesto", "Libertad Financiera", "Ahorro Inteligente"]
 author: ["Alejandro Rosales"]

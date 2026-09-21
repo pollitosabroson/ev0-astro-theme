@@ -2,7 +2,7 @@
 title: "Qué es una Cartera de Inversión y Cómo Construirla Desde Cero"
 description: "¿Todavía no entiendes qué es una cartera de inversión? Tranquilo, nadie nos enseñó esto en el colegio. En este artículo te explico en español sencillo qué es, por qué es tan importante y cómo empezar a construir la tuya desde cero sin tecnicismos."
 pubDate: "2025-12-09T20:30:19.486Z"
-heroImage: "/blogs/cartera-inversion.webp"
+heroImage: "https://src.img.pro/fFgMe/7hnbky6l.webp"
 categories: ["Finanzas Personales", "Inversiones", "Educación Financiera"]
 tags: ["Cartera de Inversión", "Diversificación", "Fondos Indexados", "Renta Fija", "Renta Variable", "Finanzas para Principiantes"]
 author: ["Alejandro Rosales"]

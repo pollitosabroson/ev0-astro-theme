@@ -2,7 +2,7 @@
 title: "iRobot: Cómo una Empresa Líder Pasó de la Innovación Militar a la Bancarrota"
 description: "iRobot creó una categoría entera, dominó el mercado durante años y parecía imparable. Sin embargo, terminó en bancarrota. Esta es la historia completa y las lecciones financieras que deja."
 pubDate: "2026-01-06T20:30:22.231Z"
-heroImage: "/blogs/irobot-bancarrota.webp"
+heroImage: "https://src.img.pro/fFgMe/x38qopfm.webp"
 categories: ["Empresas", "Inversiones", "Educación Financiera"]
 tags: ["Empresas", "Acciones", "Riesgo Financiero"]
 author: ["Alejandro Rosales"]

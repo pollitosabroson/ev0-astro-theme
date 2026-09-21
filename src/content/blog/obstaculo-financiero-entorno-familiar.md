@@ -2,7 +2,7 @@
 title: "¿Y si el verdadero obstáculo financiero… duerme en tu casa?"
 description: "Descubre por qué tu entorno más cercano puede estar saboteando tu crecimiento financiero sin saberlo, y cómo convertir esa resistencia en impulso para alcanzar tu libertad financiera sin conflictos familiares."
 pubDate: "2025-05-05T05:05:34.650Z"
-heroImage: "/blogs/entorno-financiero.webp"
+heroImage: "https://src.img.pro/fFgMe/hkywga7p.webp"
 categories: ["Finanzas Personales", "Psicología del Dinero"]
 tags: ["Entorno Familiar", "Educación Financiera", "Creencias Limitantes", "Libertad Financiera", "Relaciones Personales", "Hábitos Financieros", "Miedo al Dinero"]
 author: ["Alejandro Rosales"]

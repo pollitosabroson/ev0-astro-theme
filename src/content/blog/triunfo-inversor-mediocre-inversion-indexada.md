@@ -2,7 +2,7 @@
 title: "El triunfo del inversor mediocre: por qué no ser brillante te hace ganar más"
 description: "Descubre por qué la inversión mediocre, basada en índices y bajo coste, supera a la mayoría de inversores activos y profesionales a largo plazo."
 pubDate: "2026-01-20T20:30:09.415Z"
-heroImage: "/blogs/inversor-mediocre.webp"
+heroImage: "https://src.img.pro/fFgMe/vgo3lbkj.webp"
 categories: ["Finanzas Personales", "Inversión Pasiva", "Educación Financiera"]
 tags: ["Fondos Indexados", "S&P 500", "MSCI World", "Estrategias de Inversión", "Gestión de Gastos", "Psicología del Inversor"]
 author: ["Alejandro Rosales"]

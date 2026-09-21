@@ -2,7 +2,7 @@
 title: "¿Qué harías si ganaras la lotería? La guía que nunca te dieron"
 description: "Descubre cómo manejar una gran suma de dinero de forma inteligente si ganas la lotería. Evita los errores más comunes y aprende a invertir para alcanzar la libertad financiera. ¡Haz clic para conocer todos los detalles y ver el video completo!"
 pubDate: "2024-11-19T06:20:30.279Z"
-heroImage: "/blogs/lottery.webp"
+heroImage: "https://src.img.pro/fFgMe/kssg6mz6.webp"
 categories: ["Blog Inversiones"]
 tags: ["Ganar la Lotería", "Libertad Financiera", "Errores Financieros", "Educación Financiera", "Ahorro Inteligente", "Gestión del Dinero", "Inversión Inteligente", "Planificación Financiera"]
 author: ["Alejandro Rosales"]

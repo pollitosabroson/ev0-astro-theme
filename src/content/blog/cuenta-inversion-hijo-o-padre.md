@@ -2,7 +2,7 @@
 title: "¿Debería Abrir una Cuenta de Inversión a Nombre de Mi Hijo o Mía?"
 description: "Invertir para tus hijos puede cambiar su vida financiera. Pero… ¿quién debe ser el titular de esa cuenta? Descubre las claves fiscales, legales y estratégicas antes de decidir."
 pubDate: "2025-07-15T10:00:00.000Z"
-heroImage: "/blogs/cuenta-inversion-hijo.webp"
+heroImage: "https://src.img.pro/fFgMe/d7szvobl.webp"
 categories: ["Finanzas Familiares", "Educación Financiera", "Estrategias de Inversión"]
 tags: ["Cuenta Junior", "Educación Financiera Infantil", "Inversión para Hijos", "Futuro Financiero", "Cuentas para Menores"]
 author: ["Alejandro Rosales"]

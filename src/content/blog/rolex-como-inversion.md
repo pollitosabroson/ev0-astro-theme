@@ -2,7 +2,7 @@
 title: "Comprar un Rolex como inversión: ¿merece la pena?"
 description: "¿Comprar un Rolex como inversión merece la pena? La verdad sobre su escasez, su valor de reventa y por qué su estructura es su mayor lección financiera."
 pubDate: "2026-07-09T18:00:00.000Z"
-heroImage: "/blogs/rolex-como-inversion.webp"
+heroImage: "https://src.img.pro/fFgMe/hsh3ke4d.webp"
 categories: ["Inversiones", "Empresas", "Psicología del Dinero"]
 tags: ["Rolex", "Escasez", "Valor Refugio", "Coste de Oportunidad", "Psicología del Inversor", "Liquidez", "Oro", "Empresas"]
 authors: ["Alejandro Rosales"]

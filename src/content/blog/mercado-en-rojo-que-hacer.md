@@ -2,7 +2,7 @@
 title: "¿El mercado se desploma? La clave para no perder dinero cuando todo se pone en rojo"
 description: "¿Te asustan las caídas del mercado? Descubre la estrategia que los inversores inteligentes aplican en plena crisis y cómo puedes proteger tu dinero cuando todos entran en pánico. ¡No cometas el error que la mayoría repite en cada bajada!"
 pubDate: "2025-04-22T18:11:41.806Z"
-heroImage: "/blogs/bajas-2025.webp"
+heroImage: "https://src.img.pro/fFgMe/5vnv8ne2.webp"
 categories: ["Finanzas Personales", "Estrategias de Inversión"]
 tags: ["Análisis de Mercado", "Psicología del Inversor", "Inversiones", "Educación financiera", "Estrategias de Inversión"]
 author: ["Alejandro Rosales"]

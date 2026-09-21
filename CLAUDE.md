@@ -44,6 +44,7 @@ Basado en **EV0 Astro Theme** (MIT), con extensas personalizaciones para SEO, JS
 ```
 API_KEY=<YouTube Data API v3 key>
 CHANNEL_ID=<YouTube channel ID>
+IMG_PRO_KEY=<img.pro API key — CDN de imágenes>
 ```
 
 ---

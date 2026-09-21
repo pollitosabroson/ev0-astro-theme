@@ -2,7 +2,7 @@
 title: "Cómo Invertir tus Primeros 1,000 Euros o Dólares de Forma Inteligente"
 description: "Descubre cómo invertir tus primeros 1,000 euros o dólares de forma inteligente. En este post, te contamos cómo evaluar tu situación financiera, considerar si esta cantidad es suficiente para comenzar, y por qué podrías priorizar invertir en ti mismo."
 pubDate: "2024-10-16T04:35:27.866Z"
-heroImage: "/blogs/1k.webp"
+heroImage: "https://src.img.pro/fFgMe/ghwhhsv4.webp"
 categories: ["Inversiones para Principiantes", "Consejos Financieros", "Blog Inversiones"] 
 tags: ["Primeros Pasos en Inversión", "Cómo Invertir", "Libertad Financiera", "Inversión Inteligente", "Rentabilidad", "Finanzas para Principiantes", "Consejos para Invertir"]
 author: ["Alejandro Rosales"]

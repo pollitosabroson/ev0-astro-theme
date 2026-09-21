@@ -2,7 +2,7 @@
 title: "Regulación MiCA: qué cambia para tus criptomonedas"
 description: "La regulación MiCA cambia dónde puedes comprar y vender criptomonedas en Europa. Qué es, por qué existe y cómo comprobar si tu plataforma tiene licencia."
 pubDate: "2026-06-29T20:30:00.000Z"
-heroImage: "/blogs/regulacion-mica-criptomonedas.webp"
+heroImage: "https://src.img.pro/fFgMe/srcmvm6y.webp"
 categories: ["Tecnología", "Educación Financiera", "Economía Personal"]
 tags: ["Criptomonedas", "MiCA", "Stablecoins", "Autocustodia", "Regulación Financiera", "Bitcoin", "Blockchain", "Educación Financiera"]
 authors: ["Alejandro Rosales"]

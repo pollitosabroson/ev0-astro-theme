@@ -2,7 +2,7 @@
 title: "MSCI World para principiantes: el índice clave de los países desarrollados"
 description: "Descubre qué es el MSCI World, cómo funciona, qué países incluye y cómo puedes invertir en él de forma eficiente aunque estés empezando desde cero."
 pubDate: "2025-11-25T20:30:36.968Z"
-heroImage: "/blogs/msci-world-guia-principiantes.webp"
+heroImage: "https://src.img.pro/fFgMe/kaodr2t6.webp"
 categories: ["Inversiones", "Estrategias de Inversión", "Educación Financiera"]
 tags: ["MSCI World", "Inversiones", "Fondos Indexados", "ETF", "Análisis de Mercado"]
 author: "Alejandro Rosales"
