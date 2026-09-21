@@ -1,6 +1,6 @@
 ---
 import { getCollection } from "astro:content";
-import { Image } from "astro:assets";
+import { heroUrl } from "@utils/img";
 import { slugify } from "@utils/slug";
 
 interface Props {
@@ -40,8 +40,8 @@ const related = scored.slice(0, 3).map((s) => s.post);
           {post.data.heroImage && (
             <div class="overflow-hidden">
               <figure class="w-auto md:h-[150px] overflow-hidden">
-                <Image
-                  src={post.data.heroImage}
+                <img
+                  src={heroUrl(post.data.heroImage, 480)}
                   alt={post.data.title}
                   width={480}
                   height={270}

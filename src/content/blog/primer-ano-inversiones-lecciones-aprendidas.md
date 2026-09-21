@@ -2,7 +2,7 @@
 title: "Mi primer año invirtiendo: lecciones, errores y aprendizajes"
 description: "Descubre cómo fue mi primer año invirtiendo: los retos, errores y aprendizajes que me ayudaron a crecer financieramente. ¡Aprende de mi experiencia y empieza hoy tu camino hacia la libertad financiera!"
 pubDate: "2025-01-28T10:32:07.617Z"
-heroImage: "/blogs/1-ano.webp"
+heroImage: "https://src.img.pro/fFgMe/ancyytwo.webp"
 categories: ["Finanzas Personales", "Inversiones para Principiantes"]
 tags: ["Primeros Pasos en Inversión", "S&P 500", "Libertad Financiera", "Cómo Empezar a Invertir", "Fondos de Pensiones"]
 author: ["Alejandro Rosales"]

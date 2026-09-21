@@ -2,7 +2,7 @@
 title: "La historia de BlackBerry: auge, caída y regreso"
 description: "La historia de BlackBerry explica por qué las empresas imparables caen y qué lecciones de inversión deja su auge, su hundimiento y su regreso silencioso."
 pubDate: "2026-07-29T12:00:00.000Z"
-heroImage: "/blogs/historia-de-blackberry.webp"
+heroImage: "https://src.img.pro/fFgMe/khtfr2pb.webp"
 categories: ["Empresas", "Inversiones", "Tecnología"]
 tags: ["BlackBerry", "QNX", "Apple", "Foso Económico", "Psicología del Inversor", "Acciones", "Empresas", "Tecnología"]
 authors: ["Alejandro Rosales"]

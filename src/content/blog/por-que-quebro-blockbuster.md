@@ -2,7 +2,7 @@
 title: "Por qué quebró Blockbuster (no fue Netflix)"
 description: "Por qué quebró Blockbuster de verdad: no fue Netflix, fue cobrar por lo que sus clientes odiaban. Del imperio a la última tienda, y su lección de inversión."
 pubDate: "2026-09-03T18:00:00.000Z"
-heroImage: "/blogs/por-que-quebro-blockbuster.webp"
+heroImage: "https://src.img.pro/fFgMe/zmcbcwh8.webp"
 categories: ["Empresas", "Inversiones", "Tecnología"]
 tags: ["Blockbuster", "Netflix", "Foso Económico", "Psicología del Inversor", "Empresas", "Acciones", "Tecnología"]
 authors: ["Alejandro Rosales"]

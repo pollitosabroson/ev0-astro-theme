@@ -2,7 +2,7 @@
 title: "El primer gran salto: cómo alcanzar tus primeros 100 mil y cambiar tu mentalidad financiera"
 description: "Llegar a tus primeros 100 mil no es solo una meta económica: es una transformación mental. Descubre las fases reales del crecimiento financiero, los errores que frenan tu avance y cómo dominar la disciplina que te lleva a la libertad. 💸"
 pubDate: "2025-10-21T20:30:00.000Z"
-heroImage: "/blogs/primeros-100-mil.webp"
+heroImage: "https://src.img.pro/fFgMe/e8o9cmtv.webp"
 categories: ["Finanzas Personales", "Estrategias de Inversión", "Educación Financiera"]
 tags: ["Ahorro", "Disciplina Financiera", "Interés Compuesto", "Libertad Financiera"]
 author: ["Alejandro Rosales"]

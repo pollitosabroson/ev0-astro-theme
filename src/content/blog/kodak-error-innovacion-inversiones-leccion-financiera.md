@@ -2,7 +2,7 @@
 title: "Kodak: El Gigante que Inventó su Propia Tumba (y la lección que puede salvar tus inversiones)"
 description: "Kodak dominó el mundo, inventó la cámara digital… y aun así quebró. Descubre el error que la destruyó y cómo evitarlo en tus inversiones en 2026."
 pubDate: "2026-04-06"
-heroImage: "/blogs/kodak-historia-caida.webp"
+heroImage: "https://src.img.pro/fFgMe/55q2k9h9.webp"
 categories: ["Inversiones", "Educación Financiera", "Empresas"]
 tags: ["Empresas", "Tecnología", "Inversión", "Errores Financieros", "Inteligencia Artificial", "Estrategias Financieras"]
 author: ["Alejandro Rosales"]

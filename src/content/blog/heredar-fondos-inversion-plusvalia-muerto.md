@@ -2,7 +2,7 @@
 title: "La verdad incómoda sobre heredar dinero: lo que nadie te dice sobre tus fondos"
 description: "¿Y si morir rico no fuera tan buena idea? Descubre qué pasa con tus inversiones si falleces sin planificarlo. Te explico la ‘plusvalía del muerto’, cómo evitar que Hacienda se quede con lo tuyo, y qué hacer para que tus seres queridos hereden sin pagar de más."
 pubDate: "2025-05-27T20:30:49.174Z"
-heroImage: "/blogs/plusvalia-muerto.webp"
+heroImage: "https://src.img.pro/fFgMe/ldrr7nb4.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
 tags: ["Herencia", "Fondos de Inversión", "planificación financiera", "Educación Financiera", "Plusvalía del Muerto"]
 author: ["Alejandro Rosales"]

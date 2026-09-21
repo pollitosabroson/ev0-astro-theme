@@ -2,7 +2,7 @@
 title: "🚀 Neobancos: ¿La Revolución Bancaria o Solo una Moda?"
 description: "Descubre si los neobancos son el futuro de la banca o solo una moda pasajera. ¿Son realmente seguros? ¿Cuáles son sus ventajas y desventajas? Analizamos todo lo que necesitas saber antes de abrir una cuenta."
 pubDate: "2025-02-16T12:39:07.888Z"
-heroImage: "/blogs/neobancos.webp"
+heroImage: "https://src.img.pro/fFgMe/srmqlzbm.webp"
 categories: ["Finanzas Personales", "Banca Digital"]
 tags: ["Neobancos", "Banca Digital", "Finanzas Personales", "Apps Financieras", "Dinero sin Comisiones"]
 author: ["Alejandro Rosales"]

@@ -2,7 +2,7 @@
 title: "Por qué el precio del petróleo afecta tu bolsillo (y todo lo que compras)"
 description: "¿Por qué todo está más caro aunque tu sueldo no suba? Descubre cómo el precio del petróleo impacta la inflación, la gasolina, la comida y tu vida diaria."
 pubDate: "2026-04-20"
-heroImage: "/blogs/petroleo-economia.webp"
+heroImage: "https://src.img.pro/fFgMe/gn7pvyla.webp"
 categories: ["Economía Personal", "Finanzas Personales", "Educación Financiera"]
 tags: ["Petróleo", "Inflación", "Economía Global", "Energía", "Finanzas Personales", "Impacto Económico"]
 authors: ["Alejandro Rosales"]

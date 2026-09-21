@@ -2,7 +2,7 @@
 title: "Nudismo financiero de Julio"
 description: "Explora el análisis de mi quinto mes de inversiones, enfrentando una tendencia bajista y poniendo a prueba mi psicología de inversor. Aunque mis inversiones siguen en positivo, su valor disminuye gradualmente. Además, discutimos la volatilidad de los memestocks y la actividad reciente de Roaring Kitty con GameStop. Descubre por qué elijo mantenerme al margen de esa especulación y más en nuestro video detallado."
 pubDate: "2024-06-04T05:13:38.108Z"
-heroImage: "/blogs/julio.webp"
+heroImage: "https://src.img.pro/fFgMe/5bkocqlp.webp"
 categories: ["Blog Inversiones"]
 tags: ["Inversión a Largo Plazo", "Dividendos", "Trading", "Test de Perfil de Inversor", "Estrategias de Inversión", "Análisis de Mercado", "Comunidad de Inversores", "MyInvestor"]
 author: ["Alejandro Rosales"]

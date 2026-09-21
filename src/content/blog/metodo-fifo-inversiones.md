@@ -2,7 +2,7 @@
 title: "Qué es el método FIFO y cómo afecta a tus impuestos"
 description: "El método FIFO decide cuántos impuestos pagas al vender parte de una inversión. Qué es, dónde te obligan a usarlo y las trampas que cuestan dinero."
 pubDate: "2026-08-06T12:00:00.000Z"
-heroImage: "/blogs/metodo-fifo-inversiones.webp"
+heroImage: "https://src.img.pro/fFgMe/vvqh83hc.webp"
 categories: ["Educación Financiera", "Inversiones", "Finanzas Personales"]
 tags: ["Criptomonedas", "Bitcoin", "IRPF", "Impuestos en España", "Estrategias Fiscales", "Declaración de la Renta", "Educación Financiera", "Inversiones"]
 authors: ["Alejandro Rosales"]

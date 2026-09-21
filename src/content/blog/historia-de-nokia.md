@@ -2,7 +2,7 @@
 title: "Historia de Nokia: la empresa que se niega a morir"
 description: "La historia de Nokia: de molino de papel a rey del móvil, del batacazo a las redes de la IA. 160 años reinventándose y la lección que deja."
 pubDate: "2026-09-17T18:00:00.000Z"
-heroImage: "/blogs/historia-de-nokia.webp"
+heroImage: "https://src.img.pro/fFgMe/ybxn88af.webp"
 categories: ["Empresas", "Inversiones", "Tecnología"]
 tags: ["Nokia", "NVIDIA", "Symbian", "Reinvención", "Foso Económico", "Psicología del Inversor", "Inteligencia Artificial", "Tecnología"]
 authors: ["Alejandro Rosales"]

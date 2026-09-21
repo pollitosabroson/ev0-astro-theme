@@ -2,7 +2,7 @@
 title: "Skimpflation: pagas lo mismo y te dan menos"
 description: "Skimpflation: por qué pagas lo mismo pero recibes menos, por qué la inflación oficial no lo mide bien y cómo calcular tu propia inflación real."
 pubDate: "2026-09-10T18:00:00.000Z"
-heroImage: "/blogs/skimpflation.webp"
+heroImage: "https://src.img.pro/fFgMe/cwaa8xqx.webp"
 categories: ["Economía Personal", "Educación Financiera"]
 tags: ["Skimpflation", "Reduflación", "Inflación", "IPC", "Poder Adquisitivo", "Coste de la Vida", "Hábitos de Consumo"]
 authors: ["Alejandro Rosales"]

@@ -2,7 +2,7 @@
 title: "Cómo conseguir dinero sin vender tus inversiones (y sin pagar impuestos)"
 description: "Descubre cómo los ricos acceden a dinero sin vender sus inversiones ni pagar impuestos. Una estrategia legal, sorprendente y al alcance de cualquier persona con activos. ¡No es magia, es pignoración!"
 pubDate: "2025-06-03T20:30:20.505Z"
-heroImage: "/blogs/pignoracion-inversiones.webp"
+heroImage: "https://src.img.pro/fFgMe/9vsrww2t.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
 tags: ["Pignoración", "Fondos de Inversión", "Estrategias Fiscales", "Libertad Financiera", "Educación Financiera"]
 author: ["Alejandro Rosales"]

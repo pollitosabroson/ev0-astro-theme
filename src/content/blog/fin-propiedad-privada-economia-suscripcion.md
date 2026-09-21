@@ -2,7 +2,7 @@
 title: "¿El fin de la propiedad privada? La economía de suscripción y tu libertad financiera"
 description: "¿Realmente nos dirigimos hacia un mundo donde no tendrás nada? Analizamos la servitización, el efecto Cantillon, las suscripciones y cómo proteger tu patrimonio hacia 2040."
 pubDate: "2026-02-22T11:30:00.000Z"
-heroImage: "/blogs/fin-propiedad-privada.webp"
+heroImage: "https://src.img.pro/fFgMe/4wawd2w4.webp"
 categories: ["Finanzas Personales", "Inversiones", "Economía Personal"]
 tags: ["Inversiones", "Economía Personal", "Efecto Cantillon", "CBDC", "Inflación", "Libertad Financiera", "Megatendencias"]
 author: ["Alejandro Rosales"]

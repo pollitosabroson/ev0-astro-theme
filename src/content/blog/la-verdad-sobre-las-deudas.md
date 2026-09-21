@@ -2,7 +2,7 @@
 title: "¿La deuda es realmente mala? La verdad que nadie te dice"
 description: "¿Te han dicho que la deuda es el enemigo? La verdad es otra. Descubre cómo las deudas pueden arruinarte o hacerte rico. Esto te interesa."
 pubDate: "2025-03-11T16:33:41.478Z"
-heroImage: "/blogs/deudas.webp"
+heroImage: "https://src.img.pro/fFgMe/347a6kaz.webp"
 categories: ["Finanzas Personales", "Educación Financiera"]
 tags: ["Deuda", "finanzas personales", "Créditos", "Dinero", "Educación Financiera"]
 author: ["Alejandro Rosales"]

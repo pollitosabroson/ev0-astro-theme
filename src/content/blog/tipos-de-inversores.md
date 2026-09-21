@@ -2,7 +2,7 @@
 title: "¿Qué Tipo de Inversor Eres?: Encuentra tu Estrategia Ideal"
 description: "¿Eres un inversor paciente que busca construir riqueza a largo plazo? ¿Te atraen los ingresos pasivos y la seguridad de los dividendos? ¿O te apasiona la adrenalina del trading y la búsqueda de ganancias a corto plazo?"
 pubDate: "2024-02-24T16:46:16.643Z"
-heroImage: "/blogs/tipo-de-inversor-cover.webp"
+heroImage: "https://src.img.pro/fFgMe/lctpfs26.webp"
 categories: ["Blog Inversiones"]
 tags: ["Inversión a Largo Plazo", "Dividendos", "Trading", "Test de Perfil de Inversor", "Estrategias de Inversión", "Análisis de Mercado", "Comunidad de Inversores"]
 author: ["Alejandro Rosales"]

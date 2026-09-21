@@ -2,7 +2,7 @@
 title: "¿Por qué tu dinero desaparece cada mes? La verdad que nadie te contó sobre presupuestar"
 description: "¿Ganas bien pero nunca sabes a dónde se va tu dinero? Descubre cómo hacer un presupuesto que funcione en la vida real (aunque odies los números) y empieza a tomar el control de tus finanzas desde hoy."
 pubDate: "2025-06-16T07:00:12.918Z"
-heroImage: "/blogs/presupuesto-funcional.webp"
+heroImage: "https://src.img.pro/fFgMe/9c6w64g4.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
 tags: ["Presupuesto", "Ahorro Inteligente", "Educación Financiera", "Control de Gastos", "Libertad Financiera", "Planificación Mensual"]
 author: ["Alejandro Rosales"]

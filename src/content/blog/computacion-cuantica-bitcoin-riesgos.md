@@ -2,7 +2,7 @@
 title: "¿Puede la Computación Cuántica Romper Bitcoin?"
 description: "Descubre cómo la computación cuántica podría afectar a Bitcoin, qué riesgos existen realmente y qué debes hacer para proteger tus criptomonedas a largo plazo."
 pubDate: "2026-05-24T12:00:00.000Z"
-heroImage: "/blogs/computacion-cuantica-bitcoin.webp"
+heroImage: "https://src.img.pro/fFgMe/wr53g2p7.webp"
 categories: ["Tecnología", "Inversiones", "Finanzas Personales"]
 tags: ["Blockchain", "Ciberseguridad", "Tecnología", "Inversiones", "Riesgo Financiero", "Ahorros", "Educación Financiera", "Economía Global"]
 authors: ["Alejandro Rosales"]
