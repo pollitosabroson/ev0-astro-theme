@@ -15,6 +15,30 @@ faqs:
     answer: "Depende de tu disciplina. Si vas a ser constante y a no vender en las caídas, hacerlo tú es más barato. Si sospechas que no empezarías nunca o que venderías en pánico, un roboadvisor te aporta disciplina y suele compensar su coste."
   - question: "¿Es seguro dejar mi dinero en un roboadvisor?"
     answer: "Tu dinero sigue invertido en fondos a tu nombre, no lo \"presta\" el roboadvisor. Pero no te protege de las caídas del mercado: si la bolsa baja, tu cartera baja. Su valor es evitar errores de comportamiento, no eliminar el riesgo de la inversión."
+video:
+  embedUrl: "https://www.youtube.com/embed/HE6OMQShGbg"
+  thumbnailUrl: "https://i.ytimg.com/vi/HE6OMQShGbg/maxresdefault.jpg"
+  duration: "PT12M44S"
+  uploadDate: "2026-09-23T06:38:55Z"
+  chapters:
+    - name: "Intro: te invierten el dinero por ti"
+      startOffset: 0
+      endOffset: 120
+    - name: "Qué es de verdad un roboadvisor (y qué no)"
+      startOffset: 120
+      endOffset: 259
+    - name: "¿Comparado con qué? La pregunta que lo decide todo"
+      startOffset: 259
+      endOffset: 398
+    - name: "Su verdadero valor: te protege de ti mismo"
+      startOffset: 398
+      endOffset: 549
+    - name: "¿Para quién sí y para quién no?"
+      startOffset: 549
+      endOffset: 690
+    - name: "La pregunta honesta que decide por ti"
+      startOffset: 690
+      endOffset: 764
 ---
 
 ## TL;DR
@@ -136,3 +160,9 @@ Porque un roboadvisor no te hace mejor inversor. Te impide ser uno malo. Y para 
 ## ¿Y tú?
 
 ¿Lo harías tú solo, o dejarías que lo hiciera la máquina? Cuéntamelo en los comentarios. Leo todos, y de los mejores salen los próximos análisis del canal.
+
+📺 [Ver el análisis completo en mi canal de YouTube](https://www.youtube.com/watch?v=HE6OMQShGbg)
+
+<div class="iframe-container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/HE6OMQShGbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
+</div>
