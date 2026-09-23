@@ -250,6 +250,8 @@ Estado tras el análisis de 102 artículos: **158 enlaces aplicados**.
 | roboadvisors.md | fondos indexados | triunfo-inversor-mediocre-inversion-indexada |
 | roboadvisors.md | el método FIFO | metodo-fifo-inversiones |
 | roboadvisors.md | las cuentas remuneradas | cuentas-remuneradas |
+| triunfo-inversor-mediocre-inversion-indexada.md | los roboadvisors | roboadvisors |
+| mercado-en-rojo-que-hacer.md | un roboadvisor | roboadvisors |
 | historia-de-nokia.md | Nvidia | nvidia-historia-inteligencia-artificial |
 | historia-de-nokia.md | historia de BlackBerry | historia-de-blackberry |
 | historia-de-nokia.md | Blockbuster | por-que-quebro-blockbuster |
