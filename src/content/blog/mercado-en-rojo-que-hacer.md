@@ -96,6 +96,8 @@ No me muevo por impulso.
 ✅ Sigo invirtiendo.  
 ✅ Aprovecho precios bajos.
 
+Eso es fácil de decir y difícil de hacer. Si sospechas que tú venderías, [un roboadvisor](/blog/roboadvisors/) no siente miedo y sigue el plan por ti.
+
 Porque sé que:
 
 > **Cuando otros temen, yo analizo. Y cuando otros venden, yo compro.**

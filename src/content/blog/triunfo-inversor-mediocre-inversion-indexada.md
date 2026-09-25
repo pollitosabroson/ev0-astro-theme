@@ -128,6 +128,8 @@ Después de analizar comisiones, impuestos, psicología y diversificación, la c
 No necesitas predecir el futuro.  
 Necesitas disciplina.
 
+Y si sabes que esa disciplina no la vas a tener tú solo, hay quien te la alquila: es justo lo que venden [los roboadvisors](/blog/roboadvisors/).
+
 Invertir de forma mediocre no es falta de ambición.  
 Es **humildad intelectual aplicada a las finanzas**.
 

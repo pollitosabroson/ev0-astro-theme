@@ -1,5 +1,40 @@
 [
   {
+    "title": "Roboadvisors: qué son, cuánto cuestan y para quién sí",
+    "description": "Existe un servicio que te invierte el dinero por ti. Tú no tocas nada. Le dices cuánto riesgo aguantas y él elige, ajusta y mantiene ...",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "HE6OMQShGbg",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "publishedAt": "2026-09-23T06:41:47Z"
+  },
+  {
     "title": "Nokia empezó vendiendo papel y botas de agua. 160 años",
     "description": "Te acuerdas de tu viejo Nokia indestructible? Esa empresa es mucho más rara de lo que crees. Tiene 160 años. Es más vieja ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,32 +42,32 @@
     "videoId": "GOkcrZISKUk",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/GOkcrZISKUk/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/GOkcrZISKUk/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/GOkcrZISKUk/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/GOkcrZISKUk/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/GOkcrZISKUk/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/GOkcrZISKUk/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/GOkcrZISKUk/sddefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/GOkcrZISKUk/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/GOkcrZISKUk/maxresdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/GOkcrZISKUk/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
     },
-    "publishedAt": "2026-09-16T06:27:40Z"
+    "publishedAt": "2026-09-17T16:00:09Z"
   },
   {
     "title": "Pagas 5% más por algo 5% peor. Nadie lo mide",
@@ -138,41 +173,6 @@
       }
     },
     "publishedAt": "2026-08-27T16:00:06Z"
-  },
-  {
-    "title": "Los que tuvieron la idea vs el que se llevó el dinero",
-    "description": "Si te pregunto quién fundó Tesla, me vas a decir Elon Musk. Lo dice todo el mundo. Lo dice internet. Y es mentira. Cuando Tesla ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "cLfGmajTbT8",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/cLfGmajTbT8/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/cLfGmajTbT8/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/cLfGmajTbT8/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/cLfGmajTbT8/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/cLfGmajTbT8/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "publishedAt": "2026-08-20T18:00:06Z"
   },
   {
     "title": "La verdad sobre el IPO de SpaceX en 2026 #spacex",
