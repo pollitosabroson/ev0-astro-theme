@@ -1,5 +1,40 @@
 [
   {
+    "title": "Sube tu hipoteca, baja tu ahorro. ¿En qué lado estás?",
+    "description": "Estos días has oído mil veces que \"el dinero se ha vuelto más caro\". Y si lo piensas, no tiene sentido. Un dólar vale un dólar.",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "978nix47DKo",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/978nix47DKo/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/978nix47DKo/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/978nix47DKo/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/978nix47DKo/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/978nix47DKo/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "publishedAt": "2026-09-30T12:06:58Z"
+  },
+  {
     "title": "Roboadvisors: qué son, cuánto cuestan y para quién sí",
     "description": "Existe un servicio que te invierte el dinero por ti. Tú no tocas nada. Le dices cuánto riesgo aguantas y él elige, ajusta y mantiene ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,32 +42,32 @@
     "videoId": "HE6OMQShGbg",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/sddefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/maxresdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
     },
-    "publishedAt": "2026-09-23T06:41:47Z"
+    "publishedAt": "2026-09-24T16:00:08Z"
   },
   {
     "title": "Nokia empezó vendiendo papel y botas de agua. 160 años",
@@ -138,41 +173,6 @@
       }
     },
     "publishedAt": "2026-09-03T16:00:06Z"
-  },
-  {
-    "title": "Comprar la mejor empresa y perder 10 años. El caso Amazon",
-    "description": "Por cada 100 euros que Amazon factura en su tienda, gana alrededor de ocho. Una miseria, para el gigante que es. Pero tiene ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "5MFo45HQESI",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/5MFo45HQESI/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/5MFo45HQESI/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/5MFo45HQESI/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/5MFo45HQESI/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/5MFo45HQESI/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "publishedAt": "2026-08-27T16:00:06Z"
   },
   {
     "title": "La verdad sobre el IPO de SpaceX en 2026 #spacex",
