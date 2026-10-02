@@ -18,7 +18,27 @@ faqs:
 video:
   embedUrl: "https://www.youtube.com/embed/978nix47DKo"
   thumbnailUrl: "https://i.ytimg.com/vi/978nix47DKo/maxresdefault.jpg"
-  uploadDate: "2026-09-30T12:02:13Z"
+  duration: "PT12M37S"
+  uploadDate: "2026-10-01T16:00:11Z"
+  chapters:
+    - name: "Intro: el mismo petróleo, respuestas opuestas"
+      startOffset: 0
+      endOffset: 126
+    - name: "El dinero también tiene precio"
+      startOffset: 126
+      endOffset: 266
+    - name: "Por qué manda Washington aunque vivas a 10.000 km"
+      startOffset: 266
+      endOffset: 411
+    - name: "Mismo problema, tres medicinas distintas"
+      startOffset: 411
+      endOffset: 552
+    - name: "Dónde te golpea a ti (y a quién le viene bien)"
+      startOffset: 552
+      endOffset: 687
+    - name: "Cierre"
+      startOffset: 687
+      endOffset: 757
 ---
 
 ## TL;DR
