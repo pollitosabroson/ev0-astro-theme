@@ -27,7 +27,7 @@ const paginationList = Array.from({ length }, (_, i) => i + 1);
           <a
             href={num == 1 ? firstUrl : `${firstUrl}${num}/`}
             class={`block h-8 w-8 rounded border text-center leading-8 text-zinc-900 dark:text-white ${
-              currentPage == num ? 'border-indigo-600 bg-indigo-500 !text-white' : ''
+              currentPage == num ? 'border-marca-oro-tinta bg-marca-oro-tinta !text-white dark:border-marca-oro dark:bg-marca-oro dark:!text-marca-noche' : ''
             }`}
           >
             {num}

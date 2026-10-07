@@ -5,6 +5,21 @@ module.exports = {
   darkMode: 'class',
   theme: {
     extend: {
+      // Identidad «Azul noche y oro» (Design System Alejandro Rosales)
+      colors: {
+        marca: {
+          noche: '#0A0E17',
+          pizarra: '#111826',
+          oro: '#E8B84B',
+          'oro-tinta': '#8A6414',
+          marfil: '#F4F6FB',
+          niebla: '#9AA6BC',
+          grafito: '#4A5568',
+        },
+      },
+      fontFamily: {
+        sans: ['Inter', 'ui-sans-serif', 'system-ui', '-apple-system', 'Segoe UI', 'Roboto', 'sans-serif'],
+      },
       typography: (theme) => ({
         DEFAULT: {
           css: {
