@@ -3,10 +3,10 @@ import config from '../config/config.json';
 
 export const manifest: Partial<ManifestOptions> = {
   name: config.site.title,
-  short_name: config.site.title,
+  short_name: 'A. Rosales',
   description: config.site.description,
-  theme_color: '#ffffff',
-  background_color: '#0e0d0d',
+  theme_color: '#0A0E17',
+  background_color: '#ffffff',
   display: 'minimal-ui',
   start_url: '/',
   scope: '/',

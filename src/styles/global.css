@@ -1,3 +1,13 @@
+/* Inter autoalojada (latín + latín extendido) */
+@font-face { font-family: 'Inter'; font-style: normal; font-weight: 400; font-display: swap; src: url('/fonts/inter-400.woff2') format('woff2'); }
+@font-face { font-family: 'Inter'; font-style: normal; font-weight: 600; font-display: swap; src: url('/fonts/inter-600.woff2') format('woff2'); }
+@font-face { font-family: 'Inter'; font-style: normal; font-weight: 800; font-display: swap; src: url('/fonts/inter-800.woff2') format('woff2'); }
+@font-face { font-family: 'Inter'; font-style: normal; font-weight: 900; font-display: swap; src: url('/fonts/inter-900.woff2') format('woff2'); }
+
+/* Color de enlace de marca: oro-tinta sobre claro (5,4:1), oro sobre oscuro */
+:root { --color-text-link: 138 100 20; }
+.dark { --color-text-link: 232 184 75; }
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -21,15 +31,18 @@
   table * {
     @apply text-zinc-700 dark:text-zinc-300;
   }
+  .prose a {
+    @apply text-marca-oro-tinta;
+  }
   .dark .prose a {
-    @apply text-green-400;
-    background-image: linear-gradient(to right, theme('colors.green.400'), theme('colors.green.400'));
+    @apply text-marca-oro;
+    background-image: linear-gradient(to right, theme('colors.marca.oro'), theme('colors.marca.oro'));
   }
   kbd {
     @apply bg-white text-zinc-700;
   }
   mark {
-    @apply bg-yellow-300;
+    @apply bg-marca-oro text-marca-noche;
   }
 }
 

@@ -172,7 +172,9 @@ Ver `docs/tags-categories-standard.md` para la lista completa. Resumen:
 - Todo Tailwind — sin CSS modules, sin `<style>` scoped salvo casos necesarios
 - Dark mode con clases `dark:` (`dark:bg-zinc-900`, `dark:text-zinc-200`)
 - Artículos: `class="prose prose-green prose-md md:prose-lg min-w-full"`
-- Colores: escala `zinc` para neutros, `green` para acento
+- Colores: escala `zinc` para neutros; acento de marca `marca-oro-tinta` (claro) / `marca-oro` (oscuro). El verde no es decorativo: sólo para datos que suben
+- Tipografía: Inter autoalojada (`public/fonts/inter-*.woff2`), única familia
+- Identidad completa: Design System «Alejandro Rosales» (azul noche y oro). Reglas e integración en el blog: `docs/identidad-marca.md` (léelo antes de cambios visuales)
 
 ### Trailing slashes
 
