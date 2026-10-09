@@ -102,19 +102,19 @@ Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 `Debt Stacking` · `Decisiones Financieras` · `Declaración de la Renta` · `Deducciones Fiscales` · `Demografía` · `Depreciación` · `Desarrollo Personal` · `Deuda` · `Deudas` · `Deudas y Compras Impulsivas` · `Dinero` · `Dinero en Familia` · `Dinero Extra` · `Dinero sin Comisiones` · `Disciplina Financiera` · `Diversificación` · `Dividendos` · `Dual Pricing`
 
 ### E
-`Economía Global` · `Educación Financiera` · `Educación Financiera Infantil` · `Efecto Cantillon` · `Efecto Diderot` · `Elon Musk` · `Emprendimiento` · `Empresas` · `Energía` · `Entorno Familiar` · `Errores Financieros` · `Escasez` · `Escasez de Mano de Obra` · `Estrategias de Ahorro` · `Estrategias de Inversión` · `Estrategias Financieras` · `Estrategias Fiscales` · `ETF`
+`Economía de la Experiencia` · `Economía Global` · `Educación Financiera` · `Educación Financiera Infantil` · `Efecto Cantillon` · `Efecto Diderot` · `Elon Musk` · `Emprendimiento` · `Empresas` · `Energía` · `Entorno Familiar` · `Errores Financieros` · `Escasez` · `Escasez de Mano de Obra` · `Estrategias de Ahorro` · `Estrategias de Inversión` · `Estrategias Financieras` · `Estrategias Fiscales` · `ETF`
 
 ### F
 `Finanzas Conscientes` · `Finanzas Familiares` · `Finanzas para Principiantes` · `Finanzas Personales` · `Finiquito` · `Fondo de Emergencia` · `Fondos de Inversión` · `Fondos de Pensiones` · `Fondos Indexados` · `Fondos Monetarios` · `Foso Económico` · `Frugalidad` · `Fuck You Money` · `Futuro Financiero`
 
 ### G – H
-`Ganar la Lotería` · `Gastos Hormiga` · `Gestión de Gastos` · `Gestión del Dinero` · `Gestión del Riesgo` · `GPU` · `Hábitos Diarios` · `Hábitos de Consumo` · `Hábitos Financieros` · `Herencia` · `Hipoteca` · `Hipoteca Fija` · `Hipoteca Mixta` · `Hipoteca Variable` · `Historial Crediticio`
+`Ganar la Lotería` · `Gastos Hormiga` · `Gestión de Gastos` · `Gestión del Dinero` · `Gestión del Riesgo` · `GPU` · `Hábitos Diarios` · `Hábitos de Consumo` · `Hábitos Financieros` · `Herencia` · `Hipoteca` · `Hipoteca Fija` · `Hipoteca Mixta` · `Hipoteca Variable` · `Historial Crediticio` · `Hyrox`
 
 ### I
 `Impacto Económico` · `Impuestos en España` · `Independencia Financiera` · `Indemnización` · `Influencers` · `Inflación` · `Ingresos Pasivos` · `Ingresos Recurrentes` · `Inteligencia Artificial` · `Interés Compuesto` · `Intereses Bancarios` · `Inversión` · `Inversión a Largo Plazo` · `Inversión Inmobiliaria` · `Inversión Inteligente` · `Inversión Pasiva` · `Inversión para Hijos` · `Inversiones` · `Inversiones Familiares` · `IPC` · `IPO` · `IRPF` · `IVA Alimentos`
 
 ### J – K – L
-`Jeff Bezos` · `Jensen Huang` · `Jubilación` · `Klarna` · `Libertad Financiera` · `Liquidez` · `Lonchafinismo`
+`Jeff Bezos` · `Jensen Huang` · `Jubilación` · `Klarna` · `L Catterton` · `Libertad Financiera` · `Liquidez` · `Lonchafinismo` · `Lujo` · `LVMH`
 
 ### M – N
 `Manejo del Dinero` · `Megatendencias` · `Mentalidad de Escasez` · `Mentalidad Millonaria` · `Mercados de Predicción` · `Metas Financieras` · `MiCA` · `Miedo al Dinero` · `Movimiento FIRE` · `MSCI World` · `MyInvestor` · `Neobancos` · `Negociación` · `Negociación con Acreedores` · `Netflix` · `Nokia` · `Nuevos Comienzos` · `Nuevos Impuestos` · `Nudismo Financiero` · `NVIDIA`

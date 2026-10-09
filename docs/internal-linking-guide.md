@@ -59,6 +59,7 @@ Cuando escribas un nuevo artículo y menciones cualquiera de estos temas, enlaza
 | Amazon, AWS, cómo gana dinero Amazon, Jeff Bezos, burbuja puntocom, modelo de negocio | Cómo gana dinero Amazon | `/blog/como-gana-dinero-amazon/` |
 | Blockbuster, por qué quebró Blockbuster, Netflix, multas por retraso, foso económico que se vuelve trampa | Por qué quebró Blockbuster | `/blog/por-que-quebro-blockbuster/` |
 | Nokia, historia de Nokia, Symbian, reinvención, AI-RAN, empresa que se reinventa | Historia de Nokia | `/blog/historia-de-nokia/` |
+| Hyrox, L Catterton, LVMH en el deporte, el deporte es el nuevo lujo, economía de la experiencia, estatus que se suda | El deporte es el nuevo lujo: el caso Hyrox | `/blog/el-deporte-es-el-nuevo-lujo-hyrox/` |
 
 ---
 
@@ -77,7 +78,7 @@ Temas recurrentes en el blog que **aún no tienen su propio artículo**. Al escr
 
 ---
 
-## Historial de enlaces aplicados (última actualización: 2026-09-02)
+## Historial de enlaces aplicados (última actualización: 2026-10-07)
 
 Estado tras el análisis de 102 artículos: **158 enlaces aplicados**.
 
@@ -287,3 +288,4 @@ Estado tras el análisis de 102 artículos: **158 enlaces aplicados**.
 | por-que-quebro-blockbuster.md | cuota que no sabes ni cómo cancelar | fin-propiedad-privada-economia-suscripcion |
 | kodak-error-innovacion-inversiones-leccion-financiera.md | Blockbuster le pasó lo mismo con las multas por retraso | por-que-quebro-blockbuster |
 | irobot-historia-bancarrota-lecciones-financieras.md | Blockbuster, que llegó a tener 9.000 tiendas | por-que-quebro-blockbuster |
+| el-deporte-es-el-nuevo-lujo-hyrox.md | Rolex como inversión | rolex-como-inversion |

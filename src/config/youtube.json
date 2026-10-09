@@ -1,5 +1,40 @@
 [
   {
+    "title": "Por qué el bolso ya no da estatus (y qué sí lo da ahora)",
+    "description": "El dinero del dueño de Louis Vuitton, Dior y el champán caro acaba de meterse en una carrera de gimnasio. De esas de arrastrar ...",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "5p-jzclgjx0",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/5p-jzclgjx0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/5p-jzclgjx0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/5p-jzclgjx0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/5p-jzclgjx0/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/5p-jzclgjx0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "publishedAt": "2026-10-08T16:00:10Z"
+  },
+  {
     "title": "Sube tu hipoteca, baja tu ahorro. ¿En qué lado estás?",
     "description": "Estos días has oído mil veces que \"el dinero se ha vuelto más caro\". Y si lo piensas, no tiene sentido. Un dólar vale un dólar.",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -138,41 +173,6 @@
       }
     },
     "publishedAt": "2026-09-10T16:00:06Z"
-  },
-  {
-    "title": "Rechazaron comprar Netflix por 50 millones. Adivina el final",
-    "description": "En el año 2000 tenía 9.000 tiendas por todo el mundo. Le ofrecieron comprar una empresucha que empezaba por 50 millones.",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "7sL8h7bS2q4",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/7sL8h7bS2q4/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/7sL8h7bS2q4/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/7sL8h7bS2q4/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/7sL8h7bS2q4/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/7sL8h7bS2q4/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "publishedAt": "2026-09-03T16:00:06Z"
   },
   {
     "title": "La verdad sobre el IPO de SpaceX en 2026 #spacex",
