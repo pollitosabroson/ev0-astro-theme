@@ -38,30 +38,31 @@
     "img": "node scripts/img-pro.cjs",
     "newpost": "astro-md-generator",
     "format": "prettier -w .",
-    "lint:eslint": "eslint . --ext .js,.ts,.astro"
+    "lint:eslint": "eslint ."
   },
   "devDependencies": {
-    "@astrojs/mdx": "2.0.2",
-    "@astrojs/rss": "4.0.1",
+    "@astrojs/mdx": "4.3.14",
+    "@astrojs/rss": "4.0.12",
     "@astrojs/sitemap": "3.0.3",
-    "@astrojs/tailwind": "5.0.4",
+    "@astrojs/tailwind": "6.0.2",
+    "@eslint/js": "10.0.1",
     "@tailwindcss/aspect-ratio": "0.4.2",
     "@tailwindcss/typography": "0.5.10",
-    "@typescript-eslint/eslint-plugin": "6.15.0",
-    "@typescript-eslint/parser": "6.15.0",
-    "astro": "4.0.7",
+    "astro": "5.18.2",
     "astro-md-generator": "1.0.0",
     "astro-robots-txt": "1.0.0",
     "dotenv": "16.3.1",
-    "eslint": "8.56.0",
-    "eslint-plugin-astro": "0.31.0",
-    "eslint-plugin-jsx-a11y": "6.8.0",
+    "eslint": "10.13.0",
+    "eslint-plugin-astro": "1.7.0",
+    "eslint-plugin-jsx-a11y": "6.10.2",
+    "globals": "17.13.0",
     "googleapis": "129.0.0",
     "prettier": "3.1.1",
     "prettier-plugin-astro": "0.12.2",
     "prettier-plugin-tailwindcss": "0.5.9",
     "tailwindcss": "3.4.0",
-    "vite-plugin-pwa": "0.17.4"
+    "typescript-eslint": "8.72.0",
+    "vite-plugin-pwa": "2.0.0"
   },
   "resolutions": {
     "astro/sharp": "0.33.1",
@@ -75,5 +76,10 @@
     "markdown-it": "^14.0.0",
     "sanitize-html": "^2.11.0",
     "sharp": "^0.34.5"
+  },
+  "overrides": {
+    "eslint-plugin-jsx-a11y": {
+      "eslint": "$eslint"
+    }
   }
 }
