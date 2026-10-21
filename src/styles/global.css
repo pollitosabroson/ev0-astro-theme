@@ -8,6 +8,9 @@
 :root { --color-text-link: 138 100 20; }
 .dark { --color-text-link: 232 184 75; }
 
+/* Negrita en modo oscuro: prose usa su color de modo claro */
+.dark .prose { --tw-prose-bold: theme('colors.zinc.100'); }
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
