@@ -18,6 +18,7 @@ faqs:
 video:
   embedUrl: "https://www.youtube.com/embed/NEE4JmZOz-s"
   thumbnailUrl: "https://i.ytimg.com/vi/NEE4JmZOz-s/maxresdefault.jpg"
+  duration: "PT12M5S"
   uploadDate: "2026-10-22T16:00:00Z"
   chapters:
     - name: "Intro: milmillonario por unas zapatillas"
@@ -37,7 +38,7 @@ video:
       endOffset: 646
     - name: "Cierre"
       startOffset: 646
-      endOffset: 0
+      endOffset: 725
 ---
 
 ## TL;DR
