@@ -20,7 +20,6 @@ export default defineConfig({
     remotePatterns: [{ protocol: 'https' }],
   },
   markdown: {
-    drafts: true,
     shikiConfig: {
       theme: 'material-theme-palenight',
       wrap: true,
@@ -33,7 +32,6 @@ export default defineConfig({
         theme: 'material-theme-palenight',
         wrap: true,
       },
-      drafts: true,
     }),
     compressor({ gzip: true, brotli: true }),
     tailwind(),
