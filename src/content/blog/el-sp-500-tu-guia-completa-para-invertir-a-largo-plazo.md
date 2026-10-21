@@ -4,7 +4,7 @@ description: "¿Alguna vez te has preguntado qué es el S&P 500 y por qué todo 
 pubDate: "2024-10-22T10:29:15.984Z"
 heroImage: "https://src.img.pro/fFgMe/k38g249h.webp"
 categories: ["Finanzas Personales", "Blog Inversiones"]
-tags: [S&P 500", "índice bursátil", "inversión a largo plazo", "mercado de valores", "Estados Unidos"]
+tags: [S&P 500", "índice bursátil", "Inversión a Largo Plazo", "mercado de valores", "Estados Unidos"]
 author: ["Alejandro Rosales"]
 video:
   embedUrl: "https://www.youtube.com/embed/3VwHRUgELUw"
