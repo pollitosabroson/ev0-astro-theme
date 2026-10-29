@@ -1,5 +1,40 @@
 [
   {
+    "title": "Salida a bolsa de Anthropic: números y riesgos reales",
+    "description": "Anthropic, la empresa detrás de Claude (una de las IA más conocidas), se prepara para lo que puede ser la mayor salida a bolsa ...",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "Vg9kYDPgE7s",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Vg9kYDPgE7s/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Vg9kYDPgE7s/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Vg9kYDPgE7s/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Vg9kYDPgE7s/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/Vg9kYDPgE7s/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "publishedAt": "2026-10-29T12:18:16Z"
+  },
+  {
     "title": "Federer: 130M en premios y milmillonario por otra cosa",
     "description": "Roger Federer ganó unos 130 millones de dólares en toda su carrera jugando al tenis. Veinte Grand Slams. Veinte años en ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -7,32 +42,32 @@
     "videoId": "NEE4JmZOz-s",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/NEE4JmZOz-s/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/NEE4JmZOz-s/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/NEE4JmZOz-s/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/NEE4JmZOz-s/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/NEE4JmZOz-s/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/NEE4JmZOz-s/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/NEE4JmZOz-s/sddefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/NEE4JmZOz-s/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/NEE4JmZOz-s/maxresdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/NEE4JmZOz-s/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
     },
-    "publishedAt": "2026-10-21T13:16:43Z"
+    "publishedAt": "2026-10-22T16:00:11Z"
   },
   {
     "title": "La empresa que valía más que toda Dinamarca perdió 70%",
@@ -138,41 +173,6 @@
       }
     },
     "publishedAt": "2026-10-01T16:00:11Z"
-  },
-  {
-    "title": "Roboadvisors: qué son, cuánto cuestan y para quién sí",
-    "description": "Existe un servicio que te invierte el dinero por ti. Tú no tocas nada. Le dices cuánto riesgo aguantas y él elige, ajusta y mantiene ...",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "HE6OMQShGbg",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/HE6OMQShGbg/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "publishedAt": "2026-09-24T16:00:08Z"
   },
   {
     "title": "La verdad sobre el IPO de SpaceX en 2026 #spacex",
