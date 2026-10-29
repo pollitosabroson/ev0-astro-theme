@@ -90,7 +90,7 @@ Usa **solo** estas categorías. Si un artículo no encaja en ninguna, propón un
 Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 
 ### A
-`Abastecedor` · `Acciones` · `Actualización Financiera` · `Aguinaldo` · `Ahorro` · `Ahorro de Emergencia` · `Ahorro e Inversión` · `Ahorro Excesivo` · `Ahorro Inteligente` · `Ahorro para Hijos` · `Ahorro para Jubilación` · `Ahorro sin Esfuerzo` · `Ahorros` · `Alejandro Rosales` · `Amazon` · `Amortización` · `Análisis de Mercado` · `Ansiedad Financiera` · `Apple` · `Apps Financieras` · `Aprender a Invertir` · `Aranceles Internacionales` · `Autocustodia` · `AWS`
+`Abastecedor` · `Acciones` · `Actualización Financiera` · `Aguinaldo` · `Ahorro` · `Ahorro de Emergencia` · `Ahorro e Inversión` · `Ahorro Excesivo` · `Ahorro Inteligente` · `Ahorro para Hijos` · `Ahorro para Jubilación` · `Ahorro sin Esfuerzo` · `Ahorros` · `Alejandro Rosales` · `Amazon` · `Anthropic` · `Amortización` · `Análisis de Mercado` · `Ansiedad Financiera` · `Apple` · `Apps Financieras` · `Aprender a Invertir` · `Aranceles Internacionales` · `Autocustodia` · `AWS`
 
 ### B
 `Banca` · `Banca Digital` · `Banco Digital` · `Bancos` · `Bancos Centrales` · `Barista FIRE` · `BCE` · `Bienestar Emocional` · `Bienestar Financiero` · `Bitcoin` · `Black Friday` · `BlackBerry` · `Blockbuster` · `Blockchain` · `Blog Personal` · `BNPL` · `Bolsa de Valores` · `Bonos` · `Bonos del Tesoro` · `Burbuja Puntocom`
