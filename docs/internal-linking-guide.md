@@ -60,6 +60,7 @@ Cuando escribas un nuevo artículo y menciones cualquiera de estos temas, enlaza
 | Blockbuster, por qué quebró Blockbuster, Netflix, multas por retraso, foso económico que se vuelve trampa | Por qué quebró Blockbuster | `/blog/por-que-quebro-blockbuster/` |
 | Nokia, historia de Nokia, Symbian, reinvención, AI-RAN, empresa que se reinventa | Historia de Nokia | `/blog/historia-de-nokia/` |
 | Hyrox, L Catterton, LVMH en el deporte, el deporte es el nuevo lujo, economía de la experiencia, estatus que se suda | El deporte es el nuevo lujo: el caso Hyrox | `/blog/el-deporte-es-el-nuevo-lujo-hyrox/` |
+| Labubu, Pop Mart, blind box, coleccionables como inversión, burbuja de una moda, reventa, comprar para revender | Labubu y Pop Mart: ¿moda o burbuja? | `/blog/labubu-pop-mart-moda-o-burbuja/` |
 
 ---
 

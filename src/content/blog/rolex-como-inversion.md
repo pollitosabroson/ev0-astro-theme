@@ -90,7 +90,7 @@ No, en sentido estricto un Rolex casi nunca es una buena inversión. Puede ser u
 1. **No puedes comprar "el bueno".** Los modelos que de verdad se revalorizan tienen listas de años. Para que te los ofrezcan, sueles tener que gastar antes mucho en otros modelos. Te lo ganas, no lo compras.
 2. **La reventa se come la ganancia.** Vender en el secundario tiene comisiones de entre el 10 y el 20 %. Buena parte de esa revalorización se evapora al vender.
 3. **No hay liquidez.** No vendes un reloj con un clic, como una acción. Tardas semanas, y siempre te ofrecen menos de lo que crees.
-4. **El mercado sube y baja.** Entre 2020 y 2022 los precios de reventa se dispararon. Entre 2022 y 2024 se desplomaron un 30-40 %. Mucha gente compró arriba y vendió abajo.
+4. **El mercado sube y baja.** Entre 2020 y 2022 los precios de reventa se dispararon. Entre 2022 y 2024 se desplomaron un 30-40 %. Mucha gente compró arriba y vendió abajo, lo mismo que ha pasado con la [reventa de Labubu](/blog/labubu-pop-mart-moda-o-burbuja/).
 5. **El coste de oportunidad.** Esos 35.000 dólares de un Daytona, en un fondo del S&P 500 durante diez años, hoy serían más de 80.000. El reloj, con suerte, te habría empatado.
 
 Aquí lo ves más claro frente a una inversión líquida:
