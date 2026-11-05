@@ -90,7 +90,7 @@ Primer dato, demoledor: el lujo de toda la vida **está perdiendo clientes**. Se
 
 Segundo dato, la otra cara: **desde 2023, el crecimiento del lujo viene de las experiencias, no de los productos.** Viajes, buenos restaurantes, bienestar, deporte. Ahí es donde se va el dinero.
 
-¿Por qué? Porque **ha cambiado lo que da estatus**. Antes demostrabas que habías triunfado con un bolso caro; hoy, cada vez más, con **lo que eres capaz de hacer con tu cuerpo**: terminar un maratón, acabar un Hyrox, pertenecer a un club de running exclusivo. Y fíjate en la vuelta de tuerca: un bolso lo compra cualquiera con dinero, pero **terminar un Hyrox no se puede comprar**, se suda, hay que entrenar meses. Por eso, como señal de estatus, es **aún más exclusivo que el bolso**: el dinero no basta, hace falta esfuerzo.
+¿Por qué? Porque **ha cambiado lo que da estatus**. Antes demostrabas que habías triunfado con un bolso caro; hoy, cada vez más, con **lo que eres capaz de hacer con tu cuerpo**: terminar un maratón, acabar un Hyrox, pertenecer a un club de running exclusivo. Y fíjate en la vuelta de tuerca: un bolso lo compra cualquiera con dinero, pero **terminar un Hyrox no se puede comprar**, se suda, hay que entrenar meses. Por eso, como señal de estatus, es **aún más exclusivo que el bolso**: el dinero no basta, hace falta esfuerzo. Justo lo contrario de [Labubu](/blog/labubu-pop-mart-moda-o-burbuja/), un estatus que se compra por 20 dólares y por eso caduca.
 
 Es la misma lógica del estatus y la escasez que vimos en [Rolex como inversión](/blog/rolex-como-inversion/), pero llevada del escaparate a la línea de meta. El capital siempre sigue a la gente. Y la gente ha dejado de presumir en la tienda para presumir en la pista.
 

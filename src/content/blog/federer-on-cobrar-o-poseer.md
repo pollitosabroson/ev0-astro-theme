@@ -96,7 +96,7 @@ Con todo esto esperarías la acción disparada. Pues **ha caído en torno a un 3
 
 Y hay riesgos reales, con rigor: parte de su éxito es **moda**, y las modas pasan; sigue siendo **pequeña** (en torno a un 2 % del mercado mundial, estimado); y el fútbol, donde quiere entrar con Mbappé, es justo **el territorio fuerte de Nike y Adidas**. Los analistas están divididos, que es lo normal en estos casos.
 
-La idea que te llevas: una empresa puede ir de maravilla y su acción ir mal **a la vez**. No es contradicción: es que el precio **ya daba por hecho un futuro aún mejor**. Una gran empresa no siempre es una buena compra en cualquier momento; es la misma lección que dejó [la historia de Tesla](/blog/quien-fundo-tesla/).
+La idea que te llevas: una empresa puede ir de maravilla y su acción ir mal **a la vez**. No es contradicción: es que el precio **ya daba por hecho un futuro aún mejor**. Una gran empresa no siempre es una buena compra en cualquier momento; es la misma lección que dejó [la historia de Tesla](/blog/quien-fundo-tesla/) y que hoy repite [Pop Mart con Labubu](/blog/labubu-pop-mart-moda-o-burbuja/).
 
 ## ¿Cobras o posees?
 

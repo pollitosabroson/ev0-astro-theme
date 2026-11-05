@@ -1,5 +1,40 @@
 [
   {
+    "title": "Labubu: ¿moda pasajera o la mayor burbuja de juguetes?",
+    "description": "Una foto de Lisa, de Blackpink, con un Labubu colgado del bolso convirtió un muñeco de 20 dólares en una locura mundial: ...",
+    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
+    "channelTitle": "Alejandro Rosales",
+    "videoId": "aRLVQBaS0OY",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/aRLVQBaS0OY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/aRLVQBaS0OY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/aRLVQBaS0OY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/aRLVQBaS0OY/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/aRLVQBaS0OY/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "publishedAt": "2026-11-05T14:30:07Z"
+  },
+  {
     "title": "Salida a bolsa de Anthropic: números y riesgos reales",
     "description": "Anthropic, la empresa detrás de Claude (una de las IA más conocidas), se prepara para lo que puede ser la mayor salida a bolsa ...",
     "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
@@ -32,7 +67,7 @@
         "height": 720
       }
     },
-    "publishedAt": "2026-10-29T12:18:16Z"
+    "publishedAt": "2026-10-29T17:00:07Z"
   },
   {
     "title": "Federer: 130M en premios y milmillonario por otra cosa",
@@ -138,41 +173,6 @@
       }
     },
     "publishedAt": "2026-10-08T16:00:10Z"
-  },
-  {
-    "title": "Sube tu hipoteca, baja tu ahorro. ¿En qué lado estás?",
-    "description": "Estos días has oído mil veces que \"el dinero se ha vuelto más caro\". Y si lo piensas, no tiene sentido. Un dólar vale un dólar.",
-    "channelId": "UCOZEidmkLaOgz-_ANuvrGbw",
-    "channelTitle": "Alejandro Rosales",
-    "videoId": "978nix47DKo",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/978nix47DKo/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/978nix47DKo/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/978nix47DKo/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/978nix47DKo/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/978nix47DKo/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "publishedAt": "2026-10-01T16:00:11Z"
   },
   {
     "title": "La verdad sobre el IPO de SpaceX en 2026 #spacex",
