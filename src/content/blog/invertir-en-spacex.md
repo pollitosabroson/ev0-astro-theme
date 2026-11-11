@@ -116,7 +116,7 @@ Ambos bandos pueden tener razón. Pero solo si SpaceX ejecuta de forma perfecta 
 
 Los riesgos de invertir en SpaceX están en la letra pequeña del folleto, no en los titulares. Son cinco, y conviene conocerlos antes de pulsar comprar:
 
-1. **No decides nada.** Las acciones que compras valen un voto; las de Musk, diez. Aunque venda casi la mitad de su parte, conserva alrededor del 85 % del poder de voto. Compras acciones de un reino, no de una democracia.
+1. **No decides nada.** Las acciones que compras valen un voto; las de Musk, diez. Aunque venda casi la mitad de su parte, conserva alrededor del 85 % del poder de voto (justo la asimetría que explica [la posible fusión de Tesla y SpaceX](/blog/fusion-tesla-spacex/)). Compras acciones de un reino, no de una democracia.
 2. **No hay suelo bajo el precio.** SpaceX no entrará en el [S&P 500](/blog/que-es-el-sp500-y-como-funciona/) durante al menos un año, así que no hay fondos pasivos comprando por debajo. Cuando se acabe la euforia, la acción puede caer un 30-40 % sin que pase nada raro.
 3. **Mucha volatilidad.** Solo cerca del 5 % de las acciones estará disponible; el 95 % está bloqueado. Con tan poca oferta, cualquier compra o venta grande mueve el precio con fuerza.
 4. **El futuro depende de un cohete que aún no funciona.** Buena parte de la tesis alcista descansa en Starship, que todavía no ha entregado carga comercial. El propio folleto lo llama el riesgo más importante de la empresa.

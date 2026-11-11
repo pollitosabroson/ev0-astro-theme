@@ -108,7 +108,7 @@ Lista completa ordenada alfabéticamente. Usa exactamente estos valores.
 `Finanzas Conscientes` · `Finanzas Familiares` · `Finanzas para Principiantes` · `Finanzas Personales` · `Finiquito` · `Fondo de Emergencia` · `Fondos de Inversión` · `Fondos de Pensiones` · `Fondos Indexados` · `Fondos Monetarios` · `Foso Económico` · `Frugalidad` · `Fuck You Money` · `Futuro Financiero`
 
 ### G – H
-`Ganar la Lotería` · `Gastos Hormiga` · `Gestión de Gastos` · `Gestión del Dinero` · `Gestión del Riesgo` · `GPU` · `Hábitos Diarios` · `Hábitos de Consumo` · `Hábitos Financieros` · `Herencia` · `Hipoteca` · `Hipoteca Fija` · `Hipoteca Mixta` · `Hipoteca Variable` · `Historial Crediticio` · `Hyrox`
+`Ganar la Lotería` · `Gastos Hormiga` · `Gestión de Gastos` · `Gestión del Dinero` · `Gestión del Riesgo` · `Gobierno Corporativo` · `GPU` · `Hábitos Diarios` · `Hábitos de Consumo` · `Hábitos Financieros` · `Herencia` · `Hipoteca` · `Hipoteca Fija` · `Hipoteca Mixta` · `Hipoteca Variable` · `Historial Crediticio` · `Hyrox`
 
 ### I
 `Impacto Económico` · `Impuestos en España` · `Independencia Financiera` · `Indemnización` · `Influencers` · `Inflación` · `Ingresos Pasivos` · `Ingresos Recurrentes` · `Inteligencia Artificial` · `Interés Compuesto` · `Intereses Bancarios` · `Inversión` · `Inversión a Largo Plazo` · `Inversión Inmobiliaria` · `Inversión Inteligente` · `Inversión Pasiva` · `Inversión para Hijos` · `Inversiones` · `Inversiones Familiares` · `IPC` · `IPO` · `IRPF` · `IVA Alimentos`

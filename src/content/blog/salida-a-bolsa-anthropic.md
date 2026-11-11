@@ -85,7 +85,7 @@ Normalmente, al comprar una acción compras un trocito de empresa **y un trocito
 - Un **fideicomiso independiente**, creado para velar por la misión, elige a **cuatro de los siete** consejeros. La mayoría del consejo.
 - Y, al ser sociedad de beneficio público, el consejo puede legalmente **anteponer su propósito al beneficio** del accionista.
 
-No es único, ojo: Zuckerberg controla Meta con una estructura parecida, y en Palantir los fundadores también se reservaron buena parte del voto. Los inversores lo aceptan… mientras la empresa va bien.
+No es único, ojo: Zuckerberg controla Meta con una estructura parecida, Musk busca algo similar con [la posible fusión de Tesla y SpaceX](/blog/fusion-tesla-spacex/), y en Palantir los fundadores también se reservaron buena parte del voto. Los inversores lo aceptan… mientras la empresa va bien.
 
 Y hay **dos lecturas, las dos con sentido**. Quien lo defiende dice que esta estructura protege a la empresa de las prisas del mercado: nadie puede obligarla a recortar en seguridad para cuadrar un trimestre. Quien lo critica dice que, si los fundadores se equivocan, el accionista **no tiene forma de corregir el rumbo**: pone el dinero y asume el riesgo, pero no lleva el volante.
 

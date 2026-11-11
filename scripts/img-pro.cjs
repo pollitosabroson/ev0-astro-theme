@@ -18,7 +18,6 @@ if (!process.env.IMG_PRO_KEY) {
 (async () => {
   const body = new FormData();
   body.append('file', new Blob([fs.readFileSync(file)]), path.basename(file));
-  body.append('public', 'true');
 
   const res = await fetch('https://api.img.pro/v1/images', {
     method: 'POST',
