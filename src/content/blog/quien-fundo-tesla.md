@@ -109,7 +109,7 @@ Así que la bolsa se parte en dos bandos:
 
 ¿Mi opinión honesta? No te voy a decir si comprar o no; sería un irresponsable. Pero sí una idea que lo ordena todo: **Tesla siempre ha sido una apuesta a una promesa futura, nunca a los números de hoy.** Lo fue con el primer deportivo, con el Model 3 y lo es ahora con los robots. A veces esa promesa se cumplió y quien confió se hizo rico; a veces casi la lleva a la quiebra.
 
-Quien invierte en Tesla hoy que lo tenga claro: **no compra un fabricante de coches. Compra la fe en que Musk cumpla lo próximo que ha prometido.** Nada más, y nada menos.
+Quien invierte en Tesla hoy que lo tenga claro: **no compra un fabricante de coches. Compra la fe en que Musk cumpla lo próximo que ha prometido.** Nada más, y nada menos. Y con [la posible fusión con SpaceX](/blog/fusion-tesla-spacex/) sobre la mesa, quizá ni siquiera siga siendo la misma empresa.
 
 ## Preguntas frecuentes
 
